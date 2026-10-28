@@ -29,16 +29,20 @@ COUNTRIES = {
                "north_macedonia", "norway", "poland", "romania", "serbia", "slovakia", "slovenia",
                "spain_balearic_is_canary_is", "united_kingdom", "uzbekistan", "sweden"],
     "middle_east": ["afghanistan", "bahrain", "iran", "israel", "oman", "qatar", "syria"],
-    "africa": ["algeria", "cape_verde", "comoros", "congo", "equatorial_guinea", "gabon",
-               "guinea_bissau", "ivory_coast", "libya", "madagascar",
-               "mali", "mauritania", "mauritius", "namibia", "niger", "reunion_france",
-               "rwanda", "senegal", "south_africa", "south_sudan", "st_helena_united_kingdom",
-               "togo"],
+    "africa": ["algeria", "benin", "burkina_faso", "cameroon", "cape_verde", "central_african_republic", "chad",
+               "comoros", "congo", "equatorial_guinea", "gabon", "guinea_bissau", "ivory_coast", "libya",
+               "madagascar", "mali", "mauritania", "mauritius", "namibia", "niger", "reunion_france", "rwanda",
+               "senegal", "south_africa", "south_sudan", "st_helena_united_kingdom", "togo"],
 }
 # Countries served by a shared scraper need no module of their own: slug -> (shared module, function, args).
 # Every other slug has aip_scraper/countries/<slug>.py with scrape(log).
 SHARED = {
     # ASECNA eAIP: state number in its menu, ISO alpha-3 code for the border split (see _asecna.py)
+    "benin": ("_asecna", "scrape_state", ("01", "BEN")),
+    "burkina_faso": ("_asecna", "scrape_state", ("02", "BFA")),
+    "cameroon": ("_asecna", "scrape_state", ("03", "CMR")),
+    "central_african_republic": ("_asecna", "scrape_state", ("04", "CAF")),
+    "chad": ("_asecna", "scrape_state", ("14", "TCD")),
     "comoros": ("_asecna", "scrape_state", ("16", "COM")),
     "congo": ("_asecna", "scrape_state", ("05", "COG")),
     "equatorial_guinea": ("_asecna", "scrape_state", ("08", "GNQ")),
@@ -56,13 +60,8 @@ CONTINENT_OF = {slug: cont for cont, slugs in COUNTRIES.items() for slug in slug
 UNAVAILABLE = {
     # Africa
     "angola": "AIP not published online; anac.ao does not host or link to an AIP/eAIP",
-    "benin": "AIP ASECNA at aim.asecna.aero requires registration (SharePoint subscription); section pages return 404",
     "botswana": "Botswana AIP at caab.co.bw requires a registered user account (aip-login / aip-register)",
-    "burkina_faso": "AIP ASECNA at aim.asecna.aero requires registration (SharePoint subscription); section pages return 404",
     "burundi": "AIP not published online; AACB distributes printed amendments by postal subscription",
-    "cameroon": "AIP ASECNA at aim.asecna.aero requires registration (SharePoint subscription); section pages return 404",
-    "central_african_republic": "AIP ASECNA at aim.asecna.aero requires registration (SharePoint subscription); section pages return 404",
-    "chad": "AIP ASECNA at aim.asecna.aero requires registration (SharePoint subscription); section pages return 404",
     "gambia": "eaip.gcaa.aero returns 401 Unauthorized; gcaa.aero TLS certificate is expired",
     "ghana": "Eurocontrol links return 404; GCAA distributes AIP products only via subscription order form",
     "guinea": "Eurocontrol links to Roberts FIR (robertsfir.org); its AIP pages are empty website template shells without AIP text or PDFs",
