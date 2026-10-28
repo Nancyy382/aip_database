@@ -115,8 +115,8 @@ def parse_ad2(page, icao):
                         "sfc": find(r"SFC|surface|superficie|Strength"), "thr": find(r"COORD|Position GEO|THR")}
             continue
         # one row per end ("09"), or one row for the whole runway ("11/29", Oman)
-        if not r or not re.fullmatch(r"\d{2}[LRC]?(?:\s*/\s*\d{2}[LRC]?)?", r[0]):
-            if ends:
+        if not r or not re.fullmatch(r"\d{2}[LRC]?(?:\s*/\s*\d{2}[LRC]?)?", r[0].strip()):
+            if ends and (re.search(r"Slope|SWY|OFZ|RESA|Declared|AD\s*2\.\d+", joined, re.I) or (len(r) >= 3 and any(re.search(r"RWY|Designa", c, re.I) for c in r))):
                 break
             continue
         cell = lambda k: r[cols[k]] if cols.get(k) is not None and cols[k] < len(r) else ""

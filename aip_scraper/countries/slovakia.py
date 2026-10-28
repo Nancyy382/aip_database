@@ -53,3 +53,4 @@ def scrape(log):
     scrape_eaip(col, eaip_base, "LZ", "en-SK", log)
     log(f"  Slovakia: {len(col.features)} features ({col.documents} docs)")
     return col
+
