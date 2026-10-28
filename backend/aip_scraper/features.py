@@ -168,6 +168,8 @@ class Collection:
                 "width": S("AD 2.12", rw.get("width"), rw.get("raw_dims"), "M"),
                 "surface": S("AD 2.12", rw.get("surface"), rw.get("surface")),
             }
+            if rw.get("strength"):
+                common["strength"] = S("AD 2.12", rw["strength"], rw["strength"])
             if len(thr) < 2:
                 self.issue("warning", "RULE_RUNWAY_GEOMETRY", rkey, f"{icao} AD 2.12",
                            f"Runway {rw['pair']} at {icao}: threshold coordinates not captured")

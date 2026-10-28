@@ -27,7 +27,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LWOH AD 2.1",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.375450+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.141537+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWOH_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LWOH – Ohrid “St. Paul The Apostle” Airport"
@@ -41,7 +41,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LWOH AD 2.2",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.375457+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.141543+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWOH_en.pdf",
       "parser_version": "1.0",
       "raw_text": "41°10’48”N 020°44’32”E"
@@ -75,7 +75,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LWSK AD 2.1",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.326520+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.093012+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWSK_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LWSK - Skopje International Airport"
@@ -89,7 +89,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LWSK AD 2.2",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.326529+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.093019+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWSK_en.pdf",
       "parser_version": "1.0",
       "raw_text": "41°57’42”N 021°37’17”E"
@@ -123,7 +123,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.1",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.400368+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.164153+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_1_en.pdf",
       "parser_version": "1.0",
       "raw_text": "PEP"
@@ -134,7 +134,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.1",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.400376+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.164162+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_1_en.pdf",
       "parser_version": "1.0",
       "raw_text": "NDB"
@@ -148,7 +148,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.1",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.400384+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.164168+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_1_en.pdf",
       "parser_version": "1.0",
       "raw_text": "412016N 0212655E"
@@ -182,7 +182,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.1",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.400447+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.164224+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_1_en.pdf",
       "parser_version": "1.0",
       "raw_text": "SIN"
@@ -193,7 +193,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.1",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.400449+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.164226+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_1_en.pdf",
       "parser_version": "1.0",
       "raw_text": "SINKO"
@@ -204,7 +204,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.1",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.400451+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.164227+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_1_en.pdf",
       "parser_version": "1.0",
       "raw_text": "VOR/DME"
@@ -218,7 +218,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.1",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.400456+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.164232+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_1_en.pdf",
       "parser_version": "1.0",
       "raw_text": "415851N 0222156E"
@@ -252,7 +252,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.1",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.400494+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.164270+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_1_en.pdf",
       "parser_version": "1.0",
       "raw_text": "SKJ"
@@ -263,7 +263,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.1",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.400495+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.164272+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_1_en.pdf",
       "parser_version": "1.0",
       "raw_text": "SKOPJE"
@@ -274,7 +274,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.1",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.400496+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.164273+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_1_en.pdf",
       "parser_version": "1.0",
       "raw_text": "VOR/DME"
@@ -288,7 +288,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.1",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.400502+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.164279+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_1_en.pdf",
       "parser_version": "1.0",
       "raw_text": "415606N 0213750E"
@@ -328,7 +328,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447482+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208315+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "L603"
@@ -339,7 +339,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447490+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208320+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -353,7 +353,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447493+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208323+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/OLOTA -> WPT/RUGAS"
@@ -393,7 +393,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447535+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208354+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "L608"
@@ -404,7 +404,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447537+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208356+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -418,7 +418,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447541+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208358+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/DISOR -> WPT/LONTA"
@@ -458,7 +458,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447562+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208378+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "L616"
@@ -469,7 +469,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447563+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208379+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -483,7 +483,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447565+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208380+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/KOGAT -> WPT/BITLA"
@@ -523,7 +523,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447583+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208398+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "L617"
@@ -534,7 +534,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447584+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208399+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -548,7 +548,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447586+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208400+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/RAXAD -> WPT/MAKED"
@@ -588,7 +588,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447602+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208417+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "L737"
@@ -599,7 +599,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447603+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208418+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -613,7 +613,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447605+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208420+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/KOGAT -> WPT/ERANA"
@@ -653,7 +653,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447620+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208441+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "M22"
@@ -664,7 +664,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447621+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208442+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -678,7 +678,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447623+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208444+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/DOBAR -> WPT/TALAS"
@@ -718,7 +718,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447640+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208460+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "M749"
@@ -729,7 +729,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447641+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208461+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -743,7 +743,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447643+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208463+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/TALAS -> WPT/LONTA"
@@ -783,7 +783,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447660+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208479+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "M867"
@@ -794,7 +794,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447661+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208481+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -808,7 +808,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447662+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208482+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/KOGAT -> WPT/DISOR"
@@ -852,7 +852,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447718+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208500+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "N128"
@@ -863,7 +863,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447719+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208501+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -878,7 +878,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447721+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208503+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/RUGAS -> NAV/SIN -> WPT/RAXAD"
@@ -918,7 +918,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447740+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208519+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "N130"
@@ -929,7 +929,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447741+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208520+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -943,7 +943,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447743+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208521+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/MAVAR -> WPT/TALAS"
@@ -983,7 +983,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447758+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208537+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "N132"
@@ -994,7 +994,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447759+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208538+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -1008,7 +1008,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447761+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208539+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/MAVAR -> WPT/BITLA"
@@ -1056,7 +1056,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447786+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208563+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "N137"
@@ -1067,7 +1067,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447787+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208565+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -1083,7 +1083,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447789+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208566+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/DOBAR -> WPT/BITLA -> WPT/NASKO -> WPT/TALAS"
@@ -1123,7 +1123,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447806+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208584+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "N141"
@@ -1134,7 +1134,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447807+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208585+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -1148,7 +1148,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447808+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208587+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/DOBAR -> WPT/DISOR"
@@ -1188,7 +1188,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447825+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208602+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "N146"
@@ -1199,7 +1199,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447826+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208603+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -1213,7 +1213,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447827+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208605+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/BEKVA -> WPT/MAVAR"
@@ -1253,7 +1253,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447841+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208620+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "N731"
@@ -1264,7 +1264,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447842+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208621+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -1278,7 +1278,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447844+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208623+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/LETNI -> WPT/BITLA"
@@ -1322,7 +1322,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447934+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208725+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "P127"
@@ -1333,7 +1333,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447935+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208726+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -1348,7 +1348,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447936+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208728+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/DOBAR -> WPT/NASKO -> WPT/VELBA"
@@ -1388,7 +1388,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447858+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208646+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "P20"
@@ -1399,7 +1399,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447859+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208648+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -1413,7 +1413,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447860+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208649+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/MAKED -> WPT/LONTA"
@@ -1461,7 +1461,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447883+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208671+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "P36"
@@ -1472,7 +1472,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447884+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208673+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -1488,7 +1488,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447886+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208674+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/MAKED -> WPT/NEGOT -> WPT/NASKO -> WPT/RAXAD"
@@ -1532,7 +1532,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447956+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208747+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "P859"
@@ -1543,7 +1543,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447958+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208748+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -1558,7 +1558,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447960+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208749+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/BITLA -> NAV/PEP -> WPT/LONTA"
@@ -1610,7 +1610,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447912+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208700+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "P92"
@@ -1621,7 +1621,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447913+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208701+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -1638,7 +1638,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447914+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208703+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/MAVAR -> WPT/GOSTI -> WPT/BUREK -> NAV/SKJ -> WPT/LETNI"
@@ -1682,7 +1682,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447979+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208769+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "T197"
@@ -1693,7 +1693,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447980+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208770+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -1708,7 +1708,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447981+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208771+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/DOBAR -> WPT/BUREK -> WPT/XAXAN"
@@ -1748,7 +1748,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447996+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208786+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "T198"
@@ -1759,7 +1759,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447997+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208787+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -1773,7 +1773,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.447998+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208788+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/TETOV -> WPT/MAVAR"
@@ -1817,7 +1817,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448014+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208805+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "T214"
@@ -1828,7 +1828,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448015+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208806+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -1843,7 +1843,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448016+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208807+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/DOBAR -> NAV/SIN -> WPT/LETNI"
@@ -1891,7 +1891,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448035+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208825+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "T215"
@@ -1902,7 +1902,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448036+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208826+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -1918,7 +1918,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448038+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208828+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/SARAX -> NAV/SKJ -> NAV/SIN -> WPT/VELBA"
@@ -1962,7 +1962,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448055+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208845+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "T216"
@@ -1973,7 +1973,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448056+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208846+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -1988,7 +1988,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448057+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208847+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/DOBAR -> NAV/PEP -> WPT/RAXAD"
@@ -2040,7 +2040,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448082+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208870+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "T217"
@@ -2051,7 +2051,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448083+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208871+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -2068,7 +2068,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448084+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208873+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/SARAX -> WPT/TETOV -> WPT/GOSTI -> NAV/PEP -> WPT/TALAS"
@@ -2112,7 +2112,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448103+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208890+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "T218"
@@ -2123,7 +2123,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448104+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208891+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -2138,7 +2138,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448105+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208893+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/DISOR -> NAV/SKJ -> WPT/XAXAN"
@@ -2178,7 +2178,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448120+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208908+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "T261"
@@ -2189,7 +2189,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448121+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208909+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -2203,7 +2203,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448122+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208910+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/BITLA -> WPT/RAXAD"
@@ -2243,7 +2243,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448137+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208925+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "T262"
@@ -2254,7 +2254,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448138+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208926+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -2268,7 +2268,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448139+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208928+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/LETNI -> WPT/ERANA"
@@ -2308,7 +2308,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448155+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208943+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "T263"
@@ -2319,7 +2319,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448156+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208944+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -2333,7 +2333,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448163+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208945+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/LETNI -> WPT/XAXAN"
@@ -2373,7 +2373,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448178+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208961+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "T343"
@@ -2384,7 +2384,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448179+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208962+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -2398,7 +2398,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448180+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208963+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/BITLA -> WPT/VELBA"
@@ -2438,7 +2438,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448194+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208978+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "T389"
@@ -2449,7 +2449,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448195+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208979+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -2463,7 +2463,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448196+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208980+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/NASKO -> WPT/ERANA"
@@ -2507,7 +2507,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448214+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.208999+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "Y400"
@@ -2518,7 +2518,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448215+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.209000+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -2533,7 +2533,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448216+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.209002+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/MAVAR -> WPT/NEGOT -> WPT/DISOR"
@@ -2573,7 +2573,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448231+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.209017+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "Y500"
@@ -2584,7 +2584,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448233+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.209018+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -2598,7 +2598,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448234+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.209019+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/SARAX -> WPT/DISOR"
@@ -2642,7 +2642,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448249+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.209036+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "Y550"
@@ -2653,7 +2653,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448250+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.209037+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LW_ENR_3"
@@ -2668,7 +2668,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW_ENR_3",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.448251+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.209038+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
       "parser_version": "1.0",
       "raw_text": "WPT/KOGAT -> WPT/BUREK -> NAV/PEP"
@@ -2708,7 +2708,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LWOH AD 2.12",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.375561+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.141588+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWOH_en.pdf",
       "parser_version": "1.0",
       "raw_text": "01-19"
@@ -2719,7 +2719,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LWOH AD 2.12",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.375555+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.141582+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWOH_en.pdf",
       "parser_version": "1.0",
       "raw_text": "2548 x 45"
@@ -2730,7 +2730,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LWOH AD 2.12",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.375557+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.141584+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWOH_en.pdf",
       "parser_version": "1.0",
       "raw_text": "2548 x 45"
@@ -2741,7 +2741,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LWOH AD 2.12",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.375558+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.141585+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWOH_en.pdf",
       "parser_version": "1.0",
       "raw_text": "ASPH"
@@ -2769,7 +2769,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LWSK AD 2.12",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.326596+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.093072+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWSK_en.pdf",
       "parser_version": "1.0",
       "raw_text": "16-34"
@@ -2780,7 +2780,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LWSK AD 2.12",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.326591+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.093066+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWSK_en.pdf",
       "parser_version": "1.0",
       "raw_text": "2450 x 45"
@@ -2791,7 +2791,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LWSK AD 2.12",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.326593+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.093068+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWSK_en.pdf",
       "parser_version": "1.0",
       "raw_text": "2450 x 45"
@@ -2802,7 +2802,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LWSK AD 2.12",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.326594+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.093069+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWSK_en.pdf",
       "parser_version": "1.0",
       "raw_text": "ASPH"
@@ -2836,7 +2836,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LWOH AD 2.12",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.375574+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.141600+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWOH_en.pdf",
       "parser_version": "1.0",
       "raw_text": "01"
@@ -2847,7 +2847,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LWOH AD 2.12",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.375555+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.141582+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWOH_en.pdf",
       "parser_version": "1.0",
       "raw_text": "2548 x 45"
@@ -2858,7 +2858,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LWOH AD 2.12",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.375557+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.141584+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWOH_en.pdf",
       "parser_version": "1.0",
       "raw_text": "2548 x 45"
@@ -2869,7 +2869,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LWOH AD 2.12",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.375558+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.141585+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWOH_en.pdf",
       "parser_version": "1.0",
       "raw_text": "ASPH"
@@ -2883,7 +2883,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LWOH AD 2.12",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.375579+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.141605+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWOH_en.pdf",
       "parser_version": "1.0",
       "raw_text": "41 10 08.37009 N 020 44 15.78846E"
@@ -2917,7 +2917,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LWOH AD 2.12",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.375588+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.141614+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWOH_en.pdf",
       "parser_version": "1.0",
       "raw_text": "19"
@@ -2928,7 +2928,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LWOH AD 2.12",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.375555+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.141582+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWOH_en.pdf",
       "parser_version": "1.0",
       "raw_text": "2548 x 45"
@@ -2939,7 +2939,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LWOH AD 2.12",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.375557+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.141584+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWOH_en.pdf",
       "parser_version": "1.0",
       "raw_text": "2548 x 45"
@@ -2950,7 +2950,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LWOH AD 2.12",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.375558+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.141585+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWOH_en.pdf",
       "parser_version": "1.0",
       "raw_text": "ASPH"
@@ -2964,7 +2964,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LWOH AD 2.12",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.375592+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.141619+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWOH_en.pdf",
       "parser_version": "1.0",
       "raw_text": "41 11 27.06173N 020 44 48.97215E"
@@ -2998,7 +2998,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LWSK AD 2.12",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.326607+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.093081+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWSK_en.pdf",
       "parser_version": "1.0",
       "raw_text": "16"
@@ -3009,7 +3009,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LWSK AD 2.12",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.326591+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.093066+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWSK_en.pdf",
       "parser_version": "1.0",
       "raw_text": "2450 x 45"
@@ -3020,7 +3020,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LWSK AD 2.12",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.326593+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.093068+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWSK_en.pdf",
       "parser_version": "1.0",
       "raw_text": "2450 x 45"
@@ -3031,7 +3031,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LWSK AD 2.12",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.326594+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.093069+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWSK_en.pdf",
       "parser_version": "1.0",
       "raw_text": "ASPH"
@@ -3045,7 +3045,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LWSK AD 2.12",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.326611+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.093086+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWSK_en.pdf",
       "parser_version": "1.0",
       "raw_text": "41 58 20.29N 021 37 03.75E"
@@ -3073,7 +3073,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LWSK AD 2.12",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.326621+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.093095+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWSK_en.pdf",
       "parser_version": "1.0",
       "raw_text": "34"
@@ -3084,7 +3084,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LWSK AD 2.12",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.326591+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.093066+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWSK_en.pdf",
       "parser_version": "1.0",
       "raw_text": "2450 x 45"
@@ -3095,7 +3095,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LWSK AD 2.12",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.326593+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.093068+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWSK_en.pdf",
       "parser_version": "1.0",
       "raw_text": "2450 x 45"
@@ -3106,7 +3106,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LWSK AD 2.12",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.326594+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.093069+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWSK_en.pdf",
       "parser_version": "1.0",
       "raw_text": "ASPH"
@@ -3140,7 +3140,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.388783+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.153615+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "BEKVA"
@@ -3154,7 +3154,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.388789+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.153620+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "405604N 0214142E"
@@ -3188,7 +3188,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.388941+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.153776+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "BONZI"
@@ -3202,7 +3202,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.388943+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.153778+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "413124N 0202726E"
@@ -3236,7 +3236,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.388978+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.153815+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "BUREK"
@@ -3250,7 +3250,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.388979+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.153817+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "414956N 0211149E"
@@ -3284,7 +3284,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389029+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.153869+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "DISOR"
@@ -3298,7 +3298,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389031+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.153870+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "411450N 0224530E"
@@ -3332,7 +3332,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389078+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.153919+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "DOBAR"
@@ -3346,7 +3346,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389080+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.153921+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "411958N 0202941E"
@@ -3380,7 +3380,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389111+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.153955+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "ENFAR"
@@ -3394,7 +3394,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389112+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.153957+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "414607N 0203204E"
@@ -3428,7 +3428,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389170+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154011+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "ERANA"
@@ -3442,7 +3442,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389171+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154012+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "410948N 0221422E"
@@ -3476,7 +3476,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389214+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154058+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "GOSTI"
@@ -3490,7 +3490,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389215+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154059+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "414842N 0210630E"
@@ -3524,7 +3524,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389261+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154108+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "KOGAT"
@@ -3538,7 +3538,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389262+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154109+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "420645N 0210320E"
@@ -3572,7 +3572,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389304+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154153+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "KRATO"
@@ -3586,7 +3586,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389305+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154154+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "420252N 0220455E"
@@ -3620,7 +3620,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389338+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154190+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LETNI"
@@ -3634,7 +3634,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389339+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154192+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "420549N 0223621E"
@@ -3668,7 +3668,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389373+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154228+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "LONTA"
@@ -3682,7 +3682,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389374+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154229+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "420934N 0212350E"
@@ -3716,7 +3716,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389422+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154280+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "MAKED"
@@ -3730,7 +3730,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389424+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154281+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "410745N 0223100E"
@@ -3764,7 +3764,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389468+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154331+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "MAVAR"
@@ -3778,7 +3778,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389469+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154332+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "414012N 0203148E"
@@ -3812,7 +3812,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389499+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154364+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "NASKO"
@@ -3826,7 +3826,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389500+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154365+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "414601N 0220552E"
@@ -3860,7 +3860,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389526+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154393+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "NEGOT"
@@ -3874,7 +3874,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389527+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154394+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "411912N 0222332E"
@@ -3908,7 +3908,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389666+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154534+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "OLOTA"
@@ -3922,7 +3922,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389667+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154535+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "421348N 0213700E"
@@ -3956,7 +3956,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389695+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154565+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "ORRIH"
@@ -3970,7 +3970,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389696+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154566+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "410836N 0203519E"
@@ -4004,7 +4004,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389726+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154598+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "RAXAD"
@@ -4018,7 +4018,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389727+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154599+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "421830N 0221434E"
@@ -4052,7 +4052,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389772+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154657+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "RUGAS"
@@ -4066,7 +4066,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389773+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154658+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "411946N 0224729E"
@@ -4100,7 +4100,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389831+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154722+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "SARAX"
@@ -4114,7 +4114,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389835+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154723+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "420549N 0205344E"
@@ -4148,7 +4148,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389891+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154780+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "TALAS"
@@ -4162,7 +4162,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389892+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154782+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "410436N 0215500E"
@@ -4196,7 +4196,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389932+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154823+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "TETOV"
@@ -4210,7 +4210,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389933+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154824+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "415836N 0205924E"
@@ -4244,7 +4244,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389975+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154868+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "VELBA"
@@ -4258,7 +4258,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.389976+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154869+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "415800N 0225300E"
@@ -4292,7 +4292,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.390018+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154913+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "XAXAN"
@@ -4306,7 +4306,7 @@
       "source": "eAIP North Macedonia (M-NAV)",
       "section": "LW ENR 4.4",
       "effective_date": "2026-10-15",
-      "retrieved_at": "2026-10-27T13:27:36.390019+00:00",
+      "retrieved_at": "2026-10-28T07:31:37.154914+00:00",
       "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
       "parser_version": "1.0",
       "raw_text": "420812N 0211937E"
@@ -4347,7 +4347,7 @@
    "effectiveDate": "2026-10-15",
    "amendmentId": "AIP (15-OCT-2026)",
    "sourceKind": "LIVE",
-   "ingestedAt": "2026-10-27T13:27:36.455969+00:00",
+   "ingestedAt": "2026-10-28T07:31:37.217099+00:00",
    "status": "promoted",
    "stats": {
     "total_documents": 7,

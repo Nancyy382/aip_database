@@ -27,7 +27,7 @@
       "source": "eAIP ASECNA",
       "section": "DXNG AD 2.1",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.578475+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.818281+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "AEROPORT DE NIAMTOUGOU (AN)"
@@ -41,7 +41,7 @@
       "source": "eAIP ASECNA",
       "section": "DXNG AD 2.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.578481+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.818287+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "09°46'39\"N 001°05'44\"E"
@@ -52,7 +52,7 @@
       "source": "eAIP ASECNA",
       "section": "DXNG AD 2.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.578483+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.818289+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "3 Altitude / température de référence Elevation / Reference temperature 462 M ( 1516 FT ) / 37 ° C"
@@ -86,7 +86,7 @@
       "source": "eAIP ASECNA",
       "section": "DXXX AD 2.1",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.566356+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.806152+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "AEROPORT INTERNATIONAL GNASSINGBE EYADEMA (AIGE)"
@@ -100,7 +100,7 @@
       "source": "eAIP ASECNA",
       "section": "DXXX AD 2.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.566364+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.806162+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "06°09'57\"N 001°15'15\"E"
@@ -111,7 +111,7 @@
       "source": "eAIP ASECNA",
       "section": "DXXX AD 2.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.566366+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.806164+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "3 Altitude / température de référence Elevation / Reference temperature 22 M ( 72 FT ) / 34 ° C"
@@ -145,7 +145,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.1",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.214719+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.455604+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15ENR-4.1-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "LM"
@@ -156,7 +156,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.1",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.214730+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.455615+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15ENR-4.1-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "LOME/GNASSINGBE EYADEMA"
@@ -167,7 +167,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.1",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.214732+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.455616+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15ENR-4.1-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "VOR/DME"
@@ -178,7 +178,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.1",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.214734+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.455618+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15ENR-4.1-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "115.3 MHz Ch 100X"
@@ -189,7 +189,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.1",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.214735+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.455619+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15ENR-4.1-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "MHZ"
@@ -200,7 +200,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.1",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.214737+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.455620+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15ENR-4.1-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "115.3 MHz Ch 100X"
@@ -214,7 +214,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.1",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.214739+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.455623+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15ENR-4.1-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "06°11'02.70\"N 001°16'07.60\"E"
@@ -282,7 +282,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.1",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528378+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.760933+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.1-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "B726"
@@ -293,7 +293,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.1",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528380+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.760935+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.1-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "ENR 3.1"
@@ -314,7 +314,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.1",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528383+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.760938+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.1-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "WPT/AMTES -> WPT/ERDIT -> WPT/APERO -> WPT/EPELA -> NAV/NY -> WPT/IRTOD -> WPT/BATIA -> WPT/KILMO -> WPT/PAMPA"
@@ -402,7 +402,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.1",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528481+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.761033+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.1-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "L433"
@@ -413,7 +413,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.1",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528482+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.761034+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.1-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "ENR 3.1"
@@ -439,7 +439,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.1",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528485+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.761037+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.1-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "WPT/EREKA -> NAV/LM -> WPT/MONOS -> NAV/TYE -> WPT/POLTO -> WPT/IKROP -> NAV/MF -> WPT/SEXAT -> WPT/KEMOX -> WPT/MOTET -> WPT/LURTI -> WPT/KORIL -> NAV/MPK -> WPT/RUVNI"
@@ -487,7 +487,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.1",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528523+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.761075+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.1-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "R983"
@@ -498,7 +498,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.1",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528524+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.761076+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.1-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "ENR 3.1"
@@ -514,7 +514,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.1",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528526+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.761078+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.1-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "NAV/OG -> WPT/UMOVO -> WPT/PAMPA -> NAV/LM"
@@ -570,7 +570,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.1",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528570+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.761124+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.1-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "R984"
@@ -581,7 +581,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.1",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528571+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.761125+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.1-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "ENR 3.1"
@@ -599,7 +599,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.1",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528573+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.761126+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.1-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "NAV/OG -> WPT/OXIDU -> WPT/TAMIL -> WPT/KILMO -> WPT/KELEX -> WPT/OPALA"
@@ -651,7 +651,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528611+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.761165+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UB726"
@@ -662,7 +662,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528613+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.761167+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "ENR 3.2"
@@ -679,7 +679,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528614+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.761168+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "NAV/NY -> WPT/BATIA -> WPT/KILMO -> WPT/AMSIL -> WPT/PAMPA"
@@ -747,7 +747,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528673+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.761229+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UG855"
@@ -758,7 +758,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528674+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.761230+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "ENR 3.2"
@@ -779,7 +779,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528676+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.761231+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "WPT/INAMA -> WPT/BIDOM -> WPT/GASON -> NAV/NY -> WPT/NEMLO -> WPT/GAPAG -> WPT/TAMIL -> WPT/TUSEK -> NAV/AD"
@@ -895,7 +895,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.3",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.529030+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.761591+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.3-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UL433"
@@ -906,7 +906,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.3",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.529031+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.761592+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.3-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "ENR 3.3"
@@ -939,7 +939,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.3",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.529033+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.761594+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.3-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "WPT/EREKA -> NAV/LM -> WPT/MONOS -> NAV/TYE -> WPT/POLTO -> WPT/IKROP -> NAV/MF -> WPT/SEXAT -> WPT/KEMOX -> WPT/MOTET -> WPT/OXIMU -> WPT/LURTI -> WPT/USLOK -> NAV/MPK -> WPT/ATOLA -> WPT/BIRAL -> NAV/DO -> WPT/TIKEL -> WPT/VEMAR -> WPT/MAEVA -> WPT/APKOT"
@@ -950,7 +950,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.3",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.529034+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.761595+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.3-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "RNAV"
@@ -1002,7 +1002,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528724+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.761280+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UL683"
@@ -1013,7 +1013,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528725+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.761281+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "ENR 3.2"
@@ -1030,7 +1030,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528727+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.761283+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "WPT/IPORI -> WPT/KILMO -> WPT/DEPUB -> WPT/BORNI -> WPT/GANDA"
@@ -1074,7 +1074,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528756+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.761311+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UM566"
@@ -1085,7 +1085,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528757+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.761312+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "ENR 3.2"
@@ -1100,7 +1100,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528758+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.761314+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "WPT/BUDNO -> WPT/AMSIL -> WPT/KELEX"
@@ -1148,7 +1148,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528787+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.761343+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UR983"
@@ -1159,7 +1159,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528788+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.761344+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "ENR 3.2"
@@ -1175,7 +1175,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528789+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.761346+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "NAV/OG -> WPT/UMOVO -> WPT/PAMPA -> NAV/LM"
@@ -1279,7 +1279,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528895+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.761454+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UR984"
@@ -1290,7 +1290,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528896+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.761455+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "ENR 3.2"
@@ -1320,7 +1320,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528898+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.761457+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "NAV/OG -> WPT/OXIDU -> WPT/TAMIL -> WPT/ARLEX -> WPT/KILMO -> WPT/KELEX -> WPT/OPALA -> WPT/RALIN -> WPT/VITLI -> NAV/DLA -> WPT/EDEBA -> NAV/NLY -> WPT/ARKEV -> WPT/KOGAN -> WPT/TOBAB -> NAV/BT -> WPT/VOTUR -> NAV/MPK"
@@ -1360,7 +1360,7 @@
       "source": "eAIP ASECNA",
       "section": "DXNG AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.578528+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.818332+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "03-21"
@@ -1371,7 +1371,7 @@
       "source": "eAIP ASECNA",
       "section": "DXNG AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.578522+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.818327+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "2500 x 45"
@@ -1382,7 +1382,7 @@
       "source": "eAIP ASECNA",
       "section": "DXNG AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.578524+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.818329+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "2500 x 45"
@@ -1393,7 +1393,7 @@
       "source": "eAIP ASECNA",
       "section": "DXNG AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.578525+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.818330+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "CONC"
@@ -1425,7 +1425,7 @@
     "effectiveTo": null,
     "sourceClass": "AIP",
     "temporality": "permanent",
-    "contentHash": "553a91e1a15e52fb11a6162f729022367f5dd28033014bfe5490c843cfb7056a",
+    "contentHash": "247638a4aa5a23f497a063053891e73664662a52c1bbe58b73dac8e659dc7eb4",
     "fields": {
      "pairDesignator": {
       "value": "04-22",
@@ -1433,7 +1433,7 @@
       "source": "eAIP ASECNA",
       "section": "DXXX AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.566457+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.806222+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "04-22"
@@ -1444,7 +1444,7 @@
       "source": "eAIP ASECNA",
       "section": "DXXX AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.566451+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.806215+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "3000 x 45"
@@ -1455,7 +1455,7 @@
       "source": "eAIP ASECNA",
       "section": "DXXX AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.566453+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.806217+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "3000 x 45"
@@ -1466,10 +1466,21 @@
       "source": "eAIP ASECNA",
       "section": "DXXX AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.566455+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.806218+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "CONC"
+     },
+     "strength": {
+      "value": "PCN 693/F/B/W/U",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "DXXX AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-28T07:33:26.806220+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "PCN 693/F/B/W/U"
      }
     }
    }
@@ -1500,7 +1511,7 @@
       "source": "eAIP ASECNA",
       "section": "DXNG AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.578539+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.818344+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "03"
@@ -1511,7 +1522,7 @@
       "source": "eAIP ASECNA",
       "section": "DXNG AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.578540+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.818345+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "023.10º VRAI 025º MAG"
@@ -1522,7 +1533,7 @@
       "source": "eAIP ASECNA",
       "section": "DXNG AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.578522+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.818327+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "2500 x 45"
@@ -1533,7 +1544,7 @@
       "source": "eAIP ASECNA",
       "section": "DXNG AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.578524+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.818329+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "2500 x 45"
@@ -1544,7 +1555,7 @@
       "source": "eAIP ASECNA",
       "section": "DXNG AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.578525+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.818330+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "CONC"
@@ -1558,7 +1569,7 @@
       "source": "eAIP ASECNA",
       "section": "DXNG AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.578543+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.818348+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "09°45'24.82\"N 001°05'12.43\"E"
@@ -1592,7 +1603,7 @@
       "source": "eAIP ASECNA",
       "section": "DXNG AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.578553+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.818358+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "21"
@@ -1603,7 +1614,7 @@
       "source": "eAIP ASECNA",
       "section": "DXNG AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.578554+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.818359+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "203.10º VRAI 205º MAG"
@@ -1614,7 +1625,7 @@
       "source": "eAIP ASECNA",
       "section": "DXNG AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.578522+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.818327+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "2500 x 45"
@@ -1625,7 +1636,7 @@
       "source": "eAIP ASECNA",
       "section": "DXNG AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.578524+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.818329+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "2500 x 45"
@@ -1636,7 +1647,7 @@
       "source": "eAIP ASECNA",
       "section": "DXNG AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.578525+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.818330+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "CONC"
@@ -1650,7 +1661,7 @@
       "source": "eAIP ASECNA",
       "section": "DXNG AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.578556+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.818362+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "09°46'39.74\"N 001°05'44.52\"E"
@@ -1676,7 +1687,7 @@
     "effectiveTo": null,
     "sourceClass": "AIP",
     "temporality": "permanent",
-    "contentHash": "131cfecd709d545679c2b6d2ee504d8a68085c429e3f4181d419fc202f343ca4",
+    "contentHash": "d58c3a4569b4045124c9fdc65cdad5d92fa22442c9205cd47345db50480441cf",
     "fields": {
      "designator": {
       "value": "04",
@@ -1684,7 +1695,7 @@
       "source": "eAIP ASECNA",
       "section": "DXXX AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.566471+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.806236+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "04"
@@ -1695,7 +1706,7 @@
       "source": "eAIP ASECNA",
       "section": "DXXX AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.566472+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.806237+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "038.60º VRAI 041º MAG"
@@ -1706,7 +1717,7 @@
       "source": "eAIP ASECNA",
       "section": "DXXX AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.566451+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.806215+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "3000 x 45"
@@ -1717,7 +1728,7 @@
       "source": "eAIP ASECNA",
       "section": "DXXX AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.566453+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.806217+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "3000 x 45"
@@ -1728,10 +1739,21 @@
       "source": "eAIP ASECNA",
       "section": "DXXX AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.566455+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.806218+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "CONC"
+     },
+     "strength": {
+      "value": "PCN 693/F/B/W/U",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "DXXX AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-28T07:33:26.806220+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "PCN 693/F/B/W/U"
      },
      "thresholdCoordinates": {
       "value": [
@@ -1742,7 +1764,7 @@
       "source": "eAIP ASECNA",
       "section": "DXXX AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.566475+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.806240+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "06°09'18.46\"N 001°14'44.47\"E"
@@ -1768,7 +1790,7 @@
     "effectiveTo": null,
     "sourceClass": "AIP",
     "temporality": "permanent",
-    "contentHash": "efed9daf9f8e9b2dece7faa877f6e5f867cf1f3d5d21a6b300a144429412b1e5",
+    "contentHash": "9f29464776e62e083fb34b46d243065960c6491b16d02393cc42c09861b3dd2a",
     "fields": {
      "designator": {
       "value": "22",
@@ -1776,7 +1798,7 @@
       "source": "eAIP ASECNA",
       "section": "DXXX AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.566485+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.806250+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "22"
@@ -1787,7 +1809,7 @@
       "source": "eAIP ASECNA",
       "section": "DXXX AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.566486+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.806251+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "218.60º VRAI 221º MAG"
@@ -1798,7 +1820,7 @@
       "source": "eAIP ASECNA",
       "section": "DXXX AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.566451+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.806215+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "3000 x 45"
@@ -1809,7 +1831,7 @@
       "source": "eAIP ASECNA",
       "section": "DXXX AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.566453+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.806217+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "3000 x 45"
@@ -1820,10 +1842,21 @@
       "source": "eAIP ASECNA",
       "section": "DXXX AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.566455+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.806218+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "CONC"
+     },
+     "strength": {
+      "value": "PCN 693/F/B/W/U",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "DXXX AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-28T07:33:26.806220+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "PCN 693/F/B/W/U"
      },
      "thresholdCoordinates": {
       "value": [
@@ -1834,7 +1867,7 @@
       "source": "eAIP ASECNA",
       "section": "DXXX AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.566489+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.806254+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "06°10'34.84\"N 001°15'45.35\"E"
@@ -1868,7 +1901,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.515680+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.748111+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "AMSIL"
@@ -1882,7 +1915,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.515696+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.748124+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "08°46'05\"N 000°47'00\"E"
@@ -1893,7 +1926,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.515697+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.748126+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UM566 - UB726"
@@ -1927,7 +1960,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.515750+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.748176+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "AMSOM"
@@ -1941,7 +1974,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.515752+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.748179+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "06°34'54\"N 001°05'32\"E"
@@ -1952,7 +1985,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.515753+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.748180+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "TMA LOMÉ"
@@ -1986,7 +2019,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.515785+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.748211+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "AMTES"
@@ -2000,7 +2033,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.515786+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.748213+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "20°05'00\"N 002°22'00\"E"
@@ -2011,7 +2044,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.515788+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.748214+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "B726 T/R Limite FIR ALGER/FIR NIAMEY"
@@ -2045,7 +2078,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.516040+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.748463+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "APERO"
@@ -2059,7 +2092,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.516041+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.748465+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "16°15'00\"N 002°16'20\"E"
@@ -2070,7 +2103,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.516043+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.748466+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "B726 T/R Limite TMA NIAMEY"
@@ -2104,7 +2137,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.516059+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.748484+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "APKOT"
@@ -2118,7 +2151,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.516061+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.748485+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "18°20'15.40\"S 055°23'49.80\"E"
@@ -2129,7 +2162,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.516062+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.748487+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UL433"
@@ -2163,7 +2196,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.516391+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.748820+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "ARKEV"
@@ -2177,7 +2210,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.516392+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.748822+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "03°51'57.57\"N 012°42'54.34\"E"
@@ -2188,7 +2221,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.516393+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.748823+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "R984-2/UR984 Yaounde TMA Boundary in Brazzaville FIR ( Cameroon)"
@@ -2222,7 +2255,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.516435+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.748865+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "ARLEX"
@@ -2236,7 +2269,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.516436+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.748867+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "10°16'47\"N 000°17'13\"E"
@@ -2247,7 +2280,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.516437+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.748868+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UQ592 - UR984"
@@ -2281,7 +2314,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.516527+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.748958+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "ATOLA"
@@ -2295,7 +2328,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.516528+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.748959+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "10°00'00\"S 046°28'30\"E"
@@ -2306,7 +2339,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.516530+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.748960+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UL433"
@@ -2340,7 +2373,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.516570+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.749001+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "AZARE"
@@ -2354,7 +2387,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.516572+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.749003+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "06°15'57.16\"N 001°27'44.84\"E"
@@ -2365,7 +2398,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.516573+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.749004+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "LOME ILS Y or LOC Y - RWY 22 IAF"
@@ -2399,7 +2432,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.516630+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.749060+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "BATIA"
@@ -2413,7 +2446,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.516632+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.749061+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "11°00'00\"N 001°27'18\"E"
@@ -2424,7 +2457,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.516633+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.749062+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UQ592 - UM629 - B726/UB726 T/R Limite TMA NIAMEY/FIR ACCRA"
@@ -2458,7 +2491,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.516718+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.749145+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "BIDOM"
@@ -2472,7 +2505,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.516720+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.749146+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "17°17'42\"N 003°30'55\"E"
@@ -2483,7 +2516,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.516721+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.749147+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UM114 - UG855"
@@ -2517,7 +2550,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.516982+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.749420+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "BIRAL"
@@ -2531,7 +2564,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.516983+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.749422+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "10°55'33\"S 047°34'36\"E"
@@ -2542,7 +2575,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.516984+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.749423+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UM307 - UL433"
@@ -2576,7 +2609,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.517108+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.749568+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "BORNI"
@@ -2590,7 +2623,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.517109+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.749571+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "09°28'24\"N 002°51'21\"E"
@@ -2601,7 +2634,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.517110+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.749572+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UL683 - UR981"
@@ -2635,7 +2668,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.517232+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.749715+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "BUDNO"
@@ -2649,7 +2682,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.517234+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.749718+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "08°55'28\"N 000°30'43\"E"
@@ -2660,7 +2693,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.517235+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.749719+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UM566"
@@ -2694,7 +2727,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.517505+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.749989+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "DEKOM"
@@ -2708,7 +2741,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.517506+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.749991+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "06°12'47.24\"N 001°27'04.10\"E"
@@ -2719,7 +2752,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.517507+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.749992+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "LOME VOR RWY 22 IAF"
@@ -2753,7 +2786,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.517669+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.750158+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "DENIT"
@@ -2767,7 +2800,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.517670+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.750159+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "09°33'44.60\"N 001°00'12.70\"E"
@@ -2778,7 +2811,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.517671+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.750160+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "NIAMTOUGOU IAF"
@@ -2812,7 +2845,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.517741+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.750231+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "DEPUB"
@@ -2826,7 +2859,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.517742+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.750232+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "09°28'24\"N 002°18'29\"E"
@@ -2837,7 +2870,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.517743+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.750233+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UA608 - UL683"
@@ -2871,7 +2904,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.517972+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.750462+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "DILSO"
@@ -2885,7 +2918,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.517973+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.750463+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "09°33'45.52\"N 000°55'33.66\"E"
@@ -2896,7 +2929,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.517974+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.750464+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "IAF NIAMTOUGOU"
@@ -2930,7 +2963,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.518428+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.750926+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "EDDER"
@@ -2944,7 +2977,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.518429+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.750927+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "09°56'51.60\"N 001°10'06.80\"E"
@@ -2955,7 +2988,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.518431+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.750929+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "NIAMTOUGOU IAF"
@@ -2989,7 +3022,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.518446+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.750944+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "EDEBA"
@@ -3003,7 +3036,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.518447+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.750946+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "03°55'58\"N 010°09'32\"E"
@@ -3014,7 +3047,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.518448+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.750947+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "R984-2/UR984"
@@ -3048,7 +3081,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.518590+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.751087+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "EMROD"
@@ -3062,7 +3095,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.518591+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.751088+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "06°23'28.32\"N 001°18'19.58\"E"
@@ -3073,7 +3106,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.518592+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.751089+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "LOME ILS Y or LOC Y - RWY 22 IAF"
@@ -3107,7 +3140,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.518784+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.751279+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "EPELA"
@@ -3121,7 +3154,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.518785+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.751280+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "14°49'19\"N 002°14'17\"E"
@@ -3132,7 +3165,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.518786+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.751282+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "B726"
@@ -3166,7 +3199,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.518868+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.751364+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "ERDIT"
@@ -3180,7 +3213,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.518869+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.751365+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "18°30'00\"N 002°19'37.74\"E"
@@ -3191,7 +3224,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.518870+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.751366+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "B726 Niamey FIR (Mali)"
@@ -3225,7 +3258,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.518911+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.751407+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "EREKA"
@@ -3239,7 +3272,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.518912+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.751408+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "05°59'12\"N 000°47'03\"E"
@@ -3250,7 +3283,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.518913+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.751409+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "L433/UL433"
@@ -3284,7 +3317,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.519501+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.752003+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "GANDA"
@@ -3298,7 +3331,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.519502+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.752005+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "09°28'46.26\"N 003°10'00.60\"E"
@@ -3309,7 +3342,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.519503+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.752006+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UL683"
@@ -3343,7 +3376,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.519550+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.752056+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "GAPAG"
@@ -3357,7 +3390,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.519551+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.752057+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "11°00'00\"N 000°19'30\"E"
@@ -3368,7 +3401,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.519552+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.752059+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UG855"
@@ -3402,7 +3435,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.519584+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.752091+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "GAPIN"
@@ -3416,7 +3449,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.519585+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.752092+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "09°33'45.75\"N 001°00'13.19\"E"
@@ -3427,7 +3460,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.519586+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.752093+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "IAF NIAMTOUGOU"
@@ -3461,7 +3494,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.519704+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.752209+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "GASON"
@@ -3475,7 +3508,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.519705+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.752210+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "16°15'00\"N 003°09'05\"E"
@@ -3486,7 +3519,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.519706+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.752211+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UG855"
@@ -3520,7 +3553,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.520010+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.752497+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "GUNAK"
@@ -3534,7 +3567,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.520012+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.752499+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "06°22'02.79\"N 001°17'30.75\"E"
@@ -3545,7 +3578,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.520013+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.752500+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "LOME VOR RWY 22 IAF"
@@ -3579,7 +3612,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.520219+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.752712+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "IKROP"
@@ -3593,7 +3626,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.520220+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.752713+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "05°46'44\"N 008°52'27.50\"E"
@@ -3604,7 +3637,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.520221+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.752714+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UJ333 - L433/UL433 T/R Limite FIR KANO/FIR BRAZZAVILLE"
@@ -3638,7 +3671,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.520384+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.752881+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "INAMA"
@@ -3652,7 +3685,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.520385+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.752883+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "19°08'00\"N 004°10'00\"E"
@@ -3663,7 +3696,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.520386+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.752884+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UG855"
@@ -3697,7 +3730,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.520630+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.753131+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "IPORI"
@@ -3711,7 +3744,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.520631+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.753132+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "09°30'20\"N 000°17'52\"E"
@@ -3722,7 +3755,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.520632+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.753133+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UL683"
@@ -3756,7 +3789,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.520741+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.753239+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "IRTOD"
@@ -3770,7 +3803,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.520743+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.753240+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "12°12'00\"N 001°48'58\"E"
@@ -3781,7 +3814,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.520744+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.753241+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "B726 Limite TMA Niamey - Niger"
@@ -3815,7 +3848,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.520935+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.753427+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "KELEX"
@@ -3829,7 +3862,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.520937+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.753429+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "07°51'47.45\"N 002°21'25.67\"E"
@@ -3840,7 +3873,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.520938+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.753430+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UM566 - UA608 - UM629 - R984-1/UR984"
@@ -3874,7 +3907,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.520977+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.753470+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "KEMOX"
@@ -3888,7 +3921,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.520978+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.753471+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "05°25'53\"N 012°05'45\"E"
@@ -3899,7 +3932,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.520979+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.753472+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "L433/UL433 - H455/UH455 - UQ584 FIR BRAZZAVILLE"
@@ -3933,7 +3966,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.521143+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.753637+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "KETEV"
@@ -3947,7 +3980,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.521145+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.753638+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "08°46'24\"N 000°30'00\"E"
@@ -3958,7 +3991,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.521146+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.753639+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": ""
@@ -3992,7 +4025,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.521211+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.753708+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "KILMO"
@@ -4006,7 +4039,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.521212+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.753710+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "09°27'42.12\"N 000°59'30.12\"E"
@@ -4017,7 +4050,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.521213+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.753711+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UL683 - B726/UB726 - R984-1/UR984"
@@ -4051,7 +4084,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.521443+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.753940+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "KOGAN"
@@ -4065,7 +4098,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.521444+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.753941+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "04°01'28.20\"N 014°02'28.20\"E"
@@ -4076,7 +4109,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.521445+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.753942+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UG727 - R984-2/UR984"
@@ -4110,7 +4143,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.521599+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.754097+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "KORIL"
@@ -4124,7 +4157,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.521601+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.754098+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "04°35'51\"N 017°12'31\"E"
@@ -4135,7 +4168,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.521602+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.754099+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "L433 TMA BANGUI - CENTRAFRIQUE"
@@ -4169,7 +4202,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.521803+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.754299+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "LILEB"
@@ -4183,7 +4216,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.521804+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.754300+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "06°19'42.76\"N 001°23'02.25\"E"
@@ -4194,7 +4227,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.521805+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.754301+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "LOME ILS Y or LOC Y - RWY 22 IAF"
@@ -4228,7 +4261,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.522187+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.754693+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "LURTI"
@@ -4242,7 +4275,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.522189+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.754695+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "04°50'36\"N 015°43'37\"E"
@@ -4253,7 +4286,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.522190+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.754696+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "A403/UA403 - L433/UL433 T/R Limite TMA BANGUI"
@@ -4287,7 +4320,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.522229+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.754738+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "MAEVA"
@@ -4301,7 +4334,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.522230+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.754739+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "16°23'45\"S 053°21'31\"E"
@@ -4312,7 +4345,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.522231+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.754740+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UN304 - UR348 - UL433"
@@ -4346,7 +4379,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.522598+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.755109+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "MIRBO"
@@ -4360,7 +4393,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.522599+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.755110+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "06°22'33.70\"N 001°00'00\"E"
@@ -4371,7 +4404,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.522600+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.755111+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "LOME STAR RNAV 04 WPT"
@@ -4405,7 +4438,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.522841+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.755351+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "MONOS"
@@ -4419,7 +4452,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.522842+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.755352+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "06°15'57\"N 001°47'00\"E"
@@ -4430,7 +4463,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.522843+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.755353+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "L433/UL433"
@@ -4464,7 +4497,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.522891+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.755402+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "MORAR"
@@ -4478,7 +4511,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.522892+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.755404+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "09°55'47.46\"N 001°15'09.62\"E"
@@ -4489,7 +4522,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.522893+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.755405+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "IAF NIAMTOUGOU"
@@ -4523,7 +4556,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.522933+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.755445+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "MOTET"
@@ -4537,7 +4570,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.522934+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.755446+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "05°08'46\"N 013°52'28\"E"
@@ -4548,7 +4581,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.522935+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.755447+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "L433/UL433 - UG727"
@@ -4582,7 +4615,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.523400+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.755916+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "NEMLO"
@@ -4596,7 +4629,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.523401+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.755918+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "12°05'47.79\"N 001°09'00.88\"E"
@@ -4607,7 +4640,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.523402+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.755919+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UM629 - UG855"
@@ -4641,7 +4674,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.524072+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.756589+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "ONVAS"
@@ -4655,7 +4688,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.524073+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.756591+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "06°36'24.46\"N 001°14'48.69\"E"
@@ -4666,7 +4699,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.524074+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.756592+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "LOME STAR RNAV 04 WPT"
@@ -4700,7 +4733,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.524089+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.756607+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "OPALA"
@@ -4714,7 +4747,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.524090+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.756609+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "07°24'00\"N 002°45'00\"E"
@@ -4725,7 +4758,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.524091+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.756610+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "R984-1/UR984 Limite TMA COTONOU"
@@ -4759,7 +4792,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.524246+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.756769+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "OXIDU"
@@ -4773,7 +4806,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.524247+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.756770+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "11°00'00\"N 000°20'12\"W"
@@ -4784,7 +4817,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.524248+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.756771+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "R984-1/UR984 T/R Limite TMA OUAGADOUGOU/FIR ACCRA"
@@ -4818,7 +4851,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.524263+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.756786+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "OXIMU"
@@ -4832,7 +4865,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.524264+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.756787+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "04°56'38\"N 015°06'53\"E"
@@ -4843,7 +4876,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.524265+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.756788+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UL433 - UM998"
@@ -4877,7 +4910,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.524288+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.756812+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "PAMPA"
@@ -4891,7 +4924,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.524290+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.756813+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "08°00'00\"N 000°34'00\"E"
@@ -4902,7 +4935,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.524291+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.756814+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UA601 - B726/UB726 - R983/UR983 Intersection Limite TMA COTONOU"
@@ -4936,7 +4969,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.524364+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.756887+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "PINKU"
@@ -4950,7 +4983,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.524365+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.756888+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "06°37'09.29\"N 001°19'25.07\"E"
@@ -4961,7 +4994,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.524366+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.756889+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "LOME STAR RNAV04 WPT"
@@ -4995,7 +5028,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.524732+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.757228+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "POLTO"
@@ -5009,7 +5042,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.524734+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.757229+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "06°29'30.12\"N 002°45'00\"E"
@@ -5020,7 +5053,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.524736+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.757230+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "L433/UL433 Limite TMA COTONOU"
@@ -5054,7 +5087,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.524893+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.757377+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "POPOL"
@@ -5068,7 +5101,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.524894+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.757378+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "09°59'43.33\"N 001°05'50.07\"E"
@@ -5079,7 +5112,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.524896+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.757379+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "IAF NIAMTOUGOU"
@@ -5113,7 +5146,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.525109+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.757591+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "RALIN"
@@ -5127,7 +5160,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.525110+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.757592+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "04°28'12\"N 008°16'48\"E"
@@ -5138,7 +5171,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.525111+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.757593+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UR984"
@@ -5172,7 +5205,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.525520+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.758011+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "RUVNI"
@@ -5186,7 +5219,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.525521+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.758012+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "04°06'12\"N 019°38'18\"E"
@@ -5197,7 +5230,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.525522+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.758013+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "L433 T/R Limite TMA BANGUI / TMA GBADOLITE"
@@ -5231,7 +5264,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.525905+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.758398+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "SEXAT"
@@ -5245,7 +5278,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.525906+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.758399+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "05°38'35\"N 010°45'09\"E"
@@ -5256,7 +5289,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.525907+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.758400+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "L433/UL433 - G857/UG857 - UR986 Brazzaville FIR - Cameroon"
@@ -5290,7 +5323,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.526170+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.758670+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "TAMIL"
@@ -5304,7 +5337,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.526171+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.758671+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "10°35'00\"N 000°01'00\"E"
@@ -5315,7 +5348,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.526172+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.758672+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UA603 - UG855 - R984-1/UR984"
@@ -5349,7 +5382,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.526377+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.758883+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "TASUB"
@@ -5363,7 +5396,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.526378+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.758885+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "09°31'47.92\"N 001°04'52.66\"E"
@@ -5374,7 +5407,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.526379+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.758886+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "IAF NIAMTOUGOU"
@@ -5408,7 +5441,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.526679+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.759195+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "TIKEL"
@@ -5422,7 +5455,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.526680+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.759197+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "13°37'35\"S 050°33'10\"E"
@@ -5433,7 +5466,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.526681+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.759198+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UL433 - UL441"
@@ -5467,7 +5500,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.526860+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.759383+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "TOBAB"
@@ -5481,7 +5514,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.526862+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.759385+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "04°10'36\"N 015°19'54\"E"
@@ -5492,7 +5525,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.526863+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.759386+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UR984 - UM998"
@@ -5526,7 +5559,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.526988+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.759516+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "TUSEK"
@@ -5540,7 +5573,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.526989+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.759517+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "06°16'36\"N 003°11'00\"W"
@@ -5551,7 +5584,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.526990+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.759518+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UG855"
@@ -5585,7 +5618,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.527324+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.759880+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UMOVO"
@@ -5599,7 +5632,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.527325+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.759883+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "11°00'00\"N 000°53'42\"W"
@@ -5610,7 +5643,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.527326+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.759884+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "R983/UR983"
@@ -5644,7 +5677,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.527501+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.760067+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "USLOK"
@@ -5658,7 +5691,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.527502+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.760068+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "04°37'12\"N 017°04'24\"E"
@@ -5669,7 +5702,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.527503+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.760069+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UL433 - UQ583 - UM731 Brazzaville FIR"
@@ -5703,7 +5736,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.527636+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.760209+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "VABOR"
@@ -5717,7 +5750,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.527637+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.760210+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "09°57'45.43\"N 001°10'29.87\"E"
@@ -5728,7 +5761,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.527638+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.760211+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "IAF NIAMTOUGOU"
@@ -5762,7 +5795,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.527669+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.760243+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "VEMAR"
@@ -5776,7 +5809,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.527670+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.760245+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "14°30'00\"S 051°25'35\"E"
@@ -5787,7 +5820,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.527671+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.760246+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UL433"
@@ -5821,7 +5854,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.527729+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.760303+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "VITLI"
@@ -5835,7 +5868,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.527731+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.760304+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "04°20'47\"N 008°34'00\"E"
@@ -5846,7 +5879,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.527732+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.760305+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UR984"
@@ -5880,7 +5913,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528049+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.760628+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "VOTUR"
@@ -5894,7 +5927,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528050+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.760630+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "04°18'15\"N 017°09'26\"E"
@@ -5905,7 +5938,7 @@
       "source": "eAIP ASECNA",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T10:15:25.528051+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.760631+00:00",
       "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
       "parser_version": "1.0",
       "raw_text": "UM731 - UR984"
@@ -5946,7 +5979,7 @@
    "effectiveDate": "2026-10-01",
    "amendmentId": "eAIP valid from 2026-10-01",
    "sourceKind": "LIVE",
-   "ingestedAt": "2026-10-27T10:15:25.578932+00:00",
+   "ingestedAt": "2026-10-28T07:33:26.818555+00:00",
    "status": "promoted",
    "stats": {
     "total_documents": 8,

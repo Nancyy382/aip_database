@@ -27,7 +27,7 @@
       "source": "AIP St Helena (ATNS / ASSI)",
       "section": "FHSH AD 2.1",
       "effective_date": "2026-01-22",
-      "retrieved_at": "2026-10-27T09:18:49.955357+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.421828+00:00",
       "source_url": "https://atns.com/Aeronautical%20Information%20Management/St%20Helena%20Airport/Aeronautical%20Information%20Publication%20%28AIP%29/AERODROME-5.pdf",
       "parser_version": "1.0",
       "raw_text": "FHSH – St Helena Airport"
@@ -41,7 +41,7 @@
       "source": "AIP St Helena (ATNS / ASSI)",
       "section": "FHSH AD 2.2",
       "effective_date": "2026-01-22",
-      "retrieved_at": "2026-10-27T09:18:49.955372+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.421838+00:00",
       "source_url": "https://atns.com/Aeronautical%20Information%20Management/St%20Helena%20Airport/Aeronautical%20Information%20Publication%20%28AIP%29/AERODROME-5.pdf",
       "parser_version": "1.0",
       "raw_text": "155729.30S 0053845.45W"
@@ -52,7 +52,7 @@
       "source": "AIP St Helena (ATNS / ASSI)",
       "section": "FHSH AD 2.2",
       "effective_date": "2026-01-22",
-      "retrieved_at": "2026-10-27T09:18:49.955374+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.421840+00:00",
       "source_url": "https://atns.com/Aeronautical%20Information%20Management/St%20Helena%20Airport/Aeronautical%20Information%20Publication%20%28AIP%29/AERODROME-5.pdf",
       "parser_version": "1.0",
       "raw_text": "1017 FT"
@@ -86,7 +86,7 @@
       "source": "AIP St Helena (ATNS / ASSI)",
       "section": "ENR 4.1",
       "effective_date": "2026-01-22",
-      "retrieved_at": "2026-10-27T09:18:49.907231+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.381614+00:00",
       "source_url": "https://atns.com/Aeronautical%20Information%20Management/St%20Helena%20Airport/Aeronautical%20Information%20Publication%20%28AIP%29/ENROUTE-5.pdf",
       "parser_version": "1.0",
       "raw_text": "SH"
@@ -97,7 +97,7 @@
       "source": "AIP St Helena (ATNS / ASSI)",
       "section": "ENR 4.1",
       "effective_date": "2026-01-22",
-      "retrieved_at": "2026-10-27T09:18:49.907250+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.381627+00:00",
       "source_url": "https://atns.com/Aeronautical%20Information%20Management/St%20Helena%20Airport/Aeronautical%20Information%20Publication%20%28AIP%29/ENROUTE-5.pdf",
       "parser_version": "1.0",
       "raw_text": "St Helena DVOR/DME"
@@ -108,7 +108,7 @@
       "source": "AIP St Helena (ATNS / ASSI)",
       "section": "ENR 4.1",
       "effective_date": "2026-01-22",
-      "retrieved_at": "2026-10-27T09:18:49.907252+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.381630+00:00",
       "source_url": "https://atns.com/Aeronautical%20Information%20Management/St%20Helena%20Airport/Aeronautical%20Information%20Publication%20%28AIP%29/ENROUTE-5.pdf",
       "parser_version": "1.0",
       "raw_text": "DVOR/DME"
@@ -119,7 +119,7 @@
       "source": "AIP St Helena (ATNS / ASSI)",
       "section": "ENR 4.1",
       "effective_date": "2026-01-22",
-      "retrieved_at": "2026-10-27T09:18:49.907254+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.381632+00:00",
       "source_url": "https://atns.com/Aeronautical%20Information%20Management/St%20Helena%20Airport/Aeronautical%20Information%20Publication%20%28AIP%29/ENROUTE-5.pdf",
       "parser_version": "1.0",
       "raw_text": "112.9 MHz"
@@ -130,7 +130,7 @@
       "source": "AIP St Helena (ATNS / ASSI)",
       "section": "ENR 4.1",
       "effective_date": "2026-01-22",
-      "retrieved_at": "2026-10-27T09:18:49.907255+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.381634+00:00",
       "source_url": "https://atns.com/Aeronautical%20Information%20Management/St%20Helena%20Airport/Aeronautical%20Information%20Publication%20%28AIP%29/ENROUTE-5.pdf",
       "parser_version": "1.0",
       "raw_text": "MHZ"
@@ -141,7 +141,7 @@
       "source": "AIP St Helena (ATNS / ASSI)",
       "section": "ENR 4.1",
       "effective_date": "2026-01-22",
-      "retrieved_at": "2026-10-27T09:18:49.907257+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.381636+00:00",
       "source_url": "https://atns.com/Aeronautical%20Information%20Management/St%20Helena%20Airport/Aeronautical%20Information%20Publication%20%28AIP%29/ENROUTE-5.pdf",
       "parser_version": "1.0",
       "raw_text": "112.9 MHz"
@@ -155,7 +155,7 @@
       "source": "AIP St Helena (ATNS / ASSI)",
       "section": "ENR 4.1",
       "effective_date": "2026-01-22",
-      "retrieved_at": "2026-10-27T09:18:49.907260+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.381639+00:00",
       "source_url": "https://atns.com/Aeronautical%20Information%20Management/St%20Helena%20Airport/Aeronautical%20Information%20Publication%20%28AIP%29/ENROUTE-5.pdf",
       "parser_version": "1.0",
       "raw_text": "155733.21S 0053851.92W"
@@ -187,7 +187,7 @@
     "effectiveTo": null,
     "sourceClass": "AIP",
     "temporality": "permanent",
-    "contentHash": "8c5dc724795e623c69d028d64a3a3c9b0bf2c71982fa4561d13e88b77b805336",
+    "contentHash": "b51c0fbe4a8b2c7ab6d776c46d65136f9f9869add361801f9aa2a1f4770e4ed9",
     "fields": {
      "pairDesignator": {
       "value": "19-01",
@@ -195,7 +195,7 @@
       "source": "AIP St Helena (ATNS / ASSI)",
       "section": "FHSH AD 2.12",
       "effective_date": "2026-01-22",
-      "retrieved_at": "2026-10-27T09:18:49.955463+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.421911+00:00",
       "source_url": "https://atns.com/Aeronautical%20Information%20Management/St%20Helena%20Airport/Aeronautical%20Information%20Publication%20%28AIP%29/AERODROME-5.pdf",
       "parser_version": "1.0",
       "raw_text": "19-01"
@@ -206,7 +206,7 @@
       "source": "AIP St Helena (ATNS / ASSI)",
       "section": "FHSH AD 2.12",
       "effective_date": "2026-01-22",
-      "retrieved_at": "2026-10-27T09:18:49.955456+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.421900+00:00",
       "source_url": "https://atns.com/Aeronautical%20Information%20Management/St%20Helena%20Airport/Aeronautical%20Information%20Publication%20%28AIP%29/AERODROME-5.pdf",
       "parser_version": "1.0",
       "raw_text": "1950 x 45"
@@ -217,7 +217,7 @@
       "source": "AIP St Helena (ATNS / ASSI)",
       "section": "FHSH AD 2.12",
       "effective_date": "2026-01-22",
-      "retrieved_at": "2026-10-27T09:18:49.955459+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.421903+00:00",
       "source_url": "https://atns.com/Aeronautical%20Information%20Management/St%20Helena%20Airport/Aeronautical%20Information%20Publication%20%28AIP%29/AERODROME-5.pdf",
       "parser_version": "1.0",
       "raw_text": "1950 x 45"
@@ -228,10 +228,21 @@
       "source": "AIP St Helena (ATNS / ASSI)",
       "section": "FHSH AD 2.12",
       "effective_date": "2026-01-22",
-      "retrieved_at": "2026-10-27T09:18:49.955460+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.421905+00:00",
       "source_url": "https://atns.com/Aeronautical%20Information%20Management/St%20Helena%20Airport/Aeronautical%20Information%20Publication%20%28AIP%29/AERODROME-5.pdf",
       "parser_version": "1.0",
       "raw_text": "CONC"
+     },
+     "strength": {
+      "value": "PCN 427/R/B/W/T",
+      "unit": null,
+      "source": "AIP St Helena (ATNS / ASSI)",
+      "section": "FHSH AD 2.12",
+      "effective_date": "2026-01-22",
+      "retrieved_at": "2026-10-28T07:33:26.421908+00:00",
+      "source_url": "https://atns.com/Aeronautical%20Information%20Management/St%20Helena%20Airport/Aeronautical%20Information%20Publication%20%28AIP%29/AERODROME-5.pdf",
+      "parser_version": "1.0",
+      "raw_text": "PCN 427/R/B/W/T"
      }
     }
    }
@@ -254,7 +265,7 @@
     "effectiveTo": null,
     "sourceClass": "AIP",
     "temporality": "permanent",
-    "contentHash": "0be677049a4ad1e186ffb4b0ede4823f88b7ded6f09e8c97d0321608ff3180cc",
+    "contentHash": "ca5b0273b28a918c382bff2b14bd486e522f08e63b32247dd28812d04ca7136e",
     "fields": {
      "designator": {
       "value": "01",
@@ -262,7 +273,7 @@
       "source": "AIP St Helena (ATNS / ASSI)",
       "section": "FHSH AD 2.12",
       "effective_date": "2026-01-22",
-      "retrieved_at": "2026-10-27T09:18:49.955495+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.421957+00:00",
       "source_url": "https://atns.com/Aeronautical%20Information%20Management/St%20Helena%20Airport/Aeronautical%20Information%20Publication%20%28AIP%29/AERODROME-5.pdf",
       "parser_version": "1.0",
       "raw_text": "01"
@@ -273,7 +284,7 @@
       "source": "AIP St Helena (ATNS / ASSI)",
       "section": "FHSH AD 2.12",
       "effective_date": "2026-01-22",
-      "retrieved_at": "2026-10-27T09:18:49.955496+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.421959+00:00",
       "source_url": "https://atns.com/Aeronautical%20Information%20Management/St%20Helena%20Airport/Aeronautical%20Information%20Publication%20%28AIP%29/AERODROME-5.pdf",
       "parser_version": "1.0",
       "raw_text": "359°"
@@ -284,7 +295,7 @@
       "source": "AIP St Helena (ATNS / ASSI)",
       "section": "FHSH AD 2.12",
       "effective_date": "2026-01-22",
-      "retrieved_at": "2026-10-27T09:18:49.955456+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.421900+00:00",
       "source_url": "https://atns.com/Aeronautical%20Information%20Management/St%20Helena%20Airport/Aeronautical%20Information%20Publication%20%28AIP%29/AERODROME-5.pdf",
       "parser_version": "1.0",
       "raw_text": "1950 x 45"
@@ -295,7 +306,7 @@
       "source": "AIP St Helena (ATNS / ASSI)",
       "section": "FHSH AD 2.12",
       "effective_date": "2026-01-22",
-      "retrieved_at": "2026-10-27T09:18:49.955459+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.421903+00:00",
       "source_url": "https://atns.com/Aeronautical%20Information%20Management/St%20Helena%20Airport/Aeronautical%20Information%20Publication%20%28AIP%29/AERODROME-5.pdf",
       "parser_version": "1.0",
       "raw_text": "1950 x 45"
@@ -306,10 +317,21 @@
       "source": "AIP St Helena (ATNS / ASSI)",
       "section": "FHSH AD 2.12",
       "effective_date": "2026-01-22",
-      "retrieved_at": "2026-10-27T09:18:49.955460+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.421905+00:00",
       "source_url": "https://atns.com/Aeronautical%20Information%20Management/St%20Helena%20Airport/Aeronautical%20Information%20Publication%20%28AIP%29/AERODROME-5.pdf",
       "parser_version": "1.0",
       "raw_text": "CONC"
+     },
+     "strength": {
+      "value": "PCN 427/R/B/W/T",
+      "unit": null,
+      "source": "AIP St Helena (ATNS / ASSI)",
+      "section": "FHSH AD 2.12",
+      "effective_date": "2026-01-22",
+      "retrieved_at": "2026-10-28T07:33:26.421908+00:00",
+      "source_url": "https://atns.com/Aeronautical%20Information%20Management/St%20Helena%20Airport/Aeronautical%20Information%20Publication%20%28AIP%29/AERODROME-5.pdf",
+      "parser_version": "1.0",
+      "raw_text": "PCN 427/R/B/W/T"
      },
      "thresholdCoordinates": {
       "value": [
@@ -320,7 +342,7 @@
       "source": "AIP St Helena (ATNS / ASSI)",
       "section": "FHSH AD 2.12",
       "effective_date": "2026-01-22",
-      "retrieved_at": "2026-10-27T09:18:49.955499+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.421962+00:00",
       "source_url": "https://atns.com/Aeronautical%20Information%20Management/St%20Helena%20Airport/Aeronautical%20Information%20Publication%20%28AIP%29/AERODROME-5.pdf",
       "parser_version": "1.0",
       "raw_text": "155757.76S 0053844.78W"
@@ -346,7 +368,7 @@
     "effectiveTo": null,
     "sourceClass": "AIP",
     "temporality": "permanent",
-    "contentHash": "8148a53556c1337c41e4c3990e0136bbaf3d69103eb6224db1c4acaa71125f60",
+    "contentHash": "f325e154c0468f0fb0416ec98d86b36f80adff8e0ee6aeeaf95e7b96d4105b2b",
     "fields": {
      "designator": {
       "value": "19",
@@ -354,7 +376,7 @@
       "source": "AIP St Helena (ATNS / ASSI)",
       "section": "FHSH AD 2.12",
       "effective_date": "2026-01-22",
-      "retrieved_at": "2026-10-27T09:18:49.955478+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.421932+00:00",
       "source_url": "https://atns.com/Aeronautical%20Information%20Management/St%20Helena%20Airport/Aeronautical%20Information%20Publication%20%28AIP%29/AERODROME-5.pdf",
       "parser_version": "1.0",
       "raw_text": "19"
@@ -365,7 +387,7 @@
       "source": "AIP St Helena (ATNS / ASSI)",
       "section": "FHSH AD 2.12",
       "effective_date": "2026-01-22",
-      "retrieved_at": "2026-10-27T09:18:49.955480+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.421935+00:00",
       "source_url": "https://atns.com/Aeronautical%20Information%20Management/St%20Helena%20Airport/Aeronautical%20Information%20Publication%20%28AIP%29/AERODROME-5.pdf",
       "parser_version": "1.0",
       "raw_text": "179°"
@@ -376,7 +398,7 @@
       "source": "AIP St Helena (ATNS / ASSI)",
       "section": "FHSH AD 2.12",
       "effective_date": "2026-01-22",
-      "retrieved_at": "2026-10-27T09:18:49.955456+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.421900+00:00",
       "source_url": "https://atns.com/Aeronautical%20Information%20Management/St%20Helena%20Airport/Aeronautical%20Information%20Publication%20%28AIP%29/AERODROME-5.pdf",
       "parser_version": "1.0",
       "raw_text": "1950 x 45"
@@ -387,7 +409,7 @@
       "source": "AIP St Helena (ATNS / ASSI)",
       "section": "FHSH AD 2.12",
       "effective_date": "2026-01-22",
-      "retrieved_at": "2026-10-27T09:18:49.955459+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.421903+00:00",
       "source_url": "https://atns.com/Aeronautical%20Information%20Management/St%20Helena%20Airport/Aeronautical%20Information%20Publication%20%28AIP%29/AERODROME-5.pdf",
       "parser_version": "1.0",
       "raw_text": "1950 x 45"
@@ -398,10 +420,21 @@
       "source": "AIP St Helena (ATNS / ASSI)",
       "section": "FHSH AD 2.12",
       "effective_date": "2026-01-22",
-      "retrieved_at": "2026-10-27T09:18:49.955460+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.421905+00:00",
       "source_url": "https://atns.com/Aeronautical%20Information%20Management/St%20Helena%20Airport/Aeronautical%20Information%20Publication%20%28AIP%29/AERODROME-5.pdf",
       "parser_version": "1.0",
       "raw_text": "CONC"
+     },
+     "strength": {
+      "value": "PCN 427/R/B/W/T",
+      "unit": null,
+      "source": "AIP St Helena (ATNS / ASSI)",
+      "section": "FHSH AD 2.12",
+      "effective_date": "2026-01-22",
+      "retrieved_at": "2026-10-28T07:33:26.421908+00:00",
+      "source_url": "https://atns.com/Aeronautical%20Information%20Management/St%20Helena%20Airport/Aeronautical%20Information%20Publication%20%28AIP%29/AERODROME-5.pdf",
+      "parser_version": "1.0",
+      "raw_text": "PCN 427/R/B/W/T"
      },
      "thresholdCoordinates": {
       "value": [
@@ -412,7 +445,7 @@
       "source": "AIP St Helena (ATNS / ASSI)",
       "section": "FHSH AD 2.12",
       "effective_date": "2026-01-22",
-      "retrieved_at": "2026-10-27T09:18:49.955483+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.421942+00:00",
       "source_url": "https://atns.com/Aeronautical%20Information%20Management/St%20Helena%20Airport/Aeronautical%20Information%20Publication%20%28AIP%29/AERODROME-5.pdf",
       "parser_version": "1.0",
       "raw_text": "155707.35S 0053845.97W"
@@ -446,7 +479,7 @@
       "source": "AIP St Helena (ATNS / ASSI)",
       "section": "ENR 4.4",
       "effective_date": "2026-01-22",
-      "retrieved_at": "2026-10-27T09:18:49.907618+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.381954+00:00",
       "source_url": "https://atns.com/Aeronautical%20Information%20Management/St%20Helena%20Airport/Aeronautical%20Information%20Publication%20%28AIP%29/ENROUTE-5.pdf",
       "parser_version": "1.0",
       "raw_text": "CB027"
@@ -460,7 +493,7 @@
       "source": "AIP St Helena (ATNS / ASSI)",
       "section": "ENR 4.4",
       "effective_date": "2026-01-22",
-      "retrieved_at": "2026-10-27T09:18:49.907621+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.381957+00:00",
       "source_url": "https://atns.com/Aeronautical%20Information%20Management/St%20Helena%20Airport/Aeronautical%20Information%20Publication%20%28AIP%29/ENROUTE-5.pdf",
       "parser_version": "1.0",
       "raw_text": "S 16 18 19.22 W 004 41 03.33"
@@ -471,7 +504,7 @@
       "source": "AIP St Helena (ATNS / ASSI)",
       "section": "ENR 4.4",
       "effective_date": "2026-01-22",
-      "retrieved_at": "2026-10-27T09:18:49.907623+00:00",
+      "retrieved_at": "2026-10-28T07:33:26.381959+00:00",
       "source_url": "https://atns.com/Aeronautical%20Information%20Management/St%20Helena%20Airport/Aeronautical%20Information%20Publication%20%28AIP%29/ENROUTE-5.pdf",
       "parser_version": "1.0",
       "raw_text": "TMA ENTRY/EXIT"
@@ -508,7 +541,7 @@
    "effectiveDate": "2026-01-22",
    "amendmentId": "AIRAC AIP AMDT A01/2026",
    "sourceKind": "LIVE",
-   "ingestedAt": "2026-10-27T09:18:49.955660+00:00",
+   "ingestedAt": "2026-10-28T07:33:26.422151+00:00",
    "status": "promoted",
    "stats": {
     "total_documents": 0,

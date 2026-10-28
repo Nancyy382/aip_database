@@ -47,6 +47,18 @@ def coord(s):
 # runway "length x width": 2950 x 45, "2 772 X 60" (thousands separated by a space or comma)
 DIMS = re.compile(r"(?<![\d.])(\d{1,2}[ ,.]\d{3}|\d{3,4})\s*m?\s*[xX×]\s*(\d{2,3})(?!\d)")  # also "3600m × 45m"
 
+# pavement strength: "PCN 61/F/B/W/T", "PCR 610/R/B/W/T", "61/F/B/W/T"
+STRENGTH = re.compile(r"\b(?:(PCN|PCR)\s*)?(\d{1,4})\s*/\s*([FR])\s*/\s*([A-D])\s*/\s*([W-Z1-4])\s*/\s*([TU])\b", re.I)
+
+
+def strength(text):
+    """First pavement classification in `text`, normalised to "PCN 61/F/B/W/T" (or None)."""
+    m = STRENGTH.search(text or "")
+    if not m:
+        return None
+    return f"{(m.group(1) or 'PCN').upper()} {m.group(2)}/{'/'.join(g.upper() for g in m.groups()[2:])}"
+
+
 SURFACE_WORDS = {"revêtue": "PAVED", "non revêtue": "UNPAVED", "herbe": "GRASS", "latérite": "LATERITE",
                  "paved": "PAVED", "unpaved": "UNPAVED", "grass": "GRASS",
                  "pavimento": "PAVED", "asfalto": "ASPH", "hormigón": "CONC", "concreto": "CONC", "césped": "GRASS",
@@ -127,7 +139,8 @@ def parse_ad2(page, icao):
                 ends.append({"designator": desig, "lat": None, "lon": None, "raw_coord": None,
                              "bearing": None, "raw_bearing": None,
                              "dims": (float(re.sub(r"[ ,.]", "", d.group(1))), float(d.group(2)), d.group(0)) if d else None,
-                             "surface": SURFACE_WORDS.get(sf.group(1).lower(), sf.group(1).upper()) if sf else None})
+                             "surface": SURFACE_WORDS.get(sf.group(1).lower(), sf.group(1).upper()) if sf else None,
+                             "strength": strength(" ".join(r))})
             continue
         c = coord(cell("thr")) or coord(" ".join(r[1:]))
         geo = re.search(r"(\d{1,3}(?:[.,]\d+)?)\s*°?\s*GEO", cell("brg"))
@@ -138,7 +151,8 @@ def parse_ad2(page, icao):
                      "raw_coord": c[2] if c else None,
                      "bearing": float(b.group(1).replace(",", ".")) if b else None, "raw_bearing": cell("brg") or None,
                      "dims": (float(re.sub(r"[ ,.]", "", d.group(1))), float(d.group(2)), d.group(0)) if d else None,
-                     "surface": SURFACE_WORDS.get(sf.group(1).lower(), sf.group(1).upper()) if sf else None})
+                     "surface": SURFACE_WORDS.get(sf.group(1).lower(), sf.group(1).upper()) if sf else None,
+                     "strength": strength(" ".join(r))})
     runways, used = [], set()
     for i, a in enumerate(ends):
         if i in used:
@@ -153,6 +167,7 @@ def parse_ad2(page, icao):
         dims = next((e["dims"] for e in pair if e["dims"]), (None, None, None))
         runways.append({"pair": "-".join(e["designator"] for e in pair), "length": dims[0], "width": dims[1],
                         "raw_dims": dims[2], "surface": next((e["surface"] for e in pair if e["surface"]), None),
+                        "strength": next((e["strength"] for e in pair if e.get("strength")), None),
                         "ends": pair})
     return {"icao": icao, "name": name, "raw_name": name, "lat": arp[0], "lon": arp[1], "raw_coord": arp[2],
             "elevation_ft": elev[0] if elev else None, "raw_elevation": elev[1] if elev else None,

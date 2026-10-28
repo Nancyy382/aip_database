@@ -10,7 +10,8 @@ import urllib.request
 from urllib.parse import quote, urlsplit, urlunsplit
 
 USER_AGENT = "aip-database-scraper/1.0 (+https://www.eurocontrol.int/articles/ais-online)"
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# repository root (backend/aip_scraper/common.py -> ../..): holds data/ and .cache/
+ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 CACHE_DIR = os.path.join(ROOT, ".cache")
 
 # True (run.py --no-cache): download again and overwrite the cached copy

@@ -27,7 +27,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LAKU AD 2.1",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:52.335750+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.506127+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "KUKES Aerodrome"
@@ -41,7 +41,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LAKU AD 2.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:52.335759+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.506132+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "420208N 0202457E"
@@ -52,7 +52,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LAKU AD 2.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:52.335761+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.506133+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "3 Aerodrome elevation and reference temperature 1160 ft/28° C"
@@ -86,7 +86,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LATI AD 2.1",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:53.868071+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.518067+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "TIRANA Aerodrome"
@@ -100,7 +100,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LATI AD 2.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:53.868080+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.518071+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "412453N 0194314E"
@@ -111,7 +111,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LATI AD 2.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:53.868082+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.518073+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "3 Aerodrome elevation and reference temperature 125 ft/34° C"
@@ -145,7 +145,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.1",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:46.914808+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.486338+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.1-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "TRN"
@@ -156,7 +156,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.1",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:46.914818+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.486341+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.1-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "TIRANA"
@@ -167,7 +167,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.1",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:46.914821+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.486342+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.1-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "DVOR/DME"
@@ -178,7 +178,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.1",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:46.914827+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.486343+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.1-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "117.7 MHZ"
@@ -189,7 +189,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.1",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:46.914828+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.486344+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.1-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "MHZ"
@@ -200,7 +200,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.1",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:46.914829+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.486348+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.1-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "117.7 MHZ"
@@ -214,7 +214,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.1",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:46.914832+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.486350+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.1-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "412458N 0194306E"
@@ -254,7 +254,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884076+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498298+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "L187"
@@ -265,7 +265,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884085+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498302+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "ENR 3.2"
@@ -279,7 +279,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884088+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498304+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "WPT/TIRCA -> WPT/RODON"
@@ -290,7 +290,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884089+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498306+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "RNAV"
@@ -350,7 +350,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884181+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498379+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "L604"
@@ -361,7 +361,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884183+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498381+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "ENR 3.2"
@@ -380,7 +380,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884185+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498383+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "WPT/DIMIS -> WPT/ADDER -> WPT/ELBAK -> WPT/UNDER -> NAV/TRN -> WPT/INLOT -> WPT/RETRA"
@@ -391,7 +391,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884187+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498383+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "RNAV"
@@ -431,7 +431,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884208+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498404+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "L607"
@@ -442,7 +442,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884209+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498406+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "ENR 3.2"
@@ -456,7 +456,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884211+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498407+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "NAV/TRN -> WPT/PETAK"
@@ -467,7 +467,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884212+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498408+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "RNAV"
@@ -511,7 +511,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884232+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498427+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "L611"
@@ -522,7 +522,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884233+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498429+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "ENR 3.2"
@@ -537,7 +537,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884235+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498430+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "WPT/TUMBO -> WPT/OVVER -> WPT/RODON"
@@ -548,7 +548,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884236+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498431+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "RNAV"
@@ -600,7 +600,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884279+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498472+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "M127"
@@ -611,7 +611,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884280+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498473+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "ENR 3.2"
@@ -628,7 +628,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884281+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498474+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "WPT/NIKRO -> WPT/OVVER -> NAV/TRN -> WPT/RINAV -> WPT/ALELU"
@@ -639,7 +639,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884282+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498475+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "RNAV"
@@ -683,7 +683,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884253+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498447+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "M26"
@@ -694,7 +694,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884254+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498448+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "ENR 3.2"
@@ -709,7 +709,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884255+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498449+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "WPT/GOKEL -> WPT/DITAN -> NAV/TRN"
@@ -720,7 +720,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884256+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498450+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "RNAV"
@@ -776,7 +776,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884312+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498502+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "M603"
@@ -787,7 +787,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884313+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498503+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "ENR 3.2"
@@ -805,7 +805,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884314+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498504+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "WPT/GOKEL -> WPT/LIMJA -> WPT/TIRCA -> WPT/OVVER -> WPT/ADDER -> WPT/PINDO"
@@ -816,7 +816,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884315+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498505+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "RNAV"
@@ -856,7 +856,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884330+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498520+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "N141"
@@ -867,7 +867,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884331+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498521+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "ENR 3.2"
@@ -881,7 +881,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884332+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498524+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "WPT/DOBAR -> NAV/TRN"
@@ -892,7 +892,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884333+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498525+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "RNAV"
@@ -936,7 +936,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884352+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498542+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "N732"
@@ -947,7 +947,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884353+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498543+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "ENR 3.2"
@@ -962,7 +962,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884354+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498545+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "WPT/PITAS -> WPT/LIMJA -> WPT/RODON"
@@ -973,7 +973,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884355+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498546+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "RNAV"
@@ -1025,7 +1025,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884377+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498567+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "P92"
@@ -1036,7 +1036,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884378+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498568+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "ENR 3.2"
@@ -1053,7 +1053,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884380+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498569+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "WPT/PAPIZ -> WPT/DIRES -> NAV/TRN -> WPT/ODRAS -> WPT/MAVAR"
@@ -1064,7 +1064,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884381+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498570+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "RNAV"
@@ -1104,7 +1104,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884396+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498584+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "T2"
@@ -1115,7 +1115,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884397+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498585+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "ENR 3.2"
@@ -1129,7 +1129,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884398+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498586+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "WPT/DIRES -> WPT/EBELA"
@@ -1140,7 +1140,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884399+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498587+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "RNAV"
@@ -1180,7 +1180,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884448+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498644+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "T216"
@@ -1191,7 +1191,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884450+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498645+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "ENR 3.2"
@@ -1205,7 +1205,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884451+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498646+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "WPT/ODRAS -> WPT/DOBAR"
@@ -1216,7 +1216,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884452+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498647+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "RNAV"
@@ -1256,7 +1256,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884465+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498660+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "T334"
@@ -1267,7 +1267,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884466+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498661+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "ENR 3.2"
@@ -1281,7 +1281,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884468+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498662+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "WPT/DIRES -> WPT/NANKA"
@@ -1292,7 +1292,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884469+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498663+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "RNAV"
@@ -1336,7 +1336,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884415+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498604+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "T6"
@@ -1347,7 +1347,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884416+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498605+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "ENR 3.2"
@@ -1362,7 +1362,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884417+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498607+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "WPT/PINDO -> WPT/NURSO -> WPT/ELBAK"
@@ -1373,7 +1373,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884418+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498608+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "RNAV"
@@ -1413,7 +1413,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884432+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498623+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "T8"
@@ -1424,7 +1424,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884433+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498624+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "ENR 3.2"
@@ -1438,7 +1438,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884434+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498625+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "WPT/INLOT -> WPT/AKIKA"
@@ -1449,7 +1449,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884435+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498626+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "RNAV"
@@ -1493,7 +1493,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884485+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498681+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "Y132"
@@ -1504,7 +1504,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884487+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498682+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "ENR 3.2"
@@ -1519,7 +1519,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884488+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498684+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "WPT/NIKRO -> WPT/TIRCA -> WPT/RETRA"
@@ -1530,7 +1530,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884489+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498685+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "RNAV"
@@ -1570,7 +1570,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884503+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498699+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "Y400"
@@ -1581,7 +1581,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884504+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498700+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "ENR 3.2"
@@ -1595,7 +1595,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884505+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498701+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "WPT/MAVAR -> WPT/RETRA"
@@ -1606,7 +1606,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 3.2",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:49.884506+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.498702+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "RNAV"
@@ -1638,7 +1638,7 @@
     "effectiveTo": null,
     "sourceClass": "AIP",
     "temporality": "permanent",
-    "contentHash": "172f47d40d001326dbab5ad9467f5d4bd1dcc5f1e620e56134abc69cd590a831",
+    "contentHash": "dfe88c1c0a26fbfd5a776fbae5c7da3d8cbe75d60c64f7c9ed39c0f08671f6f9",
     "fields": {
      "pairDesignator": {
       "value": "01-19",
@@ -1646,7 +1646,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LAKU AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:52.335854+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.506198+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "01-19"
@@ -1657,7 +1657,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LAKU AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:52.335848+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.506190+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "2198 X 30"
@@ -1668,7 +1668,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LAKU AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:52.335850+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.506192+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "2198 X 30"
@@ -1679,10 +1679,21 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LAKU AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:52.335851+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.506193+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "ASPH"
+     },
+     "strength": {
+      "value": "PCN 50/F/B/X/T",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LAKU AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-28T07:31:22.506195+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "PCN 50/F/B/X/T"
      }
     }
    }
@@ -1711,7 +1722,7 @@
     "effectiveTo": null,
     "sourceClass": "AIP",
     "temporality": "permanent",
-    "contentHash": "1c0dfd14a492a777f49acd0d78c0c984f12e663e4f9e7d61c7f98d5646018121",
+    "contentHash": "c2c0647d6d38118eab5fd6a7929a9d0e2e3298d581099609f435526306084603",
     "fields": {
      "pairDesignator": {
       "value": "17-35",
@@ -1719,7 +1730,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LATI AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:53.868144+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.518106+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "17-35"
@@ -1730,7 +1741,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LATI AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:53.868139+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.518101+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "3000 X 45"
@@ -1741,7 +1752,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LATI AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:53.868141+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.518102+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "3000 X 45"
@@ -1752,10 +1763,21 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LATI AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:53.868142+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.518103+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "ASPH"
+     },
+     "strength": {
+      "value": "PCR 989/F/A/W/T",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LATI AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-28T07:31:22.518104+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "PCR 989/F/A/W/T"
      }
     }
    }
@@ -1778,7 +1800,7 @@
     "effectiveTo": null,
     "sourceClass": "AIP",
     "temporality": "permanent",
-    "contentHash": "c95e78417cf81d60fea79b85e5f7445f2be503cdd5521bd50fd7a5bf9165f44b",
+    "contentHash": "7c42a04965c29c7e2783fb174d30d304358f6507ce477d0ab17f39f26b37c225",
     "fields": {
      "designator": {
       "value": "01",
@@ -1786,7 +1808,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LAKU AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:52.335867+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.506211+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "01"
@@ -1797,7 +1819,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LAKU AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:52.335868+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.506212+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "012.99º"
@@ -1808,7 +1830,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LAKU AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:52.335848+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.506190+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "2198 X 30"
@@ -1819,7 +1841,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LAKU AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:52.335850+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.506192+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "2198 X 30"
@@ -1830,10 +1852,21 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LAKU AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:52.335851+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.506193+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "ASPH"
+     },
+     "strength": {
+      "value": "PCN 50/F/B/X/T",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LAKU AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-28T07:31:22.506195+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "PCN 50/F/B/X/T"
      },
      "thresholdCoordinates": {
       "value": [
@@ -1844,7 +1877,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LAKU AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:52.335871+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.506214+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "420128.16N 0202444.35E"
@@ -1870,7 +1903,7 @@
     "effectiveTo": null,
     "sourceClass": "AIP",
     "temporality": "permanent",
-    "contentHash": "1692392965db356e7a0d82d768da3972996287d158d529bd65f5462486e0570c",
+    "contentHash": "a3fecbb9fcca8517f7081c63c918d59da0b5e6ce9b79faa74200ee88bbc3721a",
     "fields": {
      "designator": {
       "value": "19",
@@ -1878,7 +1911,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LAKU AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:52.335882+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.506224+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "19"
@@ -1889,7 +1922,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LAKU AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:52.335883+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.506226+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "192.99º"
@@ -1900,7 +1933,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LAKU AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:52.335848+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.506190+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "2198 X 30"
@@ -1911,7 +1944,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LAKU AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:52.335850+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.506192+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "2198 X 30"
@@ -1922,10 +1955,21 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LAKU AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:52.335851+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.506193+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "ASPH"
+     },
+     "strength": {
+      "value": "PCN 50/F/B/X/T",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LAKU AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-28T07:31:22.506195+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "PCN 50/F/B/X/T"
      },
      "thresholdCoordinates": {
       "value": [
@@ -1936,7 +1980,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LAKU AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:52.335888+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.506228+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "420237.60N 0202505.84E"
@@ -1962,7 +2006,7 @@
     "effectiveTo": null,
     "sourceClass": "AIP",
     "temporality": "permanent",
-    "contentHash": "3f693cc7aca3aeec38c8b707aec81bf130de2bff17792f95cbe7e52d931ea9ce",
+    "contentHash": "27efec4994b51f8246c286a3479820dc7c7df4b7190657f4e8ea0bd6aeae00b2",
     "fields": {
      "designator": {
       "value": "17",
@@ -1970,7 +2014,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LATI AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:53.868156+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.518117+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "17"
@@ -1981,7 +2025,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LATI AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:53.868158+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.518119+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "174.28"
@@ -1992,7 +2036,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LATI AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:53.868139+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.518101+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "3000 X 45"
@@ -2003,7 +2047,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LATI AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:53.868141+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.518102+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "3000 X 45"
@@ -2014,10 +2058,21 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LATI AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:53.868142+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.518103+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "ASPH"
+     },
+     "strength": {
+      "value": "PCR 989/F/A/W/T",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LATI AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-28T07:31:22.518104+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "PCR 989/F/A/W/T"
      },
      "thresholdCoordinates": {
       "value": [
@@ -2028,7 +2083,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LATI AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:53.868160+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.518121+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "412537.31N 0194308.15E"
@@ -2054,7 +2109,7 @@
     "effectiveTo": null,
     "sourceClass": "AIP",
     "temporality": "permanent",
-    "contentHash": "52cd7dbd216f7a989e3d6ff1d66e0af2235c01496b57b376820762e50f193f13",
+    "contentHash": "266ef3fc8e8a6e0b7f4220d1b10a8bf7456091ee78099bd22873efe3950ef47f",
     "fields": {
      "designator": {
       "value": "35",
@@ -2062,7 +2117,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LATI AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:53.868170+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.518131+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "35"
@@ -2073,7 +2128,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LATI AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:53.868171+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.518132+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "354.29"
@@ -2084,7 +2139,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LATI AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:53.868139+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.518101+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "3000 X 45"
@@ -2095,7 +2150,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LATI AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:53.868141+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.518102+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "3000 X 45"
@@ -2106,10 +2161,21 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LATI AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:53.868142+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.518103+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "ASPH"
+     },
+     "strength": {
+      "value": "PCR 989/F/A/W/T",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LATI AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-28T07:31:22.518104+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "PCR 989/F/A/W/T"
      },
      "thresholdCoordinates": {
       "value": [
@@ -2120,7 +2186,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "LATI AD 2.12",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:53.868174+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.518134+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "412408.74N 0194319.92E"
@@ -2154,7 +2220,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546246+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485516+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "ADDER"
@@ -2168,7 +2234,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546259+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485523+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "403126N 0201817E"
@@ -2179,7 +2245,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546262+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485525+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "L604 , M603"
@@ -2213,7 +2279,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546325+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485555+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "AKIKA"
@@ -2227,7 +2293,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546328+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485557+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "423203N 0193614E"
@@ -2238,7 +2304,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546330+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485558+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "T8"
@@ -2272,7 +2338,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546355+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485574+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "ALELU"
@@ -2286,7 +2352,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546357+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485575+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "422845N 0195102E"
@@ -2297,7 +2363,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546359+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485578+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "M127"
@@ -2331,7 +2397,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546379+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485590+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "ARBER"
@@ -2345,7 +2411,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546381+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485591+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "420749N 0202951E"
@@ -2356,7 +2422,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546383+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485592+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": ""
@@ -2390,7 +2456,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546403+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485605+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "BONZI"
@@ -2404,7 +2470,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546405+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485606+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "413124N 0202726E"
@@ -2415,7 +2481,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546407+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485607+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": ""
@@ -2449,7 +2515,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546426+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485617+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "DIMIS"
@@ -2463,7 +2529,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546428+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485618+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "400421N 0203541E"
@@ -2474,7 +2540,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546429+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485619+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "L604"
@@ -2508,7 +2574,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546446+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485629+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "DIRES"
@@ -2522,7 +2588,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546448+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485631+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "410328N 0191133E"
@@ -2533,7 +2599,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546449+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485632+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "P92 , T2 , T334"
@@ -2567,7 +2633,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546465+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485648+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "DITAN"
@@ -2581,7 +2647,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546467+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485649+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "405644N 0191813E"
@@ -2592,7 +2658,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546469+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485650+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "M26"
@@ -2626,7 +2692,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546485+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485660+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "DOBAR"
@@ -2640,7 +2706,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546487+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485661+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "411958N 0202941E"
@@ -2651,7 +2717,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546494+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485662+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "N141 , T216"
@@ -2685,7 +2751,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546510+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485671+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "EBELA"
@@ -2699,7 +2765,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546512+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485672+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "411136N 0185432E"
@@ -2710,7 +2776,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546514+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485673+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "T2"
@@ -2744,7 +2810,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546531+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485683+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "ELBAK"
@@ -2758,7 +2824,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546533+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485684+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "405151N 0200452E"
@@ -2769,7 +2835,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546534+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485685+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "L604 , T6"
@@ -2803,7 +2869,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546552+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485694+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "ENFAR"
@@ -2817,7 +2883,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546554+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485695+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "414607N 0203204E"
@@ -2828,7 +2894,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546556+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485696+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": ""
@@ -2862,7 +2928,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546887+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485706+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "GOKEL"
@@ -2876,7 +2942,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546890+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485708+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "403554N 0190000E"
@@ -2887,7 +2953,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546892+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485709+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "M26 , M603"
@@ -2921,7 +2987,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546912+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485718+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "INLOT"
@@ -2935,7 +3001,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546914+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485719+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "415847N 0192711E"
@@ -2946,7 +3012,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546916+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485720+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "L604 , T8"
@@ -2980,7 +3046,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546937+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485729+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "KUKAD"
@@ -2994,7 +3060,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546939+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485730+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "422108N 0201053E"
@@ -3005,7 +3071,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546940+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485731+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": ""
@@ -3039,7 +3105,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546956+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485743+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "LIMJA"
@@ -3053,7 +3119,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546958+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485744+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "403412N 0193145E"
@@ -3064,7 +3130,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546960+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485745+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "M603 , N732"
@@ -3098,7 +3164,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546980+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485754+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "MAVAR"
@@ -3112,7 +3178,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546981+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485755+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "414012N 0203148E"
@@ -3123,7 +3189,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546983+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485756+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "P92 , Y400"
@@ -3157,7 +3223,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546998+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485766+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "NANKA"
@@ -3171,7 +3237,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.546999+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485767+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "410724N 0185212E"
@@ -3182,7 +3248,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547001+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485768+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "T334"
@@ -3216,7 +3282,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547015+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485778+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "NIKRO"
@@ -3230,7 +3296,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547017+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485779+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "393957N 0200712E"
@@ -3241,7 +3307,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547019+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485780+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "M127 , Y132"
@@ -3275,7 +3341,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547034+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485790+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "NURSO"
@@ -3289,7 +3355,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547035+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485791+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "403956N 0203217E"
@@ -3300,7 +3366,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547037+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485792+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "T6"
@@ -3334,7 +3400,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547053+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485801+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "ODRAS"
@@ -3348,7 +3414,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547054+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485802+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "413335N 0201027E"
@@ -3359,7 +3425,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547056+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485803+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "P92 , T216"
@@ -3393,7 +3459,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547074+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485814+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "ORRIH"
@@ -3407,7 +3473,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547076+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485815+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "410836N 0203519E"
@@ -3418,7 +3484,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547078+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485815+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": ""
@@ -3452,7 +3518,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547096+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485826+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "OVVER"
@@ -3466,7 +3532,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547098+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485827+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "403230N 0200046E"
@@ -3477,7 +3543,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547100+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485828+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "L611 , M127 , M603"
@@ -3511,7 +3577,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547114+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485837+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "PAPIZ"
@@ -3525,7 +3591,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547116+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485838+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "405330N 0185706E"
@@ -3536,7 +3602,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547117+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485839+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "P92"
@@ -3570,7 +3636,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547135+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485849+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "PETAK"
@@ -3584,7 +3650,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547137+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485850+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "414631N 0191850E"
@@ -3595,7 +3661,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547138+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485851+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "L607"
@@ -3629,7 +3695,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547153+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485861+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "PINDO"
@@ -3643,7 +3709,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547155+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485862+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "402851N 0205721E"
@@ -3654,7 +3720,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547158+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485863+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "M603 , T6"
@@ -3688,7 +3754,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547173+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485872+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "PITAS"
@@ -3702,7 +3768,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547175+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485873+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "395400N 0195040E"
@@ -3713,7 +3779,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547177+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485874+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "N732"
@@ -3747,7 +3813,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547191+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485884+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "RETRA"
@@ -3761,7 +3827,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547193+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485885+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "421342N 0192006E"
@@ -3772,7 +3838,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547195+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485886+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "L604 , Y132 , Y400"
@@ -3806,7 +3872,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547210+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485895+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "RINAV"
@@ -3820,7 +3886,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547212+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485896+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "415901N 0194718E"
@@ -3831,7 +3897,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547214+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485897+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "M127"
@@ -3865,7 +3931,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547231+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485907+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "RODON"
@@ -3879,7 +3945,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547233+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485908+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "412730N 0190600E"
@@ -3890,7 +3956,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547235+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485909+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "L187 , L611 , N732"
@@ -3924,7 +3990,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547252+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485918+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "TIRCA"
@@ -3938,7 +4004,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547254+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485919+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "403304N 0195123E"
@@ -3949,7 +4015,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547257+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485920+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "L187 , M603 , Y132"
@@ -3983,7 +4049,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547273+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485929+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "TUMBO"
@@ -3997,7 +4063,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547275+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485930+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "400402N 0202822E"
@@ -4008,7 +4074,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547277+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485931+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "L611"
@@ -4042,7 +4108,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547292+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485941+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "UNDER"
@@ -4056,7 +4122,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547294+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485942+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "410405N 0195651E"
@@ -4067,7 +4133,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547296+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485943+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "L604"
@@ -4101,7 +4167,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547313+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485953+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "VJOSA"
@@ -4115,7 +4181,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547315+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485954+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": "395855N 0202329E"
@@ -4126,7 +4192,7 @@
       "source": "eAIP Albania (Albcontrol)",
       "section": "ENR 4.4",
       "effective_date": "2026-10-01",
-      "retrieved_at": "2026-10-27T07:36:45.547317+00:00",
+      "retrieved_at": "2026-10-28T07:31:22.485955+00:00",
       "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
       "parser_version": "1.0",
       "raw_text": ""
@@ -4167,7 +4233,7 @@
    "effectiveDate": "2026-10-01",
    "amendmentId": "AIRAC 2026-10-01",
    "sourceKind": "LIVE",
-   "ingestedAt": "2026-10-27T07:36:53.868373+00:00",
+   "ingestedAt": "2026-10-28T07:31:22.518276+00:00",
    "status": "promoted",
    "stats": {
     "total_documents": 8,

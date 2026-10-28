@@ -10,6 +10,7 @@ Parsers return plain records that keep the source text next to each value
 import re
 
 from .common import LAT, LATLON, LON, clean, dms, lat_of, lon_of
+from .eaip_html import strength
 
 NAVAID_TYPES = r"(?:VOR/TACAN|D?VOR/DME|VOR/DME|VORTAC|D?VOR|NDB/DME|NDB|TACAN|DME|LOC|ILS|GP|MKR|L)"
 PAGE_NOISE = re.compile(r"^\s*(AIP\b|DEPARTAMENTO|DIRECCI[OÓ]N|AIRAC|AMDT|ENR \d|AD \d|\d+(\s+\d+){3,}\s*$)")
@@ -410,7 +411,7 @@ def parse_runways(block):
         first = next(((la, lo) for i, la, lo in pairs if lo_edge < i <= hi_edge), None)
         if first:
             thr_lat[n], thr_lon[n] = first
-    ends, dims, surfaces = [], [], []
+    ends, dims, surfaces, strengths = [], [], [], []
     for k, (n, desig) in enumerate(rows):
         # adjacent designator rows (one line each) must not borrow each other's line
         start = max(0, n - 1) if k == 0 or rows[k - 1][0] < n - 1 else n
@@ -446,6 +447,7 @@ def parse_runways(block):
                      "raw_bearing": clean(b.group(0)) if b else None})
         dims.append((_num(dm.group(1)), _num(dm.group(2)), clean(f"{dm.group(1)} x {dm.group(2)}")) if dm else None)
         surfaces.append(sf.group(1) if sf else None)
+        strengths.append(strength(text))
     # pair reciprocal ends (13/31, 09L/27R)
     pairs, used = [], set()
     for i, a in enumerate(ends):
@@ -466,9 +468,10 @@ def parse_runways(block):
         idx = [ends.index(e) for e in pair_ends]
         d = next((dims[i] for i in idx if dims[i]), (None, None, None))
         s = next((surfaces[i] for i in idx if surfaces[i]), None)
+        pcn = next((strengths[i] for i in idx if strengths[i]), None)
         if feet and d[0] is not None:
             d = (round(d[0] * 0.3048), round(d[1] * 0.3048) if d[1] else None, d[2] + " FT")
         runways.append({"pair": "-".join(e["designator"] for e in pair_ends),
-                        "length": d[0], "width": d[1], "raw_dims": d[2], "surface": s,
+                        "length": d[0], "width": d[1], "raw_dims": d[2], "surface": s, "strength": pcn,
                         "ends": pair_ends})
     return runways

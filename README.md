@@ -11,10 +11,13 @@ Requirements: Python 3, plus `pdftotext` (poppler). Some countries also need
 
 ## Update the data (e.g. every AIRAC cycle, 28 days)
 
+Backend commands run from `backend/`; output goes to the top-level `data/` folder.
+
 ```sh
+cd backend
 python3 -m aip_scraper.run --no-cache          # every country, fresh downloads
-python3 -m aip_scraper.validate data/*/*.json   # format check
-python3 -m aip_scraper.rwycheck data/*/*.json   # runway threshold/bearing check
+python3 -m aip_scraper.validate ../data/*/*.json   # format check
+python3 -m aip_scraper.rwycheck ../data/*/*.json   # runway threshold/bearing check
 ```
 
 - Without `--no-cache`, pages already downloaded are reused from `.cache/`. This is fast and good for re-parsing.
@@ -25,7 +28,7 @@ python3 -m aip_scraper.rwycheck data/*/*.json   # runway threshold/bearing check
 Example cron entry (03:00 on the 1st and 15th of each month):
 
 ```cron
-0 3 1,15 * * cd /path/to/aip_database && python3 -m aip_scraper.run --no-cache >> scrape.log 2>&1
+0 3 1,15 * * cd /path/to/aip_database/backend && python3 -m aip_scraper.run --no-cache >> scrape.log 2>&1
 ```
 
 ## Add a new country
@@ -33,14 +36,14 @@ Example cron entry (03:00 on the 1st and 15th of each month):
 1. Get its official links and contacts from Eurocontrol (always pass `--countries`, so other files are not overwritten):
    `python3 scrape_eurocontrol_ais.py --continent "Europe" --countries "Croatia"`
 2. If an existing shared scraper covers it as-is (e.g. another ASECNA state), add one line to `SHARED` in
-   `aip_scraper/run.py`, e.g. `"cameroon": ("_asecna", "scrape_state", ("03", "CMR"))`, and skip to step 3.
-   Otherwise write `aip_scraper/countries/<slug>.py` with `scrape(log) -> Collection`. Reuse what fits:
+   `backend/aip_scraper/run.py`, e.g. `"cameroon": ("_asecna", "scrape_state", ("03", "CMR"))`, and skip to step 3.
+   Otherwise write `backend/aip_scraper/countries/<slug>.py` with `scrape(log) -> Collection`. Reuse what fits:
    - `_eaip.py`: standard Eurocontrol HTML eAIPs (most of Europe and the Middle East).
    - `_asecna.py`: the 17 ASECNA states in Africa.
    - `parsers.py`: PDF AIPs (ENR 3, ENR 4.1, ENR 4.4, AD 2).
    - `eaip_html.py`: HTML tables.
    - `aixm.py`: AIXM 5.1.
-3. Add the slug to `COUNTRIES` in `aip_scraper/run.py`, run it, then validate.
+3. Add the slug to `COUNTRIES` in `backend/aip_scraper/run.py`, run it, then validate.
 4. If the AIP is not publicly available (login, paywall, WAF block, site down), add the slug to `UNAVAILABLE` in
    `run.py` with the reason and delete its JSON file. Access controls and TLS checks are never bypassed.
 
@@ -48,11 +51,38 @@ Example cron entry (03:00 on the 1st and 15th of each month):
 
 | Path | Purpose |
 |---|---|
-| `scrape_eurocontrol_ais.py` | Eurocontrol page → per-country websites and contacts |
-| `aip_scraper/run.py` | runner; `COUNTRIES`, `SHARED` (countries handled by a shared scraper), `UNAVAILABLE` |
-| `aip_scraper/countries/` | one module per country that needs its own logic, plus the shared `_eaip.py`, `_asecna.py` and `_dutch_caribbean.py` |
-| `aip_scraper/common.py` | cached HTTP, PDF text, coordinate parsing |
-| `aip_scraper/features.py` | builds features, issues and publications in the viewer format |
-| `aip_scraper/validate.py`, `rwycheck.py` | quality checks |
-| `aip_scraper/borders.py` | country borders, used only to split ASECNA's shared ENR 3 / 4.4 |
-| `aip_scraper/certs/` | intermediate certificates some AIS servers omit (verified against system roots) |
+| `backend/scrape_eurocontrol_ais.py` | Eurocontrol page → per-country websites and contacts |
+| `backend/aip_scraper/run.py` | runner; `COUNTRIES`, `SHARED` (countries handled by a shared scraper), `UNAVAILABLE` |
+| `backend/aip_scraper/countries/` | one module per country that needs its own logic, plus the shared `_eaip.py`, `_asecna.py` and `_dutch_caribbean.py` |
+| `backend/aip_scraper/common.py` | cached HTTP, PDF text, coordinate parsing |
+| `backend/aip_scraper/features.py` | builds features, issues and publications in the viewer format |
+| `backend/aip_scraper/validate.py`, `rwycheck.py` | quality checks |
+| `backend/aip_scraper/borders.py` | country borders, used only to split ASECNA's shared ENR 3 / 4.4 |
+| `backend/aip_scraper/certs/` | intermediate certificates some AIS servers omit (verified against system roots) |
+| `data/<continent>/<country>.json` | scraped output, one file per country (written by the backend, read by the frontend) |
+| `frontend/` | React + TypeScript map viewer |
+
+## Viewer (map of the data)
+
+A React + TypeScript app in `frontend/` (Vite, MapLibre GL, OpenStreetMap tiles) plots the
+country files. By default it shows Europe.
+
+- **Map:** layer toggles with counts, labels as you zoom in, hover names, and click for the inspector.
+  The inspector shows every field with its unit, the text as published, the AIP section and a source
+  link. It also has the runway table, route point chips and issues.
+- **Overview:** the publication, feature counts and a table of the continent's countries.
+- **Validation:** issues grouped by rule; click one to open the feature on the map.
+- **Sources:** every source document, with the sections and number of values taken from it.
+- **About:** how the data is collected and checked.
+- **Search and links:** search by ICAO code, ident, route or name. Links can be shared, e.g. `#/map?c=sweden&f=ESSA`.
+
+```sh
+cd frontend
+npm install
+npm run dev          # http://localhost:5173 (reads ../data live)
+npm run build        # static site in frontend/dist (data copied in), host anywhere
+AIP_CONTINENTS=europe,africa,middle_east npm run dev   # include more continents
+```
+
+The dev server reads `data/<continent>/<country>.json` directly, so re-scraping a country and
+reloading the page shows the new data.

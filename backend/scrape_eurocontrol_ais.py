@@ -19,6 +19,9 @@ from datetime import datetime, timezone
 from html.parser import HTMLParser
 from urllib.parse import urljoin
 
+# repository root data/ folder (this file lives in backend/)
+DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data")
+
 URL = "https://www.eurocontrol.int/articles/ais-online"
 USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64) aip-database-scraper/1.0"
 CF_EMAIL_PREFIX = "/cdn-cgi/l/email-protection#"
@@ -208,7 +211,7 @@ def main():
     ap.add_argument("--continent", default="South America",
                     help='tab name on the page, or "all" (default: South America)')
     ap.add_argument("--countries", nargs="+", help="only keep these states (exact names)")
-    ap.add_argument("-o", "--output-dir", default="data",
+    ap.add_argument("-o", "--output-dir", default=DATA_DIR,
                     help="one JSON file per state is written to <dir>/<continent>/<state>.json")
     ap.add_argument("--html", help="parse a saved copy of the page instead of downloading it")
     args = ap.parse_args()
