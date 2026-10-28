@@ -1,0 +1,2809 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8828056,
+     19.6869833
+    ]
+   },
+   "properties": {
+    "naturalKey": "MWCB",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "8e9b16b7afaf3ca537bd6a961a47ed002fa85541c754428b194f04fbf995818f",
+    "fields": {
+     "airportName": {
+      "value": "CHARLES KIRKCONNELL International",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCB AD 2.1",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.892107+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "MWCB – CHARLES KIRKCONNELL International"
+     },
+     "arpCoordinates": {
+      "value": [
+       -79.8828056,
+       19.6869833
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCB AD 2.2",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.892112+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "194113.14N 795258.10 W"
+     },
+     "elevation": {
+      "value": 5,
+      "unit": "FT",
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCB AD 2.2",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.892113+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "4.8 FT"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.3577694,
+     19.2927778
+    ]
+   },
+   "properties": {
+    "naturalKey": "MWCR",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e4f9468df3a6536b2e91a9fb2a932047e86e5384573de3c51e0d5fa47c55b427",
+    "fields": {
+     "airportName": {
+      "value": "OWEN ROBERTS/International",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCR AD 2.1",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.898493+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "MWCR – OWEN ROBERTS/International"
+     },
+     "arpCoordinates": {
+      "value": [
+       -81.3577694,
+       19.2927778
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCR AD 2.2",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.898497+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "191734.00N 0812127.97W"
+     },
+     "elevation": {
+      "value": 8,
+      "unit": "FT",
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCR AD 2.2",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.898498+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2.4 M (8 FT"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.3720333,
+     19.2893944
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/GCM",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "84f36d1698ff53ee53ecd7183804a36a607f394809ff681217dd05699d875633",
+    "fields": {
+     "designator": {
+      "value": "GCM",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.880847+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "GCM"
+     },
+     "stationName": {
+      "value": "GRAND CAYMAN",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.880850+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "GRAND CAYMAN"
+     },
+     "navaidType": {
+      "value": "VOR/DME",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.880851+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "VOR/DME"
+     },
+     "frequency": {
+      "value": 115.6,
+      "unit": "MHZ",
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.880853+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "115.600"
+     },
+     "frequencyUnit": {
+      "value": "MHZ",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.880854+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "MHZ"
+     },
+     "frequencyRaw": {
+      "value": "115.600",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.880855+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "115.600"
+     },
+     "coordinates": {
+      "value": [
+       -81.3720333,
+       19.2893944
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.880857+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "191721.82N 812219.32W"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -80.1244444,
+      20.0
+     ],
+     [
+      -79.8565278,
+      19.6899444
+     ],
+     [
+      -79.5,
+      19.4733333
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/A511",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f176f31c12c9a185f9f81bb6ddec721bfc6467fdf404870c3cf2f703e23ac713",
+    "fields": {
+     "designator": {
+      "value": "A511",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882178+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "A511"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882183+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/LESOM",
+       "WPT/BRACC",
+       "WPT/BETAR"
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882188+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/LESOM -> WPT/BRACC -> WPT/BETAR"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -81.3720278,
+      19.2893889
+     ],
+     [
+      -81.6177778,
+      18.6672222
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/B767",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "fc4c1c1d54e6608fa2d599dd751881e3b3a1c3077c7d8688cd674c3e999ace2f",
+    "fields": {
+     "designator": {
+      "value": "B767",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882222+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "B767"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882225+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "NAV/GCM",
+       "WPT/LEROL"
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882227+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "NAV/GRAND CAYMAN -> WPT/LEROL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -79.6383333,
+      20.0
+     ],
+     [
+      -79.5,
+      19.8811111
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/G442",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d4093465b12d8f9ba5b0af3cc249b45f412adaae4ccd0b7bff758a626fcc7702",
+    "fields": {
+     "designator": {
+      "value": "G442",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882252+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "G442"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882254+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/KATAL",
+       "WPT/ILATA"
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882255+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/KATAL -> WPT/ILATA"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -81.4208333,
+      20.0
+     ],
+     [
+      -81.3720278,
+      19.2893889
+     ],
+     [
+      -81.4038889,
+      18.6666667
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/G448",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "85ca7dfa3acfbf96fff5c5ca7fe2d1bf4d6e3bd96f20aa773a9e7d353decd504",
+    "fields": {
+     "designator": {
+      "value": "G448",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882280+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "G448"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882282+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/ATUVI",
+       "NAV/GCM",
+       "WPT/EMONA"
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882283+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/ATUVI -> NAV/GRAND CAYMAN -> WPT/EMONA"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -82.0727778,
+      19.1261111
+     ],
+     [
+      -81.3720278,
+      19.2893889
+     ],
+     [
+      -80.2061111,
+      19.0305556
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/G633",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f9940b9f2a5120d13c10702a1b96082c9a00610e26fa70dc1a5b93c34f559908",
+    "fields": {
+     "designator": {
+      "value": "G633",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882304+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "G633"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882305+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/NUBIS",
+       "NAV/GCM",
+       "WPT/NALRO"
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882307+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/NUBIS -> NAV/GRAND CAYMAN -> WPT/NALRO"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -81.0444444,
+      20.0
+     ],
+     [
+      -81.3720278,
+      19.2893889
+     ],
+     [
+      -81.7519444,
+      18.6672222
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/G877",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "660385bc0048ecef9a20773fd32110052b6e3a9c5317dbdd6a3d716d40bee573",
+    "fields": {
+     "designator": {
+      "value": "G877",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882326+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "G877"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882328+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/RIKEL",
+       "NAV/GCM",
+       "WPT/DELKA"
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882329+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/RIKEL -> NAV/GRAND CAYMAN -> WPT/DELKA"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -81.8333333,
+      20.0
+     ],
+     [
+      -81.3720278,
+      19.2893889
+     ],
+     [
+      -81.2597222,
+      18.6669444
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/L465",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "ace11cf1aa5735ccfb9c4875ae80f775392b8cb58dbe66f7f088ce48a5eed8bb",
+    "fields": {
+     "designator": {
+      "value": "L465",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882437+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "L465"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882438+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/LACET",
+       "NAV/GCM",
+       "WPT/ALOBO"
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882439+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/LACET -> NAV/GRAND CAYMAN -> WPT/ALOBO"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882440+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -80.7177778,
+      20.0
+     ],
+     [
+      -81.3720278,
+      19.2893889
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/R630",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "9175946af3039a07245f2019637567231995cf3a19d1c805c431b26b84cd1cc5",
+    "fields": {
+     "designator": {
+      "value": "R630",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882346+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "R630"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882347+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/KANEX",
+       "NAV/GCM"
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882349+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/KANEX -> NAV/GRAND CAYMAN"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -82.0461111,
+      19.4497222
+     ],
+     [
+      -81.3720278,
+      19.2893889
+     ],
+     [
+      -80.2061111,
+      19.0308333
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/R640",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "893add4bea372e46aa2760d515493b69e4639e3f1de626de8cbb0a59d7444337",
+    "fields": {
+     "designator": {
+      "value": "R640",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882368+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "R640"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882369+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/MAMBI",
+       "NAV/GCM",
+       "WPT/NALRO"
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882371+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/MAMBI -> NAV/GRAND CAYMAN -> WPT/NALRO"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -82.0930556,
+      18.7686111
+     ],
+     [
+      -81.3720278,
+      19.2893889
+     ],
+     [
+      -80.6252778,
+      19.4886111
+     ],
+     [
+      -79.8565278,
+      19.6899444
+     ],
+     [
+      -79.6383333,
+      20.0
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/R644",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f4da7ed6793c754265208535348c370ad4636df3ce99d4344b39223d849b1314",
+    "fields": {
+     "designator": {
+      "value": "R644",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882396+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "R644"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882397+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/ULISA",
+       "NAV/GCM",
+       "WPT/TEXAM",
+       "WPT/BRACC",
+       "WPT/KATAL"
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882398+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/ULISA -> NAV/GRAND CAYMAN -> WPT/TEXAM -> WPT/BRACC -> WPT/KATAL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -80.1244444,
+      20.0
+     ],
+     [
+      -79.8565278,
+      19.6899444
+     ],
+     [
+      -79.5,
+      19.4733333
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/T802",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "3cd31cf60b9c356f4340b917c348993895ad8ecaedab9505720a158e032b854b",
+    "fields": {
+     "designator": {
+      "value": "T802",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882457+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "T802"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882458+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/LESOM",
+       "WPT/BRACC",
+       "WPT/BETAR"
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882460+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/LESOM -> WPT/BRACC -> WPT/BETAR"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882461+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -79.6383333,
+      20.0
+     ],
+     [
+      -79.8565278,
+      19.6899444
+     ],
+     [
+      -81.3720278,
+      19.2893889
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/T931",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "1209ed363c9952e1a54006380618d2a2c5518ef6bca21b6df83b891aaa6a1d00",
+    "fields": {
+     "designator": {
+      "value": "T931",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882478+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "T931"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882479+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/KATAL",
+       "WPT/BRACC",
+       "NAV/GCM"
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882480+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/KATAL -> WPT/BRACC -> NAV/GRAND CAYMAN"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882481+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -80.7177778,
+      20.0
+     ],
+     [
+      -81.3720278,
+      19.2893889
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/W8",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "58203fb3b12c69eda9c15d89e35c4a056c2c2aad5ae0657097a442cdfc42c45f",
+    "fields": {
+     "designator": {
+      "value": "W8",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882416+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "W8"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882417+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/MATIS",
+       "NAV/GCM"
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882418+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/MATIS -> NAV/GRAND CAYMAN"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -79.8914972,
+      19.6862306
+     ],
+     [
+      -79.8741278,
+      19.6877389
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "MWCB/RWY/09-27",
+    "parentKey": "MWCB",
+    "featureType": "runway",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "03d98396677e6a0863044868d4852bdbf4486572892bb08b01c0d066aa89f5aa",
+    "fields": {
+     "pairDesignator": {
+      "value": "09-27",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCB AD 2.12",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.892154+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "09-27"
+     },
+     "length": {
+      "value": 1829.0,
+      "unit": "M",
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCB AD 2.12",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.892148+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "1829 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCB AD 2.12",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.892150+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "1829 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCB AD 2.12",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.892151+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -81.3676194,
+      19.2904361
+     ],
+     [
+      -81.3490611,
+      19.2948556
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "MWCR/RWY/08-26",
+    "parentKey": "MWCR",
+    "featureType": "runway",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "a7c5ba2c1ec2b0a7258b3d7c7db9c6e31d5c22d844430c1dcf45d4dba7681614",
+    "fields": {
+     "pairDesignator": {
+      "value": "08-26",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCR AD 2.12",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.898526+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "08-26"
+     },
+     "length": {
+      "value": 2398.0,
+      "unit": "M",
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCR AD 2.12",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.898522+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2398 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCR AD 2.12",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.898524+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2398 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCR AD 2.12",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.898525+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8914972,
+     19.6862306
+    ]
+   },
+   "properties": {
+    "naturalKey": "MWCB/RWY/09",
+    "parentKey": "MWCB/RWY/09-27",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "794ccd8fdf6e5c9f3070480ad5be940359d9355187ad13b3f971d569092abcd6",
+    "fields": {
+     "designator": {
+      "value": "09",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCB AD 2.12",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.892169+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "09"
+     },
+     "length": {
+      "value": 1829.0,
+      "unit": "M",
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCB AD 2.12",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.892148+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "1829 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCB AD 2.12",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.892150+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "1829 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCB AD 2.12",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.892151+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       -79.8914972,
+       19.6862306
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCB AD 2.12",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.892174+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "194110.43N 0795329.39W"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8741278,
+     19.6877389
+    ]
+   },
+   "properties": {
+    "naturalKey": "MWCB/RWY/27",
+    "parentKey": "MWCB/RWY/09-27",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "62812d20746a661864b1d21c8c446adc1a71f3cb8ef9e7495b5bf9a3327f1ace",
+    "fields": {
+     "designator": {
+      "value": "27",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCB AD 2.12",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.892182+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "27"
+     },
+     "length": {
+      "value": 1829.0,
+      "unit": "M",
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCB AD 2.12",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.892148+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "1829 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCB AD 2.12",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.892150+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "1829 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCB AD 2.12",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.892151+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       -79.8741278,
+       19.6877389
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCB AD 2.12",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.892186+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "194115.86N 0795226.86W"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.3676194,
+     19.2904361
+    ]
+   },
+   "properties": {
+    "naturalKey": "MWCR/RWY/08",
+    "parentKey": "MWCR/RWY/08-26",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e4fbcf75634d316e2c4a011e41991530ea151032c1c8eac78dd700bad6a0c409",
+    "fields": {
+     "designator": {
+      "value": "08",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCR AD 2.12",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.898537+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "08"
+     },
+     "length": {
+      "value": 2398.0,
+      "unit": "M",
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCR AD 2.12",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.898522+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2398 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCR AD 2.12",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.898524+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2398 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCR AD 2.12",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.898525+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       -81.3676194,
+       19.2904361
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCR AD 2.12",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.898541+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "191725.57N 0812203.43W"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.3490611,
+     19.2948556
+    ]
+   },
+   "properties": {
+    "naturalKey": "MWCR/RWY/26",
+    "parentKey": "MWCR/RWY/08-26",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b5c22f9188f7439e04a0430ed857507b5da5544a0eabcdf09d9850807ece315a",
+    "fields": {
+     "designator": {
+      "value": "26",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCR AD 2.12",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.898549+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "26"
+     },
+     "length": {
+      "value": 2398.0,
+      "unit": "M",
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCR AD 2.12",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.898522+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2398 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCR AD 2.12",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.898524+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2398 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCR AD 2.12",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.898525+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       -81.3490611,
+       19.2948556
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "MWCR AD 2.12",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.898553+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728406Aerodrome-20251216021655.pdf",
+      "parser_version": "1.0",
+      "raw_text": "191741.48N 0812056.62W"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.2597222,
+     18.6669444
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ALOBO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "cc5dab3006099c443830a59297d6715471b4a8cc11082def64b2fab9a762d1b1",
+    "fields": {
+     "designator": {
+      "value": "ALOBO",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879083+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ALOBO"
+     },
+     "coordinates": {
+      "value": [
+       -81.2597222,
+       18.6669444
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879091+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "184001.00N 0811535.000W"
+     },
+     "atsRoutes": {
+      "value": "G435",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879093+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "G435"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.4208333,
+     20.0
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ATUVI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "22597bf0ac219683c2b3ebaa4d968c9d6f2619f6389f349323b3914e32826909",
+    "fields": {
+     "designator": {
+      "value": "ATUVI",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879139+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ATUVI"
+     },
+     "coordinates": {
+      "value": [
+       -81.4208333,
+       20.0
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879140+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "200000.000N 0812515.000W"
+     },
+     "atsRoutes": {
+      "value": "G448",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879141+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "G448"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.5000706,
+     19.4733658
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/BETAR",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d9f7b6d7c2a3ff0ba12ed8f34eccafb5bb928b7250fd6a9d285ca2e0e728b5bd",
+    "fields": {
+     "designator": {
+      "value": "BETAR",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879162+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "BETAR"
+     },
+     "coordinates": {
+      "value": [
+       -79.5000706,
+       19.4733658
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879164+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "192824.117N 0793000.254W"
+     },
+     "atsRoutes": {
+      "value": "A511",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879165+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "A511"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8565278,
+     19.6899444
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/BRACC",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d275726a8d0e6df81b884afef77a43e54e2a5b4118303ed772efa993d02624cf",
+    "fields": {
+     "designator": {
+      "value": "BRACC",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882090+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "BRACC"
+     },
+     "coordinates": {
+      "value": [
+       -79.8565278,
+       19.6899444
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882093+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "194123.8N 0795123.5W"
+     },
+     "atsRoutes": {
+      "value": "A511, R644, T802, T931",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882094+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "A511, R644, T802, T931"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.7518583,
+     18.6672808
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DELKA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2a9a01f932924776031095c3c0bbb5f10131432e7e6a69519b42971148ee3ff0",
+    "fields": {
+     "designator": {
+      "value": "DELKA",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879180+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "DELKA"
+     },
+     "coordinates": {
+      "value": [
+       -81.7518583,
+       18.6672808
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879181+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "184002.211N 0814506.690W"
+     },
+     "atsRoutes": {
+      "value": "G877",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879182+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "G877"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.4038889,
+     18.6666667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/EMONA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f71cf9af8244eab5f54685b002086b5fca04271aef2f6ba21ce1683f92b6e6af",
+    "fields": {
+     "designator": {
+      "value": "EMONA",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879198+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "EMONA"
+     },
+     "coordinates": {
+      "value": [
+       -81.4038889,
+       18.6666667
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879199+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "184000.000N 0812414.000W"
+     },
+     "atsRoutes": {
+      "value": "G448",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879201+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "G448"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.5,
+     19.8811111
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ILATA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "9377189764d49b6737c8be8f33958f608d0f960f65a28e553fa61aa7fff61567",
+    "fields": {
+     "designator": {
+      "value": "ILATA",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882120+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ILATA"
+     },
+     "coordinates": {
+      "value": [
+       -79.5,
+       19.8811111
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882122+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "195252N 0793000W"
+     },
+     "atsRoutes": {
+      "value": "G442",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882123+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "G442"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.7177778,
+     20.0
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/KANEX",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "0d11aa7ebb917faaa24185898e8d0c0b51c02d9537071507ea0265d3801633c7",
+    "fields": {
+     "designator": {
+      "value": "KANEX",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882130+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "KANEX"
+     },
+     "coordinates": {
+      "value": [
+       -80.7177778,
+       20.0
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882132+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "200000N 0804304W"
+     },
+     "atsRoutes": {
+      "value": "R630",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882133+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "R630"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.6383333,
+     20.0
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/KATAL",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "57ddb643ed58e202985592da88e633c7a7bd4a607d9f6abb0c62687a31230868",
+    "fields": {
+     "designator": {
+      "value": "KATAL",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882109+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "KATAL"
+     },
+     "coordinates": {
+      "value": [
+       -79.6383333,
+       20.0
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882110+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "200000N 0793818W"
+     },
+     "atsRoutes": {
+      "value": "G442, R644, T931",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882111+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "G442, R644, T931"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.8333333,
+     20.0
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LACET",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "009fccc4be517cea3c3e4d6b2221891c88feb662cb227a30f242a1763b10bcf7",
+    "fields": {
+     "designator": {
+      "value": "LACET",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882139+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LACET"
+     },
+     "coordinates": {
+      "value": [
+       -81.8333333,
+       20.0
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882141+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "200000N 0815000W"
+     },
+     "atsRoutes": {
+      "value": "L465",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.882142+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "L465"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.6177778,
+     18.6672222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LEROL",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "ca383652422330bcda72b145c8c25be71abc6088d01ea71b04c01fc3f83a4971",
+    "fields": {
+     "designator": {
+      "value": "LEROL",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879233+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LEROL"
+     },
+     "coordinates": {
+      "value": [
+       -81.6177778,
+       18.6672222
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879235+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "184002.000N 0813704.000W"
+     },
+     "atsRoutes": {
+      "value": "B767",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879236+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "B767"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.1244444,
+     20.0
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LESOM",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "6a71d0248749bec61b7e1f9894d98c7370381d64d31f15462f49b505b98a3abe",
+    "fields": {
+     "designator": {
+      "value": "LESOM",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879127+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LESOM"
+     },
+     "coordinates": {
+      "value": [
+       -80.1244444,
+       20.0
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879128+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "200000.000N 0800728.000W"
+     },
+     "atsRoutes": {
+      "value": "A511",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879130+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "A511"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.0461111,
+     19.4497222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/MAMBI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "5b587c9367eb8bb69b4160110c0b890503da8094ae3c332e33b37925cc5d46b8",
+    "fields": {
+     "designator": {
+      "value": "MAMBI",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879150+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "MAMBI"
+     },
+     "coordinates": {
+      "value": [
+       -82.0461111,
+       19.4497222
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879151+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "192659.000N 0820246.000W"
+     },
+     "atsRoutes": {
+      "value": "R640",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879152+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "R640"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.4721783,
+     18.9072122
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/MATIS",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "57bbdd56ceca4e321b08f693a9d595e07b42ba7454eadd036146619189b7c02d",
+    "fields": {
+     "designator": {
+      "value": "MATIS",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879171+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "MATIS"
+     },
+     "coordinates": {
+      "value": [
+       -80.4721783,
+       18.9072122
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879172+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "185425.964N 0802819.842W"
+     },
+     "atsRoutes": {
+      "value": "W8",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879173+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "W8"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.2061469,
+     19.0308225
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/NALRO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "5c4adc16e14b85cc71d1eaffde8809103b374297475c21bb20e1e168183cd6a7",
+    "fields": {
+     "designator": {
+      "value": "NALRO",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879190+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "NALRO"
+     },
+     "coordinates": {
+      "value": [
+       -80.2061469,
+       19.0308225
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879191+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "190150.961N 0801222.129W"
+     },
+     "atsRoutes": {
+      "value": "G633/R640",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879192+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "G633/R640"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.0727778,
+     19.1261111
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/NUBIS",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "db2b0cee0fb02afad071209dcece77eec05cd969257ce1802a1a41399a8cb3a8",
+    "fields": {
+     "designator": {
+      "value": "NUBIS",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879207+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "NUBIS"
+     },
+     "coordinates": {
+      "value": [
+       -82.0727778,
+       19.1261111
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879209+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "190734.000N 0820422.000W"
+     },
+     "atsRoutes": {
+      "value": "G633",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879210+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "G633"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.7177778,
+     20.0
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/RIKEL",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "693037f090a442ca35ae3a1d4cf8fca25e249ef43be34a0e36bc2f4bac690c7f",
+    "fields": {
+     "designator": {
+      "value": "RIKEL",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879216+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RIKEL"
+     },
+     "coordinates": {
+      "value": [
+       -80.7177778,
+       20.0
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879218+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "200000.000N 0804304.000W"
+     },
+     "atsRoutes": {
+      "value": "G877",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879219+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "G877"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.6252467,
+     19.4886511
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/TEXAM",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "92d0aa07e04052a0f9c5afc34ce25404ba6b2d124ada8dbba653d0e4700906d0",
+    "fields": {
+     "designator": {
+      "value": "TEXAM",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879225+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "TEXAM"
+     },
+     "coordinates": {
+      "value": [
+       -80.6252467,
+       19.4886511
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879226+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "192919.144N 0803730.888W"
+     },
+     "atsRoutes": {
+      "value": "R644",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879227+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "R644"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.0930556,
+     18.7686111
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ULISA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-03-19-current",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "4f362550aa2e361a502feaa33679f62700e11f7733cf75e3dc720a18213f4550",
+    "fields": {
+     "designator": {
+      "value": "ULISA",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879241+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ULISA"
+     },
+     "coordinates": {
+      "value": [
+       -82.0930556,
+       18.7686111
+      ],
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879242+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "184607.000N 0820535.000W"
+     },
+     "atsRoutes": {
+      "value": "R644",
+      "unit": null,
+      "source": "AIP Cayman Islands (CIAA)",
+      "section": "ENR 4.3",
+      "effective_date": "2026-03-19",
+      "retrieved_at": "2026-10-27T12:04:54.879243+00:00",
+      "source_url": "https://www.caymanairports.com/assets/documents/1758728389Enroute-20251216021612.pdf",
+      "parser_version": "1.0",
+      "raw_text": "R644"
+     }
+    }
+   }
+  }
+ ],
+ "featureTypes": [
+  {
+   "featureType": "aerodrome",
+   "count": 2
+  },
+  {
+   "featureType": "navaid",
+   "count": 1
+  },
+  {
+   "featureType": "route",
+   "count": 13
+  },
+  {
+   "featureType": "runway",
+   "count": 2
+  },
+  {
+   "featureType": "runwayDirection",
+   "count": 4
+  },
+  {
+   "featureType": "waypoint",
+   "count": 19
+  }
+ ],
+ "publications": [
+  {
+   "cycleId": "2026-03-19-current",
+   "effectiveDate": "2026-03-19",
+   "amendmentId": "Amendment package 01-2026",
+   "sourceKind": "LIVE",
+   "ingestedAt": "2026-10-27T12:04:54.898702+00:00",
+   "status": "promoted",
+   "stats": {
+    "total_documents": 2,
+    "parsed_features": 41,
+    "issue_count": 0,
+    "error_count": 0,
+    "warning_count": 0
+   },
+   "sourceUrl": "https://www.caymanairports.com/aeronautical-information-publication",
+   "notes": null
+  }
+ ],
+ "issues": [],
+ "meta": {
+  "state": "Cayman Islands",
+  "continent": "North & Central America",
+  "websites": [
+   {
+    "name": "AIP Cayman Islands",
+    "url": "https://www.caymanairports.com/aeronautical-information-publication"
+   }
+  ],
+  "contact_emails": [
+   "laurie.farrington@caymanairports.com"
+  ]
+ }
+}

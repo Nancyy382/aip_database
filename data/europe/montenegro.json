@@ -1,0 +1,4922 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.2519444,
+     42.3594444
+    ]
+   },
+   "properties": {
+    "naturalKey": "LYPG",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "44ee6db4db90093218fc19d63ba1810be56d22256ea180e0dec61c7cac55d19e",
+    "fields": {
+     "airportName": {
+      "value": "PODGORICA",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYPG AD 2.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.445077+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYPG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "PODGORICA"
+     },
+     "arpCoordinates": {
+      "value": [
+       19.2519444,
+       42.3594444
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYPG AD 2.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.445086+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYPG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "422134N 0191507E"
+     },
+     "elevation": {
+      "value": 122,
+      "unit": "FT",
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYPG AD 2.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.445089+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYPG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3 ELEV / Reference temperature / Mean low temperature 122 FT / 31°C (JUL) / Data not AVBL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7233333,
+     42.4047222
+    ]
+   },
+   "properties": {
+    "naturalKey": "LYTV",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2df13fbc856fee1de9e704c1098984c96faa96a2400f681c4a0e7c81a509d85b",
+    "fields": {
+     "airportName": {
+      "value": "TIVAT",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYTV AD 2.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.466068+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYTV-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "TIVAT"
+     },
+     "arpCoordinates": {
+      "value": [
+       18.7233333,
+       42.4047222
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYTV AD 2.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.466074+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYTV-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "422417N 0184324E"
+     },
+     "elevation": {
+      "value": 20,
+      "unit": "FT",
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYTV AD 2.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.466075+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYTV-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3 ELEV / Reference temperature / Mean low temperature 20 FT / 29°C ( JUL ) / Data not AVBL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.5755556,
+     42.9447222
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/MOJ",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e471ce828514a93a730f7c13bf52b5087247394ccdf04bc74d51f5f9c0fb8ceb",
+    "fields": {
+     "designator": {
+      "value": "MOJ",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.475701+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "MOJ"
+     },
+     "stationName": {
+      "value": "MOJKOVAC NDB (5°E/2025)",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.475704+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "MOJKOVAC NDB (5°E/2025)"
+     },
+     "navaidType": {
+      "value": "NDB",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.475706+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "NDB"
+     },
+     "coordinates": {
+      "value": [
+       19.5755556,
+       42.9447222
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.475712+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "425641N 0193432E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.9241667,
+     42.7763889
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/NIK",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "0eb45dc4eb4f6f202987dc340aed471411f3e2e248e04fc4cac8ee8853af4337",
+    "fields": {
+     "designator": {
+      "value": "NIK",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.475750+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "NIK"
+     },
+     "stationName": {
+      "value": "NIKŠIĆ NDB (5°E/2025)",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.475752+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "NIKŠIĆ NDB (5°E/2025)"
+     },
+     "navaidType": {
+      "value": "NDB",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.475753+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "NDB"
+     },
+     "coordinates": {
+      "value": [
+       18.9241667,
+       42.7763889
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.475759+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "424635N 0185527E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.2547222,
+     42.3861111
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/POD",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "bd6ba6e9173525ddec1acc44c4f4828d6da1ade9594e6b29e84f9a4ab0cac6e7",
+    "fields": {
+     "designator": {
+      "value": "POD",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.475805+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "POD"
+     },
+     "stationName": {
+      "value": "PODGORICA VOR/DME (5°E/2025)",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.475806+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "PODGORICA VOR/DME (5°E/2025)"
+     },
+     "navaidType": {
+      "value": "VOR/DME",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.475807+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "VOR/DME"
+     },
+     "coordinates": {
+      "value": [
+       19.2547222,
+       42.3861111
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.475813+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "422310N 0191517E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.2547222,
+     42.3886111
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/POD/NDB",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "331cfcf706a9a1c7e7ff059d2e63e646b375919742a2a0af0c0633d4fa2938ea",
+    "fields": {
+     "designator": {
+      "value": "POD",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.475838+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "POD"
+     },
+     "stationName": {
+      "value": "PODGORICA NDB (5°E/2025)",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.475839+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "PODGORICA NDB (5°E/2025)"
+     },
+     "navaidType": {
+      "value": "NDB",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.475840+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "NDB"
+     },
+     "coordinates": {
+      "value": [
+       19.2547222,
+       42.3886111
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.475846+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "422319N 0191517E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.8002778,
+     42.2819444
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/TAZ",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2a79448f37384a91b3eea11d6e6d68616c8ab6b25e20db8b062e9b8172049f2d",
+    "fields": {
+     "designator": {
+      "value": "TAZ",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.475869+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "TAZ"
+     },
+     "stationName": {
+      "value": "TIVAT NDB (5°E/2025)",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.475871+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "TIVAT NDB (5°E/2025)"
+     },
+     "navaidType": {
+      "value": "NDB",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.475872+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "NDB"
+     },
+     "coordinates": {
+      "value": [
+       18.8002778,
+       42.2819444
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.475877+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "421655N 0184801E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      19.1,
+      41.4583333
+     ],
+     [
+      18.6858333,
+      41.4811111
+     ],
+     [
+      18.1291667,
+      41.5027778
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/A482",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "8ce5851fe67d93b85296deb82f8e3a43eb6383879f47c4777fb23de2be726b0f",
+    "fields": {
+     "designator": {
+      "value": "A482",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.478507+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "A482"
+     },
+     "routeClass": {
+      "value": "ENR",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.478511+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/RODON",
+       "WPT/BALEM",
+       "WPT/CRAYE"
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.478514+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/RODON -> WPT/BALEM -> WPT/CRAYE"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      19.1,
+      41.4583333
+     ],
+     [
+      18.885,
+      42.1005556
+     ],
+     [
+      18.8002778,
+      42.2819444
+     ],
+     [
+      18.7202778,
+      42.3238889
+     ],
+     [
+      18.5541667,
+      42.4105556
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/L187",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b5826e721b3d6002045b3fdc2bf609d900b234f8e24b6493c0b7ee02bc86aad9",
+    "fields": {
+     "designator": {
+      "value": "L187",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.514631+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L187"
+     },
+     "routeClass": {
+      "value": "ENR",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.514639+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/RODON",
+       "WPT/LASTI",
+       "NAV/TAZ",
+       "WPT/BIGLO",
+       "WPT/TIBRI"
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.514642+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/RODON -> WPT/LASTI -> NAV/TAZ -> WPT/BIGLO -> WPT/TIBRI"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      19.335,
+      42.2283333
+     ],
+     [
+      19.2547222,
+      42.3861111
+     ],
+     [
+      18.9241667,
+      42.7763889
+     ],
+     [
+      18.5580556,
+      43.1427778
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/L604",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "953610358260b8e89ba6e4cf66013bc196623d63d86cc8a0d7e7c3baddf0dac7",
+    "fields": {
+     "designator": {
+      "value": "L604",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.514689+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L604"
+     },
+     "routeClass": {
+      "value": "ENR",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.514691+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/RETRA",
+       "NAV/POD",
+       "NAV/NIK",
+       "WPT/GACMO"
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.514693+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/RETRA -> NAV/POD -> NAV/NIK -> WPT/GACMO"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      19.3138889,
+      41.7752778
+     ],
+     [
+      19.1716667,
+      41.8830556
+     ],
+     [
+      18.885,
+      42.1005556
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/L607",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "6d6869fea5e74f77aed6470e3143b9bed249a8b7c38645d9718bee7eeb0f696c",
+    "fields": {
+     "designator": {
+      "value": "L607",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.514717+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L607"
+     },
+     "routeClass": {
+      "value": "ENR",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.514718+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/PETAK",
+       "WPT/LEBGA",
+       "WPT/LASTI"
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.514720+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/PETAK -> WPT/LEBGA -> WPT/LASTI"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      21.3972222,
+      42.1594444
+     ],
+     [
+      20.3113889,
+      42.8338889
+     ],
+     [
+      19.6383333,
+      43.2397222
+     ],
+     [
+      19.4433333,
+      43.3555556
+     ],
+     [
+      19.1444444,
+      43.5316667
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/L608",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "ae7bd4e349780f1bbee927ec151298b552d9fdb75abf5ac8729b85a7313334c8",
+    "fields": {
+     "designator": {
+      "value": "L608",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.514747+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L608"
+     },
+     "routeClass": {
+      "value": "ENR",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.514749+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/LONTA",
+       "WPT/DOLEV",
+       "WPT/YUYUH",
+       "WPT/GENLU",
+       "WPT/PODOB"
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.514750+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/LONTA -> WPT/DOLEV -> WPT/YUYUH -> WPT/GENLU -> WPT/PODOB"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      19.1,
+      41.4583333
+     ],
+     [
+      18.6636111,
+      41.9272222
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/L611",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d693e723c0dcc26585b96459cd0632007e11d7cd8033c0b747445ff34b4840a7",
+    "fields": {
+     "designator": {
+      "value": "L611",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.514776+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L611"
+     },
+     "routeClass": {
+      "value": "ENR",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.514777+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/RODON",
+       "WPT/KOFER"
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.514779+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/RODON -> WPT/KOFER"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      19.8505556,
+      42.4791667
+     ],
+     [
+      19.8527778,
+      42.6458333
+     ],
+     [
+      19.8747222,
+      44.3238889
+     ],
+     [
+      19.6675,
+      44.9094444
+     ],
+     [
+      19.5461111,
+      45.2472222
+     ],
+     [
+      19.4441667,
+      45.5266667
+     ],
+     [
+      19.3558333,
+      46.0472222
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/M127",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "dcd5b40abe3698090196cbbc901a000b5997856d4fda1b17e7b662021052eba6",
+    "fields": {
+     "designator": {
+      "value": "M127",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.514865+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M127"
+     },
+     "routeClass": {
+      "value": "ENR",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.514866+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/ALELU",
+       "WPT/UTOMO",
+       "NAV/VAL",
+       "WPT/OKTAS",
+       "WPT/TADAM",
+       "WPT/LULIK",
+       "WPT/TONDO"
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.514867+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/ALELU -> WPT/UTOMO -> NAV/VAL -> WPT/OKTAS -> WPT/TADAM -> WPT/LULIK -> WPT/TONDO"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      19.8505556,
+      42.4791667
+     ],
+     [
+      20.1922222,
+      44.1405556
+     ],
+     [
+      20.3111111,
+      44.8194444
+     ],
+     [
+      20.2272222,
+      45.4219444
+     ],
+     [
+      20.0941667,
+      46.1638889
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/M173",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c09cadfc367b90453d0c80558f9cfa4c2b1c4670bb027e92edd77a988d53023d",
+    "fields": {
+     "designator": {
+      "value": "M173",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.514894+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M173"
+     },
+     "routeClass": {
+      "value": "ENR",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.514895+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/ALELU",
+       "WPT/ELGEB",
+       "NAV/BGD",
+       "WPT/TISAK",
+       "WPT/PARAK"
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.514897+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/ALELU -> WPT/ELGEB -> NAV/BGD -> WPT/TISAK -> WPT/PARAK"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      21.0555556,
+      42.1125
+     ],
+     [
+      20.0219444,
+      42.7475
+     ],
+     [
+      19.5886111,
+      43.0069444
+     ],
+     [
+      19.2886111,
+      43.1844444
+     ],
+     [
+      19.0777778,
+      43.3080556
+     ],
+     [
+      18.7872222,
+      43.4772222
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/M867",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "51cfc3bd1bddf84a0dc3daa81bb2ff7faff33d35643f04d126f6f77e22f91daf",
+    "fields": {
+     "designator": {
+      "value": "M867",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.514939+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M867"
+     },
+     "routeClass": {
+      "value": "ENR",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.514940+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/KOGAT",
+       "WPT/MEDUX",
+       "WPT/MODRA",
+       "WPT/BUNEX",
+       "WPT/GORAV",
+       "WPT/OSLUD"
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.514941+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/KOGAT -> WPT/MEDUX -> WPT/MODRA -> WPT/BUNEX -> WPT/GORAV -> WPT/OSLUD"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      19.6038889,
+      42.5341667
+     ],
+     [
+      18.6986111,
+      43.3486111
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/N132",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "3d3103b84878bc60f90618cfeed43cc0edaac29e3f5e427e1d661ec048a4e2ce",
+    "fields": {
+     "designator": {
+      "value": "N132",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.514974+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "N132"
+     },
+     "routeClass": {
+      "value": "ENR",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.514975+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/AKIKA",
+       "WPT/NILKU"
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.514976+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/AKIKA -> WPT/NILKU"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      19.6038889,
+      42.5341667
+     ],
+     [
+      19.5886111,
+      43.0069444
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/N142",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b24fdd98ec99eb30708c2309070492e5518d1f52f8a3263f4fb640a36e5a1c1b",
+    "fields": {
+     "designator": {
+      "value": "N142",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.514990+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "N142"
+     },
+     "routeClass": {
+      "value": "ENR",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.514992+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/AKIKA",
+       "WPT/MODRA"
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.514993+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/AKIKA -> WPT/MODRA"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      19.8505556,
+      42.4791667
+     ],
+     [
+      19.6383333,
+      43.2397222
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/N146",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "aa83329d58a5885336f5264bc2a0033fc96f21cb162aa1ec5f03e71e369e1dc1",
+    "fields": {
+     "designator": {
+      "value": "N146",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.515007+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "N146"
+     },
+     "routeClass": {
+      "value": "ENR",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.515008+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/ALELU",
+       "WPT/YUYUH"
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.515010+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/ALELU -> WPT/YUYUH"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      19.5755556,
+      42.9447222
+     ],
+     [
+      20.4644444,
+      43.9083333
+     ],
+     [
+      20.8125,
+      44.3269444
+     ],
+     [
+      21.1694444,
+      44.7488889
+     ],
+     [
+      21.1997222,
+      44.7791667
+     ],
+     [
+      21.4097222,
+      44.9883333
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/N164",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d343a3cbf1bbd7cd33a72f9478861f575c5d573038dadfcb04bab459e054a310",
+    "fields": {
+     "designator": {
+      "value": "N164",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.515034+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "N164"
+     },
+     "routeClass": {
+      "value": "ENR",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.515035+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR"
+     },
+     "waypointSequence": {
+      "value": [
+       "NAV/MOJ",
+       "WPT/NANER",
+       "WPT/XENIT",
+       "WPT/DONIV",
+       "WPT/TAZUM",
+       "WPT/DIRER"
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.515037+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "NAV/MOJ -> WPT/NANER -> WPT/XENIT -> WPT/DONIV -> WPT/TAZUM -> WPT/DIRER"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      19.1,
+      41.4583333
+     ],
+     [
+      19.1716667,
+      41.8830556
+     ],
+     [
+      19.2547222,
+      42.3861111
+     ],
+     [
+      19.5755556,
+      42.9447222
+     ],
+     [
+      19.5886111,
+      43.0069444
+     ],
+     [
+      19.6383333,
+      43.2397222
+     ],
+     [
+      19.7313889,
+      43.6708333
+     ],
+     [
+      19.8091667,
+      44.0269444
+     ],
+     [
+      19.8747222,
+      44.3238889
+     ],
+     [
+      20.3111111,
+      44.8194444
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/N732",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e0b45b07bf3b16846eb50c18b782cb1cfce150ccd4c1a95188345e4ae538c227",
+    "fields": {
+     "designator": {
+      "value": "N732",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.515078+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "N732"
+     },
+     "routeClass": {
+      "value": "ENR",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.515079+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/RODON",
+       "WPT/LEBGA",
+       "NAV/POD",
+       "NAV/MOJ",
+       "WPT/MODRA",
+       "WPT/YUYUH",
+       "WPT/TORTO",
+       "WPT/KOSIV",
+       "NAV/VAL",
+       "NAV/BGD"
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.515081+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/RODON -> WPT/LEBGA -> NAV/POD -> NAV/MOJ -> WPT/MODRA -> WPT/YUYUH -> WPT/TORTO -> WPT/KOSIV -> NAV/VAL -> NAV/BGD"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      18.5541667,
+      42.4105556
+     ],
+     [
+      18.9241667,
+      42.7763889
+     ],
+     [
+      19.2886111,
+      43.1844444
+     ],
+     [
+      19.4433333,
+      43.3555556
+     ],
+     [
+      19.7313889,
+      43.6708333
+     ],
+     [
+      20.1922222,
+      44.1405556
+     ],
+     [
+      20.7766667,
+      44.7227778
+     ],
+     [
+      21.3083333,
+      45.24
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/P129",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "9a3c554e5a768b99faaafd57bc83de82f5c3641df38ed8c7f0388ae25680567f",
+    "fields": {
+     "designator": {
+      "value": "P129",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.515132+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "P129"
+     },
+     "routeClass": {
+      "value": "ENR",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.515133+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/TIBRI",
+       "NAV/NIK",
+       "WPT/BUNEX",
+       "WPT/GENLU",
+       "WPT/TORTO",
+       "WPT/ELGEB",
+       "WPT/IRGOR",
+       "WPT/MAVIT"
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.515135+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/TIBRI -> NAV/NIK -> WPT/BUNEX -> WPT/GENLU -> WPT/TORTO -> WPT/ELGEB -> WPT/IRGOR -> WPT/MAVIT"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      19.1,
+      41.4583333
+     ],
+     [
+      18.6858333,
+      41.4811111
+     ],
+     [
+      18.1291667,
+      41.5027778
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/Q482",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "56a893d38061f29c1914273cbcb28d2a15aacce5098dce88b161c1a248bb155a",
+    "fields": {
+     "designator": {
+      "value": "Q482",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.515179+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "Q482"
+     },
+     "routeClass": {
+      "value": "ENR",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.515181+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/RODON",
+       "WPT/BALEM",
+       "WPT/CRAYE"
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.515182+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/RODON -> WPT/BALEM -> WPT/CRAYE"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      18.9088889,
+      41.1933333
+     ],
+     [
+      18.6636111,
+      41.9272222
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/T2",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "269942d490acd59e96b7580ce312151796868008776e4bfa073cf8612863e03e",
+    "fields": {
+     "designator": {
+      "value": "T2",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.515202+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "T2"
+     },
+     "routeClass": {
+      "value": "ENR",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.515203+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/EBELA",
+       "WPT/KOFER"
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.515204+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/EBELA -> WPT/KOFER"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      21.3972222,
+      42.1594444
+     ],
+     [
+      20.3113889,
+      42.8338889
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UL608",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "87e86fd0429a34102686c95fec72c4622a972ab11e310ab13a0611da839c8bf8",
+    "fields": {
+     "designator": {
+      "value": "UL608",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.515322+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "UL608"
+     },
+     "routeClass": {
+      "value": "ENR",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.515323+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/LONTA",
+       "WPT/DOLEV"
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.515325+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/LONTA -> WPT/DOLEV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      21.0555556,
+      42.1125
+     ],
+     [
+      20.0219444,
+      42.7475
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UM867",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "3debd2fe1ad345f5b2c4e0cb976af216fe800f26c31838f2b93e45ea9b812208",
+    "fields": {
+     "designator": {
+      "value": "UM867",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.515348+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "UM867"
+     },
+     "routeClass": {
+      "value": "ENR",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.515349+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/KOGAT",
+       "WPT/MEDUX"
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.515350+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/KOGAT -> WPT/MEDUX"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      18.1291667,
+      41.5027778
+     ],
+     [
+      18.59,
+      41.8655556
+     ],
+     [
+      18.6636111,
+      41.9272222
+     ],
+     [
+      18.885,
+      42.1005556
+     ],
+     [
+      19.2547222,
+      42.3861111
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/W36",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c554fe00d25ae12649126f2ace671015365341c95ecaa46dfa6f22a9c36fa235",
+    "fields": {
+     "designator": {
+      "value": "W36",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.478581+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "W36"
+     },
+     "routeClass": {
+      "value": "ENR",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.478583+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/CRAYE",
+       "WPT/PINUK",
+       "WPT/KOFER",
+       "WPT/LASTI",
+       "NAV/POD"
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.478585+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/CRAYE -> WPT/PINUK -> WPT/KOFER -> WPT/LASTI -> NAV/POD"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      19.335,
+      42.2283333
+     ],
+     [
+      19.2547222,
+      42.3861111
+     ],
+     [
+      18.8002778,
+      42.2819444
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/Y400",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b4611623dedbf2872042c08d135863245cd4588eb4c18a9b9c6d68cb5c4001e2",
+    "fields": {
+     "designator": {
+      "value": "Y400",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.515241+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "Y400"
+     },
+     "routeClass": {
+      "value": "ENR",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.515242+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/RETRA",
+       "NAV/POD",
+       "NAV/TAZ"
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.515243+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/RETRA -> NAV/POD -> NAV/TAZ"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      18.1291667,
+      41.5027778
+     ],
+     [
+      18.59,
+      41.8655556
+     ],
+     [
+      18.6636111,
+      41.9272222
+     ],
+     [
+      18.885,
+      42.1005556
+     ],
+     [
+      19.2547222,
+      42.3861111
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/Z636",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "49ef7914b525f4721fcb3b0813660b64794561bfb18bd54f6f580fc61135f392",
+    "fields": {
+     "designator": {
+      "value": "Z636",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.515293+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "Z636"
+     },
+     "routeClass": {
+      "value": "ENR",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.515294+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/CRAYE",
+       "WPT/PINUK",
+       "WPT/KOFER",
+       "WPT/LASTI",
+       "NAV/POD"
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "ENR",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.515295+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/CRAYE -> WPT/PINUK -> WPT/KOFER -> WPT/LASTI -> NAV/POD"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      19.2530222,
+      42.3706167
+     ],
+     [
+      19.2507361,
+      42.3481722
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "LYPG/RWY/18-36",
+    "parentKey": "LYPG",
+    "featureType": "runway",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "0961c26c6769feed5eda41f995f5ffc65c7e519fa386dce8924b20be0d9c0da5",
+    "fields": {
+     "pairDesignator": {
+      "value": "18-36",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYPG AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.445192+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYPG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "18-36"
+     },
+     "length": {
+      "value": 2500.0,
+      "unit": "M",
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYPG AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.445186+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYPG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "2500 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYPG AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.445188+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYPG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "2500 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYPG AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.445190+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYPG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      18.7133111,
+      42.4131472
+     ],
+     [
+      18.7332583,
+      42.3961861
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "LYTV/RWY/14-32",
+    "parentKey": "LYTV",
+    "featureType": "runway",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "ab7992a49ed18b58b87fd1da7fb2f03c429ef47b7cad5e508a334623908ad111",
+    "fields": {
+     "pairDesignator": {
+      "value": "14-32",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYTV AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.466121+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYTV-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "14-32"
+     },
+     "length": {
+      "value": 2500.0,
+      "unit": "M",
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYTV AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.466116+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYTV-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "2500 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYTV AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.466117+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYTV-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "2500 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYTV AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.466119+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYTV-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.2530222,
+     42.3706167
+    ]
+   },
+   "properties": {
+    "naturalKey": "LYPG/RWY/18",
+    "parentKey": "LYPG/RWY/18-36",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "fa80111fa34eb9b9dc86154efb81d20bcc6efb45b50c040efa3832afd59a6894",
+    "fields": {
+     "designator": {
+      "value": "18",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYPG AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.445207+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYPG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "18"
+     },
+     "trueBearing": {
+      "value": 184.32,
+      "unit": "DEG",
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYPG AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.445208+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYPG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "184.32"
+     },
+     "length": {
+      "value": 2500.0,
+      "unit": "M",
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYPG AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.445186+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYPG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "2500 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYPG AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.445188+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYPG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "2500 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYPG AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.445190+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYPG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       19.2530222,
+       42.3706167
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYPG AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.445211+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYPG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "422214.22N 0191510.88E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.2507361,
+     42.3481722
+    ]
+   },
+   "properties": {
+    "naturalKey": "LYPG/RWY/36",
+    "parentKey": "LYPG/RWY/18-36",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "983af9d73b3b6488d80d3b702dcf1d864339b5e6027a828124dfe390e86b12c0",
+    "fields": {
+     "designator": {
+      "value": "36",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYPG AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.445222+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYPG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "36"
+     },
+     "trueBearing": {
+      "value": 4.32,
+      "unit": "DEG",
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYPG AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.445223+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYPG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "004.32"
+     },
+     "length": {
+      "value": 2500.0,
+      "unit": "M",
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYPG AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.445186+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYPG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "2500 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYPG AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.445188+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYPG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "2500 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYPG AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.445190+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYPG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       19.2507361,
+       42.3481722
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYPG AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.445226+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYPG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "422053.42N 0191502.65E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7133111,
+     42.4131472
+    ]
+   },
+   "properties": {
+    "naturalKey": "LYTV/RWY/14",
+    "parentKey": "LYTV/RWY/14-32",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "ebe1cb242e5e7509ee12189a6f1c71f2fc4e90f0e8f058f7af966c005c4b15c3",
+    "fields": {
+     "designator": {
+      "value": "14",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYTV AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.466132+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYTV-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "14"
+     },
+     "trueBearing": {
+      "value": 138.92,
+      "unit": "DEG",
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYTV AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.466133+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYTV-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "138.92"
+     },
+     "length": {
+      "value": 2500.0,
+      "unit": "M",
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYTV AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.466116+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYTV-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "2500 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYTV AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.466117+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYTV-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "2500 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYTV AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.466119+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYTV-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       18.7133111,
+       42.4131472
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYTV AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.466136+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYTV-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "422447.33N 0184247.92E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7332583,
+     42.3961861
+    ]
+   },
+   "properties": {
+    "naturalKey": "LYTV/RWY/32",
+    "parentKey": "LYTV/RWY/14-32",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "36630fceef536baa3fe82b90a3f0de47184344a88f68de4d5ad19fb897e05ff9",
+    "fields": {
+     "designator": {
+      "value": "32",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYTV AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.466144+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYTV-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "32"
+     },
+     "trueBearing": {
+      "value": 318.93,
+      "unit": "DEG",
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYTV AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.466145+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYTV-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "318.93"
+     },
+     "length": {
+      "value": 2500.0,
+      "unit": "M",
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYTV AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.466116+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYTV-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "2500 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYTV AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.466117+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYTV-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "2500 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYTV AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.466119+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYTV-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       18.7332583,
+       42.3961861
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LYTV AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.466149+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-AD-2.LYTV-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "422346.27N 0184359.73E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.6038889,
+     42.5341667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/AKIKA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "796891fb7ac30ef6986368097979cfee42768e3ce3d8d7276ee2114eee2c65f8",
+    "fields": {
+     "designator": {
+      "value": "AKIKA",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.472771+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "AKIKA"
+     },
+     "coordinates": {
+      "value": [
+       19.6038889,
+       42.5341667
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.472774+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "423203N 0193614E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.8505556,
+     42.4791667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ALELU",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "5073ce8e15d6607b25c17e3e87f7cf17dd22006f3187c0daf6094aa355aa5ff6",
+    "fields": {
+     "designator": {
+      "value": "ALELU",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.472799+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ALELU"
+     },
+     "coordinates": {
+      "value": [
+       19.8505556,
+       42.4791667
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.472800+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "422845N 0195102E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6858333,
+     41.4811111
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/BALEM",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e6e356fd674bf1eb0e947878d3fa4a4d2481d88c5be0e9c2c1db90c2b46256b4",
+    "fields": {
+     "designator": {
+      "value": "BALEM",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.472840+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "BALEM"
+     },
+     "coordinates": {
+      "value": [
+       18.6858333,
+       41.4811111
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.472841+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "412852N 0184109E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.0865556,
+     41.9176389
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/BETIV",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "eca9f7e4238cc8f896f9c1acd9ec90b90ea5a81e656eb65d004549fcf6de2a9a",
+    "fields": {
+     "designator": {
+      "value": "BETIV",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.472856+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "BETIV"
+     },
+     "coordinates": {
+      "value": [
+       19.0865556,
+       41.9176389
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.472857+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "415503.5N 0190511.6E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7202222,
+     42.3239444
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/BIGLO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "3a6a19334e3c995278b3ac79698591fef642a0c05bf70c1ceb588b21b9f91775",
+    "fields": {
+     "designator": {
+      "value": "BIGLO",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.472876+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "BIGLO"
+     },
+     "coordinates": {
+      "value": [
+       18.7202222,
+       42.3239444
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.472877+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "421926.2N 0184312.8E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.1291667,
+     41.5027778
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/CRAYE",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "07dae76699fb87addcd6ebad1fd360f03a7023a6448a7fc8191c71c0ae830736",
+    "fields": {
+     "designator": {
+      "value": "CRAYE",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.472910+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "CRAYE"
+     },
+     "coordinates": {
+      "value": [
+       18.1291667,
+       41.5027778
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.472911+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "413010N 0180745E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.632,
+     42.2386389
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DESOL",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "10fdfe481c59d7f1443edf66bf2a03e08ab6bee2fa0040b42ee404d4f6502a2c",
+    "fields": {
+     "designator": {
+      "value": "DESOL",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.472923+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "DESOL"
+     },
+     "coordinates": {
+      "value": [
+       18.632,
+       42.2386389
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.472924+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "421419.1N 0183755.2E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.3113889,
+     42.8338889
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DOLEV",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "dfc6a460f80d9a24f5074dbeca764d98736b15117e407f058ae847af4c462d3d",
+    "fields": {
+     "designator": {
+      "value": "DOLEV",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.472956+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "DOLEV"
+     },
+     "coordinates": {
+      "value": [
+       20.3113889,
+       42.8338889
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.472957+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "425002N 0201841E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.0477778,
+     42.4516667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DOSOS",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "1d68045e97d585b51d187edb067d01ab91a69a112c775466268c162d8aee7971",
+    "fields": {
+     "designator": {
+      "value": "DOSOS",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.472974+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "DOSOS"
+     },
+     "coordinates": {
+      "value": [
+       19.0477778,
+       42.4516667
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.472975+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "422706N 0190252E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.9088889,
+     41.1933333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/EBELA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c85f080270c5d907d99af42625daa88eaddf37c5ce03ead8c7da602f8f6122de",
+    "fields": {
+     "designator": {
+      "value": "EBELA",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.472987+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "EBELA"
+     },
+     "coordinates": {
+      "value": [
+       18.9088889,
+       41.1933333
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.472988+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "411136N 0185432E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.8029167,
+     42.6020556
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/EBOVA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "4093c09b5da87fae90367b4e6df5ad3f67fd8b546b10b12f95b7f1dadeca7188",
+    "fields": {
+     "designator": {
+      "value": "EBOVA",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473000+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "EBOVA"
+     },
+     "coordinates": {
+      "value": [
+       18.8029167,
+       42.6020556
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473001+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "423607.4N 0184810.5E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.9418889,
+     42.0067222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/EKSEV",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "0b66fefdae501a2534f961a30b0e5dded8f29bc012827ddeb688a168a4ba89eb",
+    "fields": {
+     "designator": {
+      "value": "EKSEV",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473018+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "EKSEV"
+     },
+     "coordinates": {
+      "value": [
+       18.9418889,
+       42.0067222
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473019+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "420024.2N 0185630.8E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.59925,
+     42.2306111
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ELVUK",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "02d70c0918cf6832ac532c566f91c592acfad679003d7a28b87326420e67fa92",
+    "fields": {
+     "designator": {
+      "value": "ELVUK",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473036+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ELVUK"
+     },
+     "coordinates": {
+      "value": [
+       18.59925,
+       42.2306111
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473037+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "421350.2N 0183557.3E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.1387778,
+     42.064
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/EVDIH",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "32383290425ac20e86ca68c9f3cde43586fa55d7a59e3b8dae05588fc000e8a4",
+    "fields": {
+     "designator": {
+      "value": "EVDIH",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473069+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "EVDIH"
+     },
+     "coordinates": {
+      "value": [
+       19.1387778,
+       42.064
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473070+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "420350.4N 0190819.6E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.5580556,
+     43.1427778
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/GACMO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "722338b88d24f779fa50dc601abb8d97d0ea21cbcdb535a27b8a450d0b60c383",
+    "fields": {
+     "designator": {
+      "value": "GACMO",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473092+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "GACMO"
+     },
+     "coordinates": {
+      "value": [
+       18.5580556,
+       43.1427778
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473094+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "430834N 0183329E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.8720556,
+     42.5692222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/GANTU",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c83db8a0c4325433819bb9bfc7d0c07c0bdec28975832ecbf25f35b93ffce93f",
+    "fields": {
+     "designator": {
+      "value": "GANTU",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473105+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "GANTU"
+     },
+     "coordinates": {
+      "value": [
+       18.8720556,
+       42.5692222
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473106+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "423409.2N 0185219.4E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.8627222,
+     42.1610556
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/GOSUT",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "48c63d7fee56ed3186fadc61c64d15a779750cf4cd74b0513496d5e20b19c3bf",
+    "fields": {
+     "designator": {
+      "value": "GOSUT",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473143+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "GOSUT"
+     },
+     "coordinates": {
+      "value": [
+       18.8627222,
+       42.1610556
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473144+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "420939.8N 0185145.8E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.1358333,
+     42.4238889
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/INBAV",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "5fb208d77c96ace0a56f34d135da67b6f37935c2e82da6d5d78f2efe268ea440",
+    "fields": {
+     "designator": {
+      "value": "INBAV",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473192+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "INBAV"
+     },
+     "coordinates": {
+      "value": [
+       19.1358333,
+       42.4238889
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473193+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "422526N 0190809E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.9893333,
+     41.9138333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/INVOZ",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "685e8d894438d7d582ec65d6f8d6fe291a2dc044f1144d744875d2a6e02f74ed",
+    "fields": {
+     "designator": {
+      "value": "INVOZ",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473211+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "INVOZ"
+     },
+     "coordinates": {
+      "value": [
+       18.9893333,
+       41.9138333
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473212+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "415449.8N 0185921.6E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6636111,
+     41.9272222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/KOFER",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "ac1656ab1ac985024e5960e2164caf685fe00bd392a223516ed2cfef2b8a1979",
+    "fields": {
+     "designator": {
+      "value": "KOFER",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473248+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "KOFER"
+     },
+     "coordinates": {
+      "value": [
+       18.6636111,
+       41.9272222
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473249+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "415538.0N 0183949.0E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.4366667,
+     42.4358333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/KONUV",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "88e647045e54e9890397952a458e0a13cbc2ecf29e001a8938d33945feb21076",
+    "fields": {
+     "designator": {
+      "value": "KONUV",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473265+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "KONUV"
+     },
+     "coordinates": {
+      "value": [
+       18.4366667,
+       42.4358333
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473266+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "422609N 0182612E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.8850833,
+     42.1004444
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LASTI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f28d6e4e115d58dbcd8f79e7984f914e8331e6c62466e5abe2fab756e99591dd",
+    "fields": {
+     "designator": {
+      "value": "LASTI",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473312+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "LASTI"
+     },
+     "coordinates": {
+      "value": [
+       18.8850833,
+       42.1004444
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473314+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "420601.6N 0185306.3E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.1717222,
+     41.8831389
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LEBGA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f03030e590af4b0a21a8b33228875f3e3be3838a1ab20e76bac2e395e71ae08d",
+    "fields": {
+     "designator": {
+      "value": "LEBGA",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473331+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "LEBGA"
+     },
+     "coordinates": {
+      "value": [
+       19.1717222,
+       41.8831389
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473332+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "415259.3N 0191018.2E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.8499167,
+     42.4807778
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LIGNA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "afdf5bc56f20a9962366ed8433cbf108233e75360bdab77ab1b6d485a056fb8f",
+    "fields": {
+     "designator": {
+      "value": "LIGNA",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473343+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "LIGNA"
+     },
+     "coordinates": {
+      "value": [
+       18.8499167,
+       42.4807778
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473344+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "422850.8N 0185059.7E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.0219444,
+     42.7475
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/MEDUX",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d8fa7d6ea0fa3a498a6441cf9e842e6fbae44b4796319304ee31a2dfc6a35fb7",
+    "fields": {
+     "designator": {
+      "value": "MEDUX",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473375+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "MEDUX"
+     },
+     "coordinates": {
+      "value": [
+       20.0219444,
+       42.7475
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473376+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "424451N 0200119E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.5886111,
+     43.0069444
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/MODRA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d1d26aefe5bbfd1b09f598acc430da2d1a8a52c7299958778513e736c8dadffe",
+    "fields": {
+     "designator": {
+      "value": "MODRA",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473393+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "MODRA"
+     },
+     "coordinates": {
+      "value": [
+       19.5886111,
+       43.0069444
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473394+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "430025N 0193519E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7327778,
+     42.1872222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/NAPEV",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "56260cb0069a6081ce0326751469c5416570c805ff82e994449a0a2dcd5588ab",
+    "fields": {
+     "designator": {
+      "value": "NAPEV",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473414+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "NAPEV"
+     },
+     "coordinates": {
+      "value": [
+       18.7327778,
+       42.1872222
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473415+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "421114N 0184358E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.8252222,
+     42.3818056
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/NEGOX",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "586aff79af3166ded385ae065afc523978bd0803386c268901ad469c2a3ee024",
+    "fields": {
+     "designator": {
+      "value": "NEGOX",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473427+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "NEGOX"
+     },
+     "coordinates": {
+      "value": [
+       18.8252222,
+       42.3818056
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473428+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "422254.5N 0184930.8E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.9468889,
+     42.1484167
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/OLIVU",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "332a3e7a154e7180fa80d77062a222ea8c7909adcd920c441a341db3f915c2f2",
+    "fields": {
+     "designator": {
+      "value": "OLIVU",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473497+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "OLIVU"
+     },
+     "coordinates": {
+      "value": [
+       18.9468889,
+       42.1484167
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473498+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "420854.3N 0185648.8E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.3862222,
+     42.6165556
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/PELEV",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f38f365b87ee11c59604517f53409c51471a9ffa7df19607ee5e1c3d1d14a883",
+    "fields": {
+     "designator": {
+      "value": "PELEV",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473538+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "PELEV"
+     },
+     "coordinates": {
+      "value": [
+       19.3862222,
+       42.6165556
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473539+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "423659.6N 0192310.4E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.3138889,
+     41.7752778
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/PETAK",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "9b3dc2e558c34c71de55677ccbad625deef04f232d34c1101273b2682ea0e3ef",
+    "fields": {
+     "designator": {
+      "value": "PETAK",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473561+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "PETAK"
+     },
+     "coordinates": {
+      "value": [
+       19.3138889,
+       41.7752778
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473562+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "414631N 0191850E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.59,
+     41.8655556
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/PINUK",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "23995fcebb6159862195bd703840fc32e40fde09bb0bcdad6e7f075d008a961c",
+    "fields": {
+     "designator": {
+      "value": "PINUK",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473578+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "PINUK"
+     },
+     "coordinates": {
+      "value": [
+       18.59,
+       41.8655556
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473579+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "415156N 0183524E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.335,
+     42.2283333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/RETRA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "182891e62deee9bbb99342f779583a078c1484bc7fce189030d584f80850322b",
+    "fields": {
+     "designator": {
+      "value": "RETRA",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473625+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RETRA"
+     },
+     "coordinates": {
+      "value": [
+       19.335,
+       42.2283333
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473626+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "421342.0N 0192006.0E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.1,
+     41.4583333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/RODON",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "bc15c9eb4ba8ffb073b6988547f939a024a18c79817e7b25312a73ceee7bf3d2",
+    "fields": {
+     "designator": {
+      "value": "RODON",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473653+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RODON"
+     },
+     "coordinates": {
+      "value": [
+       19.1,
+       41.4583333
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473654+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "412730N 0190600E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.0173611,
+     42.2031667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/SORAG",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b7b2110f02325226730c730c0912044d55cc74290910b124a75a84631bd0f655",
+    "fields": {
+     "designator": {
+      "value": "SORAG",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473680+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "SORAG"
+     },
+     "coordinates": {
+      "value": [
+       19.0173611,
+       42.2031667
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473681+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "421211.4N 0190102.5E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.5541667,
+     42.4105556
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/TIBRI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "96a8a7f53e1006b372bb72413a84e692d4538c29adaa6ebf32c51773edfac2dc",
+    "fields": {
+     "designator": {
+      "value": "TIBRI",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473713+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "TIBRI"
+     },
+     "coordinates": {
+      "value": [
+       18.5541667,
+       42.4105556
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473714+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "422438N 0183315E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7059167,
+     42.0659444
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/TRAFA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "1e063181d19c7259773b8dae7c1c82d6b9266aae47b9f2466e1cee525198f986",
+    "fields": {
+     "designator": {
+      "value": "TRAFA",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473750+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "TRAFA"
+     },
+     "coordinates": {
+      "value": [
+       18.7059167,
+       42.0659444
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473751+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "420357.4N 0184221.3E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.8527778,
+     42.6458333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/UTOMO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2753f20c7aaa504e85f5a1b5b07dabe91e033c268e76df59e0544d7fcab4cdac",
+    "fields": {
+     "designator": {
+      "value": "UTOMO",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473788+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "UTOMO"
+     },
+     "coordinates": {
+      "value": [
+       19.8527778,
+       42.6458333
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473789+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "423845N 0195110E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6013611,
+     42.2812222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/VEDUR",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "26c142f5faa4ac10e8b2e897225f626def750f79ab67504318115464f79fccc1",
+    "fields": {
+     "designator": {
+      "value": "VEDUR",
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473826+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "VEDUR"
+     },
+     "coordinates": {
+      "value": [
+       18.6013611,
+       42.2812222
+      ],
+      "unit": null,
+      "source": "eAIP Montenegro (SMATSA)",
+      "section": "LY ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T13:08:56.473827+00:00",
+      "source_url": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/eAIP/LY-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "421652.4N 0183604.9E"
+     }
+    }
+   }
+  }
+ ],
+ "featureTypes": [
+  {
+   "featureType": "aerodrome",
+   "count": 2
+  },
+  {
+   "featureType": "navaid",
+   "count": 5
+  },
+  {
+   "featureType": "route",
+   "count": 22
+  },
+  {
+   "featureType": "runway",
+   "count": 2
+  },
+  {
+   "featureType": "runwayDirection",
+   "count": 4
+  },
+  {
+   "featureType": "waypoint",
+   "count": 39
+  }
+ ],
+ "publications": [
+  {
+   "cycleId": "2026-10-01-current",
+   "effectiveDate": "2026-10-01",
+   "amendmentId": "AIRAC 2026-10-01",
+   "sourceKind": "LIVE",
+   "ingestedAt": "2026-10-27T13:08:56.515770+00:00",
+   "status": "promoted",
+   "stats": {
+    "total_documents": 6,
+    "parsed_features": 74,
+    "issue_count": 37,
+    "error_count": 0,
+    "warning_count": 37
+   },
+   "sourceUrl": "https://smatsa.rs/upload/aip/published/01-Oct-2026-A/2026-10-01-AIRAC/html/index_commands.html",
+   "notes": null
+  }
+ ],
+ "issues": [
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/L608",
+   "section": "ENR",
+   "message": "Route L608 references 'LONTA' absent from national index",
+   "rawSnippet": "LONTA"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/L608",
+   "section": "ENR",
+   "message": "Route L608 references 'YUYUH' absent from national index",
+   "rawSnippet": "YUYUH"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/L608",
+   "section": "ENR",
+   "message": "Route L608 references 'GENLU' absent from national index",
+   "rawSnippet": "GENLU"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/L608",
+   "section": "ENR",
+   "message": "Route L608 references 'PODOB' absent from national index",
+   "rawSnippet": "PODOB"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/M127",
+   "section": "ENR",
+   "message": "Route M127 references 'VAL' absent from national index",
+   "rawSnippet": "VAL"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/M127",
+   "section": "ENR",
+   "message": "Route M127 references 'OKTAS' absent from national index",
+   "rawSnippet": "OKTAS"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/M127",
+   "section": "ENR",
+   "message": "Route M127 references 'TADAM' absent from national index",
+   "rawSnippet": "TADAM"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/M127",
+   "section": "ENR",
+   "message": "Route M127 references 'LULIK' absent from national index",
+   "rawSnippet": "LULIK"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/M127",
+   "section": "ENR",
+   "message": "Route M127 references 'TONDO' absent from national index",
+   "rawSnippet": "TONDO"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/M173",
+   "section": "ENR",
+   "message": "Route M173 references 'ELGEB' absent from national index",
+   "rawSnippet": "ELGEB"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/M173",
+   "section": "ENR",
+   "message": "Route M173 references 'BGD' absent from national index",
+   "rawSnippet": "BGD"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/M173",
+   "section": "ENR",
+   "message": "Route M173 references 'TISAK' absent from national index",
+   "rawSnippet": "TISAK"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/M173",
+   "section": "ENR",
+   "message": "Route M173 references 'PARAK' absent from national index",
+   "rawSnippet": "PARAK"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/M867",
+   "section": "ENR",
+   "message": "Route M867 references 'KOGAT' absent from national index",
+   "rawSnippet": "KOGAT"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/M867",
+   "section": "ENR",
+   "message": "Route M867 references 'BUNEX' absent from national index",
+   "rawSnippet": "BUNEX"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/M867",
+   "section": "ENR",
+   "message": "Route M867 references 'GORAV' absent from national index",
+   "rawSnippet": "GORAV"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/M867",
+   "section": "ENR",
+   "message": "Route M867 references 'OSLUD' absent from national index",
+   "rawSnippet": "OSLUD"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/N132",
+   "section": "ENR",
+   "message": "Route N132 references 'NILKU' absent from national index",
+   "rawSnippet": "NILKU"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/N146",
+   "section": "ENR",
+   "message": "Route N146 references 'YUYUH' absent from national index",
+   "rawSnippet": "YUYUH"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/N164",
+   "section": "ENR",
+   "message": "Route N164 references 'NANER' absent from national index",
+   "rawSnippet": "NANER"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/N164",
+   "section": "ENR",
+   "message": "Route N164 references 'XENIT' absent from national index",
+   "rawSnippet": "XENIT"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/N164",
+   "section": "ENR",
+   "message": "Route N164 references 'DONIV' absent from national index",
+   "rawSnippet": "DONIV"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/N164",
+   "section": "ENR",
+   "message": "Route N164 references 'TAZUM' absent from national index",
+   "rawSnippet": "TAZUM"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/N164",
+   "section": "ENR",
+   "message": "Route N164 references 'DIRER' absent from national index",
+   "rawSnippet": "DIRER"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/N732",
+   "section": "ENR",
+   "message": "Route N732 references 'YUYUH' absent from national index",
+   "rawSnippet": "YUYUH"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/N732",
+   "section": "ENR",
+   "message": "Route N732 references 'TORTO' absent from national index",
+   "rawSnippet": "TORTO"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/N732",
+   "section": "ENR",
+   "message": "Route N732 references 'KOSIV' absent from national index",
+   "rawSnippet": "KOSIV"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/N732",
+   "section": "ENR",
+   "message": "Route N732 references 'VAL' absent from national index",
+   "rawSnippet": "VAL"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/N732",
+   "section": "ENR",
+   "message": "Route N732 references 'BGD' absent from national index",
+   "rawSnippet": "BGD"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/P129",
+   "section": "ENR",
+   "message": "Route P129 references 'BUNEX' absent from national index",
+   "rawSnippet": "BUNEX"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/P129",
+   "section": "ENR",
+   "message": "Route P129 references 'GENLU' absent from national index",
+   "rawSnippet": "GENLU"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/P129",
+   "section": "ENR",
+   "message": "Route P129 references 'TORTO' absent from national index",
+   "rawSnippet": "TORTO"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/P129",
+   "section": "ENR",
+   "message": "Route P129 references 'ELGEB' absent from national index",
+   "rawSnippet": "ELGEB"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/P129",
+   "section": "ENR",
+   "message": "Route P129 references 'IRGOR' absent from national index",
+   "rawSnippet": "IRGOR"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/P129",
+   "section": "ENR",
+   "message": "Route P129 references 'MAVIT' absent from national index",
+   "rawSnippet": "MAVIT"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/UL608",
+   "section": "ENR",
+   "message": "Route UL608 references 'LONTA' absent from national index",
+   "rawSnippet": "LONTA"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/UM867",
+   "section": "ENR",
+   "message": "Route UM867 references 'KOGAT' absent from national index",
+   "rawSnippet": "KOGAT"
+  }
+ ],
+ "meta": {
+  "state": "Montenegro",
+  "continent": "Europe",
+  "websites": [
+   {
+    "name": "eAIP Serbia/Montenegro",
+    "url": "https://smatsa.rs/upload/aip/published/start_page.html"
+   }
+  ],
+  "contact_emails": [
+   "ais@smatsa.rs"
+  ]
+ }
+}

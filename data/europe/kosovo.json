@@ -1,0 +1,664 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.0358333,
+     42.5727778
+    ]
+   },
+   "properties": {
+    "naturalKey": "BKPR",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2984cf650b02ee8460955c94b460a862b3e3b07b3c612db9514e5251a2d87823",
+    "fields": {
+     "airportName": {
+      "value": "Prishtina International Airport",
+      "unit": null,
+      "source": "eAIP Kosovo (CAAK / KANS)",
+      "section": "BKPR AD 2.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T12:47:56.833091+00:00",
+      "source_url": "https://kans-ks.org/eAIP/AIRAC%20AMDT%2010-2026_2026_10_01/eAIP/BK-AD%202%20BKPR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "Prishtina International Airport"
+     },
+     "arpCoordinates": {
+      "value": [
+       21.0358333,
+       42.5727778
+      ],
+      "unit": null,
+      "source": "eAIP Kosovo (CAAK / KANS)",
+      "section": "BKPR AD 2.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T12:47:56.833099+00:00",
+      "source_url": "https://kans-ks.org/eAIP/AIRAC%20AMDT%2010-2026_2026_10_01/eAIP/BK-AD%202%20BKPR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "423422N 0210209E"
+     },
+     "elevation": {
+      "value": 1793,
+      "unit": "FT",
+      "source": "eAIP Kosovo (CAAK / KANS)",
+      "section": "BKPR AD 2.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T12:47:56.833101+00:00",
+      "source_url": "https://kans-ks.org/eAIP/AIRAC%20AMDT%2010-2026_2026_10_01/eAIP/BK-AD%202%20BKPR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3 Elevation / Reference temperature (Mean Low temperature) Elev: 1793 FT (547 M) / T: 28° C (Mean Low T: NIL)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      21.0346,
+      42.5853333
+     ],
+     [
+      21.0373806,
+      42.5580417
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "BKPR/RWY/17-35",
+    "parentKey": "BKPR",
+    "featureType": "runway",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "15dcfa98ca244993329c072368fe7c7298cf61b37607035b3d3d03c8ba9d41f0",
+    "fields": {
+     "pairDesignator": {
+      "value": "17-35",
+      "unit": null,
+      "source": "eAIP Kosovo (CAAK / KANS)",
+      "section": "BKPR AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T12:47:56.833183+00:00",
+      "source_url": "https://kans-ks.org/eAIP/AIRAC%20AMDT%2010-2026_2026_10_01/eAIP/BK-AD%202%20BKPR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "17-35"
+     },
+     "length": {
+      "value": 3040.0,
+      "unit": "M",
+      "source": "eAIP Kosovo (CAAK / KANS)",
+      "section": "BKPR AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T12:47:56.833177+00:00",
+      "source_url": "https://kans-ks.org/eAIP/AIRAC%20AMDT%2010-2026_2026_10_01/eAIP/BK-AD%202%20BKPR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3040 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Kosovo (CAAK / KANS)",
+      "section": "BKPR AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T12:47:56.833179+00:00",
+      "source_url": "https://kans-ks.org/eAIP/AIRAC%20AMDT%2010-2026_2026_10_01/eAIP/BK-AD%202%20BKPR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3040 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP Kosovo (CAAK / KANS)",
+      "section": "BKPR AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T12:47:56.833181+00:00",
+      "source_url": "https://kans-ks.org/eAIP/AIRAC%20AMDT%2010-2026_2026_10_01/eAIP/BK-AD%202%20BKPR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.0346,
+     42.5853333
+    ]
+   },
+   "properties": {
+    "naturalKey": "BKPR/RWY/17",
+    "parentKey": "BKPR/RWY/17-35",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "6c5a5baf9df1cd1f56634916b6a84e121e8e3f13feeb07086fc4ee44875447a7",
+    "fields": {
+     "designator": {
+      "value": "17",
+      "unit": null,
+      "source": "eAIP Kosovo (CAAK / KANS)",
+      "section": "BKPR AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T12:47:56.833197+00:00",
+      "source_url": "https://kans-ks.org/eAIP/AIRAC%20AMDT%2010-2026_2026_10_01/eAIP/BK-AD%202%20BKPR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "17"
+     },
+     "trueBearing": {
+      "value": 176.0,
+      "unit": "DEG",
+      "source": "eAIP Kosovo (CAAK / KANS)",
+      "section": "BKPR AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T12:47:56.833198+00:00",
+      "source_url": "https://kans-ks.org/eAIP/AIRAC%20AMDT%2010-2026_2026_10_01/eAIP/BK-AD%202%20BKPR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "176.00°"
+     },
+     "length": {
+      "value": 3040.0,
+      "unit": "M",
+      "source": "eAIP Kosovo (CAAK / KANS)",
+      "section": "BKPR AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T12:47:56.833177+00:00",
+      "source_url": "https://kans-ks.org/eAIP/AIRAC%20AMDT%2010-2026_2026_10_01/eAIP/BK-AD%202%20BKPR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3040 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Kosovo (CAAK / KANS)",
+      "section": "BKPR AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T12:47:56.833179+00:00",
+      "source_url": "https://kans-ks.org/eAIP/AIRAC%20AMDT%2010-2026_2026_10_01/eAIP/BK-AD%202%20BKPR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3040 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP Kosovo (CAAK / KANS)",
+      "section": "BKPR AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T12:47:56.833181+00:00",
+      "source_url": "https://kans-ks.org/eAIP/AIRAC%20AMDT%2010-2026_2026_10_01/eAIP/BK-AD%202%20BKPR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       21.0346,
+       42.5853333
+      ],
+      "unit": null,
+      "source": "eAIP Kosovo (CAAK / KANS)",
+      "section": "BKPR AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T12:47:56.833201+00:00",
+      "source_url": "https://kans-ks.org/eAIP/AIRAC%20AMDT%2010-2026_2026_10_01/eAIP/BK-AD%202%20BKPR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "423507.20N 0210204.56E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.0373806,
+     42.5580417
+    ]
+   },
+   "properties": {
+    "naturalKey": "BKPR/RWY/35",
+    "parentKey": "BKPR/RWY/17-35",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e6d5d888e9acf1891151996a7c69d58e793df1a4271250a441e535639ab35fd7",
+    "fields": {
+     "designator": {
+      "value": "35",
+      "unit": null,
+      "source": "eAIP Kosovo (CAAK / KANS)",
+      "section": "BKPR AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T12:47:56.833212+00:00",
+      "source_url": "https://kans-ks.org/eAIP/AIRAC%20AMDT%2010-2026_2026_10_01/eAIP/BK-AD%202%20BKPR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "35"
+     },
+     "trueBearing": {
+      "value": 356.0,
+      "unit": "DEG",
+      "source": "eAIP Kosovo (CAAK / KANS)",
+      "section": "BKPR AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T12:47:56.833214+00:00",
+      "source_url": "https://kans-ks.org/eAIP/AIRAC%20AMDT%2010-2026_2026_10_01/eAIP/BK-AD%202%20BKPR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "356.00°"
+     },
+     "length": {
+      "value": 3040.0,
+      "unit": "M",
+      "source": "eAIP Kosovo (CAAK / KANS)",
+      "section": "BKPR AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T12:47:56.833177+00:00",
+      "source_url": "https://kans-ks.org/eAIP/AIRAC%20AMDT%2010-2026_2026_10_01/eAIP/BK-AD%202%20BKPR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3040 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Kosovo (CAAK / KANS)",
+      "section": "BKPR AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T12:47:56.833179+00:00",
+      "source_url": "https://kans-ks.org/eAIP/AIRAC%20AMDT%2010-2026_2026_10_01/eAIP/BK-AD%202%20BKPR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3040 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP Kosovo (CAAK / KANS)",
+      "section": "BKPR AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T12:47:56.833181+00:00",
+      "source_url": "https://kans-ks.org/eAIP/AIRAC%20AMDT%2010-2026_2026_10_01/eAIP/BK-AD%202%20BKPR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       21.0373806,
+       42.5580417
+      ],
+      "unit": null,
+      "source": "eAIP Kosovo (CAAK / KANS)",
+      "section": "BKPR AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T12:47:56.833216+00:00",
+      "source_url": "https://kans-ks.org/eAIP/AIRAC%20AMDT%2010-2026_2026_10_01/eAIP/BK-AD%202%20BKPR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "423328.95N 0210214.57E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.3119444,
+     42.8336111
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DOLEV",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "7c6af4889e49fc57ad6b891cfd90b6349e2a59a5ebaa46892485cb28b5390dfd",
+    "fields": {
+     "designator": {
+      "value": "DOLEV",
+      "unit": null,
+      "source": "eAIP Kosovo (CAAK / KANS)",
+      "section": "BK ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T12:47:56.833933+00:00",
+      "source_url": "https://kans-ks.org/eAIP/AIRAC%20AMDT%2010-2026_2026_10_01/eAIP/BK-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "DOLEV"
+     },
+     "coordinates": {
+      "value": [
+       20.3119444,
+       42.8336111
+      ],
+      "unit": null,
+      "source": "eAIP Kosovo (CAAK / KANS)",
+      "section": "BK ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T12:47:56.833937+00:00",
+      "source_url": "https://kans-ks.org/eAIP/AIRAC%20AMDT%2010-2026_2026_10_01/eAIP/BK-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "425001N 0201843E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.3972222,
+     42.1125
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/KOGAT",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "7c45f38b31249a9e69a7ba2be663f9b7f3a7af5a3ae397770565214f02f83003",
+    "fields": {
+     "designator": {
+      "value": "KOGAT",
+      "unit": null,
+      "source": "eAIP Kosovo (CAAK / KANS)",
+      "section": "BK ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T12:47:56.833961+00:00",
+      "source_url": "https://kans-ks.org/eAIP/AIRAC%20AMDT%2010-2026_2026_10_01/eAIP/BK-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "KOGAT"
+     },
+     "coordinates": {
+      "value": [
+       21.3972222,
+       42.1125
+      ],
+      "unit": null,
+      "source": "eAIP Kosovo (CAAK / KANS)",
+      "section": "BK ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T12:47:56.833963+00:00",
+      "source_url": "https://kans-ks.org/eAIP/AIRAC%20AMDT%2010-2026_2026_10_01/eAIP/BK-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "420645N 0212350E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.3972222,
+     42.1594444
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LONTA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "82b7ef0acf53218387b1c91e751cffd9182f46880b21036b4e8f6df94c261d42",
+    "fields": {
+     "designator": {
+      "value": "LONTA",
+      "unit": null,
+      "source": "eAIP Kosovo (CAAK / KANS)",
+      "section": "BK ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T12:47:56.833978+00:00",
+      "source_url": "https://kans-ks.org/eAIP/AIRAC%20AMDT%2010-2026_2026_10_01/eAIP/BK-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "LONTA"
+     },
+     "coordinates": {
+      "value": [
+       21.3972222,
+       42.1594444
+      ],
+      "unit": null,
+      "source": "eAIP Kosovo (CAAK / KANS)",
+      "section": "BK ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T12:47:56.833979+00:00",
+      "source_url": "https://kans-ks.org/eAIP/AIRAC%20AMDT%2010-2026_2026_10_01/eAIP/BK-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "420934N 0212350E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.0216667,
+     42.7483333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/MEDUX",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d6186854d06b4ade87ee905e70b5b4b533eb2f747357062eee624511469983c1",
+    "fields": {
+     "designator": {
+      "value": "MEDUX",
+      "unit": null,
+      "source": "eAIP Kosovo (CAAK / KANS)",
+      "section": "BK ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T12:47:56.833992+00:00",
+      "source_url": "https://kans-ks.org/eAIP/AIRAC%20AMDT%2010-2026_2026_10_01/eAIP/BK-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "MEDUX"
+     },
+     "coordinates": {
+      "value": [
+       20.0216667,
+       42.7483333
+      ],
+      "unit": null,
+      "source": "eAIP Kosovo (CAAK / KANS)",
+      "section": "BK ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T12:47:56.833993+00:00",
+      "source_url": "https://kans-ks.org/eAIP/AIRAC%20AMDT%2010-2026_2026_10_01/eAIP/BK-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "424454N 0200118E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.895,
+     42.0966667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/SARAX",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "5932546d9fc435c8c32ca6ee6dcb42ff0bfd711c4719232adbfae68b082fa731",
+    "fields": {
+     "designator": {
+      "value": "SARAX",
+      "unit": null,
+      "source": "eAIP Kosovo (CAAK / KANS)",
+      "section": "BK ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T12:47:56.834005+00:00",
+      "source_url": "https://kans-ks.org/eAIP/AIRAC%20AMDT%2010-2026_2026_10_01/eAIP/BK-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "SARAX"
+     },
+     "coordinates": {
+      "value": [
+       20.895,
+       42.0966667
+      ],
+      "unit": null,
+      "source": "eAIP Kosovo (CAAK / KANS)",
+      "section": "BK ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T12:47:56.834006+00:00",
+      "source_url": "https://kans-ks.org/eAIP/AIRAC%20AMDT%2010-2026_2026_10_01/eAIP/BK-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "420548N 0205342E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.3269444,
+     42.1369444
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/XAXAN",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "7ad5873e97588cddf1b8e08ed9762cd0c2b5e4e72b7d0ffce802733aacfcf6fc",
+    "fields": {
+     "designator": {
+      "value": "XAXAN",
+      "unit": null,
+      "source": "eAIP Kosovo (CAAK / KANS)",
+      "section": "BK ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T12:47:56.834016+00:00",
+      "source_url": "https://kans-ks.org/eAIP/AIRAC%20AMDT%2010-2026_2026_10_01/eAIP/BK-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "XAXAN"
+     },
+     "coordinates": {
+      "value": [
+       21.3269444,
+       42.1369444
+      ],
+      "unit": null,
+      "source": "eAIP Kosovo (CAAK / KANS)",
+      "section": "BK ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T12:47:56.834017+00:00",
+      "source_url": "https://kans-ks.org/eAIP/AIRAC%20AMDT%2010-2026_2026_10_01/eAIP/BK-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "420813N 0211937E"
+     }
+    }
+   }
+  }
+ ],
+ "featureTypes": [
+  {
+   "featureType": "aerodrome",
+   "count": 1
+  },
+  {
+   "featureType": "runway",
+   "count": 1
+  },
+  {
+   "featureType": "runwayDirection",
+   "count": 2
+  },
+  {
+   "featureType": "waypoint",
+   "count": 6
+  }
+ ],
+ "publications": [
+  {
+   "cycleId": "2026-10-01-current",
+   "effectiveDate": "2026-10-01",
+   "amendmentId": "AIRAC AMDT 10-2026",
+   "sourceKind": "LIVE",
+   "ingestedAt": "2026-10-27T12:47:56.835967+00:00",
+   "status": "promoted",
+   "stats": {
+    "total_documents": 6,
+    "parsed_features": 10,
+    "issue_count": 0,
+    "error_count": 0,
+    "warning_count": 0
+   },
+   "sourceUrl": "https://kans-ks.org/eAIP/default.html",
+   "notes": null
+  }
+ ],
+ "issues": [],
+ "meta": {
+  "state": "Kosovo (*)",
+  "continent": "Europe",
+  "websites": [
+   {
+    "name": "AIP Hungary Supplement",
+    "url": "http://ais-en.hungarocontrol.hu/aip"
+   },
+   {
+    "name": "AIS Kosovo",
+    "url": "https://www.ashna-ks.org/en/services/ais/"
+   }
+  ],
+  "contact_emails": [
+   "ais@rks-gov.net"
+  ]
+ }
+}

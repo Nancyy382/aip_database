@@ -1,0 +1,4725 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.2591667,
+     -1.6766667
+    ]
+   },
+   "properties": {
+    "naturalKey": "HRYG",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "ea3738cfb72706e643e79aad93ac481d2c4d3b445239057e3f46485d4967ee9c",
+    "fields": {
+     "airportName": {
+      "value": "GISENYI",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYG AD 2.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.964175+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "GISENYI"
+     },
+     "arpCoordinates": {
+      "value": [
+       29.2591667,
+       -1.6766667
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYG AD 2.2",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.964186+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "014036.00S 0291533.00E"
+     },
+     "elevation": {
+      "value": 5082,
+      "unit": "FT",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYG AD 2.2",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.964188+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3 Elevation / Reference temperature (Mean Low temperature) Elev: 5082 FT (1549 M) / T: 26.7° C (Mean Low T: 14.1° C)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.7333333,
+     -2.6
+    ]
+   },
+   "properties": {
+    "naturalKey": "HRYI",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "5e49c199ab687c8bf0b902f7844c1bbef0ad158a60769a7ba117629773a70ea6",
+    "fields": {
+     "airportName": {
+      "value": "BUTARE",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYI AD 2.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.974951+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "BUTARE"
+     },
+     "arpCoordinates": {
+      "value": [
+       29.7333333,
+       -2.6
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYI AD 2.2",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.974962+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "023600.00S 0294400.00E"
+     },
+     "elevation": {
+      "value": 5801,
+      "unit": "FT",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYI AD 2.2",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.974963+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3 Elevation / Reference temperature (Mean Low temperature) Elev: 5801 FT (1768 M) / T: 26.4° C (Mean Low T: 14° C)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.2,
+     -2.3333333
+    ]
+   },
+   "properties": {
+    "naturalKey": "HRYN",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f80a6380b133239054db6279153329b530b3fd5a38e12e81e87a519d190caf46",
+    "fields": {
+     "airportName": {
+      "value": "NEMBA",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYN AD 2.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.986193+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYN-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "NEMBA"
+     },
+     "arpCoordinates": {
+      "value": [
+       30.2,
+       -2.3333333
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYN AD 2.2",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.986204+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYN-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "022000.00S 0301200.00E"
+     },
+     "elevation": {
+      "value": 4905,
+      "unit": "FT",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYN AD 2.2",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.986206+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYN-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3 Elevation / Reference temperature (Mean Low temperature) Elev: 4905 FT (1495 M) / T: NIL (Mean Low T: NIL)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.1383861,
+     -1.9684472
+    ]
+   },
+   "properties": {
+    "naturalKey": "HRYR",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "1beb8699ade26342e7aeba4c64863c10d77c21408c69c1c2a024f8460826d295",
+    "fields": {
+     "airportName": {
+      "value": "KIGALI INTL",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYR AD 2.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.003179+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "KIGALI INTL"
+     },
+     "arpCoordinates": {
+      "value": [
+       30.1383861,
+       -1.9684472
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYR AD 2.2",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.003188+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "015806.41S 0300818.19E"
+     },
+     "elevation": {
+      "value": 4883,
+      "unit": "FT",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYR AD 2.2",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.003190+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3 Elevation / Reference temperature (Mean Low temperature) Elev: 4883 FT (1488 M) / T: 28.6° C (Mean Low T: 15.1° C)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.6333333,
+     -1.5
+    ]
+   },
+   "properties": {
+    "naturalKey": "HRYU",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "8557706cd34e5c90a90b083cad22ad618abc3fd2a8c62dbafb1f221d7d25fe1e",
+    "fields": {
+     "airportName": {
+      "value": "RUHENGERI",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYU AD 2.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.012956+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RUHENGERI"
+     },
+     "arpCoordinates": {
+      "value": [
+       29.6333333,
+       -1.5
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYU AD 2.2",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.012966+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "013000.00S 0293800.00E"
+     },
+     "elevation": {
+      "value": 6102,
+      "unit": "FT",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYU AD 2.2",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.012968+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3 Elevation / Reference temperature (Mean Low temperature) Elev: 6102 FT (1860 M) / T: 25.3° C (Mean Low T: 10.3° C)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.9079111,
+     -2.4623667
+    ]
+   },
+   "properties": {
+    "naturalKey": "HRZA",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "ecf47f804ca03ff54d91b73ad08a84f7271cf454d7002f4e280a8d2d420e457e",
+    "fields": {
+     "airportName": {
+      "value": "KAMEMBE",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRZA AD 2.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.025073+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRZA-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "KAMEMBE"
+     },
+     "arpCoordinates": {
+      "value": [
+       28.9079111,
+       -2.4623667
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRZA AD 2.2",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.025083+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRZA-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "022744.52S 0285428.48E"
+     },
+     "elevation": {
+      "value": 5214,
+      "unit": "FT",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRZA AD 2.2",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.025085+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRZA-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3 Elevation / Reference temperature (Mean Low temperature) Elev: 5214 FT (1589 M) / T: 27.2° C (Mean Low T: 14.4° C)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.8117917,
+     -2.3161694
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/BKV",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "38df61b9f1213a9430a421ecfb2cf9853e2f62a44287146ebd865e1091d821f5",
+    "fields": {
+     "designator": {
+      "value": "BKV",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.920004+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "BKV"
+     },
+     "stationName": {
+      "value": "BUKAVU (DRC) NDB (01° E)",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.920013+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "BUKAVU (DRC) NDB (01° E)"
+     },
+     "navaidType": {
+      "value": "NDB",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.920016+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "NDB"
+     },
+     "frequency": {
+      "value": 514.0,
+      "unit": "KHZ",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.920017+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "514.00 KHZ"
+     },
+     "frequencyUnit": {
+      "value": "KHZ",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.920019+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "KHZ"
+     },
+     "frequencyRaw": {
+      "value": "514.00 KHZ",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.920020+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "514.00 KHZ"
+     },
+     "coordinates": {
+      "value": [
+       28.8117917,
+       -2.3161694
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.920022+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "021858.21S 0284842.45E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.2405139,
+     -1.6786028
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/GOM",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c7c945d6be682fca144caf55f21b2873fb3dfaeed0211bce320a835ff8837c05",
+    "fields": {
+     "designator": {
+      "value": "GOM",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.920079+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "GOM"
+     },
+     "stationName": {
+      "value": "GOMA (DRC) DVOR (01° E)",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.920081+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "GOMA (DRC) DVOR (01° E)"
+     },
+     "navaidType": {
+      "value": "DVOR",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.920082+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "DVOR"
+     },
+     "frequency": {
+      "value": 116.5,
+      "unit": "MHZ",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.920084+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "116.50 MHZ"
+     },
+     "frequencyUnit": {
+      "value": "MHZ",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.920085+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "MHZ"
+     },
+     "frequencyRaw": {
+      "value": "116.50 MHZ",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.920086+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "116.50 MHZ"
+     },
+     "coordinates": {
+      "value": [
+       29.2405139,
+       -1.6786028
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.920090+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "014042.97S 0291425.85E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.1475583,
+     -1.9685639
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/KNM",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "fb734a8b3f0ae26bc52f2731f90a18aa10e5c87828775ee998cda87bc36be575",
+    "fields": {
+     "designator": {
+      "value": "KNM",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.920123+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "KNM"
+     },
+     "stationName": {
+      "value": "Kigali DVOR/DME (01° E)",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.920124+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "Kigali DVOR/DME (01° E)"
+     },
+     "navaidType": {
+      "value": "DVOR/DME",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.920125+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "DVOR/DME"
+     },
+     "frequency": {
+      "value": 114.9,
+      "unit": "MHZ",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.920126+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "114.90 MHZ"
+     },
+     "frequencyUnit": {
+      "value": "MHZ",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.920127+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "MHZ"
+     },
+     "frequencyRaw": {
+      "value": "114.90 MHZ",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.920128+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "114.90 MHZ"
+     },
+     "coordinates": {
+      "value": [
+       30.1475583,
+       -1.9685639
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.920130+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "015806.83S 0300851.21E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      30.3831806,
+      -1.079025
+     ],
+     [
+      30.2032333,
+      -1.7581611
+     ],
+     [
+      30.1845333,
+      -1.828825
+     ],
+     [
+      30.1475583,
+      -1.9685639
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/B527",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "3d0f9749d238918055ab73650622ad71c0ec624aa6427891d9ab9ac8f0248d38",
+    "fields": {
+     "designator": {
+      "value": "B527",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952190+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.1%20B527-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "B527"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952198+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.1%20B527-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/EGREK",
+       "WPT/IBNIN",
+       "WPT/APMUM",
+       "NAV/KNM"
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952202+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.1%20B527-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/EGREK -> WPT/IBNIN -> WPT/APMUM -> NAV/KNM"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      30.8961861,
+      -2.0986722
+     ],
+     [
+      30.3604972,
+      -2.0074417
+     ],
+     [
+      30.1475583,
+      -1.9685639
+     ],
+     [
+      29.9413028,
+      -1.9026806
+     ],
+     [
+      29.4784556,
+      -1.7546778
+     ],
+     [
+      29.2405139,
+      -1.6786028
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/B531",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "53558047003595152bb19755067c373b736a5276f5c4b4f169ab8add16d28377",
+    "fields": {
+     "designator": {
+      "value": "B531",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952235+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.1%20B531-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "B531"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952237+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.1%20B531-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/DATAN",
+       "WPT/DUSBA",
+       "NAV/KNM",
+       "WPT/ETLIT",
+       "WPT/RANAG",
+       "NAV/GOM"
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952239+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.1%20B531-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/DATAN -> WPT/DUSBA -> NAV/KNM -> WPT/ETLIT -> WPT/RANAG -> NAV/GOM"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      29.2833333,
+      -2.6222222
+     ],
+     [
+      29.2821944,
+      -2.5317556
+     ],
+     [
+      29.2658861,
+      -2.1981361
+     ],
+     [
+      29.2527667,
+      -1.9295306
+     ],
+     [
+      29.2405139,
+      -1.6786028
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/B607",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "604c9e5fc22b2f2ac572416be9eac4b95250c2957b4dc6dad3c4ced3fa7b1e55",
+    "fields": {
+     "designator": {
+      "value": "B607",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952261+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.1%20B607-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "B607"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952262+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.1%20B607-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/KIVUR",
+       "WPT/LABAG",
+       "WPT/KAROS",
+       "WPT/MITON",
+       "NAV/GOM"
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952267+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.1%20B607-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/KIVUR -> WPT/LABAG -> WPT/KAROS -> WPT/MITON -> NAV/GOM"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      30.7445139,
+      -1.4512278
+     ],
+     [
+      30.31155,
+      -1.8264944
+     ],
+     [
+      30.1475583,
+      -1.9685639
+     ],
+     [
+      30.0613194,
+      -2.1126639
+     ],
+     [
+      30.0358639,
+      -2.1550583
+     ],
+     [
+      29.9757972,
+      -2.2555222
+     ],
+     [
+      29.6492417,
+      -2.8006806
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/L432",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f211e2eb75dafb0f1045c33ad279811ea740854d123656646e2b5c81ad4ac3c4",
+    "fields": {
+     "designator": {
+      "value": "L432",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952359+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.2%20L432%20%28RNAV%2010%29-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L432"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952360+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.2%20L432%20%28RNAV%2010%29-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/ALSAR",
+       "WPT/ETMAP",
+       "NAV/KNM",
+       "WPT/GADBO",
+       "WPT/UDLOP",
+       "WPT/XABOB",
+       "WPT/GAVDA"
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952362+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.2%20L432%20%28RNAV%2010%29-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/ALSAR -> WPT/ETMAP -> NAV/KNM -> WPT/GADBO -> WPT/UDLOP -> WPT/XABOB -> WPT/GAVDA"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      30.82035,
+      -1.9073
+     ],
+     [
+      30.1475583,
+      -1.9685639
+     ],
+     [
+      29.9380611,
+      -2.0231472
+     ],
+     [
+      29.2658861,
+      -2.1981361
+     ],
+     [
+      28.8117917,
+      -2.3161694
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/L442",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f077cb3727ae16acd4d872e19cd1fbf378e7feed29ce9fdfc281dde6d3c6e213",
+    "fields": {
+     "designator": {
+      "value": "L442",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952380+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.2%20L442%20%28RNAV%2010%29-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L442"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952382+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.2%20L442%20%28RNAV%2010%29-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/BOSAD",
+       "NAV/KNM",
+       "WPT/IMSEP",
+       "WPT/KAROS",
+       "NAV/BKV"
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952384+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.2%20L442%20%28RNAV%2010%29-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/BOSAD -> NAV/KNM -> WPT/IMSEP -> WPT/KAROS -> NAV/BKV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      30.3831806,
+      -1.079025
+     ],
+     [
+      30.2032333,
+      -1.7581611
+     ],
+     [
+      30.1845333,
+      -1.828825
+     ],
+     [
+      30.1475583,
+      -1.9685639
+     ],
+     [
+      30.0613194,
+      -2.1126639
+     ],
+     [
+      30.0358639,
+      -2.1550583
+     ],
+     [
+      29.9757972,
+      -2.2555222
+     ],
+     [
+      29.6492417,
+      -2.8006806
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UB527",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "4ee51fc90584b01f7bf787a38895e7b5cf23ae54954f19bf68006a8223f7a919",
+    "fields": {
+     "designator": {
+      "value": "UB527",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952290+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.1%20UB527-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "UB527"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952291+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.1%20UB527-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/EGREK",
+       "WPT/IBNIN",
+       "WPT/APMUM",
+       "NAV/KNM",
+       "WPT/GADBO",
+       "WPT/UDLOP",
+       "WPT/XABOB",
+       "WPT/GAVDA"
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952293+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.1%20UB527-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/EGREK -> WPT/IBNIN -> WPT/APMUM -> NAV/KNM -> WPT/GADBO -> WPT/UDLOP -> WPT/XABOB -> WPT/GAVDA"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      30.8961861,
+      -2.0986722
+     ],
+     [
+      30.3604972,
+      -2.0074417
+     ],
+     [
+      30.1475583,
+      -1.9685639
+     ],
+     [
+      29.9413028,
+      -1.9026806
+     ],
+     [
+      29.4784556,
+      -1.7546778
+     ],
+     [
+      29.2405139,
+      -1.6786028
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UB531",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "55623700c4fd52ae266b9dc3d4b66be9136a7fb6d14d20738ba4dc82c0d7aafe",
+    "fields": {
+     "designator": {
+      "value": "UB531",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952315+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.1%20UB531-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "UB531"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952316+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.1%20UB531-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/DATAN",
+       "WPT/DUSBA",
+       "NAV/KNM",
+       "WPT/ETLIT",
+       "WPT/RANAG",
+       "NAV/GOM"
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952317+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.1%20UB531-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/DATAN -> WPT/DUSBA -> NAV/KNM -> WPT/ETLIT -> WPT/RANAG -> NAV/GOM"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      29.2833333,
+      -2.6222222
+     ],
+     [
+      29.2821944,
+      -2.5317556
+     ],
+     [
+      29.2658861,
+      -2.1981361
+     ],
+     [
+      29.2527667,
+      -1.9295306
+     ],
+     [
+      29.2405139,
+      -1.6786028
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UB607",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e2174895defb72f1b454e31c3194421851b11a36887e49426f239d99408ff492",
+    "fields": {
+     "designator": {
+      "value": "UB607",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952335+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.1%20UB607-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "UB607"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952336+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.1%20UB607-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/KIVUR",
+       "WPT/LABAG",
+       "WPT/KAROS",
+       "WPT/MITON",
+       "NAV/GOM"
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952337+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.1%20UB607-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/KIVUR -> WPT/LABAG -> WPT/KAROS -> WPT/MITON -> NAV/GOM"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      30.7445139,
+      -1.4512278
+     ],
+     [
+      30.31155,
+      -1.8264944
+     ],
+     [
+      30.1475583,
+      -1.9685639
+     ],
+     [
+      30.0613194,
+      -2.1126639
+     ],
+     [
+      30.0358639,
+      -2.1550583
+     ],
+     [
+      29.9757972,
+      -2.2555222
+     ],
+     [
+      29.6492417,
+      -2.8006806
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UL432",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "128b44ff6639de9e82e339c933d7dc316e082d98d385bc8a3a1d3d9ee36d0a26",
+    "fields": {
+     "designator": {
+      "value": "UL432",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952403+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.2%20UL432%20%28RNAV10%29-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "UL432"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952404+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.2%20UL432%20%28RNAV10%29-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/ALSAR",
+       "WPT/ETMAP",
+       "NAV/KNM",
+       "WPT/GADBO",
+       "WPT/UDLOP",
+       "WPT/XABOB",
+       "WPT/GAVDA"
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952405+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.2%20UL432%20%28RNAV10%29-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/ALSAR -> WPT/ETMAP -> NAV/KNM -> WPT/GADBO -> WPT/UDLOP -> WPT/XABOB -> WPT/GAVDA"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      30.82035,
+      -1.9073
+     ],
+     [
+      30.1475583,
+      -1.9685639
+     ],
+     [
+      29.9380611,
+      -2.0231472
+     ],
+     [
+      29.2658861,
+      -2.1981361
+     ],
+     [
+      28.8117917,
+      -2.3161694
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UL442",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "24be4b24eced6136498529177712d28975f5df959422d0cc451ca9bc300bc3a9",
+    "fields": {
+     "designator": {
+      "value": "UL442",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952421+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.2%20UL442%20%28RNAV10%29-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "UL442"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952422+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.2%20UL442%20%28RNAV10%29-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/BOSAD",
+       "NAV/KNM",
+       "WPT/IMSEP",
+       "WPT/KAROS",
+       "NAV/BKV"
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952423+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.2%20UL442%20%28RNAV10%29-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/BOSAD -> NAV/KNM -> WPT/IMSEP -> WPT/KAROS -> NAV/BKV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      30.1475583,
+      -1.9685639
+     ],
+     [
+      30.0571167,
+      -2.3788639
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UY198",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "797b200a21ee7cdff014ae541f01c4823f0007c4284c0f9f542021ac68ffe418",
+    "fields": {
+     "designator": {
+      "value": "UY198",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952437+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.2%20UY198%20%28RNAV10%29-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "UY198"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952438+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.2%20UY198%20%28RNAV10%29-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "NAV/KNM",
+       "WPT/ETMIX"
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 3",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.952440+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%203.2%20UY198%20%28RNAV10%29-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "NAV/KNM -> WPT/ETMIX"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "naturalKey": "HRYG/RWY/01-19",
+    "parentKey": "HRYG",
+    "featureType": "runway",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "3f5bcdfc7f1b697bb5674e6a7cbcdda9c9c96d606a97e0ec48dc4e1387d0009b",
+    "fields": {
+     "pairDesignator": {
+      "value": "01-19",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYG AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.964234+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "01-19"
+     },
+     "length": {
+      "value": 1015.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYG AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.964228+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "1015 x 22"
+     },
+     "width": {
+      "value": 22.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYG AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.964230+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "1015 x 22"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "naturalKey": "HRYI/RWY/09-27",
+    "parentKey": "HRYI",
+    "featureType": "runway",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c24a297922e3c44bac00c0310f5315d00482ed2c48ce2aa207a5e1b3f9c1a685",
+    "fields": {
+     "pairDesignator": {
+      "value": "09-27",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYI AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.975006+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "09-27"
+     },
+     "length": {
+      "value": 860.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYI AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.975000+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "860 x 24"
+     },
+     "width": {
+      "value": 24.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYI AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.975002+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "860 x 24"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "naturalKey": "HRYN/RWY/13-31",
+    "parentKey": "HRYN",
+    "featureType": "runway",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "6beadaa8324b0fe0154f140dec214428a72d5b2fa7897a0669166fb0d144c55e",
+    "fields": {
+     "pairDesignator": {
+      "value": "13-31",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYN AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.986250+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYN-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "13-31"
+     },
+     "length": {
+      "value": 1100.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYN AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.986245+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYN-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "1100 x 25"
+     },
+     "width": {
+      "value": 25.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYN AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.986246+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYN-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "1100 x 25"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "naturalKey": "HRYR/RWY/10-28",
+    "parentKey": "HRYR",
+    "featureType": "runway",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b0e8aa0705d0875f689b8118af509dad1635213cad81cce49523b7acfffaf7fa",
+    "fields": {
+     "pairDesignator": {
+      "value": "10-28",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYR AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.003232+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "10-28"
+     },
+     "length": {
+      "value": 3500.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYR AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.003227+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3500 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYR AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.003228+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3500 x 45"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "naturalKey": "HRYU/RWY/14-32",
+    "parentKey": "HRYU",
+    "featureType": "runway",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "8f2587755140d5f944fe1b0d43f51312e8344ef0b15871d4c397101b3646821d",
+    "fields": {
+     "pairDesignator": {
+      "value": "14-32",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYU AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.013007+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "14-32"
+     },
+     "length": {
+      "value": 1480.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYU AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.013002+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "1480 x 35"
+     },
+     "width": {
+      "value": 35.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYU AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.013003+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "1480 x 35"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "naturalKey": "HRZA/RWY/02-20",
+    "parentKey": "HRZA",
+    "featureType": "runway",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2cb16e88bea5543d1446ec4a3616aacd6c1a9f4cf357379fad69d4062f6eb005",
+    "fields": {
+     "pairDesignator": {
+      "value": "02-20",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRZA AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.025127+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRZA-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "02-20"
+     },
+     "length": {
+      "value": 1504.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRZA AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.025121+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRZA-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "1504 x 30"
+     },
+     "width": {
+      "value": 30.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRZA AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.025123+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRZA-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "1504 x 30"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "naturalKey": "HRYG/RWY/01",
+    "parentKey": "HRYG/RWY/01-19",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f2b1b2578b21b6d2ce9c2ce49499565e09121b156698d7d49229db8e8d368cf1",
+    "fields": {
+     "designator": {
+      "value": "01",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYG AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.964243+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "01"
+     },
+     "trueBearing": {
+      "value": 10.0,
+      "unit": "DEG",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYG AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.964244+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "010.00°"
+     },
+     "length": {
+      "value": 1015.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYG AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.964228+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "1015 x 22"
+     },
+     "width": {
+      "value": 22.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYG AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.964230+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "1015 x 22"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "naturalKey": "HRYG/RWY/19",
+    "parentKey": "HRYG/RWY/01-19",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "119208d90724db4a2d286a432e49c3cdea81037edb74900a92e1457e74d9ef67",
+    "fields": {
+     "designator": {
+      "value": "19",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYG AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.964255+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "19"
+     },
+     "trueBearing": {
+      "value": 190.0,
+      "unit": "DEG",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYG AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.964256+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "190.00°"
+     },
+     "length": {
+      "value": 1015.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYG AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.964228+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "1015 x 22"
+     },
+     "width": {
+      "value": 22.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYG AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.964230+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "1015 x 22"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "naturalKey": "HRYI/RWY/09",
+    "parentKey": "HRYI/RWY/09-27",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "994eb37fb0ba8f00e2ec5e970f7cff03f64226c91570b10d70a79096ed7c6dba",
+    "fields": {
+     "designator": {
+      "value": "09",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYI AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.975015+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "09"
+     },
+     "trueBearing": {
+      "value": 85.0,
+      "unit": "DEG",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYI AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.975017+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "085.00°"
+     },
+     "length": {
+      "value": 860.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYI AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.975000+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "860 x 24"
+     },
+     "width": {
+      "value": 24.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYI AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.975002+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "860 x 24"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "naturalKey": "HRYI/RWY/27",
+    "parentKey": "HRYI/RWY/09-27",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "97fec5268dd6b4c2d9237a276c428dcc18a1e17fc88169fc87a0529c03cf1d8f",
+    "fields": {
+     "designator": {
+      "value": "27",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYI AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.975027+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "27"
+     },
+     "trueBearing": {
+      "value": 265.0,
+      "unit": "DEG",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYI AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.975029+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "265.00°"
+     },
+     "length": {
+      "value": 860.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYI AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.975000+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "860 x 24"
+     },
+     "width": {
+      "value": 24.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYI AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.975002+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "860 x 24"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "naturalKey": "HRYN/RWY/13",
+    "parentKey": "HRYN/RWY/13-31",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "94471c22139deef1bb75e0c61c5bb38b16a0eb06d2bab59cdd5437d8676dbe3c",
+    "fields": {
+     "designator": {
+      "value": "13",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYN AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.986259+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYN-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "13"
+     },
+     "trueBearing": {
+      "value": 131.0,
+      "unit": "DEG",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYN AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.986260+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYN-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "131.00°"
+     },
+     "length": {
+      "value": 1100.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYN AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.986245+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYN-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "1100 x 25"
+     },
+     "width": {
+      "value": 25.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYN AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.986246+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYN-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "1100 x 25"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "naturalKey": "HRYN/RWY/31",
+    "parentKey": "HRYN/RWY/13-31",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "8c1f74fbc3ed7bad342965afc5bd582b0445675c04b41ea6ea09350ffb429932",
+    "fields": {
+     "designator": {
+      "value": "31",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYN AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.986273+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYN-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "31"
+     },
+     "trueBearing": {
+      "value": 311.0,
+      "unit": "DEG",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYN AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.986274+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYN-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "311.00°"
+     },
+     "length": {
+      "value": 1100.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYN AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.986245+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYN-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "1100 x 25"
+     },
+     "width": {
+      "value": 25.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYN AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.986246+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYN-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "1100 x 25"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "naturalKey": "HRYR/RWY/10",
+    "parentKey": "HRYR/RWY/10-28",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "ca18ab8343113f6806012c86e83f998829a8a742366f94be3b1811baa512227d",
+    "fields": {
+     "designator": {
+      "value": "10",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYR AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.003241+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "10"
+     },
+     "trueBearing": {
+      "value": 100.0,
+      "unit": "DEG",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYR AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.003243+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "100.00°"
+     },
+     "length": {
+      "value": 3500.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYR AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.003227+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3500 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYR AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.003228+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3500 x 45"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "naturalKey": "HRYR/RWY/28",
+    "parentKey": "HRYR/RWY/10-28",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f71f9f44a0fdb7b57ba5b48d740079b9e339367714034f6a1983e834b39d552d",
+    "fields": {
+     "designator": {
+      "value": "28",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYR AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.003253+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "28"
+     },
+     "trueBearing": {
+      "value": 280.0,
+      "unit": "DEG",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYR AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.003254+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "280.00°"
+     },
+     "length": {
+      "value": 3500.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYR AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.003227+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3500 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYR AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.003228+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYR-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3500 x 45"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "naturalKey": "HRYU/RWY/14",
+    "parentKey": "HRYU/RWY/14-32",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "983e4ac3cd4ef74f06db948d954bd0ef62c6020fae7db1fa1684548449a0ec9f",
+    "fields": {
+     "designator": {
+      "value": "14",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYU AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.013015+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "14"
+     },
+     "trueBearing": {
+      "value": 137.0,
+      "unit": "DEG",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYU AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.013017+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "137.00°"
+     },
+     "length": {
+      "value": 1480.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYU AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.013002+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "1480 x 35"
+     },
+     "width": {
+      "value": 35.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYU AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.013003+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "1480 x 35"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "naturalKey": "HRYU/RWY/32",
+    "parentKey": "HRYU/RWY/14-32",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c114a77a0b551886a219d20fb4f734a19c85d769d482f8501ea0459f2e5d4545",
+    "fields": {
+     "designator": {
+      "value": "32",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYU AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.013026+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "32"
+     },
+     "trueBearing": {
+      "value": 317.0,
+      "unit": "DEG",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYU AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.013027+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "317.00°"
+     },
+     "length": {
+      "value": 1480.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYU AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.013002+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "1480 x 35"
+     },
+     "width": {
+      "value": 35.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRYU AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.013003+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRYU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "1480 x 35"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "naturalKey": "HRZA/RWY/02",
+    "parentKey": "HRZA/RWY/02-20",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b851c7d9fe5690bebe3dbb66e4ea937906e3dc6f68184fb8ebd264d086b7747b",
+    "fields": {
+     "designator": {
+      "value": "02",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRZA AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.025136+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRZA-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "02"
+     },
+     "trueBearing": {
+      "value": 17.0,
+      "unit": "DEG",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRZA AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.025137+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRZA-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "017.00°"
+     },
+     "length": {
+      "value": 1504.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRZA AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.025121+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRZA-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "1504 x 30"
+     },
+     "width": {
+      "value": 30.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRZA AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.025123+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRZA-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "1504 x 30"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "naturalKey": "HRZA/RWY/20",
+    "parentKey": "HRZA/RWY/02-20",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "25d0c473aa3a8c3bc0c41bac296225e6cf65b3c1201f5de526f686fe572312cb",
+    "fields": {
+     "designator": {
+      "value": "20",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRZA AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.025148+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRZA-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "20"
+     },
+     "trueBearing": {
+      "value": 197.0,
+      "unit": "DEG",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRZA AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.025149+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRZA-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "197.00°"
+     },
+     "length": {
+      "value": 1504.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRZA AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.025121+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRZA-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "1504 x 30"
+     },
+     "width": {
+      "value": 30.0,
+      "unit": "M",
+      "source": "eAIP Rwanda (RAC)",
+      "section": "HRZA AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:47.025123+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-AD%202%20HRZA-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "1504 x 30"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.7445139,
+     -1.4512278
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ALSAR",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d5b86773d44d71eff1c0f48145aacf076c30128d9f5890428b5f6860a9ca7035",
+    "fields": {
+     "designator": {
+      "value": "ALSAR",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922722+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ALSAR"
+     },
+     "coordinates": {
+      "value": [
+       30.7445139,
+       -1.4512278
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922726+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "012704.42S 0304440.25E"
+     },
+     "atsRoutes": {
+      "value": "L432 (RNAV 10), UL432 (RNAV10)",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922728+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L432 (RNAV 10), UL432 (RNAV10)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.1845333,
+     -1.828825
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/APMUM",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "636e15c268234f57743a9a5c61596c4fd70280e1289f56f1dfda5bc8ace10c98",
+    "fields": {
+     "designator": {
+      "value": "APMUM",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922752+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "APMUM"
+     },
+     "coordinates": {
+      "value": [
+       30.1845333,
+       -1.828825
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922753+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "014943.77S 0301104.32E"
+     },
+     "atsRoutes": {
+      "value": "B527, UB527",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922755+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "B527, UB527"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.1494333,
+     -2.2792222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/APNEV",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "60cdf590315eb0e1cdc7b30b506a6b477e417c5a321df598b42024c8fc0ebaf2",
+    "fields": {
+     "designator": {
+      "value": "APNEV",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922769+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "APNEV"
+     },
+     "coordinates": {
+      "value": [
+       29.1494333,
+       -2.2792222
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922771+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "021645.20S 0290857.96E"
+     },
+     "atsRoutes": {
+      "value": "-",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922774+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "-"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.82035,
+     -1.9073
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/BOSAD",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2cff7d5d12e5c1cd948e4c91bbe483a013dd2742de14b6d8af981bb33373ef6b",
+    "fields": {
+     "designator": {
+      "value": "BOSAD",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922787+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "BOSAD"
+     },
+     "coordinates": {
+      "value": [
+       30.82035,
+       -1.9073
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922788+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "015426.28S 0304913.26E"
+     },
+     "atsRoutes": {
+      "value": "L442 (RNAV 10), UL442 (RNAV10)",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922789+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L442 (RNAV 10), UL442 (RNAV10)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.8961861,
+     -2.0986722
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DATAN",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c70b44d926644113492d5d647b63889051bc3b7697be12db09902e7552825643",
+    "fields": {
+     "designator": {
+      "value": "DATAN",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922800+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "DATAN"
+     },
+     "coordinates": {
+      "value": [
+       30.8961861,
+       -2.0986722
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922801+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "020555.22S 0305346.27E"
+     },
+     "atsRoutes": {
+      "value": "B531, UB531",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922802+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "B531, UB531"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.3604972,
+     -2.0074417
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DUSBA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "8a588ab00f90ace38b14602498c91884a7791bdfcd3d4cb61b52d6a5c4a2c936",
+    "fields": {
+     "designator": {
+      "value": "DUSBA",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922815+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "DUSBA"
+     },
+     "coordinates": {
+      "value": [
+       30.3604972,
+       -2.0074417
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922816+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "020026.79S 0302137.79E"
+     },
+     "atsRoutes": {
+      "value": "B531, UB531",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922817+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "B531, UB531"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.3831806,
+     -1.079025
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/EGREK",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "93feeb66f2521931b198f948e160cda777bf72d22de3e202d0758dade5f589d6",
+    "fields": {
+     "designator": {
+      "value": "EGREK",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922827+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "EGREK"
+     },
+     "coordinates": {
+      "value": [
+       30.3831806,
+       -1.079025
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922828+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "010444.49S 0302259.45E"
+     },
+     "atsRoutes": {
+      "value": "B527, UB527",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922828+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "B527, UB527"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.9146833,
+     -2.4398583
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/EGTOG",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "46a62f846f965ee0f6fb0fe6531bbd0dd822889bebbd865de83ae12064d10e0c",
+    "fields": {
+     "designator": {
+      "value": "EGTOG",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922842+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "EGTOG"
+     },
+     "coordinates": {
+      "value": [
+       28.9146833,
+       -2.4398583
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922846+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "022623.49S 0285452.86E"
+     },
+     "atsRoutes": {
+      "value": "-",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922848+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "-"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.8898917,
+     -2.5227639
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/EPNUN",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "a74c7c3ebada229efe40b72df904691d6ee8f59a95cebdc662889279431c83c6",
+    "fields": {
+     "designator": {
+      "value": "EPNUN",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922865+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "EPNUN"
+     },
+     "coordinates": {
+      "value": [
+       28.8898917,
+       -2.5227639
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922867+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "023121.95S 0285323.61E"
+     },
+     "atsRoutes": {
+      "value": "-",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922869+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "-"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.9613528,
+     -2.5850972
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ERBUB",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e9e05192713c202d04c7d799666f6c87438e29daf3f6bafc0e4b03e9ad2526fd",
+    "fields": {
+     "designator": {
+      "value": "ERBUB",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922882+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ERBUB"
+     },
+     "coordinates": {
+      "value": [
+       28.9613528,
+       -2.5850972
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922883+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "023506.35S 0285740.87E"
+     },
+     "atsRoutes": {
+      "value": "-",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922885+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "-"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.9330806,
+     -2.3783417
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ESRIT",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d481064de9f06cb462996debae065370c539fe5035a36fe0543e0db210722fb8",
+    "fields": {
+     "designator": {
+      "value": "ESRIT",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922904+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ESRIT"
+     },
+     "coordinates": {
+      "value": [
+       28.9330806,
+       -2.3783417
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922905+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "022242.03S 0285559.09E"
+     },
+     "atsRoutes": {
+      "value": "-",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922907+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "-"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.9413028,
+     -1.9026806
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ETLIT",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "9628d86b64b0c53eecf728ebdd9930ccb61416e7853cabaf71b61f60873a7a6b",
+    "fields": {
+     "designator": {
+      "value": "ETLIT",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922920+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ETLIT"
+     },
+     "coordinates": {
+      "value": [
+       29.9413028,
+       -1.9026806
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922922+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "015409.65S 0295628.69E"
+     },
+     "atsRoutes": {
+      "value": "B531, UB531",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922924+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "B531, UB531"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.31155,
+     -1.8264944
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ETMAP",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "6e339d4d2d9b6b9cfbafda3e428ada2d698f8db2cb029c1c84796dfd73c92b84",
+    "fields": {
+     "designator": {
+      "value": "ETMAP",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922938+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ETMAP"
+     },
+     "coordinates": {
+      "value": [
+       30.31155,
+       -1.8264944
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922941+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "014935.38S 0301841.58E"
+     },
+     "atsRoutes": {
+      "value": "L432 (RNAV 10), UL432 (RNAV10)",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922944+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L432 (RNAV 10), UL432 (RNAV10)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.0571167,
+     -2.3788639
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ETMIX",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "00becb83b51c729eff3345ec18f6d689ebb6721cd57187f4ad99349508efbd54",
+    "fields": {
+     "designator": {
+      "value": "ETMIX",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922961+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ETMIX"
+     },
+     "coordinates": {
+      "value": [
+       30.0571167,
+       -2.3788639
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922963+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "022243.91S 0300325.62E"
+     },
+     "atsRoutes": {
+      "value": "UY198 (RNAV10)",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922964+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "UY198 (RNAV10)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.6612861,
+     -2.0251611
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/EVITI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "61c2a8ddf649b006b8b151095b159ee15bb840d3f8b2b277fa048fc9af28803c",
+    "fields": {
+     "designator": {
+      "value": "EVITI",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922978+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "EVITI"
+     },
+     "coordinates": {
+      "value": [
+       29.6612861,
+       -2.0251611
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922979+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "020130.58S 0293940.63E"
+     },
+     "atsRoutes": {
+      "value": "-",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922981+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "-"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.0613194,
+     -2.1126639
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/GADBO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "5ffaa8bf8c4d46c606f64a5857b47889c649a91ad30105437e3269e3a12d7847",
+    "fields": {
+     "designator": {
+      "value": "GADBO",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922996+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "GADBO"
+     },
+     "coordinates": {
+      "value": [
+       30.0613194,
+       -2.1126639
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922998+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "020645.59S 0300340.75E"
+     },
+     "atsRoutes": {
+      "value": "L432 (RNAV 10), UB527, UL432 (RNAV10)",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.922999+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L432 (RNAV 10), UB527, UL432 (RNAV10)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.6492417,
+     -2.8006806
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/GAVDA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "8d2f353ae305d486f1c25fb67a4c07589c8407045efb92684b78229e0e63ad20",
+    "fields": {
+     "designator": {
+      "value": "GAVDA",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923013+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "GAVDA"
+     },
+     "coordinates": {
+      "value": [
+       29.6492417,
+       -2.8006806
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923014+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "024802.45S 0293857.27E"
+     },
+     "atsRoutes": {
+      "value": "L432 (RNAV 10), UB527, UL432 (RNAV10)",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923016+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L432 (RNAV 10), UB527, UL432 (RNAV10)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.2747806,
+     -2.1447083
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/GESOL",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "9cdc6752241b227289c0489e79403ca8a3be8103e99a6b91d2ea8d0aa0d43530",
+    "fields": {
+     "designator": {
+      "value": "GESOL",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923029+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "GESOL"
+     },
+     "coordinates": {
+      "value": [
+       30.2747806,
+       -2.1447083
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923033+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "020840.95S 0301629.21E"
+     },
+     "atsRoutes": {
+      "value": "-",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923034+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "-"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.2032333,
+     -1.7581611
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/IBNIN",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "7725a900b323d6ee6d5b25b086870cdf1591141ce092009d2c40bea9e2f43237",
+    "fields": {
+     "designator": {
+      "value": "IBNIN",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923049+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "IBNIN"
+     },
+     "coordinates": {
+      "value": [
+       30.2032333,
+       -1.7581611
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923051+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "014529.38S 0301211.64E"
+     },
+     "atsRoutes": {
+      "value": "B527, UB527",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923052+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "B527, UB527"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.9074111,
+     -1.8259361
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/IMLOV",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2ea615a197039f04195747d5b95a19cbcedfcd32d89566ba3c16a5a6a4968b93",
+    "fields": {
+     "designator": {
+      "value": "IMLOV",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923065+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "IMLOV"
+     },
+     "coordinates": {
+      "value": [
+       29.9074111,
+       -1.8259361
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923067+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "014933.37S 0295426.68E"
+     },
+     "atsRoutes": {
+      "value": "-",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923069+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "-"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.9380611,
+     -2.0231472
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/IMSEP",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "ecdc9c3af1e4b09641c047f487a91f025dbab9315980042248c148c279295855",
+    "fields": {
+     "designator": {
+      "value": "IMSEP",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923083+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "IMSEP"
+     },
+     "coordinates": {
+      "value": [
+       29.9380611,
+       -2.0231472
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923085+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "020123.33S 0295617.02E"
+     },
+     "atsRoutes": {
+      "value": "L442 (RNAV 10), UL442 (RNAV10)",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923087+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L442 (RNAV 10), UL442 (RNAV10)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.2658861,
+     -2.1981361
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/KAROS",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b6e280f6989f9e341d3d1d631fd57a7a17e9a104873931a193888377ea0acefc",
+    "fields": {
+     "designator": {
+      "value": "KAROS",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923101+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "KAROS"
+     },
+     "coordinates": {
+      "value": [
+       29.2658861,
+       -2.1981361
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923103+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "021153.29S 0291557.19E"
+     },
+     "atsRoutes": {
+      "value": "B607, L442 (RNAV 10), UB607, UL442 (RNAV10)",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923104+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "B607, L442 (RNAV 10), UB607, UL442 (RNAV10)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.2833333,
+     -2.6222222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/KIVUR",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "21377d1c7408ec0b1c0d2c3324ff961a1c9256c7a0e874156488355c585b267b",
+    "fields": {
+     "designator": {
+      "value": "KIVUR",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923123+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "KIVUR"
+     },
+     "coordinates": {
+      "value": [
+       29.2833333,
+       -2.6222222
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923124+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "023720.00S 0291700.00E"
+     },
+     "atsRoutes": {
+      "value": "B607, UB607",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923126+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "B607, UB607"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.2821944,
+     -2.5317556
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LABAG",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b5d2b72e67c78637380311fb8a71b61c067f6b28daec3453fd3ae6e0c28095dd",
+    "fields": {
+     "designator": {
+      "value": "LABAG",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923139+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "LABAG"
+     },
+     "coordinates": {
+      "value": [
+       29.2821944,
+       -2.5317556
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923140+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "023154.32S 0291655.90E"
+     },
+     "atsRoutes": {
+      "value": "B607, UB607",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923142+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "B607, UB607"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.2527667,
+     -1.9295306
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/MITON",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "bc85bc6b88da6e152572ae7d9842f6e49153acf8cde050e812a0dbe810b6c89c",
+    "fields": {
+     "designator": {
+      "value": "MITON",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923156+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "MITON"
+     },
+     "coordinates": {
+      "value": [
+       29.2527667,
+       -1.9295306
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923158+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "015546.31S 0291509.96E"
+     },
+     "atsRoutes": {
+      "value": "B607, UB607",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923160+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "B607, UB607"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.8902556,
+     -1.9249333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/OKLIP",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "8c7f8a81a011900ab4bd19e2c42645eaa074a15d0abec530bd925296894eee19",
+    "fields": {
+     "designator": {
+      "value": "OKLIP",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923176+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "OKLIP"
+     },
+     "coordinates": {
+      "value": [
+       29.8902556,
+       -1.9249333
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923178+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "015529.76S 0295324.92E"
+     },
+     "atsRoutes": {
+      "value": "-",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923180+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "-"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.4784556,
+     -1.7546778
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/RANAG",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "cba5c3b70b8917a77f03bdc625a14d0b91ddf2b1bba81465d6b2e063247ed388",
+    "fields": {
+     "designator": {
+      "value": "RANAG",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923196+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RANAG"
+     },
+     "coordinates": {
+      "value": [
+       29.4784556,
+       -1.7546778
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923198+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "014516.84S 0292842.44E"
+     },
+     "atsRoutes": {
+      "value": "B531, UB531",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923199+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "B531, UB531"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.8730972,
+     -2.0239333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/UDGAX",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "41c8fc9bc370b0d53cb2e2e320ddcde5648ee9cff261e16c97166a335c2dea37",
+    "fields": {
+     "designator": {
+      "value": "UDGAX",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923218+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "UDGAX"
+     },
+     "coordinates": {
+      "value": [
+       29.8730972,
+       -2.0239333
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923220+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "020126.16S 0295223.15E"
+     },
+     "atsRoutes": {
+      "value": "-",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923222+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "-"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.0358639,
+     -2.1550583
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/UDLOP",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "ff8805e659c3dd5efc9303c99738ff268a03c92d053b1266815dbb6e3a2e162f",
+    "fields": {
+     "designator": {
+      "value": "UDLOP",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923239+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "UDLOP"
+     },
+     "coordinates": {
+      "value": [
+       30.0358639,
+       -2.1550583
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923240+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "020918.21S 0300209.11E"
+     },
+     "atsRoutes": {
+      "value": "L432 (RNAV 10), UB527, UL432 (RNAV10)",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923241+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L432 (RNAV 10), UB527, UL432 (RNAV10)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.0217306,
+     -1.9479806
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/UTVOG",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2eb308b6aa83bbecc5e65e7d1d82aef9b807f6f53f877330dbc886f812ca57fe",
+    "fields": {
+     "designator": {
+      "value": "UTVOG",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923250+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "UTVOG"
+     },
+     "coordinates": {
+      "value": [
+       30.0217306,
+       -1.9479806
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923252+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "015652.73S 0300118.23E"
+     },
+     "atsRoutes": {
+      "value": "-",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923254+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "-"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.1726139,
+     -1.8496222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/UVKUT",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "239160de67d64b4505a4fba7f983df20c0188947454824a85a9ec145b80d426f",
+    "fields": {
+     "designator": {
+      "value": "UVKUT",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923263+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "UVKUT"
+     },
+     "coordinates": {
+      "value": [
+       30.1726139,
+       -1.8496222
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923265+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "015058.64S 0301021.41E"
+     },
+     "atsRoutes": {
+      "value": "-",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923266+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "-"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.9757972,
+     -2.2555222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/XABOB",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "aa27569f588daa0ff74a764b0aeae87ee90f3d8d64bb96b835b092f112436402",
+    "fields": {
+     "designator": {
+      "value": "XABOB",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923277+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "XABOB"
+     },
+     "coordinates": {
+      "value": [
+       29.9757972,
+       -2.2555222
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923278+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "021519.88S 0295832.87E"
+     },
+     "atsRoutes": {
+      "value": "L432 (RNAV 10), UB527, UL432 (RNAV10)",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923279+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L432 (RNAV 10), UB527, UL432 (RNAV10)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.6452861,
+     -1.8236694
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/XAKNA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "4691b287aec27ae2c8f8499256ce1842decf69ea820eacda89a30ad09418845d",
+    "fields": {
+     "designator": {
+      "value": "XAKNA",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923297+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "XAKNA"
+     },
+     "coordinates": {
+      "value": [
+       29.6452861,
+       -1.8236694
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923298+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "014925.21S 0293843.03E"
+     },
+     "atsRoutes": {
+      "value": "-",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923299+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "-"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.0494972,
+     -2.44175
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/XALNO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f9c0774da48e53b4a72246cfba16b582bd458f7749f16ffe743ba284eccb2a0e",
+    "fields": {
+     "designator": {
+      "value": "XALNO",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923308+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "XALNO"
+     },
+     "coordinates": {
+      "value": [
+       29.0494972,
+       -2.44175
+      ],
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923309+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "022630.30S 0290258.19E"
+     },
+     "atsRoutes": {
+      "value": "-",
+      "unit": null,
+      "source": "eAIP Rwanda (RAC)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T09:18:46.923310+00:00",
+      "source_url": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-ENR%204.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "-"
+     }
+    }
+   }
+  }
+ ],
+ "featureTypes": [
+  {
+   "featureType": "aerodrome",
+   "count": 6
+  },
+  {
+   "featureType": "navaid",
+   "count": 3
+  },
+  {
+   "featureType": "route",
+   "count": 11
+  },
+  {
+   "featureType": "runway",
+   "count": 6
+  },
+  {
+   "featureType": "runwayDirection",
+   "count": 12
+  },
+  {
+   "featureType": "waypoint",
+   "count": 34
+  }
+ ],
+ "publications": [
+  {
+   "cycleId": "2026-08-06-current",
+   "effectiveDate": "2026-08-06",
+   "amendmentId": "AIRAC AMDT 01/26",
+   "sourceKind": "LIVE",
+   "ingestedAt": "2026-10-27T09:18:47.025390+00:00",
+   "status": "promoted",
+   "stats": {
+    "total_documents": 0,
+    "parsed_features": 72,
+    "issue_count": 6,
+    "error_count": 0,
+    "warning_count": 6
+   },
+   "sourceUrl": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/index.html",
+   "notes": null
+  }
+ ],
+ "issues": [
+  {
+   "publicationId": "2026-08-06-current",
+   "severity": "warning",
+   "ruleId": "RULE_RUNWAY_GEOMETRY",
+   "featureKey": "HRYG/RWY/01-19",
+   "section": "HRYG AD 2.12",
+   "message": "Runway 01-19 at HRYG: threshold coordinates not captured",
+   "rawSnippet": ""
+  },
+  {
+   "publicationId": "2026-08-06-current",
+   "severity": "warning",
+   "ruleId": "RULE_RUNWAY_GEOMETRY",
+   "featureKey": "HRYI/RWY/09-27",
+   "section": "HRYI AD 2.12",
+   "message": "Runway 09-27 at HRYI: threshold coordinates not captured",
+   "rawSnippet": ""
+  },
+  {
+   "publicationId": "2026-08-06-current",
+   "severity": "warning",
+   "ruleId": "RULE_RUNWAY_GEOMETRY",
+   "featureKey": "HRYN/RWY/13-31",
+   "section": "HRYN AD 2.12",
+   "message": "Runway 13-31 at HRYN: threshold coordinates not captured",
+   "rawSnippet": ""
+  },
+  {
+   "publicationId": "2026-08-06-current",
+   "severity": "warning",
+   "ruleId": "RULE_RUNWAY_GEOMETRY",
+   "featureKey": "HRYR/RWY/10-28",
+   "section": "HRYR AD 2.12",
+   "message": "Runway 10-28 at HRYR: threshold coordinates not captured",
+   "rawSnippet": ""
+  },
+  {
+   "publicationId": "2026-08-06-current",
+   "severity": "warning",
+   "ruleId": "RULE_RUNWAY_GEOMETRY",
+   "featureKey": "HRYU/RWY/14-32",
+   "section": "HRYU AD 2.12",
+   "message": "Runway 14-32 at HRYU: threshold coordinates not captured",
+   "rawSnippet": ""
+  },
+  {
+   "publicationId": "2026-08-06-current",
+   "severity": "warning",
+   "ruleId": "RULE_RUNWAY_GEOMETRY",
+   "featureKey": "HRZA/RWY/02-20",
+   "section": "HRZA AD 2.12",
+   "message": "Runway 02-20 at HRZA: threshold coordinates not captured",
+   "rawSnippet": ""
+  }
+ ],
+ "meta": {
+  "state": "Rwanda",
+  "continent": "Africa",
+  "websites": [
+   {
+    "name": "AIP ASECNA",
+    "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+   }
+  ],
+  "contact_emails": [
+   "ais@rac.co.rw"
+  ]
+ }
+}

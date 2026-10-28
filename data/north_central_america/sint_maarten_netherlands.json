@@ -1,0 +1,442 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -63.108958333,
+     18.040927778
+    ]
+   },
+   "properties": {
+    "naturalKey": "TNCM",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "4c0a257120ab98719c5d35004f4c4b4a9bb42c871f3e01e7849b4d0a3b6b8bde",
+    "fields": {
+     "airportName": {
+      "value": "PRINCESS JULIANA INTERNATIONAL AIRPORT",
+      "unit": null,
+      "source": "AIP Dutch Caribbean (DC-ANSP, AIXM 5.1)",
+      "section": "TNCM AD 2.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T12:05:06.450327+00:00",
+      "source_url": "https://aim.dc-ansp.org/eAIP/AIRAC%20AMDT%20AIXM/2608_06%20AUG%2026_28%20MAY%2026_AeroDb%20AIRAC%20AMDT%2002-26.xml",
+      "parser_version": "1.0",
+      "raw_text": "PRINCESS JULIANA INTERNATIONAL AIRPORT"
+     },
+     "arpCoordinates": {
+      "value": [
+       -63.108958333,
+       18.040927778
+      ],
+      "unit": null,
+      "source": "AIP Dutch Caribbean (DC-ANSP, AIXM 5.1)",
+      "section": "TNCM AD 2.2",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T12:05:06.450337+00:00",
+      "source_url": "https://aim.dc-ansp.org/eAIP/AIRAC%20AMDT%20AIXM/2608_06%20AUG%2026_28%20MAY%2026_AeroDb%20AIRAC%20AMDT%2002-26.xml",
+      "parser_version": "1.0",
+      "raw_text": "18.040927778 -63.108958333"
+     },
+     "elevation": {
+      "value": 14,
+      "unit": "FT",
+      "source": "AIP Dutch Caribbean (DC-ANSP, AIXM 5.1)",
+      "section": "TNCM AD 2.2",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T12:05:06.450339+00:00",
+      "source_url": "https://aim.dc-ansp.org/eAIP/AIRAC%20AMDT%20AIXM/2608_06%20AUG%2026_28%20MAY%2026_AeroDb%20AIRAC%20AMDT%2002-26.xml",
+      "parser_version": "1.0",
+      "raw_text": "14.0 FT"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -63.1182775,
+     18.038115556
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/PJM",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "965cfca6fb1cb10414c4c1101e181cf7b73f69c03801ae5d438ab8b198f14f98",
+    "fields": {
+     "designator": {
+      "value": "PJM",
+      "unit": null,
+      "source": "AIP Dutch Caribbean (DC-ANSP, AIXM 5.1)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T12:05:06.454748+00:00",
+      "source_url": "https://aim.dc-ansp.org/eAIP/AIRAC%20AMDT%20AIXM/2608_06%20AUG%2026_28%20MAY%2026_AeroDb%20AIRAC%20AMDT%2002-26.xml",
+      "parser_version": "1.0",
+      "raw_text": "PJM"
+     },
+     "stationName": {
+      "value": "ST. MAARTEN",
+      "unit": null,
+      "source": "AIP Dutch Caribbean (DC-ANSP, AIXM 5.1)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T12:05:06.454753+00:00",
+      "source_url": "https://aim.dc-ansp.org/eAIP/AIRAC%20AMDT%20AIXM/2608_06%20AUG%2026_28%20MAY%2026_AeroDb%20AIRAC%20AMDT%2002-26.xml",
+      "parser_version": "1.0",
+      "raw_text": "ST. MAARTEN"
+     },
+     "navaidType": {
+      "value": "VOR/DME",
+      "unit": null,
+      "source": "AIP Dutch Caribbean (DC-ANSP, AIXM 5.1)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T12:05:06.454754+00:00",
+      "source_url": "https://aim.dc-ansp.org/eAIP/AIRAC%20AMDT%20AIXM/2608_06%20AUG%2026_28%20MAY%2026_AeroDb%20AIRAC%20AMDT%2002-26.xml",
+      "parser_version": "1.0",
+      "raw_text": "VOR/DME"
+     },
+     "frequency": {
+      "value": 113.0,
+      "unit": "MHZ",
+      "source": "AIP Dutch Caribbean (DC-ANSP, AIXM 5.1)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T12:05:06.454755+00:00",
+      "source_url": "https://aim.dc-ansp.org/eAIP/AIRAC%20AMDT%20AIXM/2608_06%20AUG%2026_28%20MAY%2026_AeroDb%20AIRAC%20AMDT%2002-26.xml",
+      "parser_version": "1.0",
+      "raw_text": "113 MHZ"
+     },
+     "frequencyUnit": {
+      "value": "MHZ",
+      "unit": null,
+      "source": "AIP Dutch Caribbean (DC-ANSP, AIXM 5.1)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T12:05:06.454756+00:00",
+      "source_url": "https://aim.dc-ansp.org/eAIP/AIRAC%20AMDT%20AIXM/2608_06%20AUG%2026_28%20MAY%2026_AeroDb%20AIRAC%20AMDT%2002-26.xml",
+      "parser_version": "1.0",
+      "raw_text": "MHZ"
+     },
+     "frequencyRaw": {
+      "value": "113 MHZ",
+      "unit": null,
+      "source": "AIP Dutch Caribbean (DC-ANSP, AIXM 5.1)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T12:05:06.454758+00:00",
+      "source_url": "https://aim.dc-ansp.org/eAIP/AIRAC%20AMDT%20AIXM/2608_06%20AUG%2026_28%20MAY%2026_AeroDb%20AIRAC%20AMDT%2002-26.xml",
+      "parser_version": "1.0",
+      "raw_text": "113 MHZ"
+     },
+     "coordinates": {
+      "value": [
+       -63.1182775,
+       18.038115556
+      ],
+      "unit": null,
+      "source": "AIP Dutch Caribbean (DC-ANSP, AIXM 5.1)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T12:05:06.454760+00:00",
+      "source_url": "https://aim.dc-ansp.org/eAIP/AIRAC%20AMDT%20AIXM/2608_06%20AUG%2026_28%20MAY%2026_AeroDb%20AIRAC%20AMDT%2002-26.xml",
+      "parser_version": "1.0",
+      "raw_text": "18.038115556 -63.1182775"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -63.118747222,
+      18.039533333
+     ],
+     [
+      -63.098205556,
+      18.042463889
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "TNCM/RWY/10-28",
+    "parentKey": "TNCM",
+    "featureType": "runway",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "6fa569dc19c89a65282a6ff236f2329390fe7a66235e19ad7f15cabc3244948a",
+    "fields": {
+     "pairDesignator": {
+      "value": "10-28",
+      "unit": null,
+      "source": "AIP Dutch Caribbean (DC-ANSP, AIXM 5.1)",
+      "section": "TNCM AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T12:05:06.450406+00:00",
+      "source_url": "https://aim.dc-ansp.org/eAIP/AIRAC%20AMDT%20AIXM/2608_06%20AUG%2026_28%20MAY%2026_AeroDb%20AIRAC%20AMDT%2002-26.xml",
+      "parser_version": "1.0",
+      "raw_text": "10-28"
+     },
+     "length": {
+      "value": 2300.0,
+      "unit": "M",
+      "source": "AIP Dutch Caribbean (DC-ANSP, AIXM 5.1)",
+      "section": "TNCM AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T12:05:06.450400+00:00",
+      "source_url": "https://aim.dc-ansp.org/eAIP/AIRAC%20AMDT%20AIXM/2608_06%20AUG%2026_28%20MAY%2026_AeroDb%20AIRAC%20AMDT%2002-26.xml",
+      "parser_version": "1.0",
+      "raw_text": "2300 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "AIP Dutch Caribbean (DC-ANSP, AIXM 5.1)",
+      "section": "TNCM AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T12:05:06.450402+00:00",
+      "source_url": "https://aim.dc-ansp.org/eAIP/AIRAC%20AMDT%20AIXM/2608_06%20AUG%2026_28%20MAY%2026_AeroDb%20AIRAC%20AMDT%2002-26.xml",
+      "parser_version": "1.0",
+      "raw_text": "2300 x 45"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -63.118747222,
+     18.039533333
+    ]
+   },
+   "properties": {
+    "naturalKey": "TNCM/RWY/10",
+    "parentKey": "TNCM/RWY/10-28",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "166da38e9e3b7fbe1d8f6c94c183c4863e350fb5dd96fe520dfecaa836c8648e",
+    "fields": {
+     "designator": {
+      "value": "10",
+      "unit": null,
+      "source": "AIP Dutch Caribbean (DC-ANSP, AIXM 5.1)",
+      "section": "TNCM AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T12:05:06.450418+00:00",
+      "source_url": "https://aim.dc-ansp.org/eAIP/AIRAC%20AMDT%20AIXM/2608_06%20AUG%2026_28%20MAY%2026_AeroDb%20AIRAC%20AMDT%2002-26.xml",
+      "parser_version": "1.0",
+      "raw_text": "10"
+     },
+     "trueBearing": {
+      "value": 82.0,
+      "unit": "DEG",
+      "source": "AIP Dutch Caribbean (DC-ANSP, AIXM 5.1)",
+      "section": "TNCM AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T12:05:06.450419+00:00",
+      "source_url": "https://aim.dc-ansp.org/eAIP/AIRAC%20AMDT%20AIXM/2608_06%20AUG%2026_28%20MAY%2026_AeroDb%20AIRAC%20AMDT%2002-26.xml",
+      "parser_version": "1.0",
+      "raw_text": "82.0"
+     },
+     "length": {
+      "value": 2300.0,
+      "unit": "M",
+      "source": "AIP Dutch Caribbean (DC-ANSP, AIXM 5.1)",
+      "section": "TNCM AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T12:05:06.450400+00:00",
+      "source_url": "https://aim.dc-ansp.org/eAIP/AIRAC%20AMDT%20AIXM/2608_06%20AUG%2026_28%20MAY%2026_AeroDb%20AIRAC%20AMDT%2002-26.xml",
+      "parser_version": "1.0",
+      "raw_text": "2300 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "AIP Dutch Caribbean (DC-ANSP, AIXM 5.1)",
+      "section": "TNCM AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T12:05:06.450402+00:00",
+      "source_url": "https://aim.dc-ansp.org/eAIP/AIRAC%20AMDT%20AIXM/2608_06%20AUG%2026_28%20MAY%2026_AeroDb%20AIRAC%20AMDT%2002-26.xml",
+      "parser_version": "1.0",
+      "raw_text": "2300 x 45"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       -63.118747222,
+       18.039533333
+      ],
+      "unit": null,
+      "source": "AIP Dutch Caribbean (DC-ANSP, AIXM 5.1)",
+      "section": "TNCM AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T12:05:06.450422+00:00",
+      "source_url": "https://aim.dc-ansp.org/eAIP/AIRAC%20AMDT%20AIXM/2608_06%20AUG%2026_28%20MAY%2026_AeroDb%20AIRAC%20AMDT%2002-26.xml",
+      "parser_version": "1.0",
+      "raw_text": "18.039533333 -63.118747222"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -63.098205556,
+     18.042463889
+    ]
+   },
+   "properties": {
+    "naturalKey": "TNCM/RWY/28",
+    "parentKey": "TNCM/RWY/10-28",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-08-06-current",
+    "effectiveFrom": "2026-08-06",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "5620317c8b118d6df0f8d2f9ee2c58919d12489f34f2b2a213072e6a200ac424",
+    "fields": {
+     "designator": {
+      "value": "28",
+      "unit": null,
+      "source": "AIP Dutch Caribbean (DC-ANSP, AIXM 5.1)",
+      "section": "TNCM AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T12:05:06.450431+00:00",
+      "source_url": "https://aim.dc-ansp.org/eAIP/AIRAC%20AMDT%20AIXM/2608_06%20AUG%2026_28%20MAY%2026_AeroDb%20AIRAC%20AMDT%2002-26.xml",
+      "parser_version": "1.0",
+      "raw_text": "28"
+     },
+     "trueBearing": {
+      "value": 262.0,
+      "unit": "DEG",
+      "source": "AIP Dutch Caribbean (DC-ANSP, AIXM 5.1)",
+      "section": "TNCM AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T12:05:06.450432+00:00",
+      "source_url": "https://aim.dc-ansp.org/eAIP/AIRAC%20AMDT%20AIXM/2608_06%20AUG%2026_28%20MAY%2026_AeroDb%20AIRAC%20AMDT%2002-26.xml",
+      "parser_version": "1.0",
+      "raw_text": "262.0"
+     },
+     "length": {
+      "value": 2300.0,
+      "unit": "M",
+      "source": "AIP Dutch Caribbean (DC-ANSP, AIXM 5.1)",
+      "section": "TNCM AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T12:05:06.450400+00:00",
+      "source_url": "https://aim.dc-ansp.org/eAIP/AIRAC%20AMDT%20AIXM/2608_06%20AUG%2026_28%20MAY%2026_AeroDb%20AIRAC%20AMDT%2002-26.xml",
+      "parser_version": "1.0",
+      "raw_text": "2300 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "AIP Dutch Caribbean (DC-ANSP, AIXM 5.1)",
+      "section": "TNCM AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T12:05:06.450402+00:00",
+      "source_url": "https://aim.dc-ansp.org/eAIP/AIRAC%20AMDT%20AIXM/2608_06%20AUG%2026_28%20MAY%2026_AeroDb%20AIRAC%20AMDT%2002-26.xml",
+      "parser_version": "1.0",
+      "raw_text": "2300 x 45"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       -63.098205556,
+       18.042463889
+      ],
+      "unit": null,
+      "source": "AIP Dutch Caribbean (DC-ANSP, AIXM 5.1)",
+      "section": "TNCM AD 2.12",
+      "effective_date": "2026-08-06",
+      "retrieved_at": "2026-10-27T12:05:06.450435+00:00",
+      "source_url": "https://aim.dc-ansp.org/eAIP/AIRAC%20AMDT%20AIXM/2608_06%20AUG%2026_28%20MAY%2026_AeroDb%20AIRAC%20AMDT%2002-26.xml",
+      "parser_version": "1.0",
+      "raw_text": "18.042463889 -63.098205556"
+     }
+    }
+   }
+  }
+ ],
+ "featureTypes": [
+  {
+   "featureType": "aerodrome",
+   "count": 1
+  },
+  {
+   "featureType": "navaid",
+   "count": 1
+  },
+  {
+   "featureType": "runway",
+   "count": 1
+  },
+  {
+   "featureType": "runwayDirection",
+   "count": 2
+  }
+ ],
+ "publications": [
+  {
+   "cycleId": "2026-08-06-current",
+   "effectiveDate": "2026-08-06",
+   "amendmentId": "AIRAC AMDT 02-26",
+   "sourceKind": "LIVE",
+   "ingestedAt": "2026-10-27T12:05:06.459833+00:00",
+   "status": "promoted",
+   "stats": {
+    "total_documents": 1,
+    "parsed_features": 5,
+    "issue_count": 0,
+    "error_count": 0,
+    "warning_count": 0
+   },
+   "sourceUrl": "https://aim.dc-ansp.org/publications/digital-aip/",
+   "notes": null
+  }
+ ],
+ "issues": [],
+ "meta": {
+  "state": "Sint Maarten (Netherlands)",
+  "continent": "North & Central America",
+  "websites": [
+   {
+    "name": "AIP Dutch Caribbean",
+    "url": "https://dc-ansp.org/eAIS/eaip-dutch-caribbean/"
+   }
+  ],
+  "contact_emails": [
+   "aipaim@dc-ansp.org"
+  ]
+ }
+}

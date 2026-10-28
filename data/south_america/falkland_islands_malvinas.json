@@ -1,0 +1,1600 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -57.7774056,
+     -51.6859
+    ]
+   },
+   "properties": {
+    "naturalKey": "SFAL",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2026-06-01-current",
+    "effectiveFrom": "2026-06-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "a86f102cb06def9c5abf9131685b586a08aa347320189ad91b740e9e1774ed80",
+    "fields": {
+     "airportName": {
+      "value": "STANLEY AIRPORT/INTERNATIONAL",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "SFAL AD 2.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.923189+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/FI_AIP_AD_V8-Feb-2026-CURRENT.pdf",
+      "parser_version": "1.0",
+      "raw_text": "SFAL - STANLEY AIRPORT/INTERNATIONAL"
+     },
+     "arpCoordinates": {
+      "value": [
+       -57.7774056,
+       -51.6859
+      ],
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "SFAL AD 2.2",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.923191+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/FI_AIP_AD_V8-Feb-2026-CURRENT.pdf",
+      "parser_version": "1.0",
+      "raw_text": "51° 41’ 09.24’’ S, 057° 46’ 38.66’’ W"
+     },
+     "elevation": {
+      "value": 74,
+      "unit": "FT",
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "SFAL AD 2.2",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.923193+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/FI_AIP_AD_V8-Feb-2026-CURRENT.pdf",
+      "parser_version": "1.0",
+      "raw_text": "22.55M (74FT"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -58.4432722,
+     -51.8242556
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/EGYP/I-MP/GP",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2026-06-01-current",
+    "effectiveFrom": "2026-06-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "26b0784905e57fc807696c50eeba97ce67a279c76c4aed23991ef384d7995d0d",
+    "fields": {
+     "designator": {
+      "value": "EGYP/I-MP/GP",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921282+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "EGYP/I-MP/GP"
+     },
+     "navaidType": {
+      "value": "ILS/GP",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921284+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ILS/GP"
+     },
+     "frequency": {
+      "value": 331.1,
+      "unit": "MHZ",
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921285+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "331.100"
+     },
+     "frequencyUnit": {
+      "value": "MHZ",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921286+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "MHZ"
+     },
+     "frequencyRaw": {
+      "value": "331.100",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921288+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "331.100"
+     },
+     "coordinates": {
+      "value": [
+       -58.4432722,
+       -51.8242556
+      ],
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921290+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "514927.32S 0582635.78W"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -58.48205,
+     -51.8165667
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/EGYP/I-MP/LOC",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2026-06-01-current",
+    "effectiveFrom": "2026-06-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "7aed65799aa48919874986e21eff97d14abdd4ce83c3003933be1d309ab97ebf",
+    "fields": {
+     "designator": {
+      "value": "EGYP/I-MP/LOC",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921299+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "EGYP/I-MP/LOC"
+     },
+     "navaidType": {
+      "value": "ILS/LOC",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921301+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ILS/LOC"
+     },
+     "frequency": {
+      "value": 111.9,
+      "unit": "MHZ",
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921302+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "111.900"
+     },
+     "frequencyUnit": {
+      "value": "MHZ",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921304+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "MHZ"
+     },
+     "frequencyRaw": {
+      "value": "111.900",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921305+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "111.900"
+     },
+     "coordinates": {
+      "value": [
+       -58.48205,
+       -51.8165667
+      ],
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921307+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "514859.64S 0582855.38W"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -58.4785972,
+     -51.8293389
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/MP",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2026-06-01-current",
+    "effectiveFrom": "2026-06-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "10596a5422dcbd364c8afb44363c28c5f07685ba9f659c031e206e4f4bba8e8e",
+    "fields": {
+     "designator": {
+      "value": "MP",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921264+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "MP"
+     },
+     "navaidType": {
+      "value": "NDB",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921267+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "NDB"
+     },
+     "frequency": {
+      "value": 380.0,
+      "unit": "KHZ",
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921268+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "380.000"
+     },
+     "frequencyUnit": {
+      "value": "KHZ",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921269+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "KHZ"
+     },
+     "frequencyRaw": {
+      "value": "380.000",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921270+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "380.000"
+     },
+     "coordinates": {
+      "value": [
+       -58.4785972,
+       -51.8293389
+      ],
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921273+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "514945.62S 0582842.95W"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -58.4569389,
+     -51.824075
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/MPA",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2026-06-01-current",
+    "effectiveFrom": "2026-06-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "9ce978c9d077e163c0eea001367be97bf10b91381b155152c8a4280e9bd1c969",
+    "fields": {
+     "designator": {
+      "value": "MPA",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921218+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "MPA"
+     },
+     "navaidType": {
+      "value": "TACAN",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921223+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "TACAN"
+     },
+     "frequency": {
+      "value": 112.2,
+      "unit": "MHZ",
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921225+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "112.2"
+     },
+     "frequencyUnit": {
+      "value": "MHZ",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921226+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "MHZ"
+     },
+     "frequencyRaw": {
+      "value": "112.2",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921227+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "112.2"
+     },
+     "coordinates": {
+      "value": [
+       -58.4569389,
+       -51.824075
+      ],
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921230+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "514926.67S 0582724.98W"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -58.4239806,
+     -51.8264
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/MTP",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2026-06-01-current",
+    "effectiveFrom": "2026-06-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "dcea8dc1865f67266226e1afacc63c51cc523b92b838fbbab9b787c18e5d2124",
+    "fields": {
+     "designator": {
+      "value": "MTP",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921246+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "MTP"
+     },
+     "navaidType": {
+      "value": "DVOR",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921248+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "DVOR"
+     },
+     "frequency": {
+      "value": 114.7,
+      "unit": "MHZ",
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921250+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "114.700"
+     },
+     "frequencyUnit": {
+      "value": "MHZ",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921251+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "MHZ"
+     },
+     "frequencyRaw": {
+      "value": "114.700",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921252+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "114.700"
+     },
+     "coordinates": {
+      "value": [
+       -58.4239806,
+       -51.8264
+      ],
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921255+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "514935.04S 0582526.33W"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -57.7772222,
+     -51.6841667
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/SA",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2026-06-01-current",
+    "effectiveFrom": "2026-06-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e3a61a8344ae1736581f54de97e9bc3f0cc5ca49481059807e75b8a5dcb8ff44",
+    "fields": {
+     "designator": {
+      "value": "SA",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921315+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "SA"
+     },
+     "navaidType": {
+      "value": "NDB",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921317+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "NDB"
+     },
+     "frequency": {
+      "value": 305.0,
+      "unit": "KHZ",
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921318+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "305.00MHz"
+     },
+     "frequencyUnit": {
+      "value": "KHZ",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921320+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "KHZ"
+     },
+     "frequencyRaw": {
+      "value": "305.00MHz",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921321+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "305.00MHz"
+     },
+     "coordinates": {
+      "value": [
+       -57.7772222,
+       -51.6841667
+      ],
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.921323+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "514103S 0574638W"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -58.2891667,
+      -53.0769444
+     ],
+     [
+      -58.4208333,
+      -51.8266667
+     ],
+     [
+      -58.5108333,
+      -50.5769444
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UT103",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-06-01-current",
+    "effectiveFrom": "2026-06-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "015e6f51274b984d4a9a3cc682b095ec22a41c99c736734edb7ab13fda323f43",
+    "fields": {
+     "designator": {
+      "value": "UT103",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 3",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.922643+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UT103"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 3",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.922644+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/OTAGI",
+       "NAV/MTP",
+       "WPT/MOSKA"
+      ],
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 3",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.922646+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/OTAGI -> NAV/MTP -> WPT/MOSKA"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 3",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.922647+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -62.2308333,
+      -52.73
+     ],
+     [
+      -58.4208333,
+      -51.8266667
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UW46",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-06-01-current",
+    "effectiveFrom": "2026-06-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "a8a247acce79c3a3b37bc8cb5f329873d473cd0bc052f58aad4f65645da5bf2d",
+    "fields": {
+     "designator": {
+      "value": "UW46",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 3",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.922586+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UW46"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 3",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.922588+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/ATOKI",
+       "NAV/MTP"
+      ],
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 3",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.922589+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/ATOKI -> NAV/MTP"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -60.5508333,
+      -50.5769444
+     ],
+     [
+      -58.4208333,
+      -51.8266667
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UW50",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-06-01-current",
+    "effectiveFrom": "2026-06-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d3d32754e3f3713612c9cdb29fe4d314a17fd7bd85e8574f448b251031cf4397",
+    "fields": {
+     "designator": {
+      "value": "UW50",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 3",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.922606+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UW50"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 3",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.922607+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/LOMIN",
+       "NAV/MTP"
+      ],
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 3",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.922608+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/LOMIN -> NAV/MTP"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -62.4677778,
+      -51.8619444
+     ],
+     [
+      -58.4208333,
+      -51.8266667
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UW54",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-06-01-current",
+    "effectiveFrom": "2026-06-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b9b9326c74df822dc82a5b56e3a9d6d22075196729c92163c3a1fd77460c1e00",
+    "fields": {
+     "designator": {
+      "value": "UW54",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 3",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.922623+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UW54"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 3",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.922624+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/DIGIS",
+       "NAV/MTP"
+      ],
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 3",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.922625+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/DIGIS -> NAV/MTP"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -60.5508333,
+      -50.5769444
+     ],
+     [
+      -58.4208333,
+      -51.8266667
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/W50",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-06-01-current",
+    "effectiveFrom": "2026-06-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "64fba02439784d32b8aa5de9a32f4b3cb106f81760fd8fccd6f593879c26a85c",
+    "fields": {
+     "designator": {
+      "value": "W50",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 3",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.922567+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "W50"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 3",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.922568+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/LOMIN",
+       "NAV/MTP"
+      ],
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 3",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.922569+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/LOMIN -> NAV/MTP"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -62.4677778,
+      -51.8619444
+     ],
+     [
+      -58.4208333,
+      -51.8266667
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/W54",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-06-01-current",
+    "effectiveFrom": "2026-06-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "5bdd025f859e4c92a302367b1128a50eaeb58ec1ebe935bd4309dec83e24bf77",
+    "fields": {
+     "designator": {
+      "value": "W54",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 3",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.922541+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "W54"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 3",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.922543+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/DIGIS",
+       "NAV/MTP"
+      ],
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 3",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.922545+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/DIGIS -> NAV/MTP"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "naturalKey": "SFAL/RWY/09-27",
+    "parentKey": "SFAL",
+    "featureType": "runway",
+    "publicationId": "2026-06-01-current",
+    "effectiveFrom": "2026-06-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "8517087ec5e9634d19e1b98887d195569cf0a920d5234498e22bba6d1b2841eb",
+    "fields": {
+     "pairDesignator": {
+      "value": "09-27",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "SFAL AD 2.12",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.923210+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/FI_AIP_AD_V8-Feb-2026-CURRENT.pdf",
+      "parser_version": "1.0",
+      "raw_text": "09-27"
+     },
+     "length": {
+      "value": 1106.0,
+      "unit": "M",
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "SFAL AD 2.12",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.923205+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/FI_AIP_AD_V8-Feb-2026-CURRENT.pdf",
+      "parser_version": "1.0",
+      "raw_text": "1106 x 18"
+     },
+     "width": {
+      "value": 18.0,
+      "unit": "M",
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "SFAL AD 2.12",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.923207+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/FI_AIP_AD_V8-Feb-2026-CURRENT.pdf",
+      "parser_version": "1.0",
+      "raw_text": "1106 x 18"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "SFAL AD 2.12",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.923208+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/FI_AIP_AD_V8-Feb-2026-CURRENT.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "naturalKey": "SFAL/RWY/09",
+    "parentKey": "SFAL/RWY/09-27",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-06-01-current",
+    "effectiveFrom": "2026-06-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "a1280edaaca7b50d551beb259bc77b6a15d984b577609adb3a5e142ba3a9fc72",
+    "fields": {
+     "designator": {
+      "value": "09",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "SFAL AD 2.12",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.923218+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/FI_AIP_AD_V8-Feb-2026-CURRENT.pdf",
+      "parser_version": "1.0",
+      "raw_text": "09"
+     },
+     "trueBearing": {
+      "value": 89.0,
+      "unit": "DEG",
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "SFAL AD 2.12",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.923219+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/FI_AIP_AD_V8-Feb-2026-CURRENT.pdf",
+      "parser_version": "1.0",
+      "raw_text": "089T"
+     },
+     "length": {
+      "value": 1106.0,
+      "unit": "M",
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "SFAL AD 2.12",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.923205+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/FI_AIP_AD_V8-Feb-2026-CURRENT.pdf",
+      "parser_version": "1.0",
+      "raw_text": "1106 x 18"
+     },
+     "width": {
+      "value": 18.0,
+      "unit": "M",
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "SFAL AD 2.12",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.923207+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/FI_AIP_AD_V8-Feb-2026-CURRENT.pdf",
+      "parser_version": "1.0",
+      "raw_text": "1106 x 18"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "SFAL AD 2.12",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.923208+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/FI_AIP_AD_V8-Feb-2026-CURRENT.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "naturalKey": "SFAL/RWY/27",
+    "parentKey": "SFAL/RWY/09-27",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-06-01-current",
+    "effectiveFrom": "2026-06-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2e3d424f5c5a16968953322d83ad4efa47799a1c852dfae050925cd25a84d470",
+    "fields": {
+     "designator": {
+      "value": "27",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "SFAL AD 2.12",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.923229+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/FI_AIP_AD_V8-Feb-2026-CURRENT.pdf",
+      "parser_version": "1.0",
+      "raw_text": "27"
+     },
+     "trueBearing": {
+      "value": 269.0,
+      "unit": "DEG",
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "SFAL AD 2.12",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.923230+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/FI_AIP_AD_V8-Feb-2026-CURRENT.pdf",
+      "parser_version": "1.0",
+      "raw_text": "269T"
+     },
+     "length": {
+      "value": 1106.0,
+      "unit": "M",
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "SFAL AD 2.12",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.923205+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/FI_AIP_AD_V8-Feb-2026-CURRENT.pdf",
+      "parser_version": "1.0",
+      "raw_text": "1106 x 18"
+     },
+     "width": {
+      "value": 18.0,
+      "unit": "M",
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "SFAL AD 2.12",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.923207+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/FI_AIP_AD_V8-Feb-2026-CURRENT.pdf",
+      "parser_version": "1.0",
+      "raw_text": "1106 x 18"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "SFAL AD 2.12",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.923208+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/FI_AIP_AD_V8-Feb-2026-CURRENT.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -62.23,
+     -52.73
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ATOKI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-06-01-current",
+    "effectiveFrom": "2026-06-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "920e0db038c93964f9f9f006b0dd4912089f8374c9d59f8047a6fecff16416d1",
+    "fields": {
+     "designator": {
+      "value": "ATOKI",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.920121+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ATOKI"
+     },
+     "coordinates": {
+      "value": [
+       -62.23,
+       -52.73
+      ],
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.920122+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "524348.00S 0621348.00W"
+     },
+     "atsRoutes": {
+      "value": "UW46",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.920123+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UW46"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -62.4666667,
+     -51.8616667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DIGIS",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-06-01-current",
+    "effectiveFrom": "2026-06-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b88006064d1a04c12ffa406f0f610dd4f2194b8ef10a5c2f09114ab8d0a18208",
+    "fields": {
+     "designator": {
+      "value": "DIGIS",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.920130+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "DIGIS"
+     },
+     "coordinates": {
+      "value": [
+       -62.4666667,
+       -51.8616667
+      ],
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.920131+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "515142.00S 0622800.00W"
+     },
+     "atsRoutes": {
+      "value": "UW54",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.920132+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UW54"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -60.55,
+     -50.5766667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LOMIN",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-06-01-current",
+    "effectiveFrom": "2026-06-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f49b2566b641562c1908e4f1af8d6af1f7184be9a6825fc7602e4d3714374b00",
+    "fields": {
+     "designator": {
+      "value": "LOMIN",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.920066+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LOMIN"
+     },
+     "coordinates": {
+      "value": [
+       -60.55,
+       -50.5766667
+      ],
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.920073+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "503436.00S 0603300.00W"
+     },
+     "atsRoutes": {
+      "value": "UW50",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.920075+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UW50"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -58.51,
+     -50.5766667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/MOSKA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-06-01-current",
+    "effectiveFrom": "2026-06-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e4ff0df596083685f24015f0c87cb446b75d17a36e2319c1c40914601f49c420",
+    "fields": {
+     "designator": {
+      "value": "MOSKA",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.920099+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "MOSKA"
+     },
+     "coordinates": {
+      "value": [
+       -58.51,
+       -50.5766667
+      ],
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.920101+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "503436.00S 0583036.00W"
+     },
+     "atsRoutes": {
+      "value": "UT103",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.920102+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UT103"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -58.2883333,
+     -53.0766667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/OTAGI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-06-01-current",
+    "effectiveFrom": "2026-06-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "905fe3a8a049098837e60b890a72b5d90110d7cad4963c63704a8776bfee6bf1",
+    "fields": {
+     "designator": {
+      "value": "OTAGI",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.920112+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "OTAGI"
+     },
+     "coordinates": {
+      "value": [
+       -58.2883333,
+       -53.0766667
+      ],
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.920113+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "530436.00S 0581718.00W"
+     },
+     "atsRoutes": {
+      "value": "UT103",
+      "unit": null,
+      "source": "AIP Falkland Islands (FIG Civil Aviation)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-06-01",
+      "retrieved_at": "2026-10-27T05:34:12.920114+00:00",
+      "source_url": "https://www.gov.fk/civilaviation/wp-content/uploads/sites/24/2026/10/2026-FI_AIP_ENR_V6.0.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UT103"
+     }
+    }
+   }
+  }
+ ],
+ "featureTypes": [
+  {
+   "featureType": "aerodrome",
+   "count": 1
+  },
+  {
+   "featureType": "navaid",
+   "count": 6
+  },
+  {
+   "featureType": "route",
+   "count": 6
+  },
+  {
+   "featureType": "runway",
+   "count": 1
+  },
+  {
+   "featureType": "runwayDirection",
+   "count": 2
+  },
+  {
+   "featureType": "waypoint",
+   "count": 5
+  }
+ ],
+ "publications": [
+  {
+   "cycleId": "2026-06-01-current",
+   "effectiveDate": "2026-06-01",
+   "amendmentId": "ENR Version 6.0",
+   "sourceKind": "LIVE",
+   "ingestedAt": "2026-10-27T05:34:12.923695+00:00",
+   "status": "promoted",
+   "stats": {
+    "total_documents": 2,
+    "parsed_features": 21,
+    "issue_count": 2,
+    "error_count": 0,
+    "warning_count": 2
+   },
+   "sourceUrl": "https://www.gov.fk/civilaviation/aip/information/",
+   "notes": null
+  }
+ ],
+ "issues": [
+  {
+   "publicationId": "2026-06-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_RUNWAY_GEOMETRY",
+   "featureKey": "SFAL/RWY/09-27",
+   "section": "SFAL AD 2.12",
+   "message": "Runway 09-27 at SFAL: threshold coordinates not captured",
+   "rawSnippet": ""
+  },
+  {
+   "publicationId": "2026-06-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_SOURCE_UNAVAILABLE",
+   "featureKey": "EGYP",
+   "section": "AD 2",
+   "message": "Mount Pleasant (EGYP) is military; its AD 2 is only in the UK MOD AIP (aidu.mod.uk), which refuses connections from this network",
+   "rawSnippet": ""
+  }
+ ],
+ "meta": {
+  "state": "Falkland Islands (Malvinas)",
+  "continent": "South America",
+  "websites": [
+   {
+    "name": "AIP Falkland Islands",
+    "url": "https://www.falklands.gov.fk/civilaviation/aip/information"
+   }
+  ],
+  "contact_emails": [
+   "civilaviation@sec.gov.fk"
+  ]
+ }
+}

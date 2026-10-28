@@ -1,0 +1,5690 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.5163889,
+     -20.89
+    ]
+   },
+   "properties": {
+    "naturalKey": "FMEE",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "9295ddd69e02c63825027cb4071258de38f629cd832bfece0f677304726a303d",
+    "fields": {
+     "airportName": {
+      "value": "LA REUNION-ROLAND GARROS",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481219+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "LA REUNION-ROLAND GARROS"
+     },
+     "arpCoordinates": {
+      "value": [
+       55.5163889,
+       -20.89
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481226+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°53'24\"S 055°30'59\"E"
+     },
+     "elevation": {
+      "value": 66,
+      "unit": "FT",
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481227+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "3 Altitude de référence / Reference elevation 66 ft"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.4255556,
+     -21.3216667
+    ]
+   },
+   "properties": {
+    "naturalKey": "FMEP",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "562d61d437da647f7c8ebe5cba00eb2fe0cfcdf61a66b2689f4eb4ba4041da44",
+    "fields": {
+     "airportName": {
+      "value": "SAINT PIERRE PIERREFONDS",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEP AD 2.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.501914+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEP-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "SAINT PIERRE PIERREFONDS"
+     },
+     "arpCoordinates": {
+      "value": [
+       55.4255556,
+       -21.3216667
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEP AD 2.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.501923+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEP-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "21°19'18\"S 055°25'32\"E"
+     },
+     "elevation": {
+      "value": 60,
+      "unit": "FT",
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEP AD 2.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.501925+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEP-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "3 Altitude de référence / Reference elevation 60 ft"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     45.2808611,
+     -12.811
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/DZP",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "fd9951a66a5ebd027fa40ee4a62c1031fd14d21df8aefd599d7f522666ed6ebc",
+    "fields": {
+     "designator": {
+      "value": "DZP",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.448014+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "DZP"
+     },
+     "stationName": {
+      "value": "MAYOTTE - MARCEL HENRY",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.448015+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "MAYOTTE - MARCEL HENRY"
+     },
+     "navaidType": {
+      "value": "VOR/DME",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.448016+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "VOR/DME"
+     },
+     "frequency": {
+      "value": 113.5,
+      "unit": "MHZ",
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.448017+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "113.5 MHz Ch 82X"
+     },
+     "frequencyUnit": {
+      "value": "MHZ",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.448018+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "MHZ"
+     },
+     "frequencyRaw": {
+      "value": "113.5 MHz Ch 82X",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.448019+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "113.5 MHz Ch 82X"
+     },
+     "coordinates": {
+      "value": [
+       45.2808611,
+       -12.811
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.448021+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "12°48'39.6\"S 045°16'51.1\"E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.5261944,
+     -20.89275
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/FXR",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "ddb71243de5781d2de182e12c376b93a2cac523809fa3ad3f63280b159d3dbfd",
+    "fields": {
+     "designator": {
+      "value": "FXR",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.447955+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "FXR"
+     },
+     "stationName": {
+      "value": "LA REUNION-ROLAND GARROS",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.447958+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "LA REUNION-ROLAND GARROS"
+     },
+     "navaidType": {
+      "value": "NDB",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.447959+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "NDB"
+     },
+     "frequency": {
+      "value": 382.0,
+      "unit": "KHZ",
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.447960+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "382 kHz"
+     },
+     "frequencyUnit": {
+      "value": "KHZ",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.447961+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "KHZ"
+     },
+     "frequencyRaw": {
+      "value": "382 kHz",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.447962+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "382 kHz"
+     },
+     "coordinates": {
+      "value": [
+       55.5261944,
+       -20.89275
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.447965+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°53'33.9\"S 055°31'34.3\"E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     57.6623889,
+     -20.4200278
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/PLS",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e0a0ef0e5ac922bfd283521d3d7a83e59d2366b03fa6a94982ad5a26506c08c4",
+    "fields": {
+     "designator": {
+      "value": "PLS",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.448035+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "PLS"
+     },
+     "stationName": {
+      "value": "PLAISANCE",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.448036+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "PLAISANCE"
+     },
+     "navaidType": {
+      "value": "VOR/DME",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.448037+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "VOR/DME"
+     },
+     "frequency": {
+      "value": 113.7,
+      "unit": "MHZ",
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.448038+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "113.7 MHz Ch 84X"
+     },
+     "frequencyUnit": {
+      "value": "MHZ",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.448039+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "MHZ"
+     },
+     "frequencyRaw": {
+      "value": "113.7 MHz Ch 84X",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.448040+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "113.7 MHz Ch 84X"
+     },
+     "coordinates": {
+      "value": [
+       57.6623889,
+       -20.4200278
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.448042+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°25'12.1\"S 057°39'44.6\"E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.4203056,
+     -21.3197778
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/PRF",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "a1fb89f7b31f305f6b3a21a7f7e9cf189372200f695a38c2f1c1e2e18a9ccaed",
+    "fields": {
+     "designator": {
+      "value": "PRF",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.448075+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "PRF"
+     },
+     "stationName": {
+      "value": "SAINT PIERRE PIERREFONDS",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.448076+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "SAINT PIERRE PIERREFONDS"
+     },
+     "navaidType": {
+      "value": "VOR/DME",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.448077+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "VOR/DME"
+     },
+     "frequency": {
+      "value": 115.9,
+      "unit": "MHZ",
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.448078+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "115.9 MHz Ch 106X"
+     },
+     "frequencyUnit": {
+      "value": "MHZ",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.448079+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "MHZ"
+     },
+     "frequencyRaw": {
+      "value": "115.9 MHz Ch 106X",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.448080+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "115.9 MHz Ch 106X"
+     },
+     "coordinates": {
+      "value": [
+       55.4203056,
+       -21.3197778
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.448082+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "21°19'11.2\"S 055°25'13.1\"E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.5098056,
+     -20.8848333
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/SDG",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "cb1396b90561462e14958c301e4691f9ecf15174ba4b4735ccae0f07561ff734",
+    "fields": {
+     "designator": {
+      "value": "SDG",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.447989+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "SDG"
+     },
+     "stationName": {
+      "value": "LA REUNION-ROLAND GARROS",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.447991+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "LA REUNION-ROLAND GARROS"
+     },
+     "navaidType": {
+      "value": "VOR/DME",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.447992+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "VOR/DME"
+     },
+     "frequency": {
+      "value": 112.9,
+      "unit": "MHZ",
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.447993+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "112.9 MHz Ch 76X"
+     },
+     "frequencyUnit": {
+      "value": "MHZ",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.447994+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "MHZ"
+     },
+     "frequencyRaw": {
+      "value": "112.9 MHz Ch 76X",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.447995+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "112.9 MHz Ch 76X"
+     },
+     "coordinates": {
+      "value": [
+       55.5098056,
+       -20.8848333
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.447997+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°53'05.4\"S 055°30'35.3\"E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.36225,
+     -21.2775556
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/SP",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "83816a5bb509433e70aa851f7822db77e98ce051610c385d3ccf6dc939ba8ed3",
+    "fields": {
+     "designator": {
+      "value": "SP",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.448055+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "SP"
+     },
+     "stationName": {
+      "value": "SAINT PIERRE PIERREFONDS",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.448057+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "SAINT PIERRE PIERREFONDS"
+     },
+     "navaidType": {
+      "value": "NDB",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.448058+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "NDB"
+     },
+     "frequency": {
+      "value": 352.0,
+      "unit": "KHZ",
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.448059+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "352 kHz"
+     },
+     "frequencyUnit": {
+      "value": "KHZ",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.448060+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "KHZ"
+     },
+     "frequencyRaw": {
+      "value": "352 kHz",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.448061+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "352 kHz"
+     },
+     "coordinates": {
+      "value": [
+       55.36225,
+       -21.2775556
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.448063+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.1-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "21°16'39.2\"S 055°21'44.1\"E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      52.9346389,
+      -20.24125
+     ],
+     [
+      54.821,
+      -20.7169722
+     ],
+     [
+      55.5098056,
+      -20.8848333
+     ],
+     [
+      56.265,
+      -20.7183333
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/A401",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "8571989f15ef7c7a649692c3c611e63b99f74682910efcde09f92158a83c38df",
+    "fields": {
+     "designator": {
+      "value": "A401",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454115+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "A401"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454116+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/UNKIK",
+       "WPT/RERON",
+       "NAV/SDG",
+       "WPT/SOBAT"
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454118+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/UNKIK -> WPT/RERON -> NAV/SDG -> WPT/SOBAT"
+     },
+     "navigationSpecification": {
+      "value": "RNAV 5",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454119+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV 5"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      53.1216389,
+      -19.7791944
+     ],
+     [
+      54.2365556,
+      -19.9478611
+     ],
+     [
+      54.6261944,
+      -20.0050556
+     ],
+     [
+      55.1112222,
+      -20.0750278
+     ],
+     [
+      55.5194444,
+      -20.1328056
+     ],
+     [
+      56.0336944,
+      -20.2042222
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UA400",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d72f26a111ae76ba901b3bbf88e2bfe058fd55ec6cb4026cde3c2079ba66b434",
+    "fields": {
+     "designator": {
+      "value": "UA400",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454071+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UA400"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454076+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/EGLIP",
+       "WPT/OKDOP",
+       "WPT/TAMTA",
+       "WPT/PONIR",
+       "WPT/ALUNA",
+       "WPT/RASMA"
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454079+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/EGLIP -> WPT/OKDOP -> WPT/TAMTA -> WPT/PONIR -> WPT/ALUNA -> WPT/RASMA"
+     },
+     "navigationSpecification": {
+      "value": "RNAV 5",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454080+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV 5"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      52.9346389,
+      -20.24125
+     ],
+     [
+      55.5098056,
+      -20.8848333
+     ],
+     [
+      56.265,
+      -20.7183333
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UA401",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "083a5dbd885349152dec21ef29f8774f69c04b35446be1e216949fa9f5307658",
+    "fields": {
+     "designator": {
+      "value": "UA401",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454138+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UA401"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454140+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/UNKIK",
+       "NAV/SDG",
+       "WPT/SOBAT"
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454141+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/UNKIK -> NAV/SDG -> WPT/SOBAT"
+     },
+     "navigationSpecification": {
+      "value": "RNAV 5",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454142+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV 5"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      53.3674167,
+      -22.3958056
+     ],
+     [
+      56.3994444,
+      -21.018
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UA402",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "94f76ec3487540f81ee4a0fe48344db5d41de8b822b43b09d6ea9b2b89b5e134",
+    "fields": {
+     "designator": {
+      "value": "UA402",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454156+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UA402"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454157+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/GETIR",
+       "WPT/PASAR"
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454158+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/GETIR -> WPT/PASAR"
+     },
+     "navigationSpecification": {
+      "value": "RNAV 5",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454159+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV 5"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      53.4196944,
+      -19.3358889
+     ],
+     [
+      54.2365556,
+      -19.9478611
+     ],
+     [
+      55.5098056,
+      -20.8848333
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UB790",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "3aba2d95b032d2cd50ce673d9e86798fdda0756fbafb5184ae9f1c211adae4c1",
+    "fields": {
+     "designator": {
+      "value": "UB790",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454175+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UB790"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454176+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/DOBUT",
+       "WPT/OKDOP",
+       "NAV/SDG"
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454178+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/DOBUT -> WPT/OKDOP -> NAV/SDG"
+     },
+     "navigationSpecification": {
+      "value": "RNAV 5",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454178+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV 5"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      52.92025,
+      -21.5158056
+     ],
+     [
+      55.5098056,
+      -20.8848333
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UG653",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e8e59e99254e79b96131726f6da63ab3d342852024d77b4c8d08e95ff8b9a02f",
+    "fields": {
+     "designator": {
+      "value": "UG653",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454191+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UG653"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454192+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/GERAG",
+       "NAV/SDG"
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454194+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/GERAG -> NAV/SDG"
+     },
+     "navigationSpecification": {
+      "value": "RNAV 5",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454195+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV 5"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      54.73125,
+      -18.4861389
+     ],
+     [
+      55.5483056,
+      -19.0246944
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UG661",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "6a9d18ce49842383b43f0b50327a8fe0626ea4bfc5a38f4c30e0215b7cdfc932",
+    "fields": {
+     "designator": {
+      "value": "UG661",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454207+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UG661"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454208+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/APLEM",
+       "WPT/NIBIS"
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454210+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/APLEM -> WPT/NIBIS"
+     },
+     "navigationSpecification": {
+      "value": "RNAV 5",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454211+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV 5"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      55.3971667,
+      -18.3376111
+     ],
+     [
+      57.6623889,
+      -20.4200278
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UL433",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "934516bc14cfca99e5eec449a922bb3040f97aad25f2947dcb0987d31b96aa91",
+    "fields": {
+     "designator": {
+      "value": "UL433",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454222+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UL433"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454223+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/APKOT",
+       "NAV/PLS"
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454224+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/APKOT -> NAV/PLS"
+     },
+     "navigationSpecification": {
+      "value": "RNAV 5",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454225+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV 5"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      54.3996389,
+      -18.6060833
+     ],
+     [
+      55.1112222,
+      -20.0750278
+     ],
+     [
+      55.5098056,
+      -20.8848333
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UN304",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e89e94f27dedbd48a5a15d9423b01e49276d35030059340eee8e392b7d3db349",
+    "fields": {
+     "designator": {
+      "value": "UN304",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454239+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UN304"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454240+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/UVENA",
+       "WPT/PONIR",
+       "NAV/SDG"
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454242+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/UVENA -> WPT/PONIR -> NAV/SDG"
+     },
+     "navigationSpecification": {
+      "value": "RNAV 5",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454243+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV 5"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      55.5404167,
+      -18.4716944
+     ],
+     [
+      55.5483056,
+      -19.0246944
+     ],
+     [
+      55.5194444,
+      -20.1328056
+     ],
+     [
+      55.5098056,
+      -20.8848333
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UR401",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "349fa57e116d54741619c877db7cb6d377487ae29cfbc66bf5abf5cff46a3d3d",
+    "fields": {
+     "designator": {
+      "value": "UR401",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454261+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UR401"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454262+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/TIBAG",
+       "WPT/NIBIS",
+       "WPT/ALUNA",
+       "NAV/SDG"
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454263+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/TIBAG -> WPT/NIBIS -> WPT/ALUNA -> NAV/SDG"
+     },
+     "navigationSpecification": {
+      "value": "RNAV 5",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.454264+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-3.2-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV 5"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      55.5046389,
+      -20.8859917
+     ],
+     [
+      55.5347,
+      -20.8921
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "FMEE/RWY/12-30",
+    "parentKey": "FMEE",
+    "featureType": "runway",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "cb4fd42511c2e76a154b61b5f6f87561b75068e26009a1dcd5b1a521778210ee",
+    "fields": {
+     "pairDesignator": {
+      "value": "12-30",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481274+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "12-30"
+     },
+     "length": {
+      "value": 3200.0,
+      "unit": "M",
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481269+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "3200 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481271+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "3200 x 45"
+     },
+     "surface": {
+      "value": "CONC",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481272+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "CONC"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      55.5041583,
+      -20.8842167
+     ],
+     [
+      55.5271472,
+      -20.8949667
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "FMEE/RWY/14-32",
+    "parentKey": "FMEE",
+    "featureType": "runway",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "a6d2ec85ed3557ba6af8bcbc8db5063ce0e4daea9cb85d9f78bb18ddfdf43111",
+    "fields": {
+     "pairDesignator": {
+      "value": "14-32",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481322+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "14-32"
+     },
+     "length": {
+      "value": 2670.0,
+      "unit": "M",
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481318+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "2670 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481319+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "2670 x 45"
+     },
+     "surface": {
+      "value": "CONC",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481320+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "CONC"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      55.414825,
+      -21.3133944
+     ],
+     [
+      55.4299167,
+      -21.3248333
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "FMEP/RWY/15-33",
+    "parentKey": "FMEP",
+    "featureType": "runway",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "814c598104c3eed6ab8e050239353690fa1113ac60027703841a7377f3aca632",
+    "fields": {
+     "pairDesignator": {
+      "value": "15-33",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEP AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.501978+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEP-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "15-33"
+     },
+     "length": {
+      "value": 2190.0,
+      "unit": "M",
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEP AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.501973+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEP-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "2190 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEP AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.501975+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEP-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "2190 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEP AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.501976+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEP-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.5046389,
+     -20.8859917
+    ]
+   },
+   "properties": {
+    "naturalKey": "FMEE/RWY/12",
+    "parentKey": "FMEE/RWY/12-30",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f3a9c1b75f12065ddcb663882f141dd39e4d9c0f4b13ad9213174dd5cc22793f",
+    "fields": {
+     "designator": {
+      "value": "12",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481286+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "12"
+     },
+     "trueBearing": {
+      "value": 102.0,
+      "unit": "DEG",
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481287+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "102.00 (121)"
+     },
+     "length": {
+      "value": 3200.0,
+      "unit": "M",
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481269+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "3200 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481271+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "3200 x 45"
+     },
+     "surface": {
+      "value": "CONC",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481272+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "CONC"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       55.5046389,
+       -20.8859917
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481290+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°53'09.57\"S 055°30'16.70\"E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.5041583,
+     -20.8842167
+    ]
+   },
+   "properties": {
+    "naturalKey": "FMEE/RWY/14",
+    "parentKey": "FMEE/RWY/14-32",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "0bbdd629a87ad3e47b249767a469ebc72525f6b865bf420a5bce4070783e5050",
+    "fields": {
+     "designator": {
+      "value": "14",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481329+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "14"
+     },
+     "trueBearing": {
+      "value": 116.0,
+      "unit": "DEG",
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481330+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "116.00 (136)"
+     },
+     "length": {
+      "value": 2670.0,
+      "unit": "M",
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481318+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "2670 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481319+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "2670 x 45"
+     },
+     "surface": {
+      "value": "CONC",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481320+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "CONC"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       55.5041583,
+       -20.8842167
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481333+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°53'03.18\"S 055°30'14.97\"E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.5347,
+     -20.8921
+    ]
+   },
+   "properties": {
+    "naturalKey": "FMEE/RWY/30",
+    "parentKey": "FMEE/RWY/12-30",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b014d28e0fcda9efc39b4ba04c821873daac4545bcf5891b78c5b6384e17e6a3",
+    "fields": {
+     "designator": {
+      "value": "30",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481299+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "30"
+     },
+     "trueBearing": {
+      "value": 282.0,
+      "unit": "DEG",
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481300+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "282.00 (301)"
+     },
+     "length": {
+      "value": 3200.0,
+      "unit": "M",
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481269+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "3200 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481271+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "3200 x 45"
+     },
+     "surface": {
+      "value": "CONC",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481272+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "CONC"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       55.5347,
+       -20.8921
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481302+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°53'31.56\"S 055°32'04.92\"E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.5271472,
+     -20.8949667
+    ]
+   },
+   "properties": {
+    "naturalKey": "FMEE/RWY/32",
+    "parentKey": "FMEE/RWY/14-32",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "838023c319e730202c1e95b3d8b83ef635cccefec45a0679a0afac67ae93b2ba",
+    "fields": {
+     "designator": {
+      "value": "32",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481340+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "32"
+     },
+     "trueBearing": {
+      "value": 296.0,
+      "unit": "DEG",
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481341+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "296.00 (316)"
+     },
+     "length": {
+      "value": 2670.0,
+      "unit": "M",
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481318+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "2670 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481319+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "2670 x 45"
+     },
+     "surface": {
+      "value": "CONC",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481320+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "CONC"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       55.5271472,
+       -20.8949667
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEE AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.481343+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEE-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°53'41.88\"S 055°31'37.73\"E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.414825,
+     -21.3133944
+    ]
+   },
+   "properties": {
+    "naturalKey": "FMEP/RWY/15",
+    "parentKey": "FMEP/RWY/15-33",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "70c75bfad9fb529d3117773460c329da356f43ec826aeda449af5e1348c3b13e",
+    "fields": {
+     "designator": {
+      "value": "15",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEP AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.501990+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEP-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "15"
+     },
+     "trueBearing": {
+      "value": 128.97,
+      "unit": "DEG",
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEP AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.501991+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEP-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "128.97 (149)"
+     },
+     "length": {
+      "value": 2190.0,
+      "unit": "M",
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEP AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.501973+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEP-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "2190 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEP AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.501975+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEP-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "2190 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEP AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.501976+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEP-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       55.414825,
+       -21.3133944
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEP AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.501994+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEP-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "21°18'48.22\"S 055°24'53.37\"E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.4299167,
+     -21.3248333
+    ]
+   },
+   "properties": {
+    "naturalKey": "FMEP/RWY/33",
+    "parentKey": "FMEP/RWY/15-33",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "02085b09a604e0d05d4f959a882e23334a2fc4248509a1fdefa966be6184f679",
+    "fields": {
+     "designator": {
+      "value": "33",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEP AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.502004+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEP-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "33"
+     },
+     "trueBearing": {
+      "value": 308.96,
+      "unit": "DEG",
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEP AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.502005+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEP-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "308.96 (329)"
+     },
+     "length": {
+      "value": 2190.0,
+      "unit": "M",
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEP AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.501973+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEP-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "2190 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEP AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.501975+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEP-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "2190 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEP AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.501976+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEP-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       55.4299167,
+       -21.3248333
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "FMEP AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.502007+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-AD-2.FMEP-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "21°19'29.40\"S 055°25'47.70\"E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.5194444,
+     -20.1328056
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ALUNA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "a843c057a5d9d3437f82f1eb77fc0d8170a60273d8a8430b8e2fdcb56f053bd6",
+    "fields": {
+     "designator": {
+      "value": "ALUNA",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446109+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ALUNA"
+     },
+     "coordinates": {
+      "value": [
+       55.5194444,
+       -20.1328056
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446116+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°07'58.1\"S 055°31'10.0\"E"
+     },
+     "atsRoutes": {
+      "value": "UA400 , UR401",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446118+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UA400 , UR401"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.1871389,
+     -21.2356944
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ANTIR",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "6233b25b73a0e92b0f8b30bfd1f9f912072031e93cabb4f001c6c93bf549d9b1",
+    "fields": {
+     "designator": {
+      "value": "ANTIR",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446145+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ANTIR"
+     },
+     "coordinates": {
+      "value": [
+       55.1871389,
+       -21.2356944
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446147+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "21°14'08.5\"S 055°11'13.7\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446148+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     53.0950833,
+     -19.8309167
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ANTOL",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "db431f5495a82826c1b7cd4ab50e02105ee044fa84855185db9b04a89bbd1065",
+    "fields": {
+     "designator": {
+      "value": "ANTOL",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446163+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ANTOL"
+     },
+     "coordinates": {
+      "value": [
+       53.0950833,
+       -19.8309167
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446165+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "19°49'51.3\"S 053°05'42.3\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446166+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.6364722,
+     -21.4810556
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ANVIB",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c81388ef21481f3c8f89c2a4ae278d3cfa5936ad89eff353a4cb495eb5a1bdad",
+    "fields": {
+     "designator": {
+      "value": "ANVIB",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446178+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ANVIB"
+     },
+     "coordinates": {
+      "value": [
+       55.6364722,
+       -21.4810556
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446179+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "21°28'51.8\"S 055°38'11.3\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446180+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.3971667,
+     -18.3376111
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/APKOT",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "a221ed0ec0f7f0cd121ef8a24cf4449ddfbfc53edaa749d5496b9962d2fc3087",
+    "fields": {
+     "designator": {
+      "value": "APKOT",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446191+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "APKOT"
+     },
+     "coordinates": {
+      "value": [
+       55.3971667,
+       -18.3376111
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446192+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "18°20'15.4\"S 055°23'49.8\"E"
+     },
+     "atsRoutes": {
+      "value": "UL433",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446193+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UL433"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     54.73125,
+     -18.4861389
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/APLEM",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "41469626c7bbc0e6c8f05a237e1cf35fc26f786c3dd20b32a7746bda6dc1db13",
+    "fields": {
+     "designator": {
+      "value": "APLEM",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446204+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "APLEM"
+     },
+     "coordinates": {
+      "value": [
+       54.73125,
+       -18.4861389
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446205+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "18°29'10.1\"S 054°43'52.5\"E"
+     },
+     "atsRoutes": {
+      "value": "UG661",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446206+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UG661"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     45.0495278,
+     -12.6689722
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/APMAS",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "ac6cd008fadcec18050d1b369aaacedbf5a9cff6d92948719d8972c234190861",
+    "fields": {
+     "designator": {
+      "value": "APMAS",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446217+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "APMAS"
+     },
+     "coordinates": {
+      "value": [
+       45.0495278,
+       -12.6689722
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446218+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "12°40'08.3\"S 045°02'58.3\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446220+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.6306944,
+     -20.5426389
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/BANBO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "4a91b15e0bbc0da3133b408df5cb2ec2b38288b7940629582d45365d02092d2b",
+    "fields": {
+     "designator": {
+      "value": "BANBO",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446230+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "BANBO"
+     },
+     "coordinates": {
+      "value": [
+       55.6306944,
+       -20.5426389
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446231+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°32'33.5\"S 055°37'50.5\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446232+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     53.9641667,
+     -19.50625
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/BAPAD",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f656f32e565ef0f2427cb46a7ead2461b5b5f01d1f8b20b3216988c856901b32",
+    "fields": {
+     "designator": {
+      "value": "BAPAD",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446242+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "BAPAD"
+     },
+     "coordinates": {
+      "value": [
+       53.9641667,
+       -19.50625
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446243+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "19°30'22.5\"S 053°57'51.0\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446244+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.1621667,
+     -21.2266944
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DIDMO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "4bcba24709585a6037a1d83e8ff0253785b54defa1d217322790a2addf471eeb",
+    "fields": {
+     "designator": {
+      "value": "DIDMO",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446254+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "DIDMO"
+     },
+     "coordinates": {
+      "value": [
+       55.1621667,
+       -21.2266944
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446255+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "21°13'36.1\"S 055°09'43.8\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446256+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     53.4196944,
+     -19.3358889
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DOBUT",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f91bee3dac27756f2f37be9d367d9043cccd0fff4fe5d3a0ea0c7273c286a335",
+    "fields": {
+     "designator": {
+      "value": "DOBUT",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446266+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "DOBUT"
+     },
+     "coordinates": {
+      "value": [
+       53.4196944,
+       -19.3358889
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446267+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "19°20'09.2\"S 053°25'10.9\"E"
+     },
+     "atsRoutes": {
+      "value": "UB790",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446268+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UB790"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.4464167,
+     -20.6954444
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DOSAD",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "82d7d1a7dc520431f435a5b91a86eca09666d2586e1daec073f4914fd512287c",
+    "fields": {
+     "designator": {
+      "value": "DOSAD",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446278+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "DOSAD"
+     },
+     "coordinates": {
+      "value": [
+       55.4464167,
+       -20.6954444
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446279+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°41'43.6\"S 055°26'47.1\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446280+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     53.1216389,
+     -19.7791944
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/EGLIP",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "4b651944bfb16b1d53884f762cb827f9b698fafb68aad480ad0b8a330427b8a8",
+    "fields": {
+     "designator": {
+      "value": "EGLIP",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446290+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "EGLIP"
+     },
+     "coordinates": {
+      "value": [
+       53.1216389,
+       -19.7791944
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446291+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "19°46'45.1\"S 053°07'17.9\"E"
+     },
+     "atsRoutes": {
+      "value": "UA400",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446292+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UA400"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     56.1183333,
+     -20.4216667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/EPTEK",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "0b25ff9123ffcf59667c86dd7f2466ed6df4b6473696050f0f1697d5bd36cd7c",
+    "fields": {
+     "designator": {
+      "value": "EPTEK",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446301+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "EPTEK"
+     },
+     "coordinates": {
+      "value": [
+       56.1183333,
+       -20.4216667
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446302+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°25'18.0\"S 056°07'06.0\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446303+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.7515278,
+     -20.9412778
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ERBES",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2b7c30c8640a133ed98df17d2cd1eed96fdfdfe1a0d5a376249cb4e6840bd70e",
+    "fields": {
+     "designator": {
+      "value": "ERBES",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446312+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ERBES"
+     },
+     "coordinates": {
+      "value": [
+       55.7515278,
+       -20.9412778
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446313+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°56'28.6\"S 055°45'05.5\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446314+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.2017222,
+     -20.8478056
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ERDIP",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "6979c16c90c7e0c565d9d599b79b8dc703b3a10153d5c4acc6164595729f457d",
+    "fields": {
+     "designator": {
+      "value": "ERDIP",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446323+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ERDIP"
+     },
+     "coordinates": {
+      "value": [
+       55.2017222,
+       -20.8478056
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446324+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°50'52.1\"S 055°12'06.2\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446325+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.0295278,
+     -20.7630556
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/EVEMO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "7914c4c15abe3c33949d9ab32ea1666b519e3fb97ae5a9c2b7bf4b2dcc26b3bf",
+    "fields": {
+     "designator": {
+      "value": "EVEMO",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446334+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "EVEMO"
+     },
+     "coordinates": {
+      "value": [
+       55.0295278,
+       -20.7630556
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446335+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°45'47.0\"S 055°01'46.3\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446336+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     52.92025,
+     -21.5158056
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/GERAG",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d0bb3b7316fcb0d0badf32247435326b8fe37d0c12074947ceeda3b00ac20033",
+    "fields": {
+     "designator": {
+      "value": "GERAG",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446346+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "GERAG"
+     },
+     "coordinates": {
+      "value": [
+       52.92025,
+       -21.5158056
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446347+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "21°30'56.9\"S 052°55'12.9\"E"
+     },
+     "atsRoutes": {
+      "value": "UG653",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446348+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UG653"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     53.3674167,
+     -22.3958056
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/GETIR",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "42148303a40a44a49056da7c81474632aef321b179ecbd492649fc9586e11635",
+    "fields": {
+     "designator": {
+      "value": "GETIR",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446357+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "GETIR"
+     },
+     "coordinates": {
+      "value": [
+       53.3674167,
+       -22.3958056
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446358+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "22°23'44.9\"S 053°22'02.7\"E"
+     },
+     "atsRoutes": {
+      "value": "UA402",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446359+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UA402"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     45.4997222,
+     -12.9974722
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/GEVON",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "fd2228e2c3f609de1c745b446cb004e51178b2b37c6056de21e3faddb90951b9",
+    "fields": {
+     "designator": {
+      "value": "GEVON",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446368+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "GEVON"
+     },
+     "coordinates": {
+      "value": [
+       45.4997222,
+       -12.9974722
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446369+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "12°59'50.9\"S 045°29'59.0\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446370+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.4611389,
+     -20.8640833
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/IBULU",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "aef604d9c50f7278256bc58d91dda0bf0bb965a0fa48a6beab0e4913996c8ed9",
+    "fields": {
+     "designator": {
+      "value": "IBULU",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446378+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "IBULU"
+     },
+     "coordinates": {
+      "value": [
+       55.4611389,
+       -20.8640833
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446379+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°51'50.7\"S 055°27'40.1\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446380+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     45.0785556,
+     -12.6868056
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ITKOS",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "aa43abeaa87e328b8a9b33c4ab9033706ad0144da74971834da2571ff8e7aca6",
+    "fields": {
+     "designator": {
+      "value": "ITKOS",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446389+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ITKOS"
+     },
+     "coordinates": {
+      "value": [
+       45.0785556,
+       -12.6868056
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446390+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "12°41'12.5\"S 045°04'42.8\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446391+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.6435833,
+     -20.7028333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/KOKOM",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "90965fd20f45ac270c77363924ff1db9ea3fec9aab6100add2485d3f5eb15c36",
+    "fields": {
+     "designator": {
+      "value": "KOKOM",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446400+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "KOKOM"
+     },
+     "coordinates": {
+      "value": [
+       55.6435833,
+       -20.7028333
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446401+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°42'10.2\"S 055°38'36.9\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446402+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.5597222,
+     -20.7794167
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LAKAZ",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e1080bdb615376e44759a54ea2f22d116cb9d6040ff2c1ac4ea0be3e76a2eb43",
+    "fields": {
+     "designator": {
+      "value": "LAKAZ",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446412+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "LAKAZ"
+     },
+     "coordinates": {
+      "value": [
+       55.5597222,
+       -20.7794167
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446413+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°46'45.9\"S 055°33'35.0\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446414+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     53.7353889,
+     -19.7765
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LIBLI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "13400d3653a40f2b970c0bbcfb9b8698bff4cc8b4efe962bf2a2b6a5c5252272",
+    "fields": {
+     "designator": {
+      "value": "LIBLI",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446423+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "LIBLI"
+     },
+     "coordinates": {
+      "value": [
+       53.7353889,
+       -19.7765
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446424+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "19°46'35.4\"S 053°44'07.4\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446425+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.4698056,
+     -20.8691667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LIVTO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "1a467146d4e372e08e86844596b18628d384baa1e6d23179efe0e36669a9e5d6",
+    "fields": {
+     "designator": {
+      "value": "LIVTO",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446433+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "LIVTO"
+     },
+     "coordinates": {
+      "value": [
+       55.4698056,
+       -20.8691667
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446434+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°52'09.0\"S 055°28'11.3\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446435+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     45.1568056,
+     -12.5981111
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LOGMI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "0f00489a89d6283d249fc846ccfc637fc00f9f73647c98c600cef3408cb52740",
+    "fields": {
+     "designator": {
+      "value": "LOGMI",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446444+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "LOGMI"
+     },
+     "coordinates": {
+      "value": [
+       45.1568056,
+       -12.5981111
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446446+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "12°35'53.2\"S 045°09'24.5\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446446+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.8906667,
+     -20.6220833
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LOMRU",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b59f7aca0f4e2533ccf3fb43e811982a7803caf0b6f26802a5447cfd73a8b1f6",
+    "fields": {
+     "designator": {
+      "value": "LOMRU",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446456+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "LOMRU"
+     },
+     "coordinates": {
+      "value": [
+       55.8906667,
+       -20.6220833
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446457+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°37'19.5\"S 055°53'26.4\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446458+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.7759167,
+     -20.8608333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/NEXON",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "aa0f7e1823b7b3b0a5d38e0b7c331d25141aeeb095b5b1e8b9b5a21e60c221c7",
+    "fields": {
+     "designator": {
+      "value": "NEXON",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446467+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "NEXON"
+     },
+     "coordinates": {
+      "value": [
+       55.7759167,
+       -20.8608333
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446468+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°51'39.0\"S 055°46'33.3\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446469+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.5483056,
+     -19.0246944
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/NIBIS",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e850f6726712c7c07bcabc9cd7ef26fc51678bc3b41e1decf981c8bc9d8c6acb",
+    "fields": {
+     "designator": {
+      "value": "NIBIS",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446477+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "NIBIS"
+     },
+     "coordinates": {
+      "value": [
+       55.5483056,
+       -19.0246944
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446479+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "19°01'28.9\"S 055°32'53.9\"E"
+     },
+     "atsRoutes": {
+      "value": "UG661 , UR401",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446480+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UG661 , UR401"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     53.6904444,
+     -19.0576667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/NODSI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "64f83e136bc0fcabbcb2055cd70daef161a6864c1e0ae8ce3b40d6046a255bda",
+    "fields": {
+     "designator": {
+      "value": "NODSI",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446489+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "NODSI"
+     },
+     "coordinates": {
+      "value": [
+       53.6904444,
+       -19.0576667
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446490+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "19°03'27.6\"S 053°41'25.6\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446491+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.7856389,
+     -20.8286667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/OBOTO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "434bbee6a376a9df156b289d0d67180267a1ae3b6330dfbf36b9828a9d238b18",
+    "fields": {
+     "designator": {
+      "value": "OBOTO",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446500+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "OBOTO"
+     },
+     "coordinates": {
+      "value": [
+       55.7856389,
+       -20.8286667
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446501+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°49'43.2\"S 055°47'08.3\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446502+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.4923333,
+     -20.6246111
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ODAVI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2526d882b14ed8a45f5df6a2e400df6c7cc197ecd1e3be0d66e8083d83090400",
+    "fields": {
+     "designator": {
+      "value": "ODAVI",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446511+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ODAVI"
+     },
+     "coordinates": {
+      "value": [
+       55.4923333,
+       -20.6246111
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446512+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°37'28.6\"S 055°29'32.4\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446513+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     54.2365556,
+     -19.9478611
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/OKDOP",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "aff41be943c9715f81515059acf9ccf3dce01199f432c9395ca6358b58ebe432",
+    "fields": {
+     "designator": {
+      "value": "OKDOP",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446526+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "OKDOP"
+     },
+     "coordinates": {
+      "value": [
+       54.2365556,
+       -19.9478611
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446527+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "19°56'52.3\"S 054°14'11.6\"E"
+     },
+     "atsRoutes": {
+      "value": "UA400 , UB790",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446528+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UA400 , UB790"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.2901111,
+     -20.6894167
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/OKNER",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "fc2a770cd523905e6887ae56e593f01c8935ad7a9f49928db86d487107becff1",
+    "fields": {
+     "designator": {
+      "value": "OKNER",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446537+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "OKNER"
+     },
+     "coordinates": {
+      "value": [
+       55.2901111,
+       -20.6894167
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446538+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°41'21.9\"S 055°17'24.4\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446539+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.1201667,
+     -21.0894444
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/OKTIB",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "652f13daaab297b915e6d43dd009d4e9522c330d4ee1edb8019762d90f931e04",
+    "fields": {
+     "designator": {
+      "value": "OKTIB",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446549+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "OKTIB"
+     },
+     "coordinates": {
+      "value": [
+       55.1201667,
+       -21.0894444
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446550+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "21°05'22.0\"S 055°07'12.6\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446551+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.3938611,
+     -20.8324167
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/PABRU",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f6e56e437a53105b326eae8dfe5a913f64cbcf0d53eccb78649da18ca4b4e05b",
+    "fields": {
+     "designator": {
+      "value": "PABRU",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446560+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "PABRU"
+     },
+     "coordinates": {
+      "value": [
+       55.3938611,
+       -20.8324167
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446561+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°49'56.7\"S 055°23'37.9\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446562+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     56.3994444,
+     -21.018
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/PASAR",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e7adecf9a129cb33def8788aaea5ee1ccef7895a4a76bd55c55826d8c4d5bc29",
+    "fields": {
+     "designator": {
+      "value": "PASAR",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446571+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "PASAR"
+     },
+     "coordinates": {
+      "value": [
+       56.3994444,
+       -21.018
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446572+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "21°01'04.8\"S 056°23'58.0\"E"
+     },
+     "atsRoutes": {
+      "value": "UA402",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446573+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UA402"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     45.4086389,
+     -13.0220278
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/PIPAT",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "0286ba0831cffacf6e122dcf4a4686842c08f1084a7beace4e7f5530190422bc",
+    "fields": {
+     "designator": {
+      "value": "PIPAT",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446583+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "PIPAT"
+     },
+     "coordinates": {
+      "value": [
+       45.4086389,
+       -13.0220278
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446584+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "13°01'19.3\"S 045°24'31.1\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446585+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.1112222,
+     -20.0750278
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/PONIR",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d89574dc321ff7600222e9ef3ba1571eb850e1f2842465b0052d21e4e31a79a7",
+    "fields": {
+     "designator": {
+      "value": "PONIR",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446595+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "PONIR"
+     },
+     "coordinates": {
+      "value": [
+       55.1112222,
+       -20.0750278
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446596+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°04'30.1\"S 055°06'40.4\"E"
+     },
+     "atsRoutes": {
+      "value": "UA400 , UN304",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446597+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UA400 , UN304"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     56.0336944,
+     -20.2042222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/RASMA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "9e69579c4900d9a95adc08c0f625939060ceec20f1746a56cb2623d5ffa901d3",
+    "fields": {
+     "designator": {
+      "value": "RASMA",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446606+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "RASMA"
+     },
+     "coordinates": {
+      "value": [
+       56.0336944,
+       -20.2042222
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446607+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°12'15.2\"S 056°02'01.3\"E"
+     },
+     "atsRoutes": {
+      "value": "UA400",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446608+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UA400"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.3149444,
+     -20.8031389
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/RECIF",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b089a0ff2a2c75d36b45bcdb35d541cf6107536d10f1cc4977b56d6c932cdfc9",
+    "fields": {
+     "designator": {
+      "value": "RECIF",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446617+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "RECIF"
+     },
+     "coordinates": {
+      "value": [
+       55.3149444,
+       -20.8031389
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446618+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°48'11.3\"S 055°18'53.8\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446619+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     54.821,
+     -20.7169722
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/RERON",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e893da3914a3a2b0e74ce442e264207fd373e29416f3defaa6427fd78396316a",
+    "fields": {
+     "designator": {
+      "value": "RERON",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446629+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "RERON"
+     },
+     "coordinates": {
+      "value": [
+       54.821,
+       -20.7169722
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446630+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°43'01.1\"S 054°49'15.6\"E"
+     },
+     "atsRoutes": {
+      "value": "A401",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446631+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "A401"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     54.4739722,
+     -19.1329167
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/RIVPA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "5873b454e9607e00e0d8b12e138b3a5a4fe27f34a823826a1893090b6b9c5c3d",
+    "fields": {
+     "designator": {
+      "value": "RIVPA",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446642+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "RIVPA"
+     },
+     "coordinates": {
+      "value": [
+       54.4739722,
+       -19.1329167
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446643+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "19°07'58.5\"S 054°28'26.3\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446644+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     56.265,
+     -20.7183333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/SOBAT",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "04d9512852681f72dad321d3f891f5716d3c278a28eb33eb0d20c07340818c02",
+    "fields": {
+     "designator": {
+      "value": "SOBAT",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446653+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "SOBAT"
+     },
+     "coordinates": {
+      "value": [
+       56.265,
+       -20.7183333
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446654+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°43'06.0\"S 056°15'54.0\"E"
+     },
+     "atsRoutes": {
+      "value": "A401 , UA401",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446655+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "A401 , UA401"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.3705,
+     -21.4304167
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/SUKUM",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "45771e4aaa96a0bc2214f748271fdf65198d7331847f6a7ef228d040dd5efc0f",
+    "fields": {
+     "designator": {
+      "value": "SUKUM",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446665+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "SUKUM"
+     },
+     "coordinates": {
+      "value": [
+       55.3705,
+       -21.4304167
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446666+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "21°25'49.5\"S 055°22'13.8\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446667+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     53.5148611,
+     -20.2050278
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/TADIT",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "843968bb941c39c90c0949302fdb7c6b1e9fffd3a793fcf120aefa4dd8cc64b3",
+    "fields": {
+     "designator": {
+      "value": "TADIT",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446676+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "TADIT"
+     },
+     "coordinates": {
+      "value": [
+       53.5148611,
+       -20.2050278
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446677+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°12'18.1\"S 053°30'53.5\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446678+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     54.6261944,
+     -20.0050556
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/TAMTA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "dff322f9d14910e65d9ca5dd2fc3b3907d41de0b327cde5ffad6831d9c6d8674",
+    "fields": {
+     "designator": {
+      "value": "TAMTA",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446690+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "TAMTA"
+     },
+     "coordinates": {
+      "value": [
+       54.6261944,
+       -20.0050556
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446691+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°00'18.2\"S 054°37'34.3\"E"
+     },
+     "atsRoutes": {
+      "value": "UA400",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446692+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UA400"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.2792222,
+     -20.7787778
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/TESOP",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c5629927e89ae4d03b4e26acdc497ca4d0adfd73088141bd8112b3fa6acc594b",
+    "fields": {
+     "designator": {
+      "value": "TESOP",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446706+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "TESOP"
+     },
+     "coordinates": {
+      "value": [
+       55.2792222,
+       -20.7787778
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446707+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°46'43.6\"S 055°16'45.2\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446708+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.5404167,
+     -18.4716944
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/TIBAG",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "26e465532db0e9ffd764f30c625c3574653278968bd5e3ca176286059bac1c2b",
+    "fields": {
+     "designator": {
+      "value": "TIBAG",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446717+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "TIBAG"
+     },
+     "coordinates": {
+      "value": [
+       55.5404167,
+       -18.4716944
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446719+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "18°28'18.1\"S 055°32'25.5\"E"
+     },
+     "atsRoutes": {
+      "value": "UR401",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446720+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UR401"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.9596389,
+     -21.2856944
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/TIDAV",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "15bf1046996e8ba3685e5c3005755a553225e0b8673609b8796e8bd911866dc2",
+    "fields": {
+     "designator": {
+      "value": "TIDAV",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446729+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "TIDAV"
+     },
+     "coordinates": {
+      "value": [
+       55.9596389,
+       -21.2856944
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446730+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "21°17'08.5\"S 055°57'34.7\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446731+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     53.6750833,
+     -19.8668611
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/TOPLI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "ed14eb0a74b626699d1a5f65e8e2f789e7ae02b3877f0ddb24f772c9260f597c",
+    "fields": {
+     "designator": {
+      "value": "TOPLI",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446740+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "TOPLI"
+     },
+     "coordinates": {
+      "value": [
+       53.6750833,
+       -19.8668611
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446741+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "19°52'00.7\"S 053°40'30.3\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446742+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     52.9346389,
+     -20.24125
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/UNKIK",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "69e76c5a7486027e031f25bb45e773c5a4f5475db53f9ef2bcbd97a3ea33be42",
+    "fields": {
+     "designator": {
+      "value": "UNKIK",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446752+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UNKIK"
+     },
+     "coordinates": {
+      "value": [
+       52.9346389,
+       -20.24125
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446753+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°14'28.5\"S 052°56'04.7\"E"
+     },
+     "atsRoutes": {
+      "value": "A401 , UA401",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446754+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "A401 , UA401"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     54.3996389,
+     -18.6060833
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/UVENA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "07a9954acc6895beb70a0bf5549dff20412cf01d8aa210f242030516ca5183c5",
+    "fields": {
+     "designator": {
+      "value": "UVENA",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446763+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UVENA"
+     },
+     "coordinates": {
+      "value": [
+       54.3996389,
+       -18.6060833
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446764+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "18°36'21.9\"S 054°23'58.7\"E"
+     },
+     "atsRoutes": {
+      "value": "UN304",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446765+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UN304"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     54.7880556,
+     -18.9968889
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/VAVAL",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "4e764fac123cc96915142830cc4f30e2edf1fb7628545132e7ee3a16d99d0d01",
+    "fields": {
+     "designator": {
+      "value": "VAVAL",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446774+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "VAVAL"
+     },
+     "coordinates": {
+      "value": [
+       54.7880556,
+       -18.9968889
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446775+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "18°59'48.8\"S 054°47'17.0\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446776+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.4721389,
+     -20.5781667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/VEKAS",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "a660b080208935876e1149317206d713a6e87d7ee500b6715a520baf92259291",
+    "fields": {
+     "designator": {
+      "value": "VEKAS",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446786+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "VEKAS"
+     },
+     "coordinates": {
+      "value": [
+       55.4721389,
+       -20.5781667
+      ],
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446787+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°34'41.4\"S 055°28'19.7\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP RUN (SIA France)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T08:15:37.446788+00:00",
+      "source_url": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/eAIP/FR-ENR-4.4-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  }
+ ],
+ "featureTypes": [
+  {
+   "featureType": "aerodrome",
+   "count": 2
+  },
+  {
+   "featureType": "navaid",
+   "count": 6
+  },
+  {
+   "featureType": "route",
+   "count": 10
+  },
+  {
+   "featureType": "runway",
+   "count": 3
+  },
+  {
+   "featureType": "runwayDirection",
+   "count": 6
+  },
+  {
+   "featureType": "waypoint",
+   "count": 56
+  }
+ ],
+ "publications": [
+  {
+   "cycleId": "2026-10-01-current",
+   "effectiveDate": "2026-10-01",
+   "amendmentId": "AIRAC 10/26",
+   "sourceKind": "LIVE",
+   "ingestedAt": "2026-10-27T08:15:37.502563+00:00",
+   "status": "promoted",
+   "stats": {
+    "total_documents": 5,
+    "parsed_features": 83,
+    "issue_count": 0,
+    "error_count": 0,
+    "warning_count": 0
+   },
+   "sourceUrl": "https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_01_OCT_2026/RUN/AIRAC-2026-10-01/html/index-fr-FR.html",
+   "notes": null
+  }
+ ],
+ "issues": [],
+ "meta": {
+  "state": "Reunion (France)",
+  "continent": "Africa",
+  "websites": [
+   {
+    "name": "Aeronautical Information is published by France (AIP RUN)",
+    "url": "http://www.sia.aviation-civile.gouv.fr/"
+   }
+  ],
+  "contact_emails": [
+   "sia-direction@aviation-civile.gouv.fr"
+  ]
+ }
+}

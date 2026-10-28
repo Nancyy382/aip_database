@@ -1,0 +1,5156 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     43.8594444,
+     40.7505556
+    ]
+   },
+   "properties": {
+    "naturalKey": "UDSG",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "66e1ee024177cfd82673bffde98c419c9efba056e414eb3c7fef326659e3da12",
+    "fields": {
+     "airportName": {
+      "value": "GYUMRI / Shirak",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDSG AD 2.1",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.042651+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDSG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "GYUMRI / Shirak"
+     },
+     "arpCoordinates": {
+      "value": [
+       43.8594444,
+       40.7505556
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDSG AD 2.2",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.042654+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDSG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "404502N 0435134E"
+     },
+     "elevation": {
+      "value": 5000,
+      "unit": "FT",
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDSG AD 2.2",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.042656+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDSG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3 Elevation/Reference temperature 5000 FT 20.2°C"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.465,
+     40.1219444
+    ]
+   },
+   "properties": {
+    "naturalKey": "UDYE",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "9111aa53310d803abde08d7a1f848955518bf185fc854f177c8efc363af55d7f",
+    "fields": {
+     "airportName": {
+      "value": "YEREVAN / Erebuni (MIL)",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYE AD 2.1",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.051745+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYE-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "YEREVAN / Erebuni (MIL)"
+     },
+     "arpCoordinates": {
+      "value": [
+       44.465,
+       40.1219444
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYE AD 2.2",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.051749+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYE-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "40 07 19N 044 27 54E"
+     },
+     "elevation": {
+      "value": 2955,
+      "unit": "FT",
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYE AD 2.2",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.051750+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYE-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3 Elevation/Reference temperature 2955 FT 22° C"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.3958333,
+     40.1472222
+    ]
+   },
+   "properties": {
+    "naturalKey": "UDYZ",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "641401f322357167f84174827d94b530b8bf9f91e54cb0af12139ce6155f567f",
+    "fields": {
+     "airportName": {
+      "value": "YEREVAN / Zvartnots",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYZ AD 2.1",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.057746+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYZ-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "YEREVAN / Zvartnots"
+     },
+     "arpCoordinates": {
+      "value": [
+       44.3958333,
+       40.1472222
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYZ AD 2.2",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.057749+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYZ-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "40 08 50N 044 23 45E"
+     },
+     "elevation": {
+      "value": 2838,
+      "unit": "FT",
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYZ AD 2.2",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.057751+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYZ-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3 Elevation/Reference temperature 2838 FT 30° C"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.9925,
+     39.8302778
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/AND",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "dfc4507ab284a5f3cd8407da01f8031a26c9bb4afa43c32e4cfb0bada842bb99",
+    "fields": {
+     "designator": {
+      "value": "AND",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026816+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "AND"
+     },
+     "stationName": {
+      "value": "ANDRANIK",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026819+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ANDRANIK"
+     },
+     "navaidType": {
+      "value": "NDB",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026821+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "NDB"
+     },
+     "frequency": {
+      "value": 1220.0,
+      "unit": "KHZ",
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026822+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "1220 kHz"
+     },
+     "frequencyUnit": {
+      "value": "KHZ",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026823+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "KHZ"
+     },
+     "frequencyRaw": {
+      "value": "1220 kHz",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026824+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "1220 kHz"
+     },
+     "coordinates": {
+      "value": [
+       44.9925,
+       39.8302778
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026826+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "394949N 0445933E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     43.8472222,
+     40.7294444
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/GRM",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2cee9568bc6f04100601ef84ceab59ab458f1da2644225234d107b0ed9beab90",
+    "fields": {
+     "designator": {
+      "value": "GRM",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026858+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "GRM"
+     },
+     "stationName": {
+      "value": "GYUMRI",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026859+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "GYUMRI"
+     },
+     "navaidType": {
+      "value": "DVOR/DME",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026860+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "DVOR/DME"
+     },
+     "frequency": {
+      "value": 113.4,
+      "unit": "MHZ",
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026861+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "113.400 MHz"
+     },
+     "frequencyUnit": {
+      "value": "MHZ",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026862+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "MHZ"
+     },
+     "frequencyRaw": {
+      "value": "113.400 MHz",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026863+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "113.400 MHz"
+     },
+     "coordinates": {
+      "value": [
+       43.8472222,
+       40.7294444
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026866+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "404346N 0435050E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     46.0561111,
+     39.5491667
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/SAX",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "8c145ebdc30e7e05fa4a3de15673a588c3d7be08cff55a5f837bbce892164291",
+    "fields": {
+     "designator": {
+      "value": "SAX",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026922+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "SAX"
+     },
+     "stationName": {
+      "value": "SISIAN",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026923+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "SISIAN"
+     },
+     "navaidType": {
+      "value": "VOR/DME",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026924+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "VOR/DME"
+     },
+     "frequency": {
+      "value": 113.0,
+      "unit": "MHZ",
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026925+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "113.000 MHz"
+     },
+     "frequencyUnit": {
+      "value": "MHZ",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026926+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "MHZ"
+     },
+     "frequencyRaw": {
+      "value": "113.000 MHz",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026928+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "113.000 MHz"
+     },
+     "coordinates": {
+      "value": [
+       46.0561111,
+       39.5491667
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026930+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "393257N 0460322E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.3380556,
+     40.1469444
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/ZVR",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d2e99e8b1c35cf14bb537d81e5843307e11dd6b9a12d97d0f086daae01d1f006",
+    "fields": {
+     "designator": {
+      "value": "ZVR",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026892+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ZVR"
+     },
+     "stationName": {
+      "value": "ZVARTNOTS D",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026893+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ZVARTNOTS D"
+     },
+     "navaidType": {
+      "value": "VOR",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026894+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "VOR"
+     },
+     "frequency": {
+      "value": 112.3,
+      "unit": "MHZ",
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026896+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "112.300 MHz"
+     },
+     "frequencyUnit": {
+      "value": "MHZ",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026897+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "MHZ"
+     },
+     "frequencyRaw": {
+      "value": "112.300 MHz",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026898+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "112.300 MHz"
+     },
+     "coordinates": {
+      "value": [
+       44.3380556,
+       40.1469444
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026900+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "400849N 0442017E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      45.01,
+      39.755
+     ],
+     [
+      44.5775,
+      40.2433333
+     ],
+     [
+      43.7869444,
+      41.1347222
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/L125",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e77d307d4cb762917f2c4acc5ac9162840f6c5649abc3936544d06413ca6f6d3",
+    "fields": {
+     "designator": {
+      "value": "L125",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037274+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L125"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037277+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/NEGAN",
+       "WPT/REBGI",
+       "WPT/OGEVI"
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037280+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/NEGAN -> WPT/REBGI -> WPT/OGEVI"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037281+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      43.685,
+      40.84
+     ],
+     [
+      43.8316667,
+      40.8352778
+     ],
+     [
+      45.5022222,
+      40.7686111
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/M11",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "842a0dbac25b37e4bc054ffc075c77c168c1012f8e11e1ded2bb3d5a104ede5f",
+    "fields": {
+     "designator": {
+      "value": "M11",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037314+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M11"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037317+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/REBLO",
+       "WPT/TABAS",
+       "WPT/MATAL"
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037318+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/REBLO -> WPT/TABAS -> WPT/MATAL"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037319+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      45.495,
+      39.9966667
+     ],
+     [
+      44.9547222,
+      40.5341667
+     ],
+     [
+      44.5025,
+      41.1913889
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/M54",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e91b3ed3cd3d15003f63c046d2f2327a64acebb15991e55c977c3578e19b7146",
+    "fields": {
+     "designator": {
+      "value": "M54",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037339+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M54"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037340+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/ADILA",
+       "WPT/SEVAN",
+       "WPT/TAVRO"
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037341+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/ADILA -> WPT/SEVAN -> WPT/TAVRO"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037342+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      43.6647222,
+      40.1155556
+     ],
+     [
+      44.5775,
+      40.2433333
+     ],
+     [
+      45.6422222,
+      40.3911111
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/N161",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "46820ce70b64f609da995ed5635face6780958ebdf258ce2ee737437cb4b1306",
+    "fields": {
+     "designator": {
+      "value": "N161",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037397+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "N161"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037398+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/INDUR",
+       "WPT/REBGI",
+       "WPT/PEMAN"
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037399+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/INDUR -> WPT/REBGI -> WPT/PEMAN"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037400+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      43.6647222,
+      40.1155556
+     ],
+     [
+      44.9991667,
+      40.1319444
+     ],
+     [
+      45.2594444,
+      40.1333333
+     ],
+     [
+      45.5461111,
+      40.1341667
+     ],
+     [
+      45.9561111,
+      40.1341667
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/N449",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "ea874ee5dfc4fbc98e28aa5c9d3f0a52a13f3e0514e0b6fa6920e7ba8dbfb2b1",
+    "fields": {
+     "designator": {
+      "value": "N449",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037421+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "N449"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037422+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/INDUR",
+       "WPT/GOGOL",
+       "WPT/DEKIT",
+       "WPT/TUTAK",
+       "WPT/VETEN"
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037424+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/INDUR -> WPT/GOGOL -> WPT/DEKIT -> WPT/TUTAK -> WPT/VETEN"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037425+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      43.7869444,
+      41.1347222
+     ],
+     [
+      45.8333333,
+      39.6666667
+     ],
+     [
+      46.3833333,
+      38.9022222
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/N77",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "24e087a32d2946b22c8dc211d6bff89f9bab6603bb887273c5d76550a67147cd",
+    "fields": {
+     "designator": {
+      "value": "N77",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037359+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "N77"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037360+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/OGEVI",
+       "WPT/ADANO",
+       "WPT/MAGRI"
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037361+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/OGEVI -> WPT/ADANO -> WPT/MAGRI"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037362+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      45.8333333,
+      39.6666667
+     ],
+     [
+      45.495,
+      39.9966667
+     ],
+     [
+      44.8858333,
+      41.2680556
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/N82",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "6a1d5f5a89f4f67b9dfe0241af2afb95517522c4b149bd55cd53d43856652ddd",
+    "fields": {
+     "designator": {
+      "value": "N82",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037378+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "N82"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037379+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/ADANO",
+       "WPT/ADILA",
+       "WPT/TISOT"
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037380+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/ADANO -> WPT/ADILA -> WPT/TISOT"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037381+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      45.6422222,
+      40.3911111
+     ],
+     [
+      45.5461111,
+      40.1341667
+     ],
+     [
+      45.495,
+      39.9966667
+     ],
+     [
+      45.4438889,
+      39.5113889
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/N996",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "36db22e94871c9d1cc193f7c4debb32ae4d55cec685069c7ecf5bada1cbe382d",
+    "fields": {
+     "designator": {
+      "value": "N996",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037445+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "N996"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037446+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/PEMAN",
+       "WPT/TUTAK",
+       "WPT/ADILA",
+       "WPT/IRLAN"
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037447+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/PEMAN -> WPT/TUTAK -> WPT/ADILA -> WPT/IRLAN"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037448+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      43.685,
+      40.84
+     ],
+     [
+      45.3705556,
+      40.6311111
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/P130",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e7df778ed60ed7865f1b21a45deea222626eca9d090cc9e8c111541eb85dea68",
+    "fields": {
+     "designator": {
+      "value": "P130",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037462+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "P130"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037463+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/REBLO",
+       "WPT/ELSIV"
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037464+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/REBLO -> WPT/ELSIV"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037465+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      44.5025,
+      41.1913889
+     ],
+     [
+      45.5022222,
+      40.7686111
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/P567",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f6bbc675e7d30c00308761f127ace032835540558043fa0c2e4f0d310b4e1500",
+    "fields": {
+     "designator": {
+      "value": "P567",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037477+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "P567"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037478+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/TAVRO",
+       "WPT/MATAL"
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037479+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/TAVRO -> WPT/MATAL"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037480+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      43.685,
+      40.84
+     ],
+     [
+      44.5025,
+      41.1913889
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/T165",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "81a9042e83e56946f98ef7a05326bc621fef167b5f7aca0a7f7832488f01df8b",
+    "fields": {
+     "designator": {
+      "value": "T165",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037493+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "T165"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037494+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/REBLO",
+       "WPT/TAVRO"
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037495+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/REBLO -> WPT/TAVRO"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037496+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      44.2333333,
+      40.6613889
+     ],
+     [
+      44.9547222,
+      40.5341667
+     ],
+     [
+      45.5022222,
+      40.7686111
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/T916",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "5b633d3e7e746eb4d3def2285166d09528726a5eeda123234c4f3ea2dc0c4c68",
+    "fields": {
+     "designator": {
+      "value": "T916",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037511+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "T916"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037512+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/ASMIK",
+       "WPT/SEVAN",
+       "WPT/MATAL"
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037513+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/ASMIK -> WPT/SEVAN -> WPT/MATAL"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037514+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      43.8911111,
+      40.3855556
+     ],
+     [
+      43.8316667,
+      40.8352778
+     ],
+     [
+      43.7869444,
+      41.1347222
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/T918",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "4a4068016012b4a0c57a423dfe90ce550b02b5d47fc24ea17b8c134d6f563794",
+    "fields": {
+     "designator": {
+      "value": "T918",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037529+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "T918"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037530+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/TIBLO",
+       "WPT/TABAS",
+       "WPT/OGEVI"
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037531+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/TIBLO -> WPT/TABAS -> WPT/OGEVI"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037532+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      45.6422222,
+      40.3911111
+     ],
+     [
+      45.2594444,
+      40.1333333
+     ],
+     [
+      44.9861111,
+      39.9472222
+     ],
+     [
+      45.01,
+      39.755
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/T919",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2846391c420a1afaea69ef6870cc869d27a5b62dce367c90e217ea13855e9387",
+    "fields": {
+     "designator": {
+      "value": "T919",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037550+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "T919"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037551+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/PEMAN",
+       "WPT/DEKIT",
+       "WPT/GOSIS",
+       "WPT/NEGAN"
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037552+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/PEMAN -> WPT/DEKIT -> WPT/GOSIS -> WPT/NEGAN"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037553+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      45.8333333,
+      39.6666667
+     ],
+     [
+      44.9861111,
+      39.9472222
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/T920",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "20b37431c26fad1cf64a2a51e22fbed8a5456d6e15483845380fcdac6e28c663",
+    "fields": {
+     "designator": {
+      "value": "T920",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037566+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "T920"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037567+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/ADANO",
+       "WPT/GOSIS"
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037568+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/ADANO -> WPT/GOSIS"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037569+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      44.9547222,
+      40.5341667
+     ],
+     [
+      44.8858333,
+      41.2680556
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/T924",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b5f7b95dde90c3c1cea1f158b519cd515f745d5ff369714a83bf449460d1fde5",
+    "fields": {
+     "designator": {
+      "value": "T924",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037581+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "T924"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037582+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/SEVAN",
+       "WPT/TISOT"
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037583+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/SEVAN -> WPT/TISOT"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037584+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      43.685,
+      40.84
+     ],
+     [
+      44.9991667,
+      40.1319444
+     ],
+     [
+      45.8333333,
+      39.6666667
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/T925",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "72590747634f63afd931ea838dc4a6dc9d9f5ce29d9b4ad3412122b6c4aa23f9",
+    "fields": {
+     "designator": {
+      "value": "T925",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037598+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "T925"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037600+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/REBLO",
+       "WPT/GOGOL",
+       "WPT/ADANO"
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037601+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/REBLO -> WPT/GOGOL -> WPT/ADANO"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 3.3",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.037602+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-3.3-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      43.8517,
+      40.7371972
+     ],
+     [
+      43.8669694,
+      40.7637528
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "UDSG/RWY/02-20",
+    "parentKey": "UDSG",
+    "featureType": "runway",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "3d25eb86c4de63f23b0453b8daaa3d5516ff623854af8018c71c6e71dbd3ebda",
+    "fields": {
+     "pairDesignator": {
+      "value": "02-20",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDSG AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.042687+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDSG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "02-20"
+     },
+     "length": {
+      "value": 3220.0,
+      "unit": "M",
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDSG AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.042681+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDSG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3220 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDSG AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.042683+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDSG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3220 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDSG AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.042684+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDSG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      44.4566278,
+      40.1118139
+     ],
+     [
+      44.4743944,
+      40.1331722
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "UDYE/RWY/03-21",
+    "parentKey": "UDYE",
+    "featureType": "runway",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "463477fb931ef411112510af2124c48a816880be88b591df541e455017642afa",
+    "fields": {
+     "pairDesignator": {
+      "value": "03-21",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYE AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.051778+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYE-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "03-21"
+     },
+     "length": {
+      "value": 2813.0,
+      "unit": "M",
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYE AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.051773+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYE-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "2813x45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYE AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.051775+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYE-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "2813x45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYE AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.051776+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYE-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      44.3732944,
+      40.1471528
+     ],
+     [
+      44.4184667,
+      40.1473889
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "UDYZ/RWY/08-26",
+    "parentKey": "UDYZ",
+    "featureType": "runway",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "0b46413a7d7903cc70752e1dd587c3657ba7e894a82701a72219b1bd774d1375",
+    "fields": {
+     "pairDesignator": {
+      "value": "08-26",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYZ AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.057779+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYZ-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "08-26"
+     },
+     "length": {
+      "value": 3850.0,
+      "unit": "M",
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYZ AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.057775+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYZ-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3850x56"
+     },
+     "width": {
+      "value": 56.0,
+      "unit": "M",
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYZ AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.057776+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYZ-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3850x56"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYZ AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.057777+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYZ-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     43.8517,
+     40.7371972
+    ]
+   },
+   "properties": {
+    "naturalKey": "UDSG/RWY/02",
+    "parentKey": "UDSG/RWY/02-20",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c905f85606beb7c2b1a66365e6df12ea78d4ec3c9cd6c17492470987aa30782e",
+    "fields": {
+     "designator": {
+      "value": "02",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDSG AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.042701+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDSG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "02"
+     },
+     "trueBearing": {
+      "value": 23.61,
+      "unit": "DEG",
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDSG AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.042703+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDSG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "023.61˚"
+     },
+     "length": {
+      "value": 3220.0,
+      "unit": "M",
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDSG AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.042681+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDSG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3220 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDSG AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.042683+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDSG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3220 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDSG AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.042684+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDSG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       43.8517,
+       40.7371972
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDSG AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.042706+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDSG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "404413.91N 0435106.12E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     43.8669694,
+     40.7637528
+    ]
+   },
+   "properties": {
+    "naturalKey": "UDSG/RWY/20",
+    "parentKey": "UDSG/RWY/02-20",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "a1aee0f9b479467155287ec62397dffee5f67bf9af4cd6d89acb05108ba7131d",
+    "fields": {
+     "designator": {
+      "value": "20",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDSG AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.042715+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDSG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "20"
+     },
+     "trueBearing": {
+      "value": 203.62,
+      "unit": "DEG",
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDSG AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.042716+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDSG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "203.62˚"
+     },
+     "length": {
+      "value": 3220.0,
+      "unit": "M",
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDSG AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.042681+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDSG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3220 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDSG AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.042683+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDSG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3220 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDSG AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.042684+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDSG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       43.8669694,
+       40.7637528
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDSG AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.042719+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDSG-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "404549.51N 0435201.09E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.4566278,
+     40.1118139
+    ]
+   },
+   "properties": {
+    "naturalKey": "UDYE/RWY/03",
+    "parentKey": "UDYE/RWY/03-21",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "1afa0434944f828127063377fbe0f660564d5bad62f317b4afe85e023249e086",
+    "fields": {
+     "designator": {
+      "value": "03",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYE AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.051788+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYE-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "03"
+     },
+     "trueBearing": {
+      "value": 32.56,
+      "unit": "DEG",
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYE AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.051790+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYE-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "032.56˚"
+     },
+     "length": {
+      "value": 2813.0,
+      "unit": "M",
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYE AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.051773+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYE-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "2813x45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYE AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.051775+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYE-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "2813x45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYE AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.051776+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYE-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       44.4566278,
+       40.1118139
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYE AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.051792+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYE-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "400642.53N 0442723.86E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.4743944,
+     40.1331722
+    ]
+   },
+   "properties": {
+    "naturalKey": "UDYE/RWY/21",
+    "parentKey": "UDYE/RWY/03-21",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "629f7f7ca75c37e1512def97b249644bf27d85b4dc0b13f31b207378f228fb55",
+    "fields": {
+     "designator": {
+      "value": "21",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYE AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.051801+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYE-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "21"
+     },
+     "trueBearing": {
+      "value": 212.57,
+      "unit": "DEG",
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYE AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.051802+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYE-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "212.57˚"
+     },
+     "length": {
+      "value": 2813.0,
+      "unit": "M",
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYE AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.051773+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYE-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "2813x45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYE AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.051775+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYE-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "2813x45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYE AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.051776+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYE-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       44.4743944,
+       40.1331722
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYE AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.051805+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYE-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "400759.42N 0442827.82E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.3732944,
+     40.1471528
+    ]
+   },
+   "properties": {
+    "naturalKey": "UDYZ/RWY/08",
+    "parentKey": "UDYZ/RWY/08-26",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "bcec3e64f3f48558456dd5d28c0c3d961ca0a7a71d79051e0132e80179bf6cbc",
+    "fields": {
+     "designator": {
+      "value": "08",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYZ AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.057789+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYZ-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "08"
+     },
+     "trueBearing": {
+      "value": 89.6,
+      "unit": "DEG",
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYZ AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.057791+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYZ-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "89.60˚"
+     },
+     "length": {
+      "value": 3850.0,
+      "unit": "M",
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYZ AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.057775+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYZ-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3850x56"
+     },
+     "width": {
+      "value": 56.0,
+      "unit": "M",
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYZ AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.057776+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYZ-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3850x56"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYZ AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.057777+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYZ-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       44.3732944,
+       40.1471528
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYZ AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.057793+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYZ-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "400849.75N 0442223.86E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.4184667,
+     40.1473889
+    ]
+   },
+   "properties": {
+    "naturalKey": "UDYZ/RWY/26",
+    "parentKey": "UDYZ/RWY/08-26",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "45eb43f0b81796d29304586063db264823c3dfe67d301f0615fb5907e043ee1a",
+    "fields": {
+     "designator": {
+      "value": "26",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYZ AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.057803+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYZ-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "26"
+     },
+     "trueBearing": {
+      "value": 269.62,
+      "unit": "DEG",
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYZ AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.057804+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYZ-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "269.62˚"
+     },
+     "length": {
+      "value": 3850.0,
+      "unit": "M",
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYZ AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.057775+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYZ-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3850x56"
+     },
+     "width": {
+      "value": 56.0,
+      "unit": "M",
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYZ AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.057776+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYZ-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3850x56"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYZ AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.057777+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYZ-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       44.4184667,
+       40.1473889
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "UDYZ AD 2.12",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.057807+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-AD-2.UDYZ-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "400850.60N 0442506.48E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     45.8333333,
+     39.6666667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ADANO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e880f6c79cc86d0fdb790e96ae64f88b667ea41d6b590bd98433015b70b6e5b7",
+    "fields": {
+     "designator": {
+      "value": "ADANO",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025681+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ADANO"
+     },
+     "coordinates": {
+      "value": [
+       45.8333333,
+       39.6666667
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025687+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "394000N 0455000E"
+     },
+     "atsRoutes": {
+      "value": "N77 (RNAV 5) , N82 (RNAV 5) , T920 (RNAV 5) , T925 (RNAV 5)",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025689+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "N77 (RNAV 5) , N82 (RNAV 5) , T920 (RNAV 5) , T925 (RNAV 5)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     45.495,
+     39.9966667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ADILA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "fdeadac83db9092c6931d7ff34d7030da5a5537677f1504be2485ffb943bdb46",
+    "fields": {
+     "designator": {
+      "value": "ADILA",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025714+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ADILA"
+     },
+     "coordinates": {
+      "value": [
+       45.495,
+       39.9966667
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025716+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "395948N 0452942E"
+     },
+     "atsRoutes": {
+      "value": "M54 (RNAV 5) , N82 (RNAV 5) , N996 (RNAV 5)",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025717+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M54 (RNAV 5) , N82 (RNAV 5) , N996 (RNAV 5)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     43.9272222,
+     41.0772222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/AMGIK",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "db3db5d095d9ca6aece3a50a22699b3950b45f07cb4864d759476603b7e39afd",
+    "fields": {
+     "designator": {
+      "value": "AMGIK",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025731+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "AMGIK"
+     },
+     "coordinates": {
+      "value": [
+       43.9272222,
+       41.0772222
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025732+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "410438N 0435538E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025733+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.2333333,
+     40.6613889
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ASMIK",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "61379067a5aa999e4a8fa5871fbb9fdaec401429947854afc9e60b63dca1553d",
+    "fields": {
+     "designator": {
+      "value": "ASMIK",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025745+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ASMIK"
+     },
+     "coordinates": {
+      "value": [
+       44.2333333,
+       40.6613889
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025747+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "403941N 0441400E"
+     },
+     "atsRoutes": {
+      "value": "T916 (RNAV 5)",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025748+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "T916 (RNAV 5)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     45.2594444,
+     40.1333333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DEKIT",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "25809547abe5433b5e3ff26f3b6f901101d3aeab167e9b761b878d052f573069",
+    "fields": {
+     "designator": {
+      "value": "DEKIT",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025764+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "DEKIT"
+     },
+     "coordinates": {
+      "value": [
+       45.2594444,
+       40.1333333
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025765+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "400800N 0451534E"
+     },
+     "atsRoutes": {
+      "value": "N449 (RNAV 5) , T919 (RNAV 5)",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025767+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "N449 (RNAV 5) , T919 (RNAV 5)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.8886111,
+     39.8444444
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/EDULO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "aad8a30f52d2441cacae4bd63384fad0de7e1f5188208f3133605092ae21f8d4",
+    "fields": {
+     "designator": {
+      "value": "EDULO",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025777+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "EDULO"
+     },
+     "coordinates": {
+      "value": [
+       44.8886111,
+       39.8444444
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025779+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "395040N 0445319E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025780+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     45.3705556,
+     40.6311111
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ELSIV",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "201ab3b8496250a5d59489ca37492407bac48a62857dbab723b6d5478466355b",
+    "fields": {
+     "designator": {
+      "value": "ELSIV",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025801+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ELSIV"
+     },
+     "coordinates": {
+      "value": [
+       45.3705556,
+       40.6311111
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025802+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "403752N 0452214E"
+     },
+     "atsRoutes": {
+      "value": "P130 (RNAV 5)",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025803+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "P130 (RNAV 5)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.3669444,
+     40.1472222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/EREVA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "19fdf11cbd61222f2b51bf0d1c251db4ffc245eea4ce9ac553c20cb872a138ca",
+    "fields": {
+     "designator": {
+      "value": "EREVA",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025789+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "EREVA"
+     },
+     "coordinates": {
+      "value": [
+       44.3669444,
+       40.1472222
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025791+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "400850N 0442201E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025792+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     43.9838889,
+     40.4275
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/EVGED",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "0a05eb8ab8373bd233994ac11cc5d8fb376a39b51562a1869f1cf6bae1c6f7b6",
+    "fields": {
+     "designator": {
+      "value": "EVGED",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025813+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "EVGED"
+     },
+     "coordinates": {
+      "value": [
+       43.9838889,
+       40.4275
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025814+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "402539N 0435902E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025815+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     43.5936111,
+     40.3402778
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/FODEC",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "53dc0e6e2349786999c33d8fbec02094fcc844e58a132b74283c7c3934ceaeec",
+    "fields": {
+     "designator": {
+      "value": "FODEC",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025824+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "FODEC"
+     },
+     "coordinates": {
+      "value": [
+       43.5936111,
+       40.3402778
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025825+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "402025N 0433537E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025826+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.9991667,
+     40.1319444
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/GOGOL",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b5785f1e02658da028cd485ab5f6eacd4b3626e5d12caeeacc62200520828f04",
+    "fields": {
+     "designator": {
+      "value": "GOGOL",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025836+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "GOGOL"
+     },
+     "coordinates": {
+      "value": [
+       44.9991667,
+       40.1319444
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025837+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "400755N 0445957E"
+     },
+     "atsRoutes": {
+      "value": "N449 (RNAV 5) , T925 (RNAV 5)",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025838+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "N449 (RNAV 5) , T925 (RNAV 5)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.9861111,
+     39.9472222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/GOSIS",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "3fdc056e3cc25e476b1d536135899c48ffd7325f049dc579cc4c27775ae07c33",
+    "fields": {
+     "designator": {
+      "value": "GOSIS",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025859+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "GOSIS"
+     },
+     "coordinates": {
+      "value": [
+       44.9861111,
+       39.9472222
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025860+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "395650N 0445910E"
+     },
+     "atsRoutes": {
+      "value": "T919 (RNAV 5) , T920 (RNAV 5)",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025861+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "T919 (RNAV 5) , T920 (RNAV 5)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     43.9844444,
+     40.9672222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/IDRUS",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "34e49e58035c29d11a0f65f9aa1bdfa1ab14070cc6269d827186dc219e62e7ad",
+    "fields": {
+     "designator": {
+      "value": "IDRUS",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025872+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "IDRUS"
+     },
+     "coordinates": {
+      "value": [
+       43.9844444,
+       40.9672222
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025873+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "405802N 0435904E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025874+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.4852778,
+     40.0663889
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/IMFIS",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "83db36b93919dce2c19ff31739267dba3405ecdb36347e27b034c3a17ac3c200",
+    "fields": {
+     "designator": {
+      "value": "IMFIS",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025848+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "IMFIS"
+     },
+     "coordinates": {
+      "value": [
+       44.4852778,
+       40.0663889
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025849+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "400359N 0442907E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025850+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     43.6647222,
+     40.1155556
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/INDUR",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "cb8e285fba134f3e2b5fbefb5a5f933fc42815dee1f929af125546fd7fc7eb35",
+    "fields": {
+     "designator": {
+      "value": "INDUR",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025884+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "INDUR"
+     },
+     "coordinates": {
+      "value": [
+       43.6647222,
+       40.1155556
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025885+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "400656N 0433953E"
+     },
+     "atsRoutes": {
+      "value": "N161 (RNAV 5) , N449 (RNAV 5)",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025886+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "N161 (RNAV 5) , N449 (RNAV 5)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.0375,
+     40.0638889
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/INGIG",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "98075b751efecac977491c08f4cc4bcd98f47023075ec09b5b52bd3e3d55855e",
+    "fields": {
+     "designator": {
+      "value": "INGIG",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025896+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "INGIG"
+     },
+     "coordinates": {
+      "value": [
+       44.0375,
+       40.0638889
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025897+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "400350N 0440215E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025898+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     45.4438889,
+     39.5113889
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/IRLAN",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "9e6416c23122888abef26dfafccf97e90518916c52c85bc82a15d6866ff3f804",
+    "fields": {
+     "designator": {
+      "value": "IRLAN",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025908+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "IRLAN"
+     },
+     "coordinates": {
+      "value": [
+       45.4438889,
+       39.5113889
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025909+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "393041N 0452638E"
+     },
+     "atsRoutes": {
+      "value": "N996 (RNAV 5)",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025910+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "N996 (RNAV 5)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     43.7736111,
+     40.1583333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ISNUC",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "912f3a1abf61dab724126dde228cacd4a741db5b9e7590dfb16887e40b94fcf3",
+    "fields": {
+     "designator": {
+      "value": "ISNUC",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025931+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ISNUC"
+     },
+     "coordinates": {
+      "value": [
+       43.7736111,
+       40.1583333
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025932+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "400930N 0434625E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025933+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.9819444,
+     40.0138889
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/KOSFI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c07a529d68534701b5f5de509f7056339d90ee89beaa2c3c5f8b45c8dad817d1",
+    "fields": {
+     "designator": {
+      "value": "KOSFI",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025919+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "KOSFI"
+     },
+     "coordinates": {
+      "value": [
+       44.9819444,
+       40.0138889
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025920+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "400050N 0445855E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025921+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.4894444,
+     40.2288889
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LEZUF",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "86cc66863c0c66c8bd1525a9d46beae525b674a7c897e1ad12177d144296852e",
+    "fields": {
+     "designator": {
+      "value": "LEZUF",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025942+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "LEZUF"
+     },
+     "coordinates": {
+      "value": [
+       44.4894444,
+       40.2288889
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025943+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "401344N 0442922E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025945+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     43.7294444,
+     40.3855556
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LODAC",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "4c98a50cbdfb683694215d1a62ab28c6b189a13bb7309bd1945590ff9cf683d5",
+    "fields": {
+     "designator": {
+      "value": "LODAC",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025953+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "LODAC"
+     },
+     "coordinates": {
+      "value": [
+       43.7294444,
+       40.3855556
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025954+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "402308N 0434346E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025956+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.6769444,
+     40.0333333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LUMIK",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2751f59f63f826fea322a5665222c3c6cf5ff1cad7f0f6f00682a9872529e7a6",
+    "fields": {
+     "designator": {
+      "value": "LUMIK",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025965+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "LUMIK"
+     },
+     "coordinates": {
+      "value": [
+       44.6769444,
+       40.0333333
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025966+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "400200N 0444037E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025967+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     46.3833333,
+     38.9022222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/MAGRI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "4c7eaa714dcb2ebbaca580d37867f65af508978e94d74a32aef01e847e726deb",
+    "fields": {
+     "designator": {
+      "value": "MAGRI",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025976+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "MAGRI"
+     },
+     "coordinates": {
+      "value": [
+       46.3833333,
+       38.9022222
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025977+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "385408N 0462300E"
+     },
+     "atsRoutes": {
+      "value": "N77 (RNAV 5)",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025978+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "N77 (RNAV 5)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     45.5022222,
+     40.7686111
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/MATAL",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "cad984c3b6f1717d855d38886414655e5afcd9f9ef494689a4ec1c213eead59e",
+    "fields": {
+     "designator": {
+      "value": "MATAL",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025987+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "MATAL"
+     },
+     "coordinates": {
+      "value": [
+       45.5022222,
+       40.7686111
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025988+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "404607N 0453008E"
+     },
+     "atsRoutes": {
+      "value": "M11 (RNAV 5) , P567 (RNAV 5) , T916 (RNAV 5)",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025989+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M11 (RNAV 5) , P567 (RNAV 5) , T916 (RNAV 5)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.0352778,
+     40.2302778
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/MIXDU",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "8e979caf322620084e59cdf7a06be4ef4fbcc532c8142cb8eab706fca299cefe",
+    "fields": {
+     "designator": {
+      "value": "MIXDU",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.025999+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "MIXDU"
+     },
+     "coordinates": {
+      "value": [
+       44.0352778,
+       40.2302778
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026000+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "401349N 0440207E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026001+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     45.01,
+     39.755
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/NEGAN",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "3b3cd86ca59faf5fe593a9ed36c2f3ded8b1e7a6f8460a6a2c97542ec9378815",
+    "fields": {
+     "designator": {
+      "value": "NEGAN",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026010+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "NEGAN"
+     },
+     "coordinates": {
+      "value": [
+       45.01,
+       39.755
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026011+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "394518N 0450036E"
+     },
+     "atsRoutes": {
+      "value": "L125 (RNAV 5) , T919 (RNAV 5)",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026012+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L125 (RNAV 5) , T919 (RNAV 5)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     43.7869444,
+     41.1347222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/OGEVI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "8af5789a0b611deee9d3b27d4afd19b8d173867bd8f6321cb44a6400aa291d9f",
+    "fields": {
+     "designator": {
+      "value": "OGEVI",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026021+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "OGEVI"
+     },
+     "coordinates": {
+      "value": [
+       43.7869444,
+       41.1347222
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026022+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "410805N 0434713E"
+     },
+     "atsRoutes": {
+      "value": "L125 (RNAV 5) , N77 (RNAV 5) , T918 (RNAV 5)",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026023+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L125 (RNAV 5) , N77 (RNAV 5) , T918 (RNAV 5)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     45.6422222,
+     40.3911111
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/PEMAN",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "77ea932bbd3c33ed782fe26d2400221d4d17fdb9a5009bc8a8b6d7119ab62548",
+    "fields": {
+     "designator": {
+      "value": "PEMAN",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026032+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "PEMAN"
+     },
+     "coordinates": {
+      "value": [
+       45.6422222,
+       40.3911111
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026034+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "402328N 0453832E"
+     },
+     "atsRoutes": {
+      "value": "N161 (RNAV 5) , N996 (RNAV 5) , T919 (RNAV 5)",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026034+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "N161 (RNAV 5) , N996 (RNAV 5) , T919 (RNAV 5)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.5775,
+     40.2433333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/REBGI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "bf0abd7a57b20e4a7e93629fd79878bf44014a7613e198234db1690dc83ec1d0",
+    "fields": {
+     "designator": {
+      "value": "REBGI",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026044+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "REBGI"
+     },
+     "coordinates": {
+      "value": [
+       44.5775,
+       40.2433333
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026045+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "401436N 0443439E"
+     },
+     "atsRoutes": {
+      "value": "L125 (RNAV 5) , N161 (RNAV 5)",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026046+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L125 (RNAV 5) , N161 (RNAV 5)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     43.685,
+     40.84
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/REBLO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "0071a5cf120c27e423afb6d789657965f1c8ba359313a03d2ca8784ee355cc3c",
+    "fields": {
+     "designator": {
+      "value": "REBLO",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026055+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "REBLO"
+     },
+     "coordinates": {
+      "value": [
+       43.685,
+       40.84
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026056+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "405024N 0434106E"
+     },
+     "atsRoutes": {
+      "value": "M11 (RNAV 5) , P130 (RNAV 5) , T165 (RNAV 5) , T925 (RNAV 5)",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026058+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M11 (RNAV 5) , P130 (RNAV 5) , T165 (RNAV 5) , T925 (RNAV 5)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.3997222,
+     40.5280556
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/RUDRO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e72d0ea6f6e6b8b24631e2a5598b21b90d7b56bba319c747904ff18c061db834",
+    "fields": {
+     "designator": {
+      "value": "RUDRO",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026066+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RUDRO"
+     },
+     "coordinates": {
+      "value": [
+       44.3997222,
+       40.5280556
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026068+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "403141N 0442359E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026068+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     43.7552778,
+     40.2536111
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/SAMCA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "94cc6d4c6cad9c65ea68ddd3d3e0e61b9453cac611dd1bf8c86f2bbc68f063b8",
+    "fields": {
+     "designator": {
+      "value": "SAMCA",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026078+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "SAMCA"
+     },
+     "coordinates": {
+      "value": [
+       43.7552778,
+       40.2536111
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026079+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "401513N 0434519E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026080+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.9547222,
+     40.5341667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/SEVAN",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "3ff1a7e9480d2d840d2663e80b17018f1685e8d1be333578463d98b9182c25d1",
+    "fields": {
+     "designator": {
+      "value": "SEVAN",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026090+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "SEVAN"
+     },
+     "coordinates": {
+      "value": [
+       44.9547222,
+       40.5341667
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026091+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "403203N 0445717E"
+     },
+     "atsRoutes": {
+      "value": "M54 (RNAV 5) , T916 (RNAV 5) , T924 (RNAV 5)",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026092+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M54 (RNAV 5) , T916 (RNAV 5) , T924 (RNAV 5)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     43.8316667,
+     40.8352778
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/TABAS",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "6e7469b8324b784c5c16a70b59d02fb71a5e33dd915a7c71080cc89c5b7677be",
+    "fields": {
+     "designator": {
+      "value": "TABAS",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026101+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "TABAS"
+     },
+     "coordinates": {
+      "value": [
+       43.8316667,
+       40.8352778
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026102+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "405007N 0434954E"
+     },
+     "atsRoutes": {
+      "value": "M11 (RNAV 5) , T918 (RNAV 5)",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026103+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M11 (RNAV 5) , T918 (RNAV 5)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.5025,
+     41.1913889
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/TAVRO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "4dee15a1ec6bebbdda6b741afc029fbc505f012bbd0296d01320ac99395022ef",
+    "fields": {
+     "designator": {
+      "value": "TAVRO",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026113+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "TAVRO"
+     },
+     "coordinates": {
+      "value": [
+       44.5025,
+       41.1913889
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026114+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "411129N 0443009E"
+     },
+     "atsRoutes": {
+      "value": "M54 (RNAV 5) , P567 (RNAV 5) , T165 (RNAV 5)",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026115+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M54 (RNAV 5) , P567 (RNAV 5) , T165 (RNAV 5)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     43.8911111,
+     40.3855556
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/TIBLO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "6aee58d746bcc735b985ce3e06f681a6ff6ab1b040497bb49e1217d7a66c9584",
+    "fields": {
+     "designator": {
+      "value": "TIBLO",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026124+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "TIBLO"
+     },
+     "coordinates": {
+      "value": [
+       43.8911111,
+       40.3855556
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026125+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "402308N 0435328E"
+     },
+     "atsRoutes": {
+      "value": "T918 (RNAV 5)",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026126+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "T918 (RNAV 5)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.8858333,
+     41.2680556
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/TISOT",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "da18aaad074b3093834c00a7e54302dbdb3012b77b2061e97977202448b882ed",
+    "fields": {
+     "designator": {
+      "value": "TISOT",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026135+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "TISOT"
+     },
+     "coordinates": {
+      "value": [
+       44.8858333,
+       41.2680556
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026136+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "411605N 0445309E"
+     },
+     "atsRoutes": {
+      "value": "N82 (RNAV 5) , T924 (RNAV 5)",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026137+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "N82 (RNAV 5) , T924 (RNAV 5)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     45.5461111,
+     40.1341667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/TUTAK",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "24c511614010b7dd51f8d4977b03fbf1e7819b7779e866ef97bfaae0de5f5cf8",
+    "fields": {
+     "designator": {
+      "value": "TUTAK",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026146+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "TUTAK"
+     },
+     "coordinates": {
+      "value": [
+       45.5461111,
+       40.1341667
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026147+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "400803N 0453246E"
+     },
+     "atsRoutes": {
+      "value": "N449 (RNAV 5) , N996 (RNAV 5)",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026148+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "N449 (RNAV 5) , N996 (RNAV 5)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     45.9561111,
+     40.1341667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/VETEN",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "de6a89b21412d4589e1ffb5ef36794b9178aeb84d11416807f322c11c2628c11",
+    "fields": {
+     "designator": {
+      "value": "VETEN",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026157+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "VETEN"
+     },
+     "coordinates": {
+      "value": [
+       45.9561111,
+       40.1341667
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026158+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "400803N 0455722E"
+     },
+     "atsRoutes": {
+      "value": "N449 (RNAV 5)",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026159+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "N449 (RNAV 5)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.6933333,
+     39.9522222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/VULCO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-07-09-current",
+    "effectiveFrom": "2026-07-09",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "65c8cc8fb31f586145c07e75ae180e166a8f5afdd8238d324270c41c9d2fbb58",
+    "fields": {
+     "designator": {
+      "value": "VULCO",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026168+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "VULCO"
+     },
+     "coordinates": {
+      "value": [
+       44.6933333,
+       39.9522222
+      ],
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026170+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "395708N 0444136E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP Armenia (ARMATS)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-07-09",
+      "retrieved_at": "2026-10-27T05:34:54.026171+00:00",
+      "source_url": "https://armats.am/wp-content/uploads/html-uploads/02-26-09JUL2026/html/eAIP/UD-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  }
+ ],
+ "featureTypes": [
+  {
+   "featureType": "aerodrome",
+   "count": 3
+  },
+  {
+   "featureType": "navaid",
+   "count": 4
+  },
+  {
+   "featureType": "route",
+   "count": 17
+  },
+  {
+   "featureType": "runway",
+   "count": 3
+  },
+  {
+   "featureType": "runwayDirection",
+   "count": 6
+  },
+  {
+   "featureType": "waypoint",
+   "count": 40
+  }
+ ],
+ "publications": [
+  {
+   "cycleId": "2026-07-09-current",
+   "effectiveDate": "2026-07-09",
+   "amendmentId": "AIRAC AMDT 02/26",
+   "sourceKind": "LIVE",
+   "ingestedAt": "2026-10-27T05:34:54.057939+00:00",
+   "status": "promoted",
+   "stats": {
+    "total_documents": 9,
+    "parsed_features": 73,
+    "issue_count": 0,
+    "error_count": 0,
+    "warning_count": 0
+   },
+   "sourceUrl": "https://armats.am/02-26-09jul2026/",
+   "notes": null
+  }
+ ],
+ "issues": [],
+ "meta": {
+  "state": "Armenia",
+  "continent": "Europe",
+  "websites": [
+   {
+    "name": "eAIP Armenia",
+    "url": "http://www.armats.am/activities/ais/eaip"
+   }
+  ],
+  "contact_emails": [
+   "ais@armats.am"
+  ]
+ }
+}

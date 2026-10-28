@@ -1,0 +1,4459 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.7422222,
+     41.18
+    ]
+   },
+   "properties": {
+    "naturalKey": "LWOH",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c9f023e38fef73630a2e95c9c99a8478c05791140c937ad3ac34497d65bd6b24",
+    "fields": {
+     "airportName": {
+      "value": "Ohrid “St. Paul The Apostle” Airport",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LWOH AD 2.1",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.375450+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWOH_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LWOH – Ohrid “St. Paul The Apostle” Airport"
+     },
+     "arpCoordinates": {
+      "value": [
+       20.7422222,
+       41.18
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LWOH AD 2.2",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.375457+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWOH_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "41°10’48”N 020°44’32”E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.6213889,
+     41.9616667
+    ]
+   },
+   "properties": {
+    "naturalKey": "LWSK",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f2ed07820f2cf27a05b5df28da1a0515916adfcb92004c17848d630922df6406",
+    "fields": {
+     "airportName": {
+      "value": "Skopje International Airport",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LWSK AD 2.1",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.326520+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWSK_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LWSK - Skopje International Airport"
+     },
+     "arpCoordinates": {
+      "value": [
+       21.6213889,
+       41.9616667
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LWSK AD 2.2",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.326529+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWSK_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "41°57’42”N 021°37’17”E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.4486111,
+     41.3377778
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/PEP",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "9baf2bd82b819d0e64de9c49f2680a4afaffd58ee50f3c7efe09f4fbd7694dc6",
+    "fields": {
+     "designator": {
+      "value": "PEP",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.1",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.400368+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_1_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "PEP"
+     },
+     "navaidType": {
+      "value": "NDB",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.1",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.400376+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_1_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "NDB"
+     },
+     "coordinates": {
+      "value": [
+       21.4486111,
+       41.3377778
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.1",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.400384+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_1_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "412016N 0212655E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.3655556,
+     41.9808333
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/SIN",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "0cc84bdfed67bb13a331dc17a0348bed4a8f342bc7585ebf28f317bb8f5237c2",
+    "fields": {
+     "designator": {
+      "value": "SIN",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.1",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.400447+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_1_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "SIN"
+     },
+     "stationName": {
+      "value": "SINKO",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.1",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.400449+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_1_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "SINKO"
+     },
+     "navaidType": {
+      "value": "VOR/DME",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.1",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.400451+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_1_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "VOR/DME"
+     },
+     "coordinates": {
+      "value": [
+       22.3655556,
+       41.9808333
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.1",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.400456+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_1_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "415851N 0222156E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.6305556,
+     41.935
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/SKJ",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b3e8daed0a09129e1ccd1eb8040de6b71f2de463b7781e3e25daa9d4680c7462",
+    "fields": {
+     "designator": {
+      "value": "SKJ",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.1",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.400494+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_1_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "SKJ"
+     },
+     "stationName": {
+      "value": "SKOPJE",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.1",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.400495+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_1_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "SKOPJE"
+     },
+     "navaidType": {
+      "value": "VOR/DME",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.1",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.400496+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_1_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "VOR/DME"
+     },
+     "coordinates": {
+      "value": [
+       21.6305556,
+       41.935
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.1",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.400502+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_1_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "415606N 0213750E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      21.6166667,
+      42.23
+     ],
+     [
+      22.7913889,
+      41.3294444
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/L603",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c586f0b0f3bd4753cac2c25d55fe7a54785597156df2e282d2f1003f94232196",
+    "fields": {
+     "designator": {
+      "value": "L603",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447482+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "L603"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447490+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/OLOTA",
+       "WPT/RUGAS"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447493+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/OLOTA -> WPT/RUGAS"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      22.7583333,
+      41.2472222
+     ],
+     [
+      21.3972222,
+      42.1594444
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/L608",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d44aabe9ca1f12eb1bfdaf50803c5578b5b6d3a1ab4d282afab9a0e54d7d0a78",
+    "fields": {
+     "designator": {
+      "value": "L608",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447535+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "L608"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447537+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/DISOR",
+       "WPT/LONTA"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447541+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/DISOR -> WPT/LONTA"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      21.0555556,
+      42.1125
+     ],
+     [
+      21.3580556,
+      40.8755556
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/L616",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "6da4e5e68e641e173069c04bec162406ffe2eeb08ab4cc9d6c7981e2ea64dfda",
+    "fields": {
+     "designator": {
+      "value": "L616",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447562+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "L616"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447563+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/KOGAT",
+       "WPT/BITLA"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447565+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/KOGAT -> WPT/BITLA"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      22.2427778,
+      42.3083333
+     ],
+     [
+      22.5166667,
+      41.1291667
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/L617",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2d370598367878de75eee249e2049b931a1b486e84fbe46f735d3e6ae968589d",
+    "fields": {
+     "designator": {
+      "value": "L617",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447583+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "L617"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447584+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/RAXAD",
+       "WPT/MAKED"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447586+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/RAXAD -> WPT/MAKED"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      21.0555556,
+      42.1125
+     ],
+     [
+      22.2394444,
+      41.1633333
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/L737",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "618e077772cd37032dfb639a2135ff2a5a4170e72127cbf4df22c57ce9d58a6c",
+    "fields": {
+     "designator": {
+      "value": "L737",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447602+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "L737"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447603+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/KOGAT",
+       "WPT/ERANA"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447605+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/KOGAT -> WPT/ERANA"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      20.4947222,
+      41.3327778
+     ],
+     [
+      21.9166667,
+      41.0766667
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/M22",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "1494d2b6a9d6afaa89978fe451fff63d554ca8da41f897b5ee9b8bcca122b61f",
+    "fields": {
+     "designator": {
+      "value": "M22",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447620+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "M22"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447621+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/DOBAR",
+       "WPT/TALAS"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447623+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/DOBAR -> WPT/TALAS"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      21.9166667,
+      41.0766667
+     ],
+     [
+      21.3972222,
+      42.1594444
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/M749",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c264e488063643f8770e9d4fd224a93ff3630537e5097be24fbf68bbac546def",
+    "fields": {
+     "designator": {
+      "value": "M749",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447640+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "M749"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447641+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/TALAS",
+       "WPT/LONTA"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447643+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/TALAS -> WPT/LONTA"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      21.0555556,
+      42.1125
+     ],
+     [
+      22.7583333,
+      41.2472222
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/M867",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "00ba3b6c9dbf7b9a06e004aa31c5ef28c10d18c24a558cff44cd1f14c7a4dfe7",
+    "fields": {
+     "designator": {
+      "value": "M867",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447660+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "M867"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447661+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/KOGAT",
+       "WPT/DISOR"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447662+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/KOGAT -> WPT/DISOR"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      22.7913889,
+      41.3294444
+     ],
+     [
+      22.3655556,
+      41.9808333
+     ],
+     [
+      22.2427778,
+      42.3083333
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/N128",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "8265ae6da74b1d01817941770dba7b29ea0ba3f4ae6a811ed1dc0dc04522b591",
+    "fields": {
+     "designator": {
+      "value": "N128",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447718+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "N128"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447719+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/RUGAS",
+       "NAV/SIN",
+       "WPT/RAXAD"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447721+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/RUGAS -> NAV/SIN -> WPT/RAXAD"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      20.53,
+      41.67
+     ],
+     [
+      21.9166667,
+      41.0766667
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/N130",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d336fbd1d89a9c55e065eced74620aee2cf522892eb1571fea6351f9cbf562de",
+    "fields": {
+     "designator": {
+      "value": "N130",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447740+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "N130"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447741+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/MAVAR",
+       "WPT/TALAS"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447743+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/MAVAR -> WPT/TALAS"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      20.53,
+      41.67
+     ],
+     [
+      21.3580556,
+      40.8755556
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/N132",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "ed8804fd3adf60011a09fa48713e9fe8da0b23c7a9500f71d1f293638aa5f35f",
+    "fields": {
+     "designator": {
+      "value": "N132",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447758+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "N132"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447759+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/MAVAR",
+       "WPT/BITLA"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447761+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/MAVAR -> WPT/BITLA"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      20.4947222,
+      41.3327778
+     ],
+     [
+      21.3580556,
+      40.8755556
+     ],
+     [
+      22.0977778,
+      41.7669444
+     ],
+     [
+      21.9166667,
+      41.0766667
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/N137",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "918fbe90c96ee99d0701bc0a4cc915a3f587b5dedc4d0a7fc706bc445eb12505",
+    "fields": {
+     "designator": {
+      "value": "N137",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447786+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "N137"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447787+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/DOBAR",
+       "WPT/BITLA",
+       "WPT/NASKO",
+       "WPT/TALAS"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447789+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/DOBAR -> WPT/BITLA -> WPT/NASKO -> WPT/TALAS"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      20.4947222,
+      41.3327778
+     ],
+     [
+      22.7583333,
+      41.2472222
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/N141",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "62355b2c058230bb037f66005895e4f2345114b4f87c5f24b817e584048b9e2e",
+    "fields": {
+     "designator": {
+      "value": "N141",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447806+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "N141"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447807+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/DOBAR",
+       "WPT/DISOR"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447808+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/DOBAR -> WPT/DISOR"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      21.695,
+      40.9344444
+     ],
+     [
+      20.53,
+      41.67
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/N146",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "6942f99a678558c88a0bf0562e0fc0065608e539bd1460fd6d515a7c6ac354a6",
+    "fields": {
+     "designator": {
+      "value": "N146",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447825+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "N146"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447826+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/BEKVA",
+       "WPT/MAVAR"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447827+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/BEKVA -> WPT/MAVAR"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      22.6058333,
+      42.0969444
+     ],
+     [
+      21.3580556,
+      40.8755556
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/N731",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "190f17824f168904548b8232a411702016ce86d327b1aaed244cab33e8e9c42d",
+    "fields": {
+     "designator": {
+      "value": "N731",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447841+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "N731"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447842+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/LETNI",
+       "WPT/BITLA"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447844+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/LETNI -> WPT/BITLA"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      20.4947222,
+      41.3327778
+     ],
+     [
+      22.0977778,
+      41.7669444
+     ],
+     [
+      22.8833333,
+      41.9666667
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/P127",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "df09b006178c6c64fa3e75795dce666ec0fb20a2a1cfe403f5105787d387fd29",
+    "fields": {
+     "designator": {
+      "value": "P127",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447934+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "P127"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447935+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/DOBAR",
+       "WPT/NASKO",
+       "WPT/VELBA"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447936+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/DOBAR -> WPT/NASKO -> WPT/VELBA"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      22.5166667,
+      41.1291667
+     ],
+     [
+      21.3972222,
+      42.1594444
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/P20",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "45bd057a79ed2f9083e319e609b3146cce6e47b2cd33885502dbc75f537782f8",
+    "fields": {
+     "designator": {
+      "value": "P20",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447858+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "P20"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447859+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/MAKED",
+       "WPT/LONTA"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447860+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/MAKED -> WPT/LONTA"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      22.5166667,
+      41.1291667
+     ],
+     [
+      22.3922222,
+      41.32
+     ],
+     [
+      22.0977778,
+      41.7669444
+     ],
+     [
+      22.2427778,
+      42.3083333
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/P36",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "505d1dce528b8d29cad4a55af496560a64438bc72f82d3ecd9e7ff1c2923e972",
+    "fields": {
+     "designator": {
+      "value": "P36",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447883+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "P36"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447884+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/MAKED",
+       "WPT/NEGOT",
+       "WPT/NASKO",
+       "WPT/RAXAD"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447886+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/MAKED -> WPT/NEGOT -> WPT/NASKO -> WPT/RAXAD"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      21.3580556,
+      40.8755556
+     ],
+     [
+      21.4486111,
+      41.3377778
+     ],
+     [
+      21.3972222,
+      42.1594444
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/P859",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "00d6fa83c691c09ef1316a99ff610506d6b8eab288164d29ebf58ea792b210f8",
+    "fields": {
+     "designator": {
+      "value": "P859",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447956+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "P859"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447958+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/BITLA",
+       "NAV/PEP",
+       "WPT/LONTA"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447960+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/BITLA -> NAV/PEP -> WPT/LONTA"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      20.53,
+      41.67
+     ],
+     [
+      21.1083333,
+      41.8116667
+     ],
+     [
+      21.1969444,
+      41.8322222
+     ],
+     [
+      21.6305556,
+      41.935
+     ],
+     [
+      22.6058333,
+      42.0969444
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/P92",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "1fa7179749cbd6fcb6e1d0db39607e217a929dbf93a20fa2356b08305ca9f0a9",
+    "fields": {
+     "designator": {
+      "value": "P92",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447912+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "P92"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447913+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/MAVAR",
+       "WPT/GOSTI",
+       "WPT/BUREK",
+       "NAV/SKJ",
+       "WPT/LETNI"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447914+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/MAVAR -> WPT/GOSTI -> WPT/BUREK -> NAV/SKJ -> WPT/LETNI"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      20.4947222,
+      41.3327778
+     ],
+     [
+      21.1969444,
+      41.8322222
+     ],
+     [
+      21.3269444,
+      42.1366667
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/T197",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b6ae0d7fb863523c700d663ad5f9759fdf28bdd7e2e19054e29e003be1ad3e5d",
+    "fields": {
+     "designator": {
+      "value": "T197",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447979+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "T197"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447980+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/DOBAR",
+       "WPT/BUREK",
+       "WPT/XAXAN"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447981+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/DOBAR -> WPT/BUREK -> WPT/XAXAN"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      20.99,
+      41.9766667
+     ],
+     [
+      20.53,
+      41.67
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/T198",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "cc8b077275188672400feb8d9d510c9b1fa8bdfac996e975783337cf0dfdedcc",
+    "fields": {
+     "designator": {
+      "value": "T198",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447996+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "T198"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447997+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/TETOV",
+       "WPT/MAVAR"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.447998+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/TETOV -> WPT/MAVAR"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      20.4947222,
+      41.3327778
+     ],
+     [
+      22.3655556,
+      41.9808333
+     ],
+     [
+      22.6058333,
+      42.0969444
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/T214",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "64383e1f20897e2fa5c313ccc57bf4515bad505cf34562c00cbf4fe29b4c24aa",
+    "fields": {
+     "designator": {
+      "value": "T214",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448014+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "T214"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448015+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/DOBAR",
+       "NAV/SIN",
+       "WPT/LETNI"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448016+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/DOBAR -> NAV/SIN -> WPT/LETNI"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      20.8955556,
+      42.0969444
+     ],
+     [
+      21.6305556,
+      41.935
+     ],
+     [
+      22.3655556,
+      41.9808333
+     ],
+     [
+      22.8833333,
+      41.9666667
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/T215",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "71e0090ce59d252c1ec15917080725fe190b68c92217c34ee399e998a9619d49",
+    "fields": {
+     "designator": {
+      "value": "T215",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448035+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "T215"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448036+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/SARAX",
+       "NAV/SKJ",
+       "NAV/SIN",
+       "WPT/VELBA"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448038+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/SARAX -> NAV/SKJ -> NAV/SIN -> WPT/VELBA"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      20.4947222,
+      41.3327778
+     ],
+     [
+      21.4486111,
+      41.3377778
+     ],
+     [
+      22.2427778,
+      42.3083333
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/T216",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b2207230e18ebdb56a787f873ada133b1f86b881928ddd6750a39887f00441e7",
+    "fields": {
+     "designator": {
+      "value": "T216",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448055+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "T216"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448056+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/DOBAR",
+       "NAV/PEP",
+       "WPT/RAXAD"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448057+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/DOBAR -> NAV/PEP -> WPT/RAXAD"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      20.8955556,
+      42.0969444
+     ],
+     [
+      20.99,
+      41.9766667
+     ],
+     [
+      21.1083333,
+      41.8116667
+     ],
+     [
+      21.4486111,
+      41.3377778
+     ],
+     [
+      21.9166667,
+      41.0766667
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/T217",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "19791422af2ea231112e919f253d8b88371212f2bd0f347d620aad912aa57545",
+    "fields": {
+     "designator": {
+      "value": "T217",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448082+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "T217"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448083+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/SARAX",
+       "WPT/TETOV",
+       "WPT/GOSTI",
+       "NAV/PEP",
+       "WPT/TALAS"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448084+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/SARAX -> WPT/TETOV -> WPT/GOSTI -> NAV/PEP -> WPT/TALAS"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      22.7583333,
+      41.2472222
+     ],
+     [
+      21.6305556,
+      41.935
+     ],
+     [
+      21.3269444,
+      42.1366667
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/T218",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "1f5451235c81ef1a01d6ba1edc2c71eb48583243b2bd8d1f9f0ffa34b52734b0",
+    "fields": {
+     "designator": {
+      "value": "T218",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448103+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "T218"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448104+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/DISOR",
+       "NAV/SKJ",
+       "WPT/XAXAN"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448105+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/DISOR -> NAV/SKJ -> WPT/XAXAN"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      21.3580556,
+      40.8755556
+     ],
+     [
+      22.2427778,
+      42.3083333
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/T261",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "bdb2b9f06a7f497589f4486ebd42af3d8b542914415cafefd56af6fdf29f90fe",
+    "fields": {
+     "designator": {
+      "value": "T261",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448120+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "T261"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448121+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/BITLA",
+       "WPT/RAXAD"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448122+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/BITLA -> WPT/RAXAD"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      22.6058333,
+      42.0969444
+     ],
+     [
+      22.2394444,
+      41.1633333
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/T262",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "89434fb2ca22e2cf7b3e14b4092f2c0915b6ddba229db1efd2370f147c47582c",
+    "fields": {
+     "designator": {
+      "value": "T262",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448137+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "T262"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448138+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/LETNI",
+       "WPT/ERANA"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448139+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/LETNI -> WPT/ERANA"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      22.6058333,
+      42.0969444
+     ],
+     [
+      21.3269444,
+      42.1366667
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/T263",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "aa900cc6579929c6af439a4ab84366325905eeab33b9a5199a2edc60842d631c",
+    "fields": {
+     "designator": {
+      "value": "T263",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448155+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "T263"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448156+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/LETNI",
+       "WPT/XAXAN"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448163+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/LETNI -> WPT/XAXAN"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      21.3580556,
+      40.8755556
+     ],
+     [
+      22.8833333,
+      41.9666667
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/T343",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "70c3341d00be59711d63c7b1c528c61803d39b22529a1dfecc3bb8093039bbd4",
+    "fields": {
+     "designator": {
+      "value": "T343",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448178+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "T343"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448179+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/BITLA",
+       "WPT/VELBA"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448180+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/BITLA -> WPT/VELBA"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      22.0977778,
+      41.7669444
+     ],
+     [
+      22.2394444,
+      41.1633333
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/T389",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "84604fc3fc639204a36461e51a63b797b92823412ea628ac4f6102187777538e",
+    "fields": {
+     "designator": {
+      "value": "T389",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448194+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "T389"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448195+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/NASKO",
+       "WPT/ERANA"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448196+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/NASKO -> WPT/ERANA"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      20.53,
+      41.67
+     ],
+     [
+      22.3922222,
+      41.32
+     ],
+     [
+      22.7583333,
+      41.2472222
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/Y400",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "78102515416fbd09cc3cebdca68d9509928f8f074ac4853741bcb9f597788395",
+    "fields": {
+     "designator": {
+      "value": "Y400",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448214+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "Y400"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448215+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/MAVAR",
+       "WPT/NEGOT",
+       "WPT/DISOR"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448216+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/MAVAR -> WPT/NEGOT -> WPT/DISOR"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      20.8955556,
+      42.0969444
+     ],
+     [
+      22.7583333,
+      41.2472222
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/Y500",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "ba3059c8161832a53ef88adeb3c73376bad065332a43ee6c54dabb4f2f3e0454",
+    "fields": {
+     "designator": {
+      "value": "Y500",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448231+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "Y500"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448233+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/SARAX",
+       "WPT/DISOR"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448234+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/SARAX -> WPT/DISOR"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      21.0555556,
+      42.1125
+     ],
+     [
+      21.1969444,
+      41.8322222
+     ],
+     [
+      21.4486111,
+      41.3377778
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/Y550",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "3d1e7609d548b0b3696ff9c0de78d023fd2a8d66d1b1365b73684684c68c84e0",
+    "fields": {
+     "designator": {
+      "value": "Y550",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448249+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "Y550"
+     },
+     "routeClass": {
+      "value": "LW_ENR_3",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448250+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LW_ENR_3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/KOGAT",
+       "WPT/BUREK",
+       "NAV/PEP"
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW_ENR_3",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.448251+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_3_2_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/KOGAT -> WPT/BUREK -> NAV/PEP"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      20.737719,
+      41.1689917
+     ],
+     [
+      20.7469367,
+      41.1908505
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "LWOH/RWY/01-19",
+    "parentKey": "LWOH",
+    "featureType": "runway",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "5d28c82860193519d4a3bd33c6193cf83440aacc4b4747834eed6e0e0d0e0143",
+    "fields": {
+     "pairDesignator": {
+      "value": "01-19",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LWOH AD 2.12",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.375561+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWOH_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "01-19"
+     },
+     "length": {
+      "value": 2548.0,
+      "unit": "M",
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LWOH AD 2.12",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.375555+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWOH_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2548 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LWOH AD 2.12",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.375557+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWOH_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2548 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LWOH AD 2.12",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.375558+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWOH_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "naturalKey": "LWSK/RWY/16-34",
+    "parentKey": "LWSK",
+    "featureType": "runway",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "ed8cb99f1c7a8d26b37e735aa8a20c0f4e36978633c0ebfd50c68cfa25d2adef",
+    "fields": {
+     "pairDesignator": {
+      "value": "16-34",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LWSK AD 2.12",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.326596+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWSK_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "16-34"
+     },
+     "length": {
+      "value": 2450.0,
+      "unit": "M",
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LWSK AD 2.12",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.326591+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWSK_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2450 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LWSK AD 2.12",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.326593+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWSK_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2450 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LWSK AD 2.12",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.326594+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWSK_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.737719,
+     41.1689917
+    ]
+   },
+   "properties": {
+    "naturalKey": "LWOH/RWY/01",
+    "parentKey": "LWOH/RWY/01-19",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "0f74b83467f9366a2a92fb21ae47eb4f17e35e51797616fda899e5dbe8c838dd",
+    "fields": {
+     "designator": {
+      "value": "01",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LWOH AD 2.12",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.375574+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWOH_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "01"
+     },
+     "length": {
+      "value": 2548.0,
+      "unit": "M",
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LWOH AD 2.12",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.375555+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWOH_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2548 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LWOH AD 2.12",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.375557+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWOH_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2548 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LWOH AD 2.12",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.375558+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWOH_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       20.737719,
+       41.1689917
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LWOH AD 2.12",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.375579+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWOH_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "41 10 08.37009 N 020 44 15.78846E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.7469367,
+     41.1908505
+    ]
+   },
+   "properties": {
+    "naturalKey": "LWOH/RWY/19",
+    "parentKey": "LWOH/RWY/01-19",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "5bb78fde777b38ed54def6df972661697883ac386f311ec0ef6681257fb10633",
+    "fields": {
+     "designator": {
+      "value": "19",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LWOH AD 2.12",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.375588+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWOH_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "19"
+     },
+     "length": {
+      "value": 2548.0,
+      "unit": "M",
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LWOH AD 2.12",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.375555+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWOH_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2548 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LWOH AD 2.12",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.375557+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWOH_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2548 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LWOH AD 2.12",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.375558+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWOH_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       20.7469367,
+       41.1908505
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LWOH AD 2.12",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.375592+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWOH_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "41 11 27.06173N 020 44 48.97215E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.6177083,
+     41.9723028
+    ]
+   },
+   "properties": {
+    "naturalKey": "LWSK/RWY/16",
+    "parentKey": "LWSK/RWY/16-34",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2d2cd1582358ebddce64ecdc35277c10e7ec956420cb3c0fdc0d944cf5dd42a1",
+    "fields": {
+     "designator": {
+      "value": "16",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LWSK AD 2.12",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.326607+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWSK_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "16"
+     },
+     "length": {
+      "value": 2450.0,
+      "unit": "M",
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LWSK AD 2.12",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.326591+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWSK_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2450 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LWSK AD 2.12",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.326593+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWSK_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2450 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LWSK AD 2.12",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.326594+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWSK_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       21.6177083,
+       41.9723028
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LWSK AD 2.12",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.326611+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWSK_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "41 58 20.29N 021 37 03.75E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "naturalKey": "LWSK/RWY/34",
+    "parentKey": "LWSK/RWY/16-34",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "a0c7db18569cf9fe4965d4e4ea3f56bb17c05d72dba746ca37c49515fa796c4a",
+    "fields": {
+     "designator": {
+      "value": "34",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LWSK AD 2.12",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.326621+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWSK_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "34"
+     },
+     "length": {
+      "value": 2450.0,
+      "unit": "M",
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LWSK AD 2.12",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.326591+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWSK_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2450 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LWSK AD 2.12",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.326593+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWSK_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2450 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LWSK AD 2.12",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.326594+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/aerodromes/LW_AD_2_LWSK_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.695,
+     40.9344444
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/BEKVA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b12ebd80849f129d63fea33d607d7b1dcdc950b864e942567f2c7c0ea84b65f3",
+    "fields": {
+     "designator": {
+      "value": "BEKVA",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.388783+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "BEKVA"
+     },
+     "coordinates": {
+      "value": [
+       21.695,
+       40.9344444
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.388789+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "405604N 0214142E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.4572222,
+     41.5233333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/BONZI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "7da7905b85a49e90d3066ed490bd66cb6f080ba95c83c97a7898ab7a9142d0df",
+    "fields": {
+     "designator": {
+      "value": "BONZI",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.388941+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "BONZI"
+     },
+     "coordinates": {
+      "value": [
+       20.4572222,
+       41.5233333
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.388943+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "413124N 0202726E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.1969444,
+     41.8322222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/BUREK",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "992387145473fe164f027e4f2b6508d7bee70bb28dff99e8cba82341957b3e16",
+    "fields": {
+     "designator": {
+      "value": "BUREK",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.388978+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "BUREK"
+     },
+     "coordinates": {
+      "value": [
+       21.1969444,
+       41.8322222
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.388979+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "414956N 0211149E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.7583333,
+     41.2472222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DISOR",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "5f0bb09479848646df148715d7e773db695244cd5abd6c98d6da963de0142eb6",
+    "fields": {
+     "designator": {
+      "value": "DISOR",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389029+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "DISOR"
+     },
+     "coordinates": {
+      "value": [
+       22.7583333,
+       41.2472222
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389031+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "411450N 0224530E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.4947222,
+     41.3327778
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DOBAR",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "a67c2065a1102c4236f4deadad62f52db41dfa61df4e8f175e6a36450b75eeab",
+    "fields": {
+     "designator": {
+      "value": "DOBAR",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389078+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "DOBAR"
+     },
+     "coordinates": {
+      "value": [
+       20.4947222,
+       41.3327778
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389080+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "411958N 0202941E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.5344444,
+     41.7686111
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ENFAR",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e66fdf89d1c347d5413a8975faf4c6f2e7d00ecdaff4c77dc488b5410b670f20",
+    "fields": {
+     "designator": {
+      "value": "ENFAR",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389111+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENFAR"
+     },
+     "coordinates": {
+      "value": [
+       20.5344444,
+       41.7686111
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389112+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "414607N 0203204E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.2394444,
+     41.1633333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ERANA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "dea4f6c7818a9a5f9df03a14c3692da6f28667e78c5421c586bc4ca6b2e48979",
+    "fields": {
+     "designator": {
+      "value": "ERANA",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389170+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ERANA"
+     },
+     "coordinates": {
+      "value": [
+       22.2394444,
+       41.1633333
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389171+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "410948N 0221422E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.1083333,
+     41.8116667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/GOSTI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "1490c21f6d7ccc98e5d1d8cbe5b6a1b7e41ba943c03b16420a59537cdc6af3ea",
+    "fields": {
+     "designator": {
+      "value": "GOSTI",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389214+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "GOSTI"
+     },
+     "coordinates": {
+      "value": [
+       21.1083333,
+       41.8116667
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389215+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "414842N 0210630E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.0555556,
+     42.1125
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/KOGAT",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "3a7f678cf43275945716d032abfa93aef70f1cc1697693b50810dc8f073a47d6",
+    "fields": {
+     "designator": {
+      "value": "KOGAT",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389261+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "KOGAT"
+     },
+     "coordinates": {
+      "value": [
+       21.0555556,
+       42.1125
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389262+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "420645N 0210320E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.0819444,
+     42.0477778
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/KRATO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "31ba6408695de641b942a1f019d1594696e82b90c18a09ec6a1b9e672a79568a",
+    "fields": {
+     "designator": {
+      "value": "KRATO",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389304+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "KRATO"
+     },
+     "coordinates": {
+      "value": [
+       22.0819444,
+       42.0477778
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389305+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "420252N 0220455E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.6058333,
+     42.0969444
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LETNI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e8e5107c370f91d99fe7eb978f20f5dd936de26950add898cc02209f0f8d129d",
+    "fields": {
+     "designator": {
+      "value": "LETNI",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389338+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LETNI"
+     },
+     "coordinates": {
+      "value": [
+       22.6058333,
+       42.0969444
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389339+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "420549N 0223621E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.3972222,
+     42.1594444
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LONTA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "82b7ef0acf53218387b1c91e751cffd9182f46880b21036b4e8f6df94c261d42",
+    "fields": {
+     "designator": {
+      "value": "LONTA",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389373+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LONTA"
+     },
+     "coordinates": {
+      "value": [
+       21.3972222,
+       42.1594444
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389374+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "420934N 0212350E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.5166667,
+     41.1291667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/MAKED",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "cf7cdffbdcde4d90845375f1ec42963960791d29e4cf5b8a327c1b4fbb271fd9",
+    "fields": {
+     "designator": {
+      "value": "MAKED",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389422+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "MAKED"
+     },
+     "coordinates": {
+      "value": [
+       22.5166667,
+       41.1291667
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389424+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "410745N 0223100E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.53,
+     41.67
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/MAVAR",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "3769cda4be60bb407b1b764f77e0f1b6b9049acd5e56bf88808dfdc3a9cf200e",
+    "fields": {
+     "designator": {
+      "value": "MAVAR",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389468+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "MAVAR"
+     },
+     "coordinates": {
+      "value": [
+       20.53,
+       41.67
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389469+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "414012N 0203148E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.0977778,
+     41.7669444
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/NASKO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "3cea5086e223a81aa829919bb9e48e5121150cb8995433f89c0e843546bfea23",
+    "fields": {
+     "designator": {
+      "value": "NASKO",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389499+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "NASKO"
+     },
+     "coordinates": {
+      "value": [
+       22.0977778,
+       41.7669444
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389500+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "414601N 0220552E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.3922222,
+     41.32
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/NEGOT",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c9de2dc7c9dfe8462e1afe7a883950fe524a08cccdc295444dac33e30f3a272d",
+    "fields": {
+     "designator": {
+      "value": "NEGOT",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389526+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "NEGOT"
+     },
+     "coordinates": {
+      "value": [
+       22.3922222,
+       41.32
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389527+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "411912N 0222332E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.6166667,
+     42.23
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/OLOTA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f128e3d5db3f14b13de93411090a0e293cb9424b2c792fed753cf2ae8fd646c5",
+    "fields": {
+     "designator": {
+      "value": "OLOTA",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389666+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "OLOTA"
+     },
+     "coordinates": {
+      "value": [
+       21.6166667,
+       42.23
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389667+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "421348N 0213700E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.5886111,
+     41.1433333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ORRIH",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2cfd5a97979da161b800e8f0ae68a4b2c0c451b7754d0e680e101ce52480dfbb",
+    "fields": {
+     "designator": {
+      "value": "ORRIH",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389695+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ORRIH"
+     },
+     "coordinates": {
+      "value": [
+       20.5886111,
+       41.1433333
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389696+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "410836N 0203519E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.2427778,
+     42.3083333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/RAXAD",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "51f0bc0585ab27e638ff224f525d1cfa4e9d3f9469f1e1313a242f42c52b4155",
+    "fields": {
+     "designator": {
+      "value": "RAXAD",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389726+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RAXAD"
+     },
+     "coordinates": {
+      "value": [
+       22.2427778,
+       42.3083333
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389727+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "421830N 0221434E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.7913889,
+     41.3294444
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/RUGAS",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "5b637e7c7b83c31102761c8d07197e4456ef49158954cedfe21a1136885d5d56",
+    "fields": {
+     "designator": {
+      "value": "RUGAS",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389772+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RUGAS"
+     },
+     "coordinates": {
+      "value": [
+       22.7913889,
+       41.3294444
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389773+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "411946N 0224729E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.8955556,
+     42.0969444
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/SARAX",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "593e775584f4a6a0ea2f104bfdfbae69d38b57925a782f801512f4c94c7af637",
+    "fields": {
+     "designator": {
+      "value": "SARAX",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389831+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "SARAX"
+     },
+     "coordinates": {
+      "value": [
+       20.8955556,
+       42.0969444
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389835+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "420549N 0205344E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.9166667,
+     41.0766667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/TALAS",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "1688de9205ebb8726c2d09d98f1de42468d1e9110d8b802db447d7d41f9cbc73",
+    "fields": {
+     "designator": {
+      "value": "TALAS",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389891+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "TALAS"
+     },
+     "coordinates": {
+      "value": [
+       21.9166667,
+       41.0766667
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389892+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "410436N 0215500E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.99,
+     41.9766667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/TETOV",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "a5d68a4f8ac7f124d03749b8789eea0153f5509b94e64895ba2d6a861d09f40c",
+    "fields": {
+     "designator": {
+      "value": "TETOV",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389932+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "TETOV"
+     },
+     "coordinates": {
+      "value": [
+       20.99,
+       41.9766667
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389933+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "415836N 0205924E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.8833333,
+     41.9666667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/VELBA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "1599b7c98f97c6c1548ddcef59f3ada8a5910b53a34dbbbe935b5e8310e2e32a",
+    "fields": {
+     "designator": {
+      "value": "VELBA",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389975+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "VELBA"
+     },
+     "coordinates": {
+      "value": [
+       22.8833333,
+       41.9666667
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.389976+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "415800N 0225300E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.3269444,
+     42.1366667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/XAXAN",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-15-current",
+    "effectiveFrom": "2026-10-15",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c5d1c430eb9a6de6da67bde44974ad2ae4f7c72332789b868d462ec6c9420120",
+    "fields": {
+     "designator": {
+      "value": "XAXAN",
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.390018+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "XAXAN"
+     },
+     "coordinates": {
+      "value": [
+       21.3269444,
+       42.1366667
+      ],
+      "unit": null,
+      "source": "eAIP North Macedonia (M-NAV)",
+      "section": "LW ENR 4.4",
+      "effective_date": "2026-10-15",
+      "retrieved_at": "2026-10-27T13:27:36.390019+00:00",
+      "source_url": "http://ais.m-nav.info/eAIP/current/pdf/enr/LW_ENR_4_4_en.pdf",
+      "parser_version": "1.0",
+      "raw_text": "420812N 0211937E"
+     }
+    }
+   }
+  }
+ ],
+ "featureTypes": [
+  {
+   "featureType": "aerodrome",
+   "count": 2
+  },
+  {
+   "featureType": "navaid",
+   "count": 3
+  },
+  {
+   "featureType": "route",
+   "count": 35
+  },
+  {
+   "featureType": "runway",
+   "count": 2
+  },
+  {
+   "featureType": "runwayDirection",
+   "count": 4
+  },
+  {
+   "featureType": "waypoint",
+   "count": 25
+  }
+ ],
+ "publications": [
+  {
+   "cycleId": "2026-10-15-current",
+   "effectiveDate": "2026-10-15",
+   "amendmentId": "AIP (15-OCT-2026)",
+   "sourceKind": "LIVE",
+   "ingestedAt": "2026-10-27T13:27:36.455969+00:00",
+   "status": "promoted",
+   "stats": {
+    "total_documents": 7,
+    "parsed_features": 71,
+    "issue_count": 9,
+    "error_count": 0,
+    "warning_count": 9
+   },
+   "sourceUrl": "http://ais.m-nav.info/eAIP/current/en/index.htm",
+   "notes": null
+  }
+ ],
+ "issues": [
+  {
+   "publicationId": "2026-10-15-current",
+   "severity": "warning",
+   "ruleId": "RULE_THRESHOLD_IMPLAUSIBLE",
+   "featureKey": "LWSK/RWY/34",
+   "section": "LWSK AD 2.12",
+   "message": "THR 34 is 1274 km from the ARP; coordinate dropped",
+   "rawSnippet": "41 57 03.33N 37 30.55E"
+  },
+  {
+   "publicationId": "2026-10-15-current",
+   "severity": "warning",
+   "ruleId": "RULE_RUNWAY_GEOMETRY",
+   "featureKey": "LWSK/RWY/16-34",
+   "section": "LWSK AD 2.12",
+   "message": "Runway 16-34 at LWSK: threshold coordinates not captured",
+   "rawSnippet": ""
+  },
+  {
+   "publicationId": "2026-10-15-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/L616",
+   "section": "LW_ENR_3",
+   "message": "Route L616 references 'BITLA' absent from national index",
+   "rawSnippet": "BITLA"
+  },
+  {
+   "publicationId": "2026-10-15-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/N132",
+   "section": "LW_ENR_3",
+   "message": "Route N132 references 'BITLA' absent from national index",
+   "rawSnippet": "BITLA"
+  },
+  {
+   "publicationId": "2026-10-15-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/N137",
+   "section": "LW_ENR_3",
+   "message": "Route N137 references 'BITLA' absent from national index",
+   "rawSnippet": "BITLA"
+  },
+  {
+   "publicationId": "2026-10-15-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/N731",
+   "section": "LW_ENR_3",
+   "message": "Route N731 references 'BITLA' absent from national index",
+   "rawSnippet": "BITLA"
+  },
+  {
+   "publicationId": "2026-10-15-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/P859",
+   "section": "LW_ENR_3",
+   "message": "Route P859 references 'BITLA' absent from national index",
+   "rawSnippet": "BITLA"
+  },
+  {
+   "publicationId": "2026-10-15-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/T261",
+   "section": "LW_ENR_3",
+   "message": "Route T261 references 'BITLA' absent from national index",
+   "rawSnippet": "BITLA"
+  },
+  {
+   "publicationId": "2026-10-15-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/T343",
+   "section": "LW_ENR_3",
+   "message": "Route T343 references 'BITLA' absent from national index",
+   "rawSnippet": "BITLA"
+  }
+ ],
+ "meta": {
+  "state": "North Macedonia",
+  "continent": "Europe",
+  "websites": [
+   {
+    "name": "eAIP North Macedonia",
+    "url": "http://ais.m-nav.info/eAIP/current/en/index.htm"
+   }
+  ],
+  "contact_emails": [
+   "aismac@mnavigation.mk"
+  ]
+ }
+}

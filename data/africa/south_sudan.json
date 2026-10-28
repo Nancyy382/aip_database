@@ -1,0 +1,4627 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.0025,
+     7.7775
+    ]
+   },
+   "properties": {
+    "naturalKey": "HJAK",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "83919bc1ccec36ba9b7ac18045c45767d986ef662ac3c5d785674873a480d640",
+    "fields": {
+     "airportName": {
+      "value": "AKOBO",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJAK AD 2.1",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.845553+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "HJAK - AKOBO"
+     },
+     "arpCoordinates": {
+      "value": [
+       33.0025,
+       7.7775
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJAK AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.845565+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "07°46’39”N 033°00’09”E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.3602778,
+     8.7916667
+    ]
+   },
+   "properties": {
+    "naturalKey": "HJAW",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e7393ca22897e9c3497ed1ce87d3ed2d88e48e19360bb5986f90f7e097e31fc0",
+    "fields": {
+     "airportName": {
+      "value": "AWEIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJAW AD 2.1",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.845727+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "HJAW - AWEIL"
+     },
+     "arpCoordinates": {
+      "value": [
+       27.3602778,
+       8.7916667
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJAW AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.845730+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "08°47’30”N 027°21’37”E"
+     },
+     "elevation": {
+      "value": 1394,
+      "unit": "FT",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJAW AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.845731+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "1394 FT"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.6002778,
+     6.1911111
+    ]
+   },
+   "properties": {
+    "naturalKey": "HJBR",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "7fbf079cdd5bed9a9171017305eb5a74959a47e3f5da3563bba14319141b645a",
+    "fields": {
+     "airportName": {
+      "value": "BOR",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJBR AD 2.1",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.845955+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "HJBR - BOR"
+     },
+     "arpCoordinates": {
+      "value": [
+       31.6002778,
+       6.1911111
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJBR AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.845957+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "06°11’28”N 031°36’01”E"
+     },
+     "elevation": {
+      "value": 1335,
+      "unit": "FT",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJBR AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.845958+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "1335 FT"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.7872222,
+     9.3086111
+    ]
+   },
+   "properties": {
+    "naturalKey": "HJBT",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "0afd9aa25da78d621c8acb9023b167bf0a46d889d7dfa3e9ba4404f28a6598df",
+    "fields": {
+     "airportName": {
+      "value": "BENTIU",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJBT AD 2.1",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.845842+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "HJBT - BENTIU"
+     },
+     "arpCoordinates": {
+      "value": [
+       29.7872222,
+       9.3086111
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJBT AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.845844+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "09°18’31”N 029°47’14”E"
+     },
+     "elevation": {
+      "value": 1279,
+      "unit": "FT",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJBT AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.845845+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "1279 FT"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.5005556,
+     10.5288889
+    ]
+   },
+   "properties": {
+    "naturalKey": "HJFA",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "3c5700ecf0c6701ef8fcbbfd0dfb66e42a7eef717ae6e25ced777288737d9607",
+    "fields": {
+     "airportName": {
+      "value": "PALOICH",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJFA AD 2.1",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847669+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "HJFA - PALOICH"
+     },
+     "arpCoordinates": {
+      "value": [
+       32.5005556,
+       10.5288889
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJFA AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847671+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "10°31’44”N 032°30’02”E"
+     },
+     "elevation": {
+      "value": 1265,
+      "unit": "FT",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJFA AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847672+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "1265 FT"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.6011111,
+     4.8719444
+    ]
+   },
+   "properties": {
+    "naturalKey": "HJJJ",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d4c8f4d14bc47f7d56471c54dc07aab6ffcad717a82df73eb6af4c86bde7bb75",
+    "fields": {
+     "airportName": {
+      "value": "JUBA",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJJJ AD 2.1",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.846526+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "HJJJ - JUBA"
+     },
+     "arpCoordinates": {
+      "value": [
+       31.6011111,
+       4.8719444
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJJJ AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.846528+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "04°52’19.00”N 031°36’04.00”E"
+     },
+     "elevation": {
+      "value": 1512,
+      "unit": "FT",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJJJ AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.846530+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "1512 FT"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.5869444,
+     4.78
+    ]
+   },
+   "properties": {
+    "naturalKey": "HJKP",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d5bd01205ae148cada82b66f98a9bc4a8e15a066d87e33509e8ba7b2351350cf",
+    "fields": {
+     "airportName": {
+      "value": "KAPOETA",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJKP AD 2.1",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.846722+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "HJKP - KAPOETA"
+     },
+     "arpCoordinates": {
+      "value": [
+       33.5869444,
+       4.78
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJKP AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.846724+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "04°46’48”N 033°35’13”E"
+     },
+     "elevation": {
+      "value": 2221,
+      "unit": "FT",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJKP AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.846725+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2221 FT"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.4438889,
+     4.9038889
+    ]
+   },
+   "properties": {
+    "naturalKey": "HJMD",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "244c7cde7f781d89dbb405640a939087f685e4c925b0d107f8eb3151bf445c68",
+    "fields": {
+     "airportName": {
+      "value": "MARIDI",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJMD AD 2.1",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847354+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "HJMD - MARIDI"
+     },
+     "arpCoordinates": {
+      "value": [
+       29.4438889,
+       4.9038889
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJMD AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847356+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "04°54’14”N 029°26’38”E"
+     },
+     "elevation": {
+      "value": 2300,
+      "unit": "FT",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJMD AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847357+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2300 FT"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.6522222,
+     9.5588889
+    ]
+   },
+   "properties": {
+    "naturalKey": "HJMK",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "9d00b0148783528232931ced48b20219aebe5529c6cb991707f9449156f50fe0",
+    "fields": {
+     "airportName": {
+      "value": "MALAKAL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJMK AD 2.1",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847187+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "HJMK - MALAKAL"
+     },
+     "arpCoordinates": {
+      "value": [
+       31.6522222,
+       9.5588889
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJMK AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847190+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "09°33’32”N 031°39’08”E"
+     },
+     "elevation": {
+      "value": 1290,
+      "unit": "FT",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJMK AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847191+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "1290 FT"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.1286111,
+     6.7955556
+    ]
+   },
+   "properties": {
+    "naturalKey": "HJPI",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f8f09051355e80bf1e5feb8f18ee204775778fdf49482bcafb027ecae03c7ea1",
+    "fields": {
+     "airportName": {
+      "value": "PIBOR",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJPI AD 2.1",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847831+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "HJPI - PIBOR"
+     },
+     "arpCoordinates": {
+      "value": [
+       33.1286111,
+       6.7955556
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJPI AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847832+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "06°47’44”N 033°07’43”E"
+     },
+     "elevation": {
+      "value": 1352,
+      "unit": "FT",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJPI AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847834+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "1352 FT"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.6688889,
+     6.8313889
+    ]
+   },
+   "properties": {
+    "naturalKey": "HJRB",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "bf45eda583b69deddf3af58044acbe4be562a4bb45faf428ecbd227f5c39d9bb",
+    "fields": {
+     "airportName": {
+      "value": "RUMBEK",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJRB AD 2.1",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.848056+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "HJRB - RUMBEK"
+     },
+     "arpCoordinates": {
+      "value": [
+       29.6688889,
+       6.8313889
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJRB AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.848058+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "06°49’53”N 029°40’08”E"
+     },
+     "elevation": {
+      "value": 1380,
+      "unit": "FT",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJRB AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.848059+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "1380 FT"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     25.6811111,
+     8.4611111
+    ]
+   },
+   "properties": {
+    "naturalKey": "HJRJ",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "9a04586f809f4728b429da4f6077968806807ff7669fa8cb31b9f3231b11d982",
+    "fields": {
+     "airportName": {
+      "value": "RAGA",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJRJ AD 2.1",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847945+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "HJRJ - RAGA"
+     },
+     "arpCoordinates": {
+      "value": [
+       25.6811111,
+       8.4611111
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJRJ AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847947+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "08°27’40”N 025°40’52”E"
+     },
+     "elevation": {
+      "value": 1788,
+      "unit": "FT",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJRJ AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847948+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "1788 FT"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.5755556,
+     4.4169444
+    ]
+   },
+   "properties": {
+    "naturalKey": "HJTR",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "44fab43d095857f74c9b8991e172cbf97ee8b62249b5e9be6cad07b0e95af7a9",
+    "fields": {
+     "airportName": {
+      "value": "TORIT",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJTR AD 2.1",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.848168+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "HJTR - TORIT"
+     },
+     "arpCoordinates": {
+      "value": [
+       32.5755556,
+       4.4169444
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJTR AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.848170+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "04°25’01”N 032°34’32”E"
+     },
+     "elevation": {
+      "value": 2018,
+      "unit": "FT",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJTR AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.848171+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2018 FT"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.4733333,
+     5.6022222
+    ]
+   },
+   "properties": {
+    "naturalKey": "HJTU",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "5e51faf899f21d29009191011f2fef8b1c675790c1a1714556df472234813710",
+    "fields": {
+     "airportName": {
+      "value": "TIMBURA",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJTU AD 2.1",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.848306+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "HJTU - TIMBURA"
+     },
+     "arpCoordinates": {
+      "value": [
+       27.4733333,
+       5.6022222
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJTU AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.848313+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "05°36’08”N 027°28’24”E"
+     },
+     "elevation": {
+      "value": 2230,
+      "unit": "FT",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJTU AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.848315+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2230 FT"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.975,
+     7.7258333
+    ]
+   },
+   "properties": {
+    "naturalKey": "HJWW",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "553418c2b9f23cc62459d64c66efd2cf509332a02eb943b97e38b75f2d87cd83",
+    "fields": {
+     "airportName": {
+      "value": "WAU",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJWW AD 2.1",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.848844+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "HJWW - WAU"
+     },
+     "arpCoordinates": {
+      "value": [
+       27.975,
+       7.7258333
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJWW AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.848848+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "07°43’33”N 027°58’30”E"
+     },
+     "elevation": {
+      "value": 1527,
+      "unit": "FT",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJWW AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.848850+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "1527 ft"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.4241667,
+     4.5672222
+    ]
+   },
+   "properties": {
+    "naturalKey": "HJYA",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "4829fbf3a4c69a0693687dce2a34558ee203c4a2b1a941b5b53fe9d53ee52e40",
+    "fields": {
+     "airportName": {
+      "value": "YAMBIO",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJYA AD 2.1",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.849035+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "HJYA - YAMBIO"
+     },
+     "arpCoordinates": {
+      "value": [
+       28.4241667,
+       4.5672222
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJYA AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.849036+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "04°34’02”N 028°25’27”E"
+     },
+     "elevation": {
+      "value": 2375,
+      "unit": "FT",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJYA AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.849037+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2375 FT"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.7322222,
+     4.1288889
+    ]
+   },
+   "properties": {
+    "naturalKey": "HJYE",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2bdc0cc500cf6e8b7ed7a60877c1fd921cba1078722ac8d0f6022e6c7de9bcf2",
+    "fields": {
+     "airportName": {
+      "value": "YEI",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJYE AD 2.1",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.849159+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "HJYE - YEI"
+     },
+     "arpCoordinates": {
+      "value": [
+       30.7322222,
+       4.1288889
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJYE AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.849161+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "04°07’44”N 030°43’56”E"
+     },
+     "elevation": {
+      "value": 2726,
+      "unit": "FT",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJYE AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.849163+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2726 FT"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.5080556,
+     6.5588889
+    ]
+   },
+   "properties": {
+    "naturalKey": "HJYL",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "3897f55dd007fae7b9d675834b8d4121879bd464fcf23e4a928c5be696ed579d",
+    "fields": {
+     "airportName": {
+      "value": "YIROL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJYL AD 2.1",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.849311+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "HJYL - YIROL"
+     },
+     "arpCoordinates": {
+      "value": [
+       30.5080556,
+       6.5588889
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJYL AD 2.2",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.849313+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "06°33’32”N 030°30’29”E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.5997528,
+     4.8759833
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/JUB",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "89b61aa24d5b8a499b0b2bd81067149930eecf688110b1225972fbe80b881df5",
+    "fields": {
+     "designator": {
+      "value": "JUB",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.1",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519153+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "JUB"
+     },
+     "stationName": {
+      "value": "JUBA",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.1",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519163+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "JUBA"
+     },
+     "navaidType": {
+      "value": "DVOR-DME",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.1",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519165+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "DVOR-DME"
+     },
+     "frequency": {
+      "value": 113.1,
+      "unit": "MHZ",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.1",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519167+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "113.1 MHZ (CH 78X)"
+     },
+     "frequencyUnit": {
+      "value": "MHZ",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.1",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519168+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "MHZ"
+     },
+     "frequencyRaw": {
+      "value": "113.1 MHZ (CH 78X)",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.1",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519170+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "113.1 MHZ (CH 78X)"
+     },
+     "coordinates": {
+      "value": [
+       31.5997528,
+       4.8759833
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.1",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519173+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "04°52'33.54\"N 031°35'59.11\"E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.6531694,
+     9.5631667
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/MLK",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "ccb0a32f86aeff0ca36d0a29f1aaf403dde62807ea38d857360c1559e7ab14ed",
+    "fields": {
+     "designator": {
+      "value": "MLK",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.1",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519221+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "MLK"
+     },
+     "stationName": {
+      "value": "MALAKAL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.1",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519223+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "MALAKAL"
+     },
+     "navaidType": {
+      "value": "VOR-DME",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.1",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519224+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "VOR-DME"
+     },
+     "frequency": {
+      "value": 112.7,
+      "unit": "MHZ",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.1",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519226+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "112.7 MHZ (CH 74X)"
+     },
+     "frequencyUnit": {
+      "value": "MHZ",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.1",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519227+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "MHZ"
+     },
+     "frequencyRaw": {
+      "value": "112.7 MHZ (CH 74X)",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.1",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519228+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "112.7 MHZ (CH 74X)"
+     },
+     "coordinates": {
+      "value": [
+       31.6531694,
+       9.5631667
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.1",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519231+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "09°33'47.40\"N 031°39'11.41\"E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      23.5166667,
+      8.7333333
+     ],
+     [
+      23.5166667,
+      8.7333333
+     ],
+     [
+      27.0055556,
+      11.0611111
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/A410",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "28d95c6e1fe2269a1a8e223f9cfd1edf5faabde126cba9cd3199e8a064fe59e1",
+    "fields": {
+     "designator": {
+      "value": "A410",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 3",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.538879+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_3_ATS_ROUTES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "A410"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 3",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.538881+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_3_ATS_ROUTES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/KAFIA",
+       "WPT/ALMAM",
+       "WPT/RADAG"
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 3",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.538884+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_3_ATS_ROUTES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/KAFIA -> WPT/ALMAM -> WPT/RADAG"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      32.9064417,
+      13.0279778
+     ],
+     [
+      33.905,
+      9.435
+     ],
+     [
+      34.6672222,
+      6.6355556
+     ],
+     [
+      35.38,
+      4.0
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/A727",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "622ec26c739dcba1ba7b08f6656a6e55b24dc33efd169cc3c340c71e6034ec69",
+    "fields": {
+     "designator": {
+      "value": "A727",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 3",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.538910+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_3_ATS_ROUTES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "A727"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 3",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.538912+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_3_ATS_ROUTES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       null,
+       "WPT/AVONO",
+       "WPT/EPSIX",
+       "WPT/AMATO"
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 3",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.538914+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_3_ATS_ROUTES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/AVONO -> WPT/EPSIX -> WPT/AMATO"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      32.1658333,
+      13.0194444
+     ],
+     [
+      31.6531694,
+      9.5631667
+     ],
+     [
+      31.5997222,
+      4.8761111
+     ],
+     [
+      31.2483333,
+      4.0
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/B527",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "72f8685c36e1a11683aa3b160431bab78b2aa2bd347a3d91808c8bedb3c29894",
+    "fields": {
+     "designator": {
+      "value": "B527",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 3",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.538940+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_3_ATS_ROUTES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "B527"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 3",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.538941+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_3_ATS_ROUTES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/RABAK",
+       null,
+       null,
+       "WPT/OVELA"
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 3",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.538943+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_3_ATS_ROUTES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/RABAK -> WPT/OVELA"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      33.3338889,
+      5.9022222
+     ],
+     [
+      31.5997222,
+      4.8761111
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/B535",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "6b6b4b1638cb456665537a0ca8716cd9566c1b62e7e463b6eb20a8525b8a0d91",
+    "fields": {
+     "designator": {
+      "value": "B535",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 3",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.538962+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_3_ATS_ROUTES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "B535"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 3",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.538963+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_3_ATS_ROUTES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/TAPOS",
+       null
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 3",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.538965+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_3_ATS_ROUTES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/TAPOS"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      31.5997222,
+      4.8761111
+     ],
+     [
+      31.8,
+      4.0
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/G656",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "07f40d78810c86f204c17c04bdf8f1e408a40069f0d96b076b1d06c5c163f873",
+    "fields": {
+     "designator": {
+      "value": "G656",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 3",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.538981+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_3_ATS_ROUTES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "G656"
+     },
+     "routeClass": {
+      "value": "ENR 3",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 3",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.538983+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_3_ATS_ROUTES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3"
+     },
+     "waypointSequence": {
+      "value": [
+       null,
+       "WPT/ATUGA"
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 3",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.538984+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_3_ATS_ROUTES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/ATUGA"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "naturalKey": "HJFA/RWY/01-19",
+    "parentKey": "HJFA",
+    "featureType": "runway",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c761105533372935990f55057f2be7d854a5556f09e995c8df55314299ee3551",
+    "fields": {
+     "pairDesignator": {
+      "value": "01-19",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJFA AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847692+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "01-19"
+     },
+     "length": {
+      "value": 2500.0,
+      "unit": "M",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJFA AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847682+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2500 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJFA AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847684+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2500 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJFA AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847685+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      31.5880333,
+      4.8831056
+     ],
+     [
+      31.6093806,
+      4.8650056
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "HJJJ/RWY/13-31",
+    "parentKey": "HJJJ",
+    "featureType": "runway",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "53f454491fd43fa57d62ac3361e960657de7c24965cfd7047a44f18ded9601f0",
+    "fields": {
+     "pairDesignator": {
+      "value": "13-31",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJJJ AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.846566+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "13-31"
+     },
+     "length": {
+      "value": 3100.0,
+      "unit": "M",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJJJ AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.846560+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "3100 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJJJ AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.846562+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "3100 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJJJ AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.846563+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      31.6459222,
+      9.5525278
+     ],
+     [
+      31.6585444,
+      9.5654167
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "HJMK/RWY/04-22",
+    "parentKey": "HJMK",
+    "featureType": "runway",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "42cf8b82b957b5066b000596c77720362359babce4873c4ae1badb9149651cd3",
+    "fields": {
+     "pairDesignator": {
+      "value": "04-22",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJMK AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847215+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "04-22"
+     },
+     "length": {
+      "value": 2000.0,
+      "unit": "M",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJMK AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847209+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2000 x 40"
+     },
+     "width": {
+      "value": 40.0,
+      "unit": "M",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJMK AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847211+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2000 x 40"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      27.9634361,
+      7.725825
+     ],
+     [
+      27.986075,
+      7.7256583
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "HJWW/RWY/09-27",
+    "parentKey": "HJWW",
+    "featureType": "runway",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d3ab6e80a679952fb5f41ac7f5f402eaff07ef1c2ab6107081d8d20c3bbe23fb",
+    "fields": {
+     "pairDesignator": {
+      "value": "09-27",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJWW AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.848880+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "09-27"
+     },
+     "length": {
+      "value": 2500.0,
+      "unit": "M",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJWW AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.848875+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2500 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJWW AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.848876+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2500 x 45"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "naturalKey": "HJFA/RWY/01",
+    "parentKey": "HJFA/RWY/01-19",
+    "featureType": "runwayDirection",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2d69f928d872b1cf67038ffd60fff03dc1d7d8aee3e803f6c869dd9d330a39bf",
+    "fields": {
+     "designator": {
+      "value": "01",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJFA AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847700+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "01"
+     },
+     "length": {
+      "value": 2500.0,
+      "unit": "M",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJFA AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847682+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2500 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJFA AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847684+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2500 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJFA AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847685+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "naturalKey": "HJFA/RWY/19",
+    "parentKey": "HJFA/RWY/01-19",
+    "featureType": "runwayDirection",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "edc5928e7caa54fb65730e84c902bfb31d87561b7896fc408fbcc3e70556d539",
+    "fields": {
+     "designator": {
+      "value": "19",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJFA AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847710+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "19"
+     },
+     "length": {
+      "value": 2500.0,
+      "unit": "M",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJFA AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847682+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2500 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJFA AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847684+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2500 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJFA AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847685+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.5880333,
+     4.8831056
+    ]
+   },
+   "properties": {
+    "naturalKey": "HJJJ/RWY/13",
+    "parentKey": "HJJJ/RWY/13-31",
+    "featureType": "runwayDirection",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c02618f755d2601613f9b53b321c2121f3518ea477a640eb74ee1f8c33a9cd4c",
+    "fields": {
+     "designator": {
+      "value": "13",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJJJ AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.846577+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "13"
+     },
+     "trueBearing": {
+      "value": 127.63,
+      "unit": "DEG",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJJJ AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.846578+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "127.63"
+     },
+     "length": {
+      "value": 3100.0,
+      "unit": "M",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJJJ AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.846560+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "3100 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJJJ AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.846562+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "3100 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJJJ AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.846563+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       31.5880333,
+       4.8831056
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJJJ AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.846581+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "04°52'59.18\"N 031°35'16.92\"E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.6093806,
+     4.8650056
+    ]
+   },
+   "properties": {
+    "naturalKey": "HJJJ/RWY/31",
+    "parentKey": "HJJJ/RWY/13-31",
+    "featureType": "runwayDirection",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b0b0a28e175ed6bdd736cc543a53a8e86a6d38267608f4242934275a8875946d",
+    "fields": {
+     "designator": {
+      "value": "31",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJJJ AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.846591+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "31"
+     },
+     "trueBearing": {
+      "value": 307.63,
+      "unit": "DEG",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJJJ AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.846592+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "307.63"
+     },
+     "length": {
+      "value": 3100.0,
+      "unit": "M",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJJJ AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.846560+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "3100 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJJJ AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.846562+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "3100 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJJJ AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.846563+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       31.6093806,
+       4.8650056
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJJJ AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.846595+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "04°51’54.02\"N 031°36'33.77\"E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.6459222,
+     9.5525278
+    ]
+   },
+   "properties": {
+    "naturalKey": "HJMK/RWY/04",
+    "parentKey": "HJMK/RWY/04-22",
+    "featureType": "runwayDirection",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "14d09cf5a177dc4036ce6af5c9d90b12bad33be19ac6ff345c0f1034eaecabe8",
+    "fields": {
+     "designator": {
+      "value": "04",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJMK AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847224+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "04"
+     },
+     "trueBearing": {
+      "value": 44.19,
+      "unit": "DEG",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJMK AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847225+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "044.19°"
+     },
+     "length": {
+      "value": 2000.0,
+      "unit": "M",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJMK AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847209+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2000 x 40"
+     },
+     "width": {
+      "value": 40.0,
+      "unit": "M",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJMK AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847211+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2000 x 40"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       31.6459222,
+       9.5525278
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJMK AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847228+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "09°33'09.10\"N 031°38'45.32\"E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.6585444,
+     9.5654167
+    ]
+   },
+   "properties": {
+    "naturalKey": "HJMK/RWY/22",
+    "parentKey": "HJMK/RWY/04-22",
+    "featureType": "runwayDirection",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "108386baf9becbb101e9987e96c692b9c1564b4ae5565482cc35b69a28c82a20",
+    "fields": {
+     "designator": {
+      "value": "22",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJMK AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847236+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "22"
+     },
+     "trueBearing": {
+      "value": 224.19,
+      "unit": "DEG",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJMK AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847238+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "224.19°"
+     },
+     "length": {
+      "value": 2000.0,
+      "unit": "M",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJMK AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847209+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2000 x 40"
+     },
+     "width": {
+      "value": 40.0,
+      "unit": "M",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJMK AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847211+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2000 x 40"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       31.6585444,
+       9.5654167
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJMK AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.847240+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "09°33’55.50\"N 031°39'30.76\"E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.9634361,
+     7.725825
+    ]
+   },
+   "properties": {
+    "naturalKey": "HJWW/RWY/09",
+    "parentKey": "HJWW/RWY/09-27",
+    "featureType": "runwayDirection",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "361739584cbf1e726252928f94ff3f3c90cf6c0e92d2c8324fa3a187ff90b8ef",
+    "fields": {
+     "designator": {
+      "value": "09",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJWW AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.848892+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "09"
+     },
+     "trueBearing": {
+      "value": 89.0,
+      "unit": "DEG",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJWW AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.848893+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "089°"
+     },
+     "length": {
+      "value": 2500.0,
+      "unit": "M",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJWW AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.848875+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2500 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJWW AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.848876+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2500 x 45"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       27.9634361,
+       7.725825
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJWW AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.848896+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "07°43'32.97\"N 027°57'48.37\"E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.986075,
+     7.7256583
+    ]
+   },
+   "properties": {
+    "naturalKey": "HJWW/RWY/27",
+    "parentKey": "HJWW/RWY/09-27",
+    "featureType": "runwayDirection",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b3b3992d606f258c422697025185804b3052c4b1997c29dde143c05f2e9fb50f",
+    "fields": {
+     "designator": {
+      "value": "27",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJWW AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.848905+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "27"
+     },
+     "trueBearing": {
+      "value": 269.0,
+      "unit": "DEG",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJWW AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.848908+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "269°"
+     },
+     "length": {
+      "value": 2500.0,
+      "unit": "M",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJWW AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.848875+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2500 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJWW AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.848876+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2500 x 45"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       27.986075,
+       7.7256583
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "HJWW AD 2.12",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.848911+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/AD_2_AERODROMES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "07°43’32.37\"N 027°59'09.87\"E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     24.7475,
+     9.5625
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ALMAM",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c71ab06e6e622832908f01cbbebd16156c1994797a38b1a40bb57d6b969c3b99",
+    "fields": {
+     "designator": {
+      "value": "ALMAM",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519728+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ALMAM"
+     },
+     "coordinates": {
+      "value": [
+       24.7475,
+       9.5625
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519731+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "09°33'45”N 024°44'51\"E"
+     },
+     "atsRoutes": {
+      "value": "A410, UL311 , UP322 NIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519733+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "A410, UL311 , UP322 NIL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.0233333,
+     5.31
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/AMATO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "885b877bdb6cf0611259a77541d9e21dc17cb621c78ec5d508a14b8159556212",
+    "fields": {
+     "designator": {
+      "value": "AMATO",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519746+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "AMATO"
+     },
+     "coordinates": {
+      "value": [
+       35.0233333,
+       5.31
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519747+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "05°18'36”N 035°01'24\"E"
+     },
+     "atsRoutes": {
+      "value": "A727 NIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519749+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "A727 NIL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.38,
+     4.0
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ANTAX",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "a8d97743affcd6838e729ebdd2dfa83f89afa68086e56aef163ef8fe111e57d4",
+    "fields": {
+     "designator": {
+      "value": "ANTAX",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519757+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ANTAX"
+     },
+     "coordinates": {
+      "value": [
+       35.38,
+       4.0
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519758+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "04°00'00”N 035°22'48\"E"
+     },
+     "atsRoutes": {
+      "value": "A727 NIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519759+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "A727 NIL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.4269444,
+     6.2958333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ASKON",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "254bfc8d270ec8ab78ed212813c971985ac3d1cdb224d6da5a850d8715517b27",
+    "fields": {
+     "designator": {
+      "value": "ASKON",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519767+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ASKON"
+     },
+     "coordinates": {
+      "value": [
+       26.4269444,
+       6.2958333
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519768+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "06°17'45”N 026°25'37\"E"
+     },
+     "atsRoutes": {
+      "value": "UL558, UL561 , UN311 , UP556 NIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519769+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UL558, UL561 , UN311 , UP556 NIL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.8,
+     4.0
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ATUGA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "ce60c077a5dbf869578d1713f1cca737eafd75f128fce275f6c152907cffd506",
+    "fields": {
+     "designator": {
+      "value": "ATUGA",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519778+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ATUGA"
+     },
+     "coordinates": {
+      "value": [
+       31.8,
+       4.0
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519779+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "04°00'00”N 031°48'00\"E"
+     },
+     "atsRoutes": {
+      "value": "G656, UG656 NIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519780+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "G656, UG656 NIL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.905,
+     9.435
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/AVONO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d1d1161786d273e47916bef9a7ddfe2aaff292573b7fb4c8b009e292e4321a6a",
+    "fields": {
+     "designator": {
+      "value": "AVONO",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519788+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "AVONO"
+     },
+     "coordinates": {
+      "value": [
+       33.905,
+       9.435
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519789+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "09°26'06”N 033°54'18\"E"
+     },
+     "atsRoutes": {
+      "value": "A727 , UP309 , UP322 NIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519790+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "A727 , UP309 , UP322 NIL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.2216667,
+     10.0583333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/AXOTI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "66c0d0f27b783900e5ef5ebea63cda898bed88e0360a9800fab79f2a9f23f29b",
+    "fields": {
+     "designator": {
+      "value": "AXOTI",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519797+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "AXOTI"
+     },
+     "coordinates": {
+      "value": [
+       34.2216667,
+       10.0583333
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519798+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "10°03'30”N 034°13'18\"E"
+     },
+     "atsRoutes": {
+      "value": "UP752 NIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519800+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UP752 NIL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.2,
+     6.4
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DAGAP",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "5277c839be679a2c65fc8e6a9721d051e665d5b35e0cdb087c832f8725a5d21f",
+    "fields": {
+     "designator": {
+      "value": "DAGAP",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519806+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "DAGAP"
+     },
+     "coordinates": {
+      "value": [
+       34.2,
+       6.4
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519808+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "06°24'00”N 034°12'00\"E"
+     },
+     "atsRoutes": {
+      "value": "UB535 NIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519809+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UB535 NIL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.8205556,
+     7.0816667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DASAG",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "cbf90d14be61aa1578fe47e150282faadb44688ea233eca786d9aa9fae9726b8",
+    "fields": {
+     "designator": {
+      "value": "DASAG",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519815+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "DASAG"
+     },
+     "coordinates": {
+      "value": [
+       29.8205556,
+       7.0816667
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519816+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "07°04'54”N 029°49'14\"E"
+     },
+     "atsRoutes": {
+      "value": "UL558 NIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519817+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UL558 NIL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.1333333,
+     7.8225
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DASTU",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "71a8ec67e7b0f3a7c25799a975b8d11ded0a82ea6d1293e1474869424468aab8",
+    "fields": {
+     "designator": {
+      "value": "DASTU",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519824+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "DASTU"
+     },
+     "coordinates": {
+      "value": [
+       33.1333333,
+       7.8225
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519825+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "07°49'21”N 033°08'00\"E"
+     },
+     "atsRoutes": {
+      "value": "UL558 NIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519826+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UL558 NIL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.5261111,
+     10.4627778
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DEDVA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "4f4d0b675d12346bdf18302ac7265af768717a287a02a0c42cc51063d0398fd2",
+    "fields": {
+     "designator": {
+      "value": "DEDVA",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519832+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "DEDVA"
+     },
+     "coordinates": {
+      "value": [
+       33.5261111,
+       10.4627778
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519833+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "10°27'46”N 033°31'34\"E"
+     },
+     "atsRoutes": {
+      "value": "UL563 NIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519835+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UL563 NIL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.66,
+     4.6283333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DEKUM",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f5216c8b49062af88dce074d6bda274a3cfd4d0a2190d8e5175d1172d61de711",
+    "fields": {
+     "designator": {
+      "value": "DEKUM",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519841+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "DEKUM"
+     },
+     "coordinates": {
+      "value": [
+       29.66,
+       4.6283333
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519842+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "04°37'42”N 029°39'36\"E"
+     },
+     "atsRoutes": {
+      "value": "UM568 NIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519843+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UM568 NIL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.7516667,
+     9.5341667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DEMTI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "3096c1d6d08b1645cbebceb09967352470bf22781bbbee74b97851a31678f9bc",
+    "fields": {
+     "designator": {
+      "value": "DEMTI",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519849+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "DEMTI"
+     },
+     "coordinates": {
+      "value": [
+       26.7516667,
+       9.5341667
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519850+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "09°32'03”N 026°45'06\"E"
+     },
+     "atsRoutes": {
+      "value": "UP322 NIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519851+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UP322 NIL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.6211111,
+     7.4877778
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/EGBIM",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "ea90f3ffd0325f76ed327e633b00b047e4defd76746a1b728d56b0a5e957414c",
+    "fields": {
+     "designator": {
+      "value": "EGBIM",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519857+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "EGBIM"
+     },
+     "coordinates": {
+      "value": [
+       31.6211111,
+       7.4877778
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519859+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "07°29'16”N 031°37'16\"E"
+     },
+     "atsRoutes": {
+      "value": "UL554 , UL558 NIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519860+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UL554 , UL558 NIL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.1966667,
+     4.0
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/EPLAS",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "ee7aee0cf814a5dced63e7a1cd17b15064a02a6ec4bbe5c858a355ca0a231327",
+    "fields": {
+     "designator": {
+      "value": "EPLAS",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519866+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "EPLAS"
+     },
+     "coordinates": {
+      "value": [
+       34.1966667,
+       4.0
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519868+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "04°00'00”N 034°11'48\"E"
+     },
+     "atsRoutes": {
+      "value": "B612, UY613 NIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519869+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "B612, UY613 NIL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.6672222,
+     6.6355556
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/EPSIX",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c451b9dd8e72536765be1b3513d27a3617adf163dce601f11fbe893c1ce20c81",
+    "fields": {
+     "designator": {
+      "value": "EPSIX",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 3",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.538838+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_3_ATS_ROUTES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "EPSIX"
+     },
+     "coordinates": {
+      "value": [
+       34.6672222,
+       6.6355556
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 3",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.538841+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_3_ATS_ROUTES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "06°38'08\"N 034°40'02\"E"
+     },
+     "atsRoutes": {
+      "value": "A727",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 3",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.538842+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_3_ATS_ROUTES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "A727"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.3433333,
+     10.3419444
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/GINPU",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d0f0ee7ddb63758ae061ce9cea3cd48dfae1a522ff8c7920886a035f0b1662f4",
+    "fields": {
+     "designator": {
+      "value": "GINPU",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519875+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "GINPU"
+     },
+     "coordinates": {
+      "value": [
+       31.3433333,
+       10.3419444
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519876+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "10°20'31”N 031°20'36\"E"
+     },
+     "atsRoutes": {
+      "value": "UP752, UY613 NIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519877+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UP752, UY613 NIL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.5186111,
+     7.6872222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/IMDUR",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d5320254751752692dfbd3baba417706cd2d8fe359be72bd55af46d92d6ee70e",
+    "fields": {
+     "designator": {
+      "value": "IMDUR",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519884+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "IMDUR"
+     },
+     "coordinates": {
+      "value": [
+       32.5186111,
+       7.6872222
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519885+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "07°41'14”N 032°31'07\"E"
+     },
+     "atsRoutes": {
+      "value": "NIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519886+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "NIL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.3522222,
+     10.3591667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ITOMO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "928f09bb5e1ab0550d2ac54a764aa5ff4fcd985e146828c21f10c630eeba358c",
+    "fields": {
+     "designator": {
+      "value": "ITOMO",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519893+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ITOMO"
+     },
+     "coordinates": {
+      "value": [
+       32.3522222,
+       10.3591667
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519894+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "10°21'33”N 032°21'08\"E"
+     },
+     "atsRoutes": {
+      "value": "UP315 NIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519895+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UP315 NIL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.6522222,
+     10.4002778
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ITOXA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "bdbc3edd5deaea8dd42b78aef16a548b64b411fb9fcb3a2720898ff5c54aca1f",
+    "fields": {
+     "designator": {
+      "value": "ITOXA",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519902+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ITOXA"
+     },
+     "coordinates": {
+      "value": [
+       31.6522222,
+       10.4002778
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519903+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "10°24'01”N 031°39'08\"E"
+     },
+     "atsRoutes": {
+      "value": "UL554 NIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519904+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UL554 NIL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.3583333,
+     3.9997222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/KABLA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "1fa1647e90b14ecd345de1ce245f3dd64eb6155dd9929b64984808115592409a",
+    "fields": {
+     "designator": {
+      "value": "KABLA",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519910+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "KABLA"
+     },
+     "coordinates": {
+      "value": [
+       32.3583333,
+       3.9997222
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519911+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "03°59'59”N 032°21'30\"E"
+     },
+     "atsRoutes": {
+      "value": "UT238 NIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519912+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UT238 NIL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     23.5166667,
+     8.7333333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/KAFIA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "867ad12e343bb55fa3afdab964f3a173d40f5f22210d38b691bcd315272c3d2b",
+    "fields": {
+     "designator": {
+      "value": "KAFIA",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519919+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "KAFIA"
+     },
+     "coordinates": {
+      "value": [
+       23.5166667,
+       8.7333333
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519920+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "08°44'00”N 023°31'00\"E"
+     },
+     "atsRoutes": {
+      "value": "A410, UL311 , UL317, UP565 NIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519922+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "A410, UL311 , UL317, UP565 NIL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.1969444,
+     9.5705556
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/KINOV",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "4aa43c65be3a2d9c6407ced76b6bc192e9208b3b7b53ed1f90601804a223989f",
+    "fields": {
+     "designator": {
+      "value": "KINOV",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519928+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "KINOV"
+     },
+     "coordinates": {
+      "value": [
+       30.1969444,
+       9.5705556
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519929+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "09°34'14”N 030°11'49\"E"
+     },
+     "atsRoutes": {
+      "value": "UM568 NIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519930+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UM568 NIL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.6386111,
+     8.6555556
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/KUNDI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "31612c73de8c15e61e9d5a727bddf87016bd3aa3c06d34a2c0ae16e2cc2aed88",
+    "fields": {
+     "designator": {
+      "value": "KUNDI",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519936+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "KUNDI"
+     },
+     "coordinates": {
+      "value": [
+       31.6386111,
+       8.6555556
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519937+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "08°39'20”N 031°38'19\"E"
+     },
+     "atsRoutes": {
+      "value": "UL554 NIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519938+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UL554 NIL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     24.0605556,
+     10.1016667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LOPON",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "a232ed047e18c8fb281748474b8558ec3dfa2c64d66b3e002baa01a20bcb5546",
+    "fields": {
+     "designator": {
+      "value": "LOPON",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519945+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LOPON"
+     },
+     "coordinates": {
+      "value": [
+       24.0605556,
+       10.1016667
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519946+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "10°06'06”N 024°03'38\"E"
+     },
+     "atsRoutes": {
+      "value": "UP565 NIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519947+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UP565 NIL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     24.9744444,
+     10.0297222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LOVAB",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "295990feed808635a6718e15ca35ff18636aa5be9f738dc43033abb84cbfc64e",
+    "fields": {
+     "designator": {
+      "value": "LOVAB",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519953+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LOVAB"
+     },
+     "coordinates": {
+      "value": [
+       24.9744444,
+       10.0297222
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519954+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "10°01'47”N 024°58'28\"E"
+     },
+     "atsRoutes": {
+      "value": "UL317 NIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519955+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UL317 NIL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     23.6666667,
+     9.55
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/MONAN",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "4e5f934e4f3b8fbfebd315f95e77be3069d2a8faeb0a5f72e27e900d31986d38",
+    "fields": {
+     "designator": {
+      "value": "MONAN",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519961+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "MONAN"
+     },
+     "coordinates": {
+      "value": [
+       23.6666667,
+       9.55
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519962+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "09°33'00”N 023°40'00\"E"
+     },
+     "atsRoutes": {
+      "value": "UP322 NIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519963+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UP322 NIL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.2483333,
+     4.0
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/OVELA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "3f9746219cfc6cd765924cd77ecf5802bf7093f8fd2deda8f45d03ee384e674f",
+    "fields": {
+     "designator": {
+      "value": "OVELA",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519969+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "OVELA"
+     },
+     "coordinates": {
+      "value": [
+       31.2483333,
+       4.0
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519970+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "04°00'00”N 031°14'54\"E"
+     },
+     "atsRoutes": {
+      "value": "B527, UB527 NIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519971+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "B527, UB527 NIL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.1658333,
+     13.0194444
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/RABAK",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "412004cc305a12a6a8ebee7d7019cad05403847c91b9a6ab394e552696e50514",
+    "fields": {
+     "designator": {
+      "value": "RABAK",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 3",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.538853+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_3_ATS_ROUTES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RABAK"
+     },
+     "coordinates": {
+      "value": [
+       32.1658333,
+       13.0194444
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 3",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.538855+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_3_ATS_ROUTES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "13°01'10\"N 032°09'57\"E"
+     },
+     "atsRoutes": {
+      "value": "B527",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 3",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.538856+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_3_ATS_ROUTES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "B527"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.0055556,
+     11.0611111
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/RADAG",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "711dedd9ef715f63b36ca98d55f8b457ab54e76d0c6935fbbfd9b4b48db94125",
+    "fields": {
+     "designator": {
+      "value": "RADAG",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 3",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.538773+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_3_ATS_ROUTES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RADAG"
+     },
+     "coordinates": {
+      "value": [
+       27.0055556,
+       11.0611111
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 3",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.538786+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_3_ATS_ROUTES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "11°03'40”N 027°00'20\"E"
+     },
+     "atsRoutes": {
+      "value": "A410",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 3",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.538788+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_3_ATS_ROUTES.pdf",
+      "parser_version": "1.0",
+      "raw_text": "A410"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.3833333,
+     4.0
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/SAGBU",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "74c65afbc1b0a741e8122144408bad074c1f5c09df9a3c533f9c3be639d81116",
+    "fields": {
+     "designator": {
+      "value": "SAGBU",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519978+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "SAGBU"
+     },
+     "coordinates": {
+      "value": [
+       30.3833333,
+       4.0
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519979+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "04°00'00”N 030°23'00\"E"
+     },
+     "atsRoutes": {
+      "value": "UY755 NIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519980+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UY755 NIL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.8419444,
+     9.7877778
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/SIGNO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "34a8468468811c0631e0e83584fa07b4e3e84e0ca847227d26ce554fefa4ac3c",
+    "fields": {
+     "designator": {
+      "value": "SIGNO",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519986+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "SIGNO"
+     },
+     "coordinates": {
+      "value": [
+       27.8419444,
+       9.7877778
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519987+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "09°47'16”N 027°50'31\"E"
+     },
+     "atsRoutes": {
+      "value": "UN311 NIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519988+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UN311 NIL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.1358333,
+     9.4322222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/SITIK",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "8903e1338a1ad6a1b5c5f433bdb26730b16ddbab2980d6b14bb7299fbc5c33f6",
+    "fields": {
+     "designator": {
+      "value": "SITIK",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519995+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "SITIK"
+     },
+     "coordinates": {
+      "value": [
+       31.1358333,
+       9.4322222
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519996+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "09°25'56”N 031°08'09\"E"
+     },
+     "atsRoutes": {
+      "value": "UP322 NIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.519997+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UP322 NIL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.3338889,
+     5.9022222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/TAPOS",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "85cbe3b38418d03419cc4730aed684e644682b5ac26d7e3fad7538b240fddeb3",
+    "fields": {
+     "designator": {
+      "value": "TAPOS",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.520003+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "TAPOS"
+     },
+     "coordinates": {
+      "value": [
+       33.3338889,
+       5.9022222
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.520004+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "05°54'08”N 033°20'02\"E"
+     },
+     "atsRoutes": {
+      "value": "B535, UB535, B612, UY613 NIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.520005+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "B535, UB535, B612, UY613 NIL"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.9780556,
+     9.685
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ZENUB",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2024-09-05-current",
+    "effectiveFrom": "2024-09-05",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "fc1e21256ee9ea714a426314f8ff00ad2c163f347b6b68101e9929e93a215c41",
+    "fields": {
+     "designator": {
+      "value": "ZENUB",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.520011+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ZENUB"
+     },
+     "coordinates": {
+      "value": [
+       28.9780556,
+       9.685
+      ],
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.520012+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "09°41'06”N 028°58'41\"E"
+     },
+     "atsRoutes": {
+      "value": "UL561 NIL",
+      "unit": null,
+      "source": "AIP South Sudan (SSCAA)",
+      "section": "ENR 4.4",
+      "effective_date": "2024-09-05",
+      "retrieved_at": "2026-10-27T09:18:49.520013+00:00",
+      "source_url": "https://sscaa.gov.ss/media/aip/documents/ENR_4_RADIO_NAVIGATION_AIDS_SYSTEMS.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UL561 NIL"
+     }
+    }
+   }
+  }
+ ],
+ "featureTypes": [
+  {
+   "featureType": "aerodrome",
+   "count": 18
+  },
+  {
+   "featureType": "navaid",
+   "count": 2
+  },
+  {
+   "featureType": "route",
+   "count": 5
+  },
+  {
+   "featureType": "runway",
+   "count": 4
+  },
+  {
+   "featureType": "runwayDirection",
+   "count": 8
+  },
+  {
+   "featureType": "waypoint",
+   "count": 35
+  }
+ ],
+ "publications": [
+  {
+   "cycleId": "2024-09-05-current",
+   "effectiveDate": "2024-09-05",
+   "amendmentId": "AIRAC AMDT 06-24",
+   "sourceKind": "LIVE",
+   "ingestedAt": "2026-10-27T09:18:49.850251+00:00",
+   "status": "promoted",
+   "stats": {
+    "total_documents": 0,
+    "parsed_features": 72,
+    "issue_count": 1,
+    "error_count": 0,
+    "warning_count": 1
+   },
+   "sourceUrl": "https://sscaa.gov.ss/publications/aip/",
+   "notes": null
+  }
+ ],
+ "issues": [
+  {
+   "publicationId": "2024-09-05-current",
+   "severity": "warning",
+   "ruleId": "RULE_RUNWAY_GEOMETRY",
+   "featureKey": "HJFA/RWY/01-19",
+   "section": "HJFA AD 2.12",
+   "message": "Runway 01-19 at HJFA: threshold coordinates not captured",
+   "rawSnippet": ""
+  }
+ ],
+ "meta": {
+  "state": "South Sudan",
+  "continent": "Africa",
+  "websites": [
+   {
+    "name": "AIP South Sudan",
+    "url": "https://sscaa.gov.ss/publications/aip/"
+   },
+   {
+    "name": "AIS South Sudan",
+    "url": "https://www.sscaa.gov.ss/services/air-navigation/ais/"
+   }
+  ],
+  "contact_emails": [
+   "caa@sscaa.aero"
+  ]
+ }
+}

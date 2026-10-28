@@ -1,0 +1,3664 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.6787028,
+     32.3640417
+    ]
+   },
+   "properties": {
+    "naturalKey": "TXKF",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "80aa0ef927d01314cd09041cb63a9da8602af838351677b6d5ffb8cf01a33dec",
+    "fields": {
+     "airportName": {
+      "value": "L.F. Wade International Airport",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "TXKF AD 2.1",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.608665+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-AD-2.TXKF-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L.F. Wade International Airport"
+     },
+     "arpCoordinates": {
+      "value": [
+       -64.6787028,
+       32.3640417
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "TXKF AD 2.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.608669+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-AD-2.TXKF-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "322150.55N 0644043.33W"
+     },
+     "elevation": {
+      "value": 18,
+      "unit": "FT",
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "TXKF AD 2.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.608670+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-AD-2.TXKF-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3 Elevation/Reference temperature 18 ft AMSL / 85.5° F (29.7°C)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.6895722,
+     32.3643861
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/BDA",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e1b100f2a661747468cb5d3de96cfe0c88d78bf08b848cf32b13686359e27cbf",
+    "fields": {
+     "designator": {
+      "value": "BDA",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.1",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587938+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "BDA"
+     },
+     "stationName": {
+      "value": "Bermuda",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.1",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587940+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "Bermuda"
+     },
+     "navaidType": {
+      "value": "VOR/DME",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.1",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587941+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "VOR/DME"
+     },
+     "frequency": {
+      "value": 113.9,
+      "unit": "MHZ",
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.1",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587942+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "113.900 MHz"
+     },
+     "frequencyUnit": {
+      "value": "MHZ",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.1",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587943+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "MHZ"
+     },
+     "frequencyRaw": {
+      "value": "113.900 MHz",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.1",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587944+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "113.900 MHz"
+     },
+     "coordinates": {
+      "value": [
+       -64.6895722,
+       32.3643861
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.1",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587946+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "322151.79N 0644122.46W"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -68.1061111,
+      33.2061111
+     ],
+     [
+      -67.3411111,
+      33.0269444
+     ],
+     [
+      -66.1613889,
+      32.7402778
+     ],
+     [
+      -64.6895722,
+      32.3643861
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/L457",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "fcf371adeadf7536225a1900a8dcd52f3760e437dcd185080aea9cf4afd3e9f3",
+    "fields": {
+     "designator": {
+      "value": "L457",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598397+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L457"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598401+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/ENAPI",
+       "WPT/AWSOM",
+       "WPT/GUICE",
+       "NAV/BDA"
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598404+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/ENAPI -> WPT/AWSOM -> WPT/GUICE -> NAV/BDA"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598405+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -64.6895722,
+      32.3643861
+     ],
+     [
+      -65.4213889,
+      29.4244444
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/L458",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "7cef3986402057d95e8ab429e5c7096a54ff568d2be41b45e9b70b5842811926",
+    "fields": {
+     "designator": {
+      "value": "L458",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598432+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L458"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598434+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "NAV/BDA",
+       "WPT/GECAL"
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598435+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "NAV/BDA -> WPT/GECAL"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598436+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -67.5775,
+      34.1386111
+     ],
+     [
+      -67.3411111,
+      33.0269444
+     ],
+     [
+      -67.2041667,
+      32.3697222
+     ],
+     [
+      -67.0775,
+      31.7522222
+     ],
+     [
+      -66.9416667,
+      31.0825
+     ],
+     [
+      -66.7088889,
+      29.9097222
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/L459",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b612159f84eeebe0fa0ae52a758936533542c05d2ea3795848ed6192c9ddfeb8",
+    "fields": {
+     "designator": {
+      "value": "L459",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598464+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L459"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598465+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/DASER",
+       "WPT/AWSOM",
+       "WPT/BOBBO",
+       "WPT/QRTET",
+       "WPT/CATZZ",
+       "WPT/SHEIL"
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598467+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/DASER -> WPT/AWSOM -> WPT/BOBBO -> WPT/QRTET -> WPT/CATZZ -> WPT/SHEIL"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598467+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -66.6675,
+      34.8736111
+     ],
+     [
+      -66.3097222,
+      33.3766667
+     ],
+     [
+      -66.1613889,
+      32.7402778
+     ],
+     [
+      -66.0769444,
+      32.3736111
+     ],
+     [
+      -65.9994444,
+      32.0352778
+     ],
+     [
+      -65.9177778,
+      31.6747222
+     ],
+     [
+      -65.7797222,
+      31.0591667
+     ],
+     [
+      -65.4213889,
+      29.4244444
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/L461",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "9a9fc4c2f8a96b09071144bd9f7d02af6d59e451a5d37c322affeab963e1f0ec",
+    "fields": {
+     "designator": {
+      "value": "L461",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598500+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L461"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598501+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/BOVIC",
+       "WPT/FLAMO",
+       "WPT/GUICE",
+       "WPT/LITTL",
+       "WPT/PIERC",
+       "WPT/ROOFE",
+       "WPT/SICKL",
+       "WPT/GECAL"
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598503+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/BOVIC -> WPT/FLAMO -> WPT/GUICE -> WPT/LITTL -> WPT/PIERC -> WPT/ROOFE -> WPT/SICKL -> WPT/GECAL"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598504+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -65.6877778,
+      35.2519444
+     ],
+     [
+      -64.4952778,
+      30.1663889
+     ],
+     [
+      -64.3211111,
+      29.3744444
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/L462",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "122dd56579d130aff169b9c840a681d2e2af2153dd7a560c241069f31b6db40d",
+    "fields": {
+     "designator": {
+      "value": "L462",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598523+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L462"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598524+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/ANVER",
+       "WPT/KURTS",
+       "WPT/PIREX"
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598525+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/ANVER -> WPT/KURTS -> WPT/PIREX"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598526+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -64.6895722,
+      32.3643861
+     ],
+     [
+      -63.0736111,
+      29.6988889
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/L576",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "cb4841f8bc19c5ecdcd8b227fcfea75f493f9762dd198e2cf803410c43d56cf4",
+    "fields": {
+     "designator": {
+      "value": "L576",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598545+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L576"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598546+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "NAV/BDA",
+       "WPT/SEAVR"
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598547+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "NAV/BDA -> WPT/SEAVR"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598548+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -68.1061111,
+      33.2061111
+     ],
+     [
+      -67.3411111,
+      33.0269444
+     ],
+     [
+      -66.1613889,
+      32.7402778
+     ],
+     [
+      -64.6895722,
+      32.3643861
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/M325",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "7a9ebd3aff7cb7a5e64d41e1e91e67f8322527806fb1836c4fb9bb9516733248",
+    "fields": {
+     "designator": {
+      "value": "M325",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598566+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M325"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598567+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/ENAPI",
+       "WPT/AWSOM",
+       "WPT/GUICE",
+       "NAV/BDA"
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598568+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/ENAPI -> WPT/AWSOM -> WPT/GUICE -> NAV/BDA"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598569+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -68.2316667,
+      32.3575
+     ],
+     [
+      -67.2041667,
+      32.3697222
+     ],
+     [
+      -66.0769444,
+      32.3736111
+     ],
+     [
+      -64.6895722,
+      32.3643861
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/M326",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "86f134b0bff66d3404099db72bda672a93bd95232841f8370a8d7b4a729adb0e",
+    "fields": {
+     "designator": {
+      "value": "M326",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598588+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M326"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598589+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/JIMAC",
+       "WPT/BOBBO",
+       "WPT/LITTL",
+       "NAV/BDA"
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598590+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/JIMAC -> WPT/BOBBO -> WPT/LITTL -> NAV/BDA"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598591+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -68.2316667,
+      32.3575
+     ],
+     [
+      -67.2041667,
+      32.3697222
+     ],
+     [
+      -66.0769444,
+      32.3736111
+     ],
+     [
+      -64.6895722,
+      32.3643861
+     ],
+     [
+      -62.2875,
+      31.8647222
+     ],
+     [
+      -61.2888889,
+      31.6419444
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/M327",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "4e5f8cb1280c2616b4415f56425b5bf7bd30906fe6de9f5c445478bfc4c9bb4f",
+    "fields": {
+     "designator": {
+      "value": "M327",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598616+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M327"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598617+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/JIMAC",
+       "WPT/BOBBO",
+       "WPT/LITTL",
+       "NAV/BDA",
+       "WPT/YEPSY",
+       "WPT/WINGZ"
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598618+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/JIMAC -> WPT/BOBBO -> WPT/LITTL -> NAV/BDA -> WPT/YEPSY -> WPT/WINGZ"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598619+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -68.0605556,
+      31.4847222
+     ],
+     [
+      -67.0775,
+      31.7522222
+     ],
+     [
+      -65.9994444,
+      32.0352778
+     ],
+     [
+      -64.6895722,
+      32.3643861
+     ],
+     [
+      -61.1922222,
+      32.6705556
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/M328",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "1da4c3d5017d0fe95a60ee9da5b27cac3ef3dc03c539eef6a712c5fa94f1b57f",
+    "fields": {
+     "designator": {
+      "value": "M328",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598642+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M328"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598643+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/ANTIG",
+       "WPT/QRTET",
+       "WPT/PIERC",
+       "NAV/BDA",
+       "WPT/NUMBR"
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598644+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/ANTIG -> WPT/QRTET -> WPT/PIERC -> NAV/BDA -> WPT/NUMBR"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598645+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -67.6055556,
+      30.6902778
+     ],
+     [
+      -66.9416667,
+      31.0825
+     ],
+     [
+      -65.9177778,
+      31.6747222
+     ],
+     [
+      -64.6895722,
+      32.3643861
+     ],
+     [
+      -61.485,
+      33.5888889
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/M329",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2ca0fc9e539e86d3eb7b3f5b24b7c868978e1daf6cbe0d7131f13e82d031718b",
+    "fields": {
+     "designator": {
+      "value": "M329",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598667+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M329"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598668+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/BALTN",
+       "WPT/CATZZ",
+       "WPT/ROOFE",
+       "NAV/BDA",
+       "WPT/LAZEY"
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598669+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/BALTN -> WPT/CATZZ -> WPT/ROOFE -> NAV/BDA -> WPT/LAZEY"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598670+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -66.7088889,
+      29.9097222
+     ],
+     [
+      -65.7797222,
+      31.0591667
+     ],
+     [
+      -64.6895722,
+      32.3643861
+     ],
+     [
+      -62.1372222,
+      34.4052778
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/M330",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "ed5d6bf0c6e6abda8000102d85638b9e1f16195bda81f1d6d58aee304824769f",
+    "fields": {
+     "designator": {
+      "value": "M330",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598690+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M330"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598691+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/SHEIL",
+       "WPT/SICKL",
+       "NAV/BDA",
+       "WPT/BALOO"
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598692+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/SHEIL -> WPT/SICKL -> NAV/BDA -> WPT/BALOO"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598693+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -65.4213889,
+      29.4244444
+     ],
+     [
+      -64.4952778,
+      30.1663889
+     ],
+     [
+      -64.4233333,
+      30.2230556
+     ],
+     [
+      -62.2875,
+      31.8647222
+     ],
+     [
+      -61.1922222,
+      32.6705556
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/M331",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b9188df99a11394c362e9086368aa49ec4a16486508b7e3c12983da1bebe6664",
+    "fields": {
+     "designator": {
+      "value": "M331",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598714+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M331"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598715+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/GECAL",
+       "WPT/KURTS",
+       "WPT/TONEY",
+       "WPT/YEPSY",
+       "WPT/NUMBR"
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598716+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/GECAL -> WPT/KURTS -> WPT/TONEY -> WPT/YEPSY -> WPT/NUMBR"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598717+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -65.6877778,
+      35.2519444
+     ],
+     [
+      -64.6895722,
+      32.3643861
+     ],
+     [
+      -64.4233333,
+      30.2230556
+     ],
+     [
+      -64.3211111,
+      29.3744444
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/M590",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e2413f82443af9c75f56636b90acbf99111de6af52e8edb256b0074d78419994",
+    "fields": {
+     "designator": {
+      "value": "M590",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598737+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M590"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598738+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/ANVER",
+       "NAV/BDA",
+       "WPT/TONEY",
+       "WPT/PIREX"
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598739+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/ANVER -> NAV/BDA -> WPT/TONEY -> WPT/PIREX"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598740+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -66.6675,
+      34.8736111
+     ],
+     [
+      -64.6895722,
+      32.3643861
+     ],
+     [
+      -64.4233333,
+      30.2230556
+     ],
+     [
+      -64.3211111,
+      29.3744444
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/M591",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2c0bfe5d9fa502f501fa8d1364f507677a191f3e6d353a7373e03642586fb22a",
+    "fields": {
+     "designator": {
+      "value": "M591",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598759+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M591"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598759+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/BOVIC",
+       "NAV/BDA",
+       "WPT/TONEY",
+       "WPT/PIREX"
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598761+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/BOVIC -> NAV/BDA -> WPT/TONEY -> WPT/PIREX"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598762+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -67.5775,
+      34.1386111
+     ],
+     [
+      -66.3097222,
+      33.3766667
+     ],
+     [
+      -64.6895722,
+      32.3643861
+     ],
+     [
+      -64.4233333,
+      30.2230556
+     ],
+     [
+      -64.3211111,
+      29.3744444
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/M592",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "020ca5bdc03c79659e07495c1f59991abc60e7bfdb27219effa72ba3fe7d9699",
+    "fields": {
+     "designator": {
+      "value": "M592",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598783+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M592"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598784+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/DASER",
+       "WPT/FLAMO",
+       "NAV/BDA",
+       "WPT/TONEY",
+       "WPT/PIREX"
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598786+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/DASER -> WPT/FLAMO -> NAV/BDA -> WPT/TONEY -> WPT/PIREX"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 3.2",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.598786+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -64.69225,
+      32.3663722
+     ],
+     [
+      -64.6632806,
+      32.3613889
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "TXKF/RWY/12-30",
+    "parentKey": "TXKF",
+    "featureType": "runway",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "fe7e3ce3eea9920a6a2f14646eed4019b97cd182c1b16c14b99886f02a97b773",
+    "fields": {
+     "pairDesignator": {
+      "value": "12-30",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "TXKF AD 2.12",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.608706+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-AD-2.TXKF-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "12-30"
+     },
+     "length": {
+      "value": 2958.0,
+      "unit": "M",
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "TXKF AD 2.12",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.608701+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-AD-2.TXKF-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "2958 x 46"
+     },
+     "width": {
+      "value": 46.0,
+      "unit": "M",
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "TXKF AD 2.12",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.608703+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-AD-2.TXKF-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "2958 x 46"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "TXKF AD 2.12",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.608704+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-AD-2.TXKF-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.69225,
+     32.3663722
+    ]
+   },
+   "properties": {
+    "naturalKey": "TXKF/RWY/12",
+    "parentKey": "TXKF/RWY/12-30",
+    "featureType": "runwayDirection",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2cfcbb1cbecebad41d820f5dd599404607a0f5dfa5dc7ac2cd6998555d211911",
+    "fields": {
+     "designator": {
+      "value": "12",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "TXKF AD 2.12",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.608716+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-AD-2.TXKF-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "12"
+     },
+     "trueBearing": {
+      "value": 101.45,
+      "unit": "DEG",
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "TXKF AD 2.12",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.608718+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-AD-2.TXKF-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "101.45°"
+     },
+     "length": {
+      "value": 2958.0,
+      "unit": "M",
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "TXKF AD 2.12",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.608701+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-AD-2.TXKF-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "2958 x 46"
+     },
+     "width": {
+      "value": 46.0,
+      "unit": "M",
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "TXKF AD 2.12",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.608703+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-AD-2.TXKF-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "2958 x 46"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "TXKF AD 2.12",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.608704+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-AD-2.TXKF-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       -64.69225,
+       32.3663722
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "TXKF AD 2.12",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.608720+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-AD-2.TXKF-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "322158.94N 0644132.10W"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.6632806,
+     32.3613889
+    ]
+   },
+   "properties": {
+    "naturalKey": "TXKF/RWY/30",
+    "parentKey": "TXKF/RWY/12-30",
+    "featureType": "runwayDirection",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "7b64713caa985937bcf356b86a6e833169c26c037100a092ee911c6ac49aa438",
+    "fields": {
+     "designator": {
+      "value": "30",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "TXKF AD 2.12",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.608729+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-AD-2.TXKF-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "30"
+     },
+     "trueBearing": {
+      "value": 281.45,
+      "unit": "DEG",
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "TXKF AD 2.12",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.608730+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-AD-2.TXKF-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "281.45°"
+     },
+     "length": {
+      "value": 2958.0,
+      "unit": "M",
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "TXKF AD 2.12",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.608701+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-AD-2.TXKF-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "2958 x 46"
+     },
+     "width": {
+      "value": 46.0,
+      "unit": "M",
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "TXKF AD 2.12",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.608703+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-AD-2.TXKF-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "2958 x 46"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "TXKF AD 2.12",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.608704+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-AD-2.TXKF-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       -64.6632806,
+       32.3613889
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "TXKF AD 2.12",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.608733+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-AD-2.TXKF-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "322141.00N 0643947.81W"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.0605556,
+     31.4847222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ANTIG",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d34811c7ead56692fc66a98d5e15d1683d86ba529bb567c38a5af65ce012b8e6",
+    "fields": {
+     "designator": {
+      "value": "ANTIG",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587166+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ANTIG"
+     },
+     "coordinates": {
+      "value": [
+       -68.0605556,
+       31.4847222
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587171+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "312905N 0680338W"
+     },
+     "atsRoutes": {
+      "value": "M328",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587172+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M328"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -65.6877778,
+     35.2519444
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ANVER",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b2123c22e1d32ece7be3ca7191a1c3e3200204538796d946c536d832276df110",
+    "fields": {
+     "designator": {
+      "value": "ANVER",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587195+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ANVER"
+     },
+     "coordinates": {
+      "value": [
+       -65.6877778,
+       35.2519444
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587197+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "351507N 0654116W"
+     },
+     "atsRoutes": {
+      "value": "L462 , M590",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587198+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L462 , M590"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -67.3411111,
+     33.0269444
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/AWSOM",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "0085cc57a67bcf41af38d7ba0a9114140a0cbcc53b91ce5d5b4c6a435d02105f",
+    "fields": {
+     "designator": {
+      "value": "AWSOM",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587212+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "AWSOM"
+     },
+     "coordinates": {
+      "value": [
+       -67.3411111,
+       33.0269444
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587213+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "330137N 0672028W"
+     },
+     "atsRoutes": {
+      "value": "L457 , L459 , M325",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587214+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L457 , L459 , M325"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -62.1372222,
+     34.4052778
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/BALOO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "8aa3ac2003c0e374b93839d2925e2f292ecaa6a902f74416024dd1886b1fc597",
+    "fields": {
+     "designator": {
+      "value": "BALOO",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587226+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "BALOO"
+     },
+     "coordinates": {
+      "value": [
+       -62.1372222,
+       34.4052778
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587228+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "342419N 0620814W"
+     },
+     "atsRoutes": {
+      "value": "M330",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587229+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M330"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -67.6055556,
+     30.6902778
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/BALTN",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "ca1a5c1ded17a0cb336d8958615488043e980a34aab8deea71455fb7a52b3abc",
+    "fields": {
+     "designator": {
+      "value": "BALTN",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587239+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "BALTN"
+     },
+     "coordinates": {
+      "value": [
+       -67.6055556,
+       30.6902778
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587240+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "304125N 0673620W"
+     },
+     "atsRoutes": {
+      "value": "M329",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587241+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M329"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -67.2041667,
+     32.3697222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/BOBBO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "fbcf93f4106a2527275e47ce69f8c0cd7f0ca732b2b8abfdbc6fd4dba5138998",
+    "fields": {
+     "designator": {
+      "value": "BOBBO",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587252+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "BOBBO"
+     },
+     "coordinates": {
+      "value": [
+       -67.2041667,
+       32.3697222
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587253+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "322211N 0671215W"
+     },
+     "atsRoutes": {
+      "value": "L459 , M326 , M327",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587254+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L459 , M326 , M327"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -66.6675,
+     34.8736111
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/BOVIC",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c4281b7df26ae978aa47ebd09ff7840dffc4202a16f4817415853cb5d1aee184",
+    "fields": {
+     "designator": {
+      "value": "BOVIC",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587264+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "BOVIC"
+     },
+     "coordinates": {
+      "value": [
+       -66.6675,
+       34.8736111
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587265+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "345225N 0664003W"
+     },
+     "atsRoutes": {
+      "value": "L461 , M591",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587266+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L461 , M591"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -66.9416667,
+     31.0825
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/CATZZ",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "25474a777e1c42c7ad362b8c4763a8e5f1b2fe9a1a8a7d8d73bf3e43f221b665",
+    "fields": {
+     "designator": {
+      "value": "CATZZ",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587276+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "CATZZ"
+     },
+     "coordinates": {
+      "value": [
+       -66.9416667,
+       31.0825
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587277+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "310457N 0665630W"
+     },
+     "atsRoutes": {
+      "value": "L459 , M329",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587278+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L459 , M329"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -67.5775,
+     34.1386111
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DASER",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "88459ba4a1787b7a826e6500cdbe0d6116c8dbbfe6b1ace996a0bdcae4b8735c",
+    "fields": {
+     "designator": {
+      "value": "DASER",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587288+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "DASER"
+     },
+     "coordinates": {
+      "value": [
+       -67.5775,
+       34.1386111
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587289+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "340819N 0673439W"
+     },
+     "atsRoutes": {
+      "value": "L459 , M592",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587290+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L459 , M592"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.1061111,
+     33.2061111
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ENAPI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e92aa3a324db9aacde9d9ba7a60db403f27bc5ad5bb8feff6d469260eb08804e",
+    "fields": {
+     "designator": {
+      "value": "ENAPI",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587299+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENAPI"
+     },
+     "coordinates": {
+      "value": [
+       -68.1061111,
+       33.2061111
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587300+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "331222N 0680622W"
+     },
+     "atsRoutes": {
+      "value": "L457 , M325",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587301+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L457 , M325"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -66.3097222,
+     33.3766667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/FLAMO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "9faea01930fde5a61062be1f6b58f928dcab37ea65c2a638a4034a14fb3b1762",
+    "fields": {
+     "designator": {
+      "value": "FLAMO",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587310+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "FLAMO"
+     },
+     "coordinates": {
+      "value": [
+       -66.3097222,
+       33.3766667
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587311+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "332236N 0661835W"
+     },
+     "atsRoutes": {
+      "value": "L461 , M592",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587312+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L461 , M592"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -65.4213889,
+     29.4244444
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/GECAL",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "aa2d156889ef63e3df8b94b454c9c15e5a17cae6c75e6fa8c4f2d9a764f9aa3f",
+    "fields": {
+     "designator": {
+      "value": "GECAL",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587321+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "GECAL"
+     },
+     "coordinates": {
+      "value": [
+       -65.4213889,
+       29.4244444
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587322+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "292528N 0652517W"
+     },
+     "atsRoutes": {
+      "value": "L458 , L461 , M331",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587323+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L458 , L461 , M331"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -66.1613889,
+     32.7402778
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/GUICE",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "8b692c5144bd291d1c5471ea5a1307d7e532808a1a171280b2393f7a4140f5f0",
+    "fields": {
+     "designator": {
+      "value": "GUICE",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587332+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "GUICE"
+     },
+     "coordinates": {
+      "value": [
+       -66.1613889,
+       32.7402778
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587333+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "324425N 0660941W"
+     },
+     "atsRoutes": {
+      "value": "L457 , L461 , M325",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587334+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L457 , L461 , M325"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.2316667,
+     32.3575
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/JIMAC",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2b567dbf174d5f009a7ecbd395080f6f879f32753e5f7a12741783261762193b",
+    "fields": {
+     "designator": {
+      "value": "JIMAC",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587343+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "JIMAC"
+     },
+     "coordinates": {
+      "value": [
+       -68.2316667,
+       32.3575
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587344+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "322127N 0681354W"
+     },
+     "atsRoutes": {
+      "value": "M326 , M327",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587345+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M326 , M327"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.4952778,
+     30.1663889
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/KURTS",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2cdaf39b58d6e71db6cd8448b01857f926f9f2646c8802a2e92552334df3988d",
+    "fields": {
+     "designator": {
+      "value": "KURTS",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587353+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "KURTS"
+     },
+     "coordinates": {
+      "value": [
+       -64.4952778,
+       30.1663889
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587354+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "300959N 0642943W"
+     },
+     "atsRoutes": {
+      "value": "L462 , M331",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587355+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L462 , M331"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -61.485,
+     33.5888889
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LAZEY",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "004cfd47bfbb349d53cb8ec16760c877b1cac4f65d7584cfeca466281e30e898",
+    "fields": {
+     "designator": {
+      "value": "LAZEY",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587364+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "LAZEY"
+     },
+     "coordinates": {
+      "value": [
+       -61.485,
+       33.5888889
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587365+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "333520N 0612906W"
+     },
+     "atsRoutes": {
+      "value": "M329",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587366+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M329"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -66.0769444,
+     32.3736111
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LITTL",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b1a6313231f368aa1ef06de74476028af67ca7033cd08255245f6b377fde3fcc",
+    "fields": {
+     "designator": {
+      "value": "LITTL",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587374+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "LITTL"
+     },
+     "coordinates": {
+      "value": [
+       -66.0769444,
+       32.3736111
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587375+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "322225N 0660437W"
+     },
+     "atsRoutes": {
+      "value": "L461 , M326 , M327",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587376+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L461 , M326 , M327"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -61.1922222,
+     32.6705556
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/NUMBR",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "df223d389ec25f371ee2f790a5c44054600e274f6b0e3728ce20cb25f25cf7bf",
+    "fields": {
+     "designator": {
+      "value": "NUMBR",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587385+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "NUMBR"
+     },
+     "coordinates": {
+      "value": [
+       -61.1922222,
+       32.6705556
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587386+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "324014N 0611132W"
+     },
+     "atsRoutes": {
+      "value": "M328 , M331",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587387+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M328 , M331"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -65.9994444,
+     32.0352778
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/PIERC",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "ea9f9c0114f4246fbf572c8866c4c15a599deccce8e2100d8b1a4244f0a08639",
+    "fields": {
+     "designator": {
+      "value": "PIERC",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587396+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "PIERC"
+     },
+     "coordinates": {
+      "value": [
+       -65.9994444,
+       32.0352778
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587397+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "320207N 0655958W"
+     },
+     "atsRoutes": {
+      "value": "L461 , M328",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587398+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L461 , M328"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.3211111,
+     29.3744444
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/PIREX",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "07af57a52d80d4594cf56dfb7f9d76b4e3c032a9d70c89c118d5f50fd59aa5ab",
+    "fields": {
+     "designator": {
+      "value": "PIREX",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587407+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "PIREX"
+     },
+     "coordinates": {
+      "value": [
+       -64.3211111,
+       29.3744444
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587408+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "292228N 0641916W"
+     },
+     "atsRoutes": {
+      "value": "L462 , M590 , M591 , M592",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587409+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L462 , M590 , M591 , M592"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.4666667,
+     35.3666667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/QINCY",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "1730b0ba11d9afea1c4c038cae025e280e0b5314b6e6a6996cfdb8ec8196b07a",
+    "fields": {
+     "designator": {
+      "value": "QINCY",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587429+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "QINCY"
+     },
+     "coordinates": {
+      "value": [
+       -64.4666667,
+       35.3666667
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587430+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "352200N 0642800W"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587431+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -67.0775,
+     31.7522222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/QRTET",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "14390d518146697fa10e06b066c6cd31582131cf7b1f9c9ca84d4cd9445bc36f",
+    "fields": {
+     "designator": {
+      "value": "QRTET",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587418+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "QRTET"
+     },
+     "coordinates": {
+      "value": [
+       -67.0775,
+       31.7522222
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587419+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "314508N 0670439W"
+     },
+     "atsRoutes": {
+      "value": "L459 , M328",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587420+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L459 , M328"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -63.15,
+     35.0666667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/RNGRS",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2e28bf290ec5aa6df99b0a4634e4389069cf58ea6027d8d0aa9414387eda8369",
+    "fields": {
+     "designator": {
+      "value": "RNGRS",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587441+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNGRS"
+     },
+     "coordinates": {
+      "value": [
+       -63.15,
+       35.0666667
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587442+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "350400N 0630900W"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587443+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -65.9177778,
+     31.6747222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ROOFE",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "992ec923e4e240e76b3031378173541f5066967a43faa7566b6a208c976f4e78",
+    "fields": {
+     "designator": {
+      "value": "ROOFE",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587452+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ROOFE"
+     },
+     "coordinates": {
+      "value": [
+       -65.9177778,
+       31.6747222
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587453+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "314029N 0655504W"
+     },
+     "atsRoutes": {
+      "value": "L461 , M329",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587454+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L461 , M329"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -63.0736111,
+     29.6988889
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/SEAVR",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "200df77529c65f55fad8e85860e4b44e306114b73f96ea8d656a20746a572ae6",
+    "fields": {
+     "designator": {
+      "value": "SEAVR",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587463+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "SEAVR"
+     },
+     "coordinates": {
+      "value": [
+       -63.0736111,
+       29.6988889
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587464+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "294156N 0630425W"
+     },
+     "atsRoutes": {
+      "value": "L576",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587465+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L576"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -66.7088889,
+     29.9097222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/SHEIL",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "333d00f43973c16963de9b8e6228a9ade86a7b5bf12c66705d03ac404eecbc9e",
+    "fields": {
+     "designator": {
+      "value": "SHEIL",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587474+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "SHEIL"
+     },
+     "coordinates": {
+      "value": [
+       -66.7088889,
+       29.9097222
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587475+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "295435N 0664232W"
+     },
+     "atsRoutes": {
+      "value": "L459 , M330",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587475+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L459 , M330"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -65.7797222,
+     31.0591667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/SICKL",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f85eb3d214567e443d4d2e82268d1438f6d099d55f78664191ab37c6d0c0f977",
+    "fields": {
+     "designator": {
+      "value": "SICKL",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587484+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "SICKL"
+     },
+     "coordinates": {
+      "value": [
+       -65.7797222,
+       31.0591667
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587485+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "310333N 0654647W"
+     },
+     "atsRoutes": {
+      "value": "L461 , M330",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587486+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L461 , M330"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.4233333,
+     30.2230556
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/TONEY",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "dc6b605271911fcb33cf4669347852ad091266a4951fa22e0a64029f0e846bad",
+    "fields": {
+     "designator": {
+      "value": "TONEY",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587495+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "TONEY"
+     },
+     "coordinates": {
+      "value": [
+       -64.4233333,
+       30.2230556
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587496+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "301323N 0642524W"
+     },
+     "atsRoutes": {
+      "value": "M331 , M590 , M591 , M592",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587497+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M331 , M590 , M591 , M592"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -61.2888889,
+     31.6419444
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/WINGZ",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "8907bb805b673de085b017a4faaee015ed9d2b2ab854d4f38628ec36b406d687",
+    "fields": {
+     "designator": {
+      "value": "WINGZ",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587505+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WINGZ"
+     },
+     "coordinates": {
+      "value": [
+       -61.2888889,
+       31.6419444
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587506+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "313831N 0611720W"
+     },
+     "atsRoutes": {
+      "value": "M327",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587507+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M327"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -62.2875,
+     31.8647222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/YEPSY",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2025-11-27-current",
+    "effectiveFrom": "2025-11-27",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "af8f27d0dae5f9a2cb89982595dde7d3b7e515ddeee1e598774942fa4c8730be",
+    "fields": {
+     "designator": {
+      "value": "YEPSY",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587516+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "YEPSY"
+     },
+     "coordinates": {
+      "value": [
+       -62.2875,
+       31.8647222
+      ],
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587517+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "315153N 0621715W"
+     },
+     "atsRoutes": {
+      "value": "M327 , M331",
+      "unit": null,
+      "source": "eAIP Bermuda (Bermuda Airport Authority)",
+      "section": "ENR 4.4",
+      "effective_date": "2025-11-27",
+      "retrieved_at": "2026-10-27T12:04:54.587518+00:00",
+      "source_url": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/eAIP/TX-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M327 , M331"
+     }
+    }
+   }
+  }
+ ],
+ "featureTypes": [
+  {
+   "featureType": "aerodrome",
+   "count": 1
+  },
+  {
+   "featureType": "navaid",
+   "count": 1
+  },
+  {
+   "featureType": "route",
+   "count": 16
+  },
+  {
+   "featureType": "runway",
+   "count": 1
+  },
+  {
+   "featureType": "runwayDirection",
+   "count": 2
+  },
+  {
+   "featureType": "waypoint",
+   "count": 30
+  }
+ ],
+ "publications": [
+  {
+   "cycleId": "2025-11-27-current",
+   "effectiveDate": "2025-11-27",
+   "amendmentId": "AIRAC 27 NOV 2025",
+   "sourceKind": "LIVE",
+   "ingestedAt": "2026-10-27T12:04:54.609213+00:00",
+   "status": "promoted",
+   "stats": {
+    "total_documents": 6,
+    "parsed_features": 51,
+    "issue_count": 0,
+    "error_count": 0,
+    "warning_count": 0
+   },
+   "sourceUrl": "https://www.airportauthority.bm/eaip/27-Nov-2025-A/2025-11-27-AIRAC/html/index.html",
+   "notes": null
+  }
+ ],
+ "issues": [],
+ "meta": {
+  "state": "Bermuda",
+  "continent": "North & Central America",
+  "websites": [
+   {
+    "name": "AIP Bermuda",
+    "url": "https://www.airportauthority.bm/ais/aeronautical-info-publication.html"
+   }
+  ],
+  "contact_emails": [
+   "ais@airportauthority.bm"
+  ]
+ }
+}

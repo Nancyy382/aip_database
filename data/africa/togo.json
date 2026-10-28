@@ -1,0 +1,6148 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0955556,
+     9.7775
+    ]
+   },
+   "properties": {
+    "naturalKey": "DXNG",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "0c07fbfd74ec20ede0e9d904e5f1df88d150ff8bb6feabcaf7ed5c0dc5bb2b6a",
+    "fields": {
+     "airportName": {
+      "value": "AEROPORT DE NIAMTOUGOU (AN)",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "DXNG AD 2.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.578475+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "AEROPORT DE NIAMTOUGOU (AN)"
+     },
+     "arpCoordinates": {
+      "value": [
+       1.0955556,
+       9.7775
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "DXNG AD 2.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.578481+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "09°46'39\"N 001°05'44\"E"
+     },
+     "elevation": {
+      "value": 1516,
+      "unit": "FT",
+      "source": "eAIP ASECNA",
+      "section": "DXNG AD 2.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.578483+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "3 Altitude / température de référence Elevation / Reference temperature 462 M ( 1516 FT ) / 37 ° C"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.2541667,
+     6.1658333
+    ]
+   },
+   "properties": {
+    "naturalKey": "DXXX",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "9a438d58a80e59d8b1991360f7d8e19e0881ca132ec9f261dc6e6ed55b3e7a0e",
+    "fields": {
+     "airportName": {
+      "value": "AEROPORT INTERNATIONAL GNASSINGBE EYADEMA (AIGE)",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "DXXX AD 2.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.566356+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "AEROPORT INTERNATIONAL GNASSINGBE EYADEMA (AIGE)"
+     },
+     "arpCoordinates": {
+      "value": [
+       1.2541667,
+       6.1658333
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "DXXX AD 2.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.566364+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "06°09'57\"N 001°15'15\"E"
+     },
+     "elevation": {
+      "value": 72,
+      "unit": "FT",
+      "source": "eAIP ASECNA",
+      "section": "DXXX AD 2.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.566366+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "3 Altitude / température de référence Elevation / Reference temperature 22 M ( 72 FT ) / 34 ° C"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.2687778,
+     6.1840833
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/LM",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "62b7cb58677837c1bd655194b7d3497f142cb50958dc6975bde055324a589ba9",
+    "fields": {
+     "designator": {
+      "value": "LM",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.214719+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15ENR-4.1-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "LM"
+     },
+     "stationName": {
+      "value": "LOME/GNASSINGBE EYADEMA",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.214730+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15ENR-4.1-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "LOME/GNASSINGBE EYADEMA"
+     },
+     "navaidType": {
+      "value": "VOR/DME",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.214732+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15ENR-4.1-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "VOR/DME"
+     },
+     "frequency": {
+      "value": 115.3,
+      "unit": "MHZ",
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.214734+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15ENR-4.1-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "115.3 MHz Ch 100X"
+     },
+     "frequencyUnit": {
+      "value": "MHZ",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.214735+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15ENR-4.1-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "MHZ"
+     },
+     "frequencyRaw": {
+      "value": "115.3 MHz Ch 100X",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.214737+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15ENR-4.1-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "115.3 MHz Ch 100X"
+     },
+     "coordinates": {
+      "value": [
+       1.2687778,
+       6.1840833
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.214739+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15ENR-4.1-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "06°11'02.70\"N 001°16'07.60\"E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.3666667,
+      20.0833333
+     ],
+     [
+      2.32715,
+      18.5
+     ],
+     [
+      2.2722222,
+      16.25
+     ],
+     [
+      2.2380556,
+      14.8219444
+     ],
+     [
+      2.206875,
+      13.4811194
+     ],
+     [
+      1.8161111,
+      12.2
+     ],
+     [
+      1.455,
+      11.0
+     ],
+     [
+      0.9917,
+      9.4617
+     ],
+     [
+      0.5666667,
+      8.0
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/B726",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "3f90ee142cdd468754ceec0e50f6c928d4dae93adb6f4da6c35d03a70d1c6a74",
+    "fields": {
+     "designator": {
+      "value": "B726",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528378+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.1-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "B726"
+     },
+     "routeClass": {
+      "value": "ENR 3.1",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528380+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.1-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.1"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/AMTES",
+       "WPT/ERDIT",
+       "WPT/APERO",
+       "WPT/EPELA",
+       "NAV/NY",
+       "WPT/IRTOD",
+       "WPT/BATIA",
+       "WPT/KILMO",
+       "WPT/PAMPA"
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528383+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.1-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/AMTES -> WPT/ERDIT -> WPT/APERO -> WPT/EPELA -> NAV/NY -> WPT/IRTOD -> WPT/BATIA -> WPT/KILMO -> WPT/PAMPA"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      0.7841667,
+      5.9866667
+     ],
+     [
+      1.2687778,
+      6.1840833
+     ],
+     [
+      1.7833333,
+      6.2658333
+     ],
+     [
+      2.3932833,
+      6.3621333
+     ],
+     [
+      2.75,
+      6.4917
+     ],
+     [
+      8.8743056,
+      5.7788889
+     ],
+     [
+      9.3039444,
+      5.7056944
+     ],
+     [
+      10.7525,
+      5.6430556
+     ],
+     [
+      12.0958333,
+      5.4313889
+     ],
+     [
+      13.8744444,
+      5.1461111
+     ],
+     [
+      15.7269444,
+      4.8433333
+     ],
+     [
+      17.2086111,
+      4.5975
+     ],
+     [
+      18.524825,
+      4.3782472
+     ],
+     [
+      19.6383333,
+      4.1033333
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/L433",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b65f4204972d2d4786ae1d5b956c8fa8966ebde2d61e9d89d914af869cc35dc3",
+    "fields": {
+     "designator": {
+      "value": "L433",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528481+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.1-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "L433"
+     },
+     "routeClass": {
+      "value": "ENR 3.1",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528482+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.1-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.1"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/EREKA",
+       "NAV/LM",
+       "WPT/MONOS",
+       "NAV/TYE",
+       "WPT/POLTO",
+       "WPT/IKROP",
+       "NAV/MF",
+       "WPT/SEXAT",
+       "WPT/KEMOX",
+       "WPT/MOTET",
+       "WPT/LURTI",
+       "WPT/KORIL",
+       "NAV/MPK",
+       "WPT/RUVNI"
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528485+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.1-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/EREKA -> NAV/LM -> WPT/MONOS -> NAV/TYE -> WPT/POLTO -> WPT/IKROP -> NAV/MF -> WPT/SEXAT -> WPT/KEMOX -> WPT/MOTET -> WPT/LURTI -> WPT/KORIL -> NAV/MPK -> WPT/RUVNI"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -1.5128333,
+      12.3462778
+     ],
+     [
+      -0.895,
+      11.0
+     ],
+     [
+      0.5666667,
+      8.0
+     ],
+     [
+      1.2687778,
+      6.1840833
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/R983",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "96be522d8b4edd899afd97b3f33e0f16c49e6af10ca3e8bd094f664e6c82f520",
+    "fields": {
+     "designator": {
+      "value": "R983",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528523+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.1-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "R983"
+     },
+     "routeClass": {
+      "value": "ENR 3.1",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528524+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.1-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.1"
+     },
+     "waypointSequence": {
+      "value": [
+       "NAV/OG",
+       "WPT/UMOVO",
+       "WPT/PAMPA",
+       "NAV/LM"
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528526+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.1-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "NAV/OG -> WPT/UMOVO -> WPT/PAMPA -> NAV/LM"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -1.5128333,
+      12.3462778
+     ],
+     [
+      -0.3366667,
+      11.0
+     ],
+     [
+      0.0166667,
+      10.5833333
+     ],
+     [
+      0.9917,
+      9.4617
+     ],
+     [
+      2.3571306,
+      7.8631806
+     ],
+     [
+      2.75,
+      7.4
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/R984",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "0296d8950627fd6b9cdad48be594da99b0a19e1f60882e4dd6681bd1b9150bff",
+    "fields": {
+     "designator": {
+      "value": "R984",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528570+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.1-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "R984"
+     },
+     "routeClass": {
+      "value": "ENR 3.1",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528571+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.1-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.1"
+     },
+     "waypointSequence": {
+      "value": [
+       "NAV/OG",
+       "WPT/OXIDU",
+       "WPT/TAMIL",
+       "WPT/KILMO",
+       "WPT/KELEX",
+       "WPT/OPALA"
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528573+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.1-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "NAV/OG -> WPT/OXIDU -> WPT/TAMIL -> WPT/KILMO -> WPT/KELEX -> WPT/OPALA"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.206875,
+      13.4811194
+     ],
+     [
+      1.455,
+      11.0
+     ],
+     [
+      0.9917,
+      9.4617
+     ],
+     [
+      0.7833333,
+      8.7680556
+     ],
+     [
+      0.5666667,
+      8.0
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UB726",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "af08cbf16526bfd0ef70322ec5a91a86716d8f50c8c05b46ab735a9a4201b97a",
+    "fields": {
+     "designator": {
+      "value": "UB726",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528611+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UB726"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528613+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "NAV/NY",
+       "WPT/BATIA",
+       "WPT/KILMO",
+       "WPT/AMSIL",
+       "WPT/PAMPA"
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528614+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "NAV/NY -> WPT/BATIA -> WPT/KILMO -> WPT/AMSIL -> WPT/PAMPA"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.1666667,
+      19.1333333
+     ],
+     [
+      3.5152778,
+      17.295
+     ],
+     [
+      3.1513889,
+      16.25
+     ],
+     [
+      2.206875,
+      13.4811194
+     ],
+     [
+      1.1502444,
+      12.0966083
+     ],
+     [
+      0.325,
+      11.0
+     ],
+     [
+      0.0166667,
+      10.5833333
+     ],
+     [
+      -3.1833333,
+      6.2766667
+     ],
+     [
+      -3.9169778,
+      5.2828167
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UG855",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "1fe1bfab2a01d53aaa1bfe6eddb76e2749d2703c94f0c8e7a4d18a1c7031da77",
+    "fields": {
+     "designator": {
+      "value": "UG855",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528673+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UG855"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528674+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/INAMA",
+       "WPT/BIDOM",
+       "WPT/GASON",
+       "NAV/NY",
+       "WPT/NEMLO",
+       "WPT/GAPAG",
+       "WPT/TAMIL",
+       "WPT/TUSEK",
+       "NAV/AD"
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528676+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/INAMA -> WPT/BIDOM -> WPT/GASON -> NAV/NY -> WPT/NEMLO -> WPT/GAPAG -> WPT/TAMIL -> WPT/TUSEK -> NAV/AD"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      0.7841667,
+      5.9866667
+     ],
+     [
+      1.2687778,
+      6.1840833
+     ],
+     [
+      1.7833333,
+      6.2658333
+     ],
+     [
+      2.3932833,
+      6.3621333
+     ],
+     [
+      2.75,
+      6.4917
+     ],
+     [
+      8.8743056,
+      5.7788889
+     ],
+     [
+      9.3039444,
+      5.7056944
+     ],
+     [
+      10.7525,
+      5.6430556
+     ],
+     [
+      12.0958333,
+      5.4313889
+     ],
+     [
+      13.8744444,
+      5.1461111
+     ],
+     [
+      15.1147222,
+      4.9438889
+     ],
+     [
+      15.7269444,
+      4.8433333
+     ],
+     [
+      17.0733333,
+      4.62
+     ],
+     [
+      18.524825,
+      4.3782472
+     ],
+     [
+      46.475,
+      -10.0
+     ],
+     [
+      47.5766667,
+      -10.9258333
+     ],
+     [
+      49.2894611,
+      -12.3463833
+     ],
+     [
+      50.5527778,
+      -13.6263889
+     ],
+     [
+      51.4263889,
+      -14.5
+     ],
+     [
+      53.3586111,
+      -16.3958333
+     ],
+     [
+      55.3971667,
+      -18.3376111
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UL433",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "6cbb65291eca31c196473a3e1db1695be480f0364cfd75c6ee99b6ce93193267",
+    "fields": {
+     "designator": {
+      "value": "UL433",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.3",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.529030+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.3-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UL433"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.3",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.529031+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.3-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/EREKA",
+       "NAV/LM",
+       "WPT/MONOS",
+       "NAV/TYE",
+       "WPT/POLTO",
+       "WPT/IKROP",
+       "NAV/MF",
+       "WPT/SEXAT",
+       "WPT/KEMOX",
+       "WPT/MOTET",
+       "WPT/OXIMU",
+       "WPT/LURTI",
+       "WPT/USLOK",
+       "NAV/MPK",
+       "WPT/ATOLA",
+       "WPT/BIRAL",
+       "NAV/DO",
+       "WPT/TIKEL",
+       "WPT/VEMAR",
+       "WPT/MAEVA",
+       "WPT/APKOT"
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.3",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.529033+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.3-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/EREKA -> NAV/LM -> WPT/MONOS -> NAV/TYE -> WPT/POLTO -> WPT/IKROP -> NAV/MF -> WPT/SEXAT -> WPT/KEMOX -> WPT/MOTET -> WPT/OXIMU -> WPT/LURTI -> WPT/USLOK -> NAV/MPK -> WPT/ATOLA -> WPT/BIRAL -> NAV/DO -> WPT/TIKEL -> WPT/VEMAR -> WPT/MAEVA -> WPT/APKOT"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.3",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.529034+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.3-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      0.2977778,
+      9.5055556
+     ],
+     [
+      0.9917,
+      9.4617
+     ],
+     [
+      2.3080556,
+      9.4733333
+     ],
+     [
+      2.8558333,
+      9.4733333
+     ],
+     [
+      3.1668333,
+      9.4795167
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UL683",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d0ac0d1c7feb5c011e82986399c2d7603edb9745da6c9966d757ef08ac0b117e",
+    "fields": {
+     "designator": {
+      "value": "UL683",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528724+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UL683"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528725+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/IPORI",
+       "WPT/KILMO",
+       "WPT/DEPUB",
+       "WPT/BORNI",
+       "WPT/GANDA"
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528727+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/IPORI -> WPT/KILMO -> WPT/DEPUB -> WPT/BORNI -> WPT/GANDA"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      0.5119444,
+      8.9244444
+     ],
+     [
+      0.7833333,
+      8.7680556
+     ],
+     [
+      2.3571306,
+      7.8631806
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UM566",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c08137f400e8a2d39837f40c5b36a9c5a178fc815a63565881cb4c5bde3ef9c5",
+    "fields": {
+     "designator": {
+      "value": "UM566",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528756+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UM566"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528757+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/BUDNO",
+       "WPT/AMSIL",
+       "WPT/KELEX"
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528758+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/BUDNO -> WPT/AMSIL -> WPT/KELEX"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -1.5128333,
+      12.3462778
+     ],
+     [
+      -0.895,
+      11.0
+     ],
+     [
+      0.5666667,
+      8.0
+     ],
+     [
+      1.2687778,
+      6.1840833
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UR983",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "1325efc1e1356b2b6474d30a68bbb21009e606c7d119ec420d22f5a80dd8209a",
+    "fields": {
+     "designator": {
+      "value": "UR983",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528787+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UR983"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528788+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "NAV/OG",
+       "WPT/UMOVO",
+       "WPT/PAMPA",
+       "NAV/LM"
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528789+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "NAV/OG -> WPT/UMOVO -> WPT/PAMPA -> NAV/LM"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -1.5128333,
+      12.3462778
+     ],
+     [
+      -0.3366667,
+      11.0
+     ],
+     [
+      0.0166667,
+      10.5833333
+     ],
+     [
+      0.2869444,
+      10.2797222
+     ],
+     [
+      0.9917,
+      9.4617
+     ],
+     [
+      2.3571306,
+      7.8631806
+     ],
+     [
+      2.75,
+      7.4
+     ],
+     [
+      8.28,
+      4.47
+     ],
+     [
+      8.5666667,
+      4.3463889
+     ],
+     [
+      9.7434722,
+      3.9939167
+     ],
+     [
+      10.1588889,
+      3.9327778
+     ],
+     [
+      11.5564722,
+      3.7258056
+     ],
+     [
+      12.7150944,
+      3.8659917
+     ],
+     [
+      14.0411667,
+      4.0245
+     ],
+     [
+      15.3316667,
+      4.1766667
+     ],
+     [
+      15.7838417,
+      4.2293528
+     ],
+     [
+      17.1572222,
+      4.3041667
+     ],
+     [
+      18.524825,
+      4.3782472
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UR984",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2b95a83810f0d145c50c99d81f4d9e5068b233d80244a926ce5d49084949a05c",
+    "fields": {
+     "designator": {
+      "value": "UR984",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528895+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UR984"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528896+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "NAV/OG",
+       "WPT/OXIDU",
+       "WPT/TAMIL",
+       "WPT/ARLEX",
+       "WPT/KILMO",
+       "WPT/KELEX",
+       "WPT/OPALA",
+       "WPT/RALIN",
+       "WPT/VITLI",
+       "NAV/DLA",
+       "WPT/EDEBA",
+       "NAV/NLY",
+       "WPT/ARKEV",
+       "WPT/KOGAN",
+       "WPT/TOBAB",
+       "NAV/BT",
+       "WPT/VOTUR",
+       "NAV/MPK"
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528898+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-3.2-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "NAV/OG -> WPT/OXIDU -> WPT/TAMIL -> WPT/ARLEX -> WPT/KILMO -> WPT/KELEX -> WPT/OPALA -> WPT/RALIN -> WPT/VITLI -> NAV/DLA -> WPT/EDEBA -> NAV/NLY -> WPT/ARKEV -> WPT/KOGAN -> WPT/TOBAB -> NAV/BT -> WPT/VOTUR -> NAV/MPK"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1.0867861,
+      9.7568944
+     ],
+     [
+      1.0957,
+      9.7777056
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "DXNG/RWY/03-21",
+    "parentKey": "DXNG",
+    "featureType": "runway",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "fbf82168dc8a0deae8138d19d3bf130676ce1a01071099828d2e9e674a999f63",
+    "fields": {
+     "pairDesignator": {
+      "value": "03-21",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "DXNG AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.578528+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "03-21"
+     },
+     "length": {
+      "value": 2500.0,
+      "unit": "M",
+      "source": "eAIP ASECNA",
+      "section": "DXNG AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.578522+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "2500 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP ASECNA",
+      "section": "DXNG AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.578524+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "2500 x 45"
+     },
+     "surface": {
+      "value": "CONC",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "DXNG AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.578525+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "CONC"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1.2456861,
+      6.1551278
+     ],
+     [
+      1.2625972,
+      6.1763444
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "DXXX/RWY/04-22",
+    "parentKey": "DXXX",
+    "featureType": "runway",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "553a91e1a15e52fb11a6162f729022367f5dd28033014bfe5490c843cfb7056a",
+    "fields": {
+     "pairDesignator": {
+      "value": "04-22",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "DXXX AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.566457+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "04-22"
+     },
+     "length": {
+      "value": 3000.0,
+      "unit": "M",
+      "source": "eAIP ASECNA",
+      "section": "DXXX AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.566451+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "3000 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP ASECNA",
+      "section": "DXXX AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.566453+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "3000 x 45"
+     },
+     "surface": {
+      "value": "CONC",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "DXXX AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.566455+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "CONC"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0867861,
+     9.7568944
+    ]
+   },
+   "properties": {
+    "naturalKey": "DXNG/RWY/03",
+    "parentKey": "DXNG/RWY/03-21",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "5d1e640ba324007ee79641e3627693bf35cb4efb3a885ff7720a96a228d1b0fd",
+    "fields": {
+     "designator": {
+      "value": "03",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "DXNG AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.578539+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "03"
+     },
+     "trueBearing": {
+      "value": 23.1,
+      "unit": "DEG",
+      "source": "eAIP ASECNA",
+      "section": "DXNG AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.578540+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "023.10º VRAI 025º MAG"
+     },
+     "length": {
+      "value": 2500.0,
+      "unit": "M",
+      "source": "eAIP ASECNA",
+      "section": "DXNG AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.578522+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "2500 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP ASECNA",
+      "section": "DXNG AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.578524+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "2500 x 45"
+     },
+     "surface": {
+      "value": "CONC",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "DXNG AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.578525+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "CONC"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       1.0867861,
+       9.7568944
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "DXNG AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.578543+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "09°45'24.82\"N 001°05'12.43\"E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0957,
+     9.7777056
+    ]
+   },
+   "properties": {
+    "naturalKey": "DXNG/RWY/21",
+    "parentKey": "DXNG/RWY/03-21",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b9d20695ca9d723c8735327c47f8ed9870e4085aa179c83f0da82422717fb3da",
+    "fields": {
+     "designator": {
+      "value": "21",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "DXNG AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.578553+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "21"
+     },
+     "trueBearing": {
+      "value": 203.1,
+      "unit": "DEG",
+      "source": "eAIP ASECNA",
+      "section": "DXNG AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.578554+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "203.10º VRAI 205º MAG"
+     },
+     "length": {
+      "value": 2500.0,
+      "unit": "M",
+      "source": "eAIP ASECNA",
+      "section": "DXNG AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.578522+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "2500 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP ASECNA",
+      "section": "DXNG AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.578524+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "2500 x 45"
+     },
+     "surface": {
+      "value": "CONC",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "DXNG AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.578525+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "CONC"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       1.0957,
+       9.7777056
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "DXNG AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.578556+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXNG-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "09°46'39.74\"N 001°05'44.52\"E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.2456861,
+     6.1551278
+    ]
+   },
+   "properties": {
+    "naturalKey": "DXXX/RWY/04",
+    "parentKey": "DXXX/RWY/04-22",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "131cfecd709d545679c2b6d2ee504d8a68085c429e3f4181d419fc202f343ca4",
+    "fields": {
+     "designator": {
+      "value": "04",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "DXXX AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.566471+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "04"
+     },
+     "trueBearing": {
+      "value": 38.6,
+      "unit": "DEG",
+      "source": "eAIP ASECNA",
+      "section": "DXXX AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.566472+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "038.60º VRAI 041º MAG"
+     },
+     "length": {
+      "value": 3000.0,
+      "unit": "M",
+      "source": "eAIP ASECNA",
+      "section": "DXXX AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.566451+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "3000 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP ASECNA",
+      "section": "DXXX AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.566453+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "3000 x 45"
+     },
+     "surface": {
+      "value": "CONC",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "DXXX AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.566455+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "CONC"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       1.2456861,
+       6.1551278
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "DXXX AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.566475+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "06°09'18.46\"N 001°14'44.47\"E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.2625972,
+     6.1763444
+    ]
+   },
+   "properties": {
+    "naturalKey": "DXXX/RWY/22",
+    "parentKey": "DXXX/RWY/04-22",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "efed9daf9f8e9b2dece7faa877f6e5f867cf1f3d5d21a6b300a144429412b1e5",
+    "fields": {
+     "designator": {
+      "value": "22",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "DXXX AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.566485+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "22"
+     },
+     "trueBearing": {
+      "value": 218.6,
+      "unit": "DEG",
+      "source": "eAIP ASECNA",
+      "section": "DXXX AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.566486+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "218.60º VRAI 221º MAG"
+     },
+     "length": {
+      "value": 3000.0,
+      "unit": "M",
+      "source": "eAIP ASECNA",
+      "section": "DXXX AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.566451+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "3000 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP ASECNA",
+      "section": "DXXX AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.566453+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "3000 x 45"
+     },
+     "surface": {
+      "value": "CONC",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "DXXX AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.566455+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "CONC"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       1.2625972,
+       6.1763444
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "DXXX AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.566489+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_15AD-2.DXXX-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "06°10'34.84\"N 001°15'45.35\"E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.7833333,
+     8.7680556
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/AMSIL",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c56dfb96e18fd58bf99a0835f338d2fc97e89035f34d8bb980afcc6c83905e96",
+    "fields": {
+     "designator": {
+      "value": "AMSIL",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.515680+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "AMSIL"
+     },
+     "coordinates": {
+      "value": [
+       0.7833333,
+       8.7680556
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.515696+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "08°46'05\"N 000°47'00\"E"
+     },
+     "atsRoutes": {
+      "value": "UM566 - UB726",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.515697+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UM566 - UB726"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0922222,
+     6.5816667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/AMSOM",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "92a1907b21071323c5345ffc876e423aebec27f65706fe3d25c40ea7c0613948",
+    "fields": {
+     "designator": {
+      "value": "AMSOM",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.515750+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "AMSOM"
+     },
+     "coordinates": {
+      "value": [
+       1.0922222,
+       6.5816667
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.515752+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "06°34'54\"N 001°05'32\"E"
+     },
+     "atsRoutes": {
+      "value": "TMA LOMÉ",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.515753+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "TMA LOMÉ"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.3666667,
+     20.0833333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/AMTES",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "997ebd2d4bb19eb240a6518ab7e5c3bb8987ea52a3a00a49034af9a7a85aaa75",
+    "fields": {
+     "designator": {
+      "value": "AMTES",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.515785+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "AMTES"
+     },
+     "coordinates": {
+      "value": [
+       2.3666667,
+       20.0833333
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.515786+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "20°05'00\"N 002°22'00\"E"
+     },
+     "atsRoutes": {
+      "value": "B726 T/R Limite FIR ALGER/FIR NIAMEY",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.515788+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "B726 T/R Limite FIR ALGER/FIR NIAMEY"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.2722222,
+     16.25
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/APERO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "7ede027892e49f52a7285b243aae3652e00c2bc93542b554e930cb518c9f0d4e",
+    "fields": {
+     "designator": {
+      "value": "APERO",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.516040+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "APERO"
+     },
+     "coordinates": {
+      "value": [
+       2.2722222,
+       16.25
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.516041+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "16°15'00\"N 002°16'20\"E"
+     },
+     "atsRoutes": {
+      "value": "B726 T/R Limite TMA NIAMEY",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.516043+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "B726 T/R Limite TMA NIAMEY"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.3971667,
+     -18.3376111
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/APKOT",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "a221ed0ec0f7f0cd121ef8a24cf4449ddfbfc53edaa749d5496b9962d2fc3087",
+    "fields": {
+     "designator": {
+      "value": "APKOT",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.516059+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "APKOT"
+     },
+     "coordinates": {
+      "value": [
+       55.3971667,
+       -18.3376111
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.516061+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "18°20'15.40\"S 055°23'49.80\"E"
+     },
+     "atsRoutes": {
+      "value": "UL433",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.516062+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UL433"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.7150944,
+     3.8659917
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ARKEV",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "ac23d60ce3e52a197ab6bdc8c4e28b08aeaf447ae92e5ddcd7394a3811a6544c",
+    "fields": {
+     "designator": {
+      "value": "ARKEV",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.516391+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ARKEV"
+     },
+     "coordinates": {
+      "value": [
+       12.7150944,
+       3.8659917
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.516392+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "03°51'57.57\"N 012°42'54.34\"E"
+     },
+     "atsRoutes": {
+      "value": "R984-2/UR984 Yaounde TMA Boundary in Brazzaville FIR ( Cameroon)",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.516393+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "R984-2/UR984 Yaounde TMA Boundary in Brazzaville FIR ( Cameroon)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.2869444,
+     10.2797222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ARLEX",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2ba88eb1c28be7e0eb4691033a3b457f72bbbbc82c5de220f32da09fe106c4a3",
+    "fields": {
+     "designator": {
+      "value": "ARLEX",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.516435+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ARLEX"
+     },
+     "coordinates": {
+      "value": [
+       0.2869444,
+       10.2797222
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.516436+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "10°16'47\"N 000°17'13\"E"
+     },
+     "atsRoutes": {
+      "value": "UQ592 - UR984",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.516437+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UQ592 - UR984"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     46.475,
+     -10.0
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ATOLA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "dd4889c773f7a483c38c769e04cc19575058896ce143f2505652561ebc37fa24",
+    "fields": {
+     "designator": {
+      "value": "ATOLA",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.516527+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ATOLA"
+     },
+     "coordinates": {
+      "value": [
+       46.475,
+       -10.0
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.516528+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "10°00'00\"S 046°28'30\"E"
+     },
+     "atsRoutes": {
+      "value": "UL433",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.516530+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UL433"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.4624556,
+     6.2658778
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/AZARE",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d6a13e519d3e8873796e23afba32e20490f993c1b273ebcc46e78fb7baf722d2",
+    "fields": {
+     "designator": {
+      "value": "AZARE",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.516570+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "AZARE"
+     },
+     "coordinates": {
+      "value": [
+       1.4624556,
+       6.2658778
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.516572+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "06°15'57.16\"N 001°27'44.84\"E"
+     },
+     "atsRoutes": {
+      "value": "LOME ILS Y or LOC Y - RWY 22 IAF",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.516573+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "LOME ILS Y or LOC Y - RWY 22 IAF"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.455,
+     11.0
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/BATIA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "06bd996762d7cd13ef1157072c3180baa0815c7fef9b846004dbeaa2608fe4b0",
+    "fields": {
+     "designator": {
+      "value": "BATIA",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.516630+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "BATIA"
+     },
+     "coordinates": {
+      "value": [
+       1.455,
+       11.0
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.516632+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "11°00'00\"N 001°27'18\"E"
+     },
+     "atsRoutes": {
+      "value": "UQ592 - UM629 - B726/UB726 T/R Limite TMA NIAMEY/FIR ACCRA",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.516633+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UQ592 - UM629 - B726/UB726 T/R Limite TMA NIAMEY/FIR ACCRA"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.5152778,
+     17.295
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/BIDOM",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "8f866282d4a77b6afaa40b102f179d29193b7eccb2f7fc39fe90e646af46dcee",
+    "fields": {
+     "designator": {
+      "value": "BIDOM",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.516718+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "BIDOM"
+     },
+     "coordinates": {
+      "value": [
+       3.5152778,
+       17.295
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.516720+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "17°17'42\"N 003°30'55\"E"
+     },
+     "atsRoutes": {
+      "value": "UM114 - UG855",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.516721+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UM114 - UG855"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     47.5766667,
+     -10.9258333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/BIRAL",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "35f6c5573ce8bb661fa8ae7ef61a95d00bf5d51a90884969238711463db07a23",
+    "fields": {
+     "designator": {
+      "value": "BIRAL",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.516982+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "BIRAL"
+     },
+     "coordinates": {
+      "value": [
+       47.5766667,
+       -10.9258333
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.516983+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "10°55'33\"S 047°34'36\"E"
+     },
+     "atsRoutes": {
+      "value": "UM307 - UL433",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.516984+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UM307 - UL433"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.8558333,
+     9.4733333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/BORNI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "6508c0ef32982e003cb5244ea4a0d4144d08537bf32251eb4cb635aac601ae0a",
+    "fields": {
+     "designator": {
+      "value": "BORNI",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.517108+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "BORNI"
+     },
+     "coordinates": {
+      "value": [
+       2.8558333,
+       9.4733333
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.517109+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "09°28'24\"N 002°51'21\"E"
+     },
+     "atsRoutes": {
+      "value": "UL683 - UR981",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.517110+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UL683 - UR981"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.5119444,
+     8.9244444
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/BUDNO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b3143604adf911582a887bb10a2cc878fa5e85cabb2dacd3e2ae22d8842c4635",
+    "fields": {
+     "designator": {
+      "value": "BUDNO",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.517232+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "BUDNO"
+     },
+     "coordinates": {
+      "value": [
+       0.5119444,
+       8.9244444
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.517234+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "08°55'28\"N 000°30'43\"E"
+     },
+     "atsRoutes": {
+      "value": "UM566",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.517235+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UM566"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.4511389,
+     6.2131222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DEKOM",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f589c8f3c9a9f669badf23e7f4ac9edadf05fe59a0a626e5b9cf23ec90895413",
+    "fields": {
+     "designator": {
+      "value": "DEKOM",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.517505+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "DEKOM"
+     },
+     "coordinates": {
+      "value": [
+       1.4511389,
+       6.2131222
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.517506+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "06°12'47.24\"N 001°27'04.10\"E"
+     },
+     "atsRoutes": {
+      "value": "LOME VOR RWY 22 IAF",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.517507+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "LOME VOR RWY 22 IAF"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0035278,
+     9.5623889
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DENIT",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "561682f7413c800ebc0ffcfeccc37241b0602775af7d84d475fbe5240351f952",
+    "fields": {
+     "designator": {
+      "value": "DENIT",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.517669+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "DENIT"
+     },
+     "coordinates": {
+      "value": [
+       1.0035278,
+       9.5623889
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.517670+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "09°33'44.60\"N 001°00'12.70\"E"
+     },
+     "atsRoutes": {
+      "value": "NIAMTOUGOU IAF",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.517671+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "NIAMTOUGOU IAF"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.3080556,
+     9.4733333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DEPUB",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "a006fa33da3309afa0a5f863b16329b1931a92905674076772360b93f6397adb",
+    "fields": {
+     "designator": {
+      "value": "DEPUB",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.517741+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "DEPUB"
+     },
+     "coordinates": {
+      "value": [
+       2.3080556,
+       9.4733333
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.517742+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "09°28'24\"N 002°18'29\"E"
+     },
+     "atsRoutes": {
+      "value": "UA608 - UL683",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.517743+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UA608 - UL683"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.9260167,
+     9.5626444
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DILSO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "702a55da380c493703531fe37941c1f11cde82346331f34d90854a81f10adbb4",
+    "fields": {
+     "designator": {
+      "value": "DILSO",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.517972+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "DILSO"
+     },
+     "coordinates": {
+      "value": [
+       0.9260167,
+       9.5626444
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.517973+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "09°33'45.52\"N 000°55'33.66\"E"
+     },
+     "atsRoutes": {
+      "value": "IAF NIAMTOUGOU",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.517974+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "IAF NIAMTOUGOU"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.1685556,
+     9.9476667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/EDDER",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "015528556830ca20cd19401570f0ad933d6b4a7e2fe6116e411c56c3fd29e667",
+    "fields": {
+     "designator": {
+      "value": "EDDER",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.518428+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "EDDER"
+     },
+     "coordinates": {
+      "value": [
+       1.1685556,
+       9.9476667
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.518429+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "09°56'51.60\"N 001°10'06.80\"E"
+     },
+     "atsRoutes": {
+      "value": "NIAMTOUGOU IAF",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.518431+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "NIAMTOUGOU IAF"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     10.1588889,
+     3.9327778
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/EDEBA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b9e87d9f2d90e06348fce51554b447f190a942abdc7183f19ef815b8903e6b7a",
+    "fields": {
+     "designator": {
+      "value": "EDEBA",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.518446+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "EDEBA"
+     },
+     "coordinates": {
+      "value": [
+       10.1588889,
+       3.9327778
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.518447+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "03°55'58\"N 010°09'32\"E"
+     },
+     "atsRoutes": {
+      "value": "R984-2/UR984",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.518448+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "R984-2/UR984"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.3054389,
+     6.3912
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/EMROD",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "fdc4f4c5f8d31c92fd45ae0ebe4c3f7765cb6a3e70549b84c8e956beaf20241d",
+    "fields": {
+     "designator": {
+      "value": "EMROD",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.518590+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "EMROD"
+     },
+     "coordinates": {
+      "value": [
+       1.3054389,
+       6.3912
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.518591+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "06°23'28.32\"N 001°18'19.58\"E"
+     },
+     "atsRoutes": {
+      "value": "LOME ILS Y or LOC Y - RWY 22 IAF",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.518592+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "LOME ILS Y or LOC Y - RWY 22 IAF"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.2380556,
+     14.8219444
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/EPELA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "a3c0c0be1aa72b41e2001ad5868587c65f2e64e890ba0e289851d9561165d79b",
+    "fields": {
+     "designator": {
+      "value": "EPELA",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.518784+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "EPELA"
+     },
+     "coordinates": {
+      "value": [
+       2.2380556,
+       14.8219444
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.518785+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "14°49'19\"N 002°14'17\"E"
+     },
+     "atsRoutes": {
+      "value": "B726",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.518786+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "B726"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.32715,
+     18.5
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ERDIT",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "cde72bc8917430285602984ea3247a2ccd8be7593ca55338dd3c033384cc8f4c",
+    "fields": {
+     "designator": {
+      "value": "ERDIT",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.518868+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ERDIT"
+     },
+     "coordinates": {
+      "value": [
+       2.32715,
+       18.5
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.518869+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "18°30'00\"N 002°19'37.74\"E"
+     },
+     "atsRoutes": {
+      "value": "B726 Niamey FIR (Mali)",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.518870+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "B726 Niamey FIR (Mali)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.7841667,
+     5.9866667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/EREKA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "8ab482ed3adb7f48dd3946e74323b4795f313e103e791b56d5cff3c50100a74c",
+    "fields": {
+     "designator": {
+      "value": "EREKA",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.518911+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "EREKA"
+     },
+     "coordinates": {
+      "value": [
+       0.7841667,
+       5.9866667
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.518912+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "05°59'12\"N 000°47'03\"E"
+     },
+     "atsRoutes": {
+      "value": "L433/UL433",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.518913+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "L433/UL433"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.1668333,
+     9.4795167
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/GANDA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "445acc4a9720de2ed5edd0fa2178f3ca9c3561f90059f4fd630d1e7823bb1108",
+    "fields": {
+     "designator": {
+      "value": "GANDA",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.519501+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "GANDA"
+     },
+     "coordinates": {
+      "value": [
+       3.1668333,
+       9.4795167
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.519502+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "09°28'46.26\"N 003°10'00.60\"E"
+     },
+     "atsRoutes": {
+      "value": "UL683",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.519503+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UL683"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.325,
+     11.0
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/GAPAG",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e4059e8364aa6c6b687fb77bcbd59283249313ef6a4c876f960d7083327c81c6",
+    "fields": {
+     "designator": {
+      "value": "GAPAG",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.519550+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "GAPAG"
+     },
+     "coordinates": {
+      "value": [
+       0.325,
+       11.0
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.519551+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "11°00'00\"N 000°19'30\"E"
+     },
+     "atsRoutes": {
+      "value": "UG855",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.519552+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UG855"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0036639,
+     9.5627083
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/GAPIN",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "445dae6dbcf6f4dd3be4587296e52be505ef42e5936254cc7e04b9d4af88048c",
+    "fields": {
+     "designator": {
+      "value": "GAPIN",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.519584+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "GAPIN"
+     },
+     "coordinates": {
+      "value": [
+       1.0036639,
+       9.5627083
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.519585+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "09°33'45.75\"N 001°00'13.19\"E"
+     },
+     "atsRoutes": {
+      "value": "IAF NIAMTOUGOU",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.519586+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "IAF NIAMTOUGOU"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.1513889,
+     16.25
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/GASON",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "430e7b1eea91cf377690b068154193efa7e5ad6c1dfee74fecfc066c027735c8",
+    "fields": {
+     "designator": {
+      "value": "GASON",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.519704+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "GASON"
+     },
+     "coordinates": {
+      "value": [
+       3.1513889,
+       16.25
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.519705+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "16°15'00\"N 003°09'05\"E"
+     },
+     "atsRoutes": {
+      "value": "UG855",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.519706+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UG855"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.291875,
+     6.3674417
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/GUNAK",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "bc4735ce115b704619145599750e031f209f9587f75867f3dc4ccb9ad1446735",
+    "fields": {
+     "designator": {
+      "value": "GUNAK",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.520010+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "GUNAK"
+     },
+     "coordinates": {
+      "value": [
+       1.291875,
+       6.3674417
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.520012+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "06°22'02.79\"N 001°17'30.75\"E"
+     },
+     "atsRoutes": {
+      "value": "LOME VOR RWY 22 IAF",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.520013+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "LOME VOR RWY 22 IAF"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.8743056,
+     5.7788889
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/IKROP",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2c604a687155d73ad63276bce5fa5387b08df56ab579d2c43bd664a099797f63",
+    "fields": {
+     "designator": {
+      "value": "IKROP",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.520219+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "IKROP"
+     },
+     "coordinates": {
+      "value": [
+       8.8743056,
+       5.7788889
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.520220+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "05°46'44\"N 008°52'27.50\"E"
+     },
+     "atsRoutes": {
+      "value": "UJ333 - L433/UL433 T/R Limite FIR KANO/FIR BRAZZAVILLE",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.520221+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UJ333 - L433/UL433 T/R Limite FIR KANO/FIR BRAZZAVILLE"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.1666667,
+     19.1333333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/INAMA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "65841d33be8fee439b694e7aa4379d6761579b3c28d5c9cec18246980597e6cb",
+    "fields": {
+     "designator": {
+      "value": "INAMA",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.520384+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "INAMA"
+     },
+     "coordinates": {
+      "value": [
+       4.1666667,
+       19.1333333
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.520385+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "19°08'00\"N 004°10'00\"E"
+     },
+     "atsRoutes": {
+      "value": "UG855",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.520386+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UG855"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.2977778,
+     9.5055556
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/IPORI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "51c5276da7c3dbb98d9da6307910b3179a98df152ac4592e1a736b62d231eb80",
+    "fields": {
+     "designator": {
+      "value": "IPORI",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.520630+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "IPORI"
+     },
+     "coordinates": {
+      "value": [
+       0.2977778,
+       9.5055556
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.520631+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "09°30'20\"N 000°17'52\"E"
+     },
+     "atsRoutes": {
+      "value": "UL683",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.520632+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UL683"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.8161111,
+     12.2
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/IRTOD",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "fe134c15c9c6adc924878230bf9a5501c7d23b87cc0d933fff00b845f5e4f1c7",
+    "fields": {
+     "designator": {
+      "value": "IRTOD",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.520741+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "IRTOD"
+     },
+     "coordinates": {
+      "value": [
+       1.8161111,
+       12.2
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.520743+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "12°12'00\"N 001°48'58\"E"
+     },
+     "atsRoutes": {
+      "value": "B726 Limite TMA Niamey - Niger",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.520744+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "B726 Limite TMA Niamey - Niger"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.3571306,
+     7.8631806
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/KELEX",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c099d955dd543ebb095b6397c07e8d17b42a5edef2e335717d4595ed7b7ff080",
+    "fields": {
+     "designator": {
+      "value": "KELEX",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.520935+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "KELEX"
+     },
+     "coordinates": {
+      "value": [
+       2.3571306,
+       7.8631806
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.520937+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "07°51'47.45\"N 002°21'25.67\"E"
+     },
+     "atsRoutes": {
+      "value": "UM566 - UA608 - UM629 - R984-1/UR984",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.520938+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UM566 - UA608 - UM629 - R984-1/UR984"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.0958333,
+     5.4313889
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/KEMOX",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d9a3513687effdd571d5dd69daab6db8d897d47ee4ce7071716858eb0e3a6937",
+    "fields": {
+     "designator": {
+      "value": "KEMOX",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.520977+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "KEMOX"
+     },
+     "coordinates": {
+      "value": [
+       12.0958333,
+       5.4313889
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.520978+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "05°25'53\"N 012°05'45\"E"
+     },
+     "atsRoutes": {
+      "value": "L433/UL433 - H455/UH455 - UQ584 FIR BRAZZAVILLE",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.520979+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "L433/UL433 - H455/UH455 - UQ584 FIR BRAZZAVILLE"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.5,
+     8.7733333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/KETEV",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f6f5931769b343623e6d366c47367f88895919200234ccfec584b8b3f398909c",
+    "fields": {
+     "designator": {
+      "value": "KETEV",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.521143+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "KETEV"
+     },
+     "coordinates": {
+      "value": [
+       0.5,
+       8.7733333
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.521145+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "08°46'24\"N 000°30'00\"E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.521146+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.9917,
+     9.4617
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/KILMO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "63c91b2ec6370d5317cefbff6ee77a9a771ccf5b0b789287869eab4329ae4467",
+    "fields": {
+     "designator": {
+      "value": "KILMO",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.521211+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "KILMO"
+     },
+     "coordinates": {
+      "value": [
+       0.9917,
+       9.4617
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.521212+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "09°27'42.12\"N 000°59'30.12\"E"
+     },
+     "atsRoutes": {
+      "value": "UL683 - B726/UB726 - R984-1/UR984",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.521213+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UL683 - B726/UB726 - R984-1/UR984"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.0411667,
+     4.0245
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/KOGAN",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e20d819ea097969ba673ab722c2dc610a837ada84f6cfb49ca44fed2e5469bca",
+    "fields": {
+     "designator": {
+      "value": "KOGAN",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.521443+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "KOGAN"
+     },
+     "coordinates": {
+      "value": [
+       14.0411667,
+       4.0245
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.521444+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "04°01'28.20\"N 014°02'28.20\"E"
+     },
+     "atsRoutes": {
+      "value": "UG727 - R984-2/UR984",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.521445+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UG727 - R984-2/UR984"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     17.2086111,
+     4.5975
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/KORIL",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "0c692ac3de2d87675cdaf869562af03fb120a12a38c0074b8476aa626adf884c",
+    "fields": {
+     "designator": {
+      "value": "KORIL",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.521599+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "KORIL"
+     },
+     "coordinates": {
+      "value": [
+       17.2086111,
+       4.5975
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.521601+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "04°35'51\"N 017°12'31\"E"
+     },
+     "atsRoutes": {
+      "value": "L433 TMA BANGUI - CENTRAFRIQUE",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.521602+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "L433 TMA BANGUI - CENTRAFRIQUE"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.3839583,
+     6.3285444
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LILEB",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "270302f86ad6eb46b3b5a1c3b0a22e663345abc474abc916d8888f028dafc144",
+    "fields": {
+     "designator": {
+      "value": "LILEB",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.521803+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "LILEB"
+     },
+     "coordinates": {
+      "value": [
+       1.3839583,
+       6.3285444
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.521804+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "06°19'42.76\"N 001°23'02.25\"E"
+     },
+     "atsRoutes": {
+      "value": "LOME ILS Y or LOC Y - RWY 22 IAF",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.521805+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "LOME ILS Y or LOC Y - RWY 22 IAF"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.7269444,
+     4.8433333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LURTI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "7984dca70c73f0238926b5cd86a4519e782982c16c4ab246489183a175a10d3a",
+    "fields": {
+     "designator": {
+      "value": "LURTI",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.522187+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "LURTI"
+     },
+     "coordinates": {
+      "value": [
+       15.7269444,
+       4.8433333
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.522189+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "04°50'36\"N 015°43'37\"E"
+     },
+     "atsRoutes": {
+      "value": "A403/UA403 - L433/UL433 T/R Limite TMA BANGUI",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.522190+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "A403/UA403 - L433/UL433 T/R Limite TMA BANGUI"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     53.3586111,
+     -16.3958333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/MAEVA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "64091fd60e4754e29c7afb17c1de08dfbd6932b01b2fba60087f227df6b398f6",
+    "fields": {
+     "designator": {
+      "value": "MAEVA",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.522229+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "MAEVA"
+     },
+     "coordinates": {
+      "value": [
+       53.3586111,
+       -16.3958333
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.522230+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "16°23'45\"S 053°21'31\"E"
+     },
+     "atsRoutes": {
+      "value": "UN304 - UR348 - UL433",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.522231+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UN304 - UR348 - UL433"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0,
+     6.3760278
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/MIRBO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "70e9890e81fd4ed7d84f065f5c125a3cd2fc1fcc331bce61321f9dd590845345",
+    "fields": {
+     "designator": {
+      "value": "MIRBO",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.522598+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "MIRBO"
+     },
+     "coordinates": {
+      "value": [
+       1.0,
+       6.3760278
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.522599+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "06°22'33.70\"N 001°00'00\"E"
+     },
+     "atsRoutes": {
+      "value": "LOME STAR RNAV 04 WPT",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.522600+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "LOME STAR RNAV 04 WPT"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.7833333,
+     6.2658333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/MONOS",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "9cce938b21ccfd30188b18527b0296f1dea56c25bae0ecf7e5e3077521c5eb55",
+    "fields": {
+     "designator": {
+      "value": "MONOS",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.522841+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "MONOS"
+     },
+     "coordinates": {
+      "value": [
+       1.7833333,
+       6.2658333
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.522842+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "06°15'57\"N 001°47'00\"E"
+     },
+     "atsRoutes": {
+      "value": "L433/UL433",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.522843+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "L433/UL433"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.2526722,
+     9.92985
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/MORAR",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "8cbfaf1da070d5b4fc0a5e365ebe75e060df77d5d6bebe5848d3a4fc41731ef5",
+    "fields": {
+     "designator": {
+      "value": "MORAR",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.522891+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "MORAR"
+     },
+     "coordinates": {
+      "value": [
+       1.2526722,
+       9.92985
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.522892+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "09°55'47.46\"N 001°15'09.62\"E"
+     },
+     "atsRoutes": {
+      "value": "IAF NIAMTOUGOU",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.522893+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "IAF NIAMTOUGOU"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.8744444,
+     5.1461111
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/MOTET",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e1f8196d0aea9a3cf7efc2c93dc2e057e1fb6bdd457b9ea255cd462a21310bac",
+    "fields": {
+     "designator": {
+      "value": "MOTET",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.522933+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "MOTET"
+     },
+     "coordinates": {
+      "value": [
+       13.8744444,
+       5.1461111
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.522934+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "05°08'46\"N 013°52'28\"E"
+     },
+     "atsRoutes": {
+      "value": "L433/UL433 - UG727",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.522935+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "L433/UL433 - UG727"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.1502444,
+     12.0966083
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/NEMLO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "fdf1d96ab4de775b93bf11af09d697a8b071e932d9c03907b210974cffb72bfd",
+    "fields": {
+     "designator": {
+      "value": "NEMLO",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.523400+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "NEMLO"
+     },
+     "coordinates": {
+      "value": [
+       1.1502444,
+       12.0966083
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.523401+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "12°05'47.79\"N 001°09'00.88\"E"
+     },
+     "atsRoutes": {
+      "value": "UM629 - UG855",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.523402+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UM629 - UG855"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.2468583,
+     6.6067944
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ONVAS",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "02a102b336045ace5e9144823226a121365c3cbe22dccdb621c28615d2c3ea24",
+    "fields": {
+     "designator": {
+      "value": "ONVAS",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.524072+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "ONVAS"
+     },
+     "coordinates": {
+      "value": [
+       1.2468583,
+       6.6067944
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.524073+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "06°36'24.46\"N 001°14'48.69\"E"
+     },
+     "atsRoutes": {
+      "value": "LOME STAR RNAV 04 WPT",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.524074+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "LOME STAR RNAV 04 WPT"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.75,
+     7.4
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/OPALA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "18e803580bc67c5e12c5a59873d1d6a50817f9243095dff331426362d660a8c9",
+    "fields": {
+     "designator": {
+      "value": "OPALA",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.524089+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "OPALA"
+     },
+     "coordinates": {
+      "value": [
+       2.75,
+       7.4
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.524090+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "07°24'00\"N 002°45'00\"E"
+     },
+     "atsRoutes": {
+      "value": "R984-1/UR984 Limite TMA COTONOU",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.524091+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "R984-1/UR984 Limite TMA COTONOU"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.3366667,
+     11.0
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/OXIDU",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c1296d1710bd351e17b536f31ae9b1026c3d4c1d6d93854ec3415c89805e693e",
+    "fields": {
+     "designator": {
+      "value": "OXIDU",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.524246+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "OXIDU"
+     },
+     "coordinates": {
+      "value": [
+       -0.3366667,
+       11.0
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.524247+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "11°00'00\"N 000°20'12\"W"
+     },
+     "atsRoutes": {
+      "value": "R984-1/UR984 T/R Limite TMA OUAGADOUGOU/FIR ACCRA",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.524248+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "R984-1/UR984 T/R Limite TMA OUAGADOUGOU/FIR ACCRA"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.1147222,
+     4.9438889
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/OXIMU",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d16e8a166e53d799756795507f83fdb1078ece1d093e02d929438d88672b638c",
+    "fields": {
+     "designator": {
+      "value": "OXIMU",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.524263+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "OXIMU"
+     },
+     "coordinates": {
+      "value": [
+       15.1147222,
+       4.9438889
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.524264+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "04°56'38\"N 015°06'53\"E"
+     },
+     "atsRoutes": {
+      "value": "UL433 - UM998",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.524265+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UL433 - UM998"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.5666667,
+     8.0
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/PAMPA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "1efba19bb0d4492ffe9a53878f5bb831426e17f6dc079526977d34eaa7bd470d",
+    "fields": {
+     "designator": {
+      "value": "PAMPA",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.524288+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "PAMPA"
+     },
+     "coordinates": {
+      "value": [
+       0.5666667,
+       8.0
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.524290+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "08°00'00\"N 000°34'00\"E"
+     },
+     "atsRoutes": {
+      "value": "UA601 - B726/UB726 - R983/UR983 Intersection Limite TMA COTONOU",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.524291+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UA601 - B726/UB726 - R983/UR983 Intersection Limite TMA COTONOU"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.3236306,
+     6.6192472
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/PINKU",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "cae68f55561c8284bd393b92ee7c00cdc053399924b3efbda65d6c811b9f8b18",
+    "fields": {
+     "designator": {
+      "value": "PINKU",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.524364+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "PINKU"
+     },
+     "coordinates": {
+      "value": [
+       1.3236306,
+       6.6192472
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.524365+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "06°37'09.29\"N 001°19'25.07\"E"
+     },
+     "atsRoutes": {
+      "value": "LOME STAR RNAV04 WPT",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.524366+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "LOME STAR RNAV04 WPT"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.75,
+     6.4917
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/POLTO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "70d860d6d466fe26d7a9f7c61aba7c10135f1fd4e610ec43875564c5b75fa63d",
+    "fields": {
+     "designator": {
+      "value": "POLTO",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.524732+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "POLTO"
+     },
+     "coordinates": {
+      "value": [
+       2.75,
+       6.4917
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.524734+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "06°29'30.12\"N 002°45'00\"E"
+     },
+     "atsRoutes": {
+      "value": "L433/UL433 Limite TMA COTONOU",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.524736+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "L433/UL433 Limite TMA COTONOU"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0972417,
+     9.9953694
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/POPOL",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "24fab81c6f1520edc005b797b8c798a75094289edf7f9fba91a24d363870a653",
+    "fields": {
+     "designator": {
+      "value": "POPOL",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.524893+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "POPOL"
+     },
+     "coordinates": {
+      "value": [
+       1.0972417,
+       9.9953694
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.524894+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "09°59'43.33\"N 001°05'50.07\"E"
+     },
+     "atsRoutes": {
+      "value": "IAF NIAMTOUGOU",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.524896+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "IAF NIAMTOUGOU"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.28,
+     4.47
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/RALIN",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "251812604a3db79c72c6cc2937d8c3a3ec105d50a1449cf03ad39524c6bf7d88",
+    "fields": {
+     "designator": {
+      "value": "RALIN",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.525109+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "RALIN"
+     },
+     "coordinates": {
+      "value": [
+       8.28,
+       4.47
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.525110+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "04°28'12\"N 008°16'48\"E"
+     },
+     "atsRoutes": {
+      "value": "UR984",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.525111+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UR984"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.6383333,
+     4.1033333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/RUVNI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "fc7a3b8ac31103d82727b02fb08d7f170128eb04a7298e22088743f4f877eedc",
+    "fields": {
+     "designator": {
+      "value": "RUVNI",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.525520+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "RUVNI"
+     },
+     "coordinates": {
+      "value": [
+       19.6383333,
+       4.1033333
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.525521+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "04°06'12\"N 019°38'18\"E"
+     },
+     "atsRoutes": {
+      "value": "L433 T/R Limite TMA BANGUI / TMA GBADOLITE",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.525522+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "L433 T/R Limite TMA BANGUI / TMA GBADOLITE"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     10.7525,
+     5.6430556
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/SEXAT",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "596506025b48e86628f8322f442473ed841fec1636fcbc62455ccc5fb5c78405",
+    "fields": {
+     "designator": {
+      "value": "SEXAT",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.525905+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "SEXAT"
+     },
+     "coordinates": {
+      "value": [
+       10.7525,
+       5.6430556
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.525906+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "05°38'35\"N 010°45'09\"E"
+     },
+     "atsRoutes": {
+      "value": "L433/UL433 - G857/UG857 - UR986 Brazzaville FIR - Cameroon",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.525907+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "L433/UL433 - G857/UG857 - UR986 Brazzaville FIR - Cameroon"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.0166667,
+     10.5833333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/TAMIL",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "8e2a3444128f8fcffb434f2da2c6cd0856793705e195f2c6af45eeea7587d3f1",
+    "fields": {
+     "designator": {
+      "value": "TAMIL",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.526170+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "TAMIL"
+     },
+     "coordinates": {
+      "value": [
+       0.0166667,
+       10.5833333
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.526171+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "10°35'00\"N 000°01'00\"E"
+     },
+     "atsRoutes": {
+      "value": "UA603 - UG855 - R984-1/UR984",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.526172+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UA603 - UG855 - R984-1/UR984"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0812944,
+     9.5299778
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/TASUB",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "91908eb8f2f960f2d5565bc5ab1b19e1232ff2f78d08a8501bc653903a8857b7",
+    "fields": {
+     "designator": {
+      "value": "TASUB",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.526377+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "TASUB"
+     },
+     "coordinates": {
+      "value": [
+       1.0812944,
+       9.5299778
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.526378+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "09°31'47.92\"N 001°04'52.66\"E"
+     },
+     "atsRoutes": {
+      "value": "IAF NIAMTOUGOU",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.526379+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "IAF NIAMTOUGOU"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     50.5527778,
+     -13.6263889
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/TIKEL",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "efce4b2ea7552c0c2163c35503a0de1dfc64e65aa380a561898d3563e423f7bf",
+    "fields": {
+     "designator": {
+      "value": "TIKEL",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.526679+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "TIKEL"
+     },
+     "coordinates": {
+      "value": [
+       50.5527778,
+       -13.6263889
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.526680+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "13°37'35\"S 050°33'10\"E"
+     },
+     "atsRoutes": {
+      "value": "UL433 - UL441",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.526681+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UL433 - UL441"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.3316667,
+     4.1766667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/TOBAB",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "82495449e1418ed3929fd5fece0abbe38998d760006a964672402606654adbc2",
+    "fields": {
+     "designator": {
+      "value": "TOBAB",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.526860+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "TOBAB"
+     },
+     "coordinates": {
+      "value": [
+       15.3316667,
+       4.1766667
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.526862+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "04°10'36\"N 015°19'54\"E"
+     },
+     "atsRoutes": {
+      "value": "UR984 - UM998",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.526863+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UR984 - UM998"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.1833333,
+     6.2766667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/TUSEK",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d3e1d3e6250cdfb39f3d1b4d573bb7e1b2415f3959104837dc3eb10969fff3d0",
+    "fields": {
+     "designator": {
+      "value": "TUSEK",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.526988+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "TUSEK"
+     },
+     "coordinates": {
+      "value": [
+       -3.1833333,
+       6.2766667
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.526989+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "06°16'36\"N 003°11'00\"W"
+     },
+     "atsRoutes": {
+      "value": "UG855",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.526990+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UG855"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.895,
+     11.0
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/UMOVO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "4cb62b6ec174e72054b5aed6b7b7d29741addc9f5b4a4199e8012f994f1f7991",
+    "fields": {
+     "designator": {
+      "value": "UMOVO",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.527324+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UMOVO"
+     },
+     "coordinates": {
+      "value": [
+       -0.895,
+       11.0
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.527325+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "11°00'00\"N 000°53'42\"W"
+     },
+     "atsRoutes": {
+      "value": "R983/UR983",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.527326+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "R983/UR983"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     17.0733333,
+     4.62
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/USLOK",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "cf45a6b1a51155d3c4028ee59328128a9eabfd388fbf0466af6589d9ac86467f",
+    "fields": {
+     "designator": {
+      "value": "USLOK",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.527501+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "USLOK"
+     },
+     "coordinates": {
+      "value": [
+       17.0733333,
+       4.62
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.527502+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "04°37'12\"N 017°04'24\"E"
+     },
+     "atsRoutes": {
+      "value": "UL433 - UQ583 - UM731 Brazzaville FIR",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.527503+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UL433 - UQ583 - UM731 Brazzaville FIR"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.1749639,
+     9.9626194
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/VABOR",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c4ec209372a6d0b497956e11a994170d356dcb7cd0e6ce7f1b7edf1db99b57fa",
+    "fields": {
+     "designator": {
+      "value": "VABOR",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.527636+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "VABOR"
+     },
+     "coordinates": {
+      "value": [
+       1.1749639,
+       9.9626194
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.527637+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "09°57'45.43\"N 001°10'29.87\"E"
+     },
+     "atsRoutes": {
+      "value": "IAF NIAMTOUGOU",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.527638+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "IAF NIAMTOUGOU"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     51.4263889,
+     -14.5
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/VEMAR",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2279aa7e74cfbe452e7a20ee501b7d082f0b17a90b648ae9baa64a5f1842f99e",
+    "fields": {
+     "designator": {
+      "value": "VEMAR",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.527669+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "VEMAR"
+     },
+     "coordinates": {
+      "value": [
+       51.4263889,
+       -14.5
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.527670+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "14°30'00\"S 051°25'35\"E"
+     },
+     "atsRoutes": {
+      "value": "UL433",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.527671+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UL433"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.5666667,
+     4.3463889
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/VITLI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f7d9b8a55eef436613ff6e2ef45b24b1f2897c35c9278eb64123fc9e67895944",
+    "fields": {
+     "designator": {
+      "value": "VITLI",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.527729+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "VITLI"
+     },
+     "coordinates": {
+      "value": [
+       8.5666667,
+       4.3463889
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.527731+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "04°20'47\"N 008°34'00\"E"
+     },
+     "atsRoutes": {
+      "value": "UR984",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.527732+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UR984"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     17.1572222,
+     4.3041667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/VOTUR",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "90db067dd7de0c28069198a23eaa7918ef645093277a97a7c05ead8fb7e1e301",
+    "fields": {
+     "designator": {
+      "value": "VOTUR",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528049+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "VOTUR"
+     },
+     "coordinates": {
+      "value": [
+       17.1572222,
+       4.3041667
+      ],
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528050+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "04°18'15\"N 017°09'26\"E"
+     },
+     "atsRoutes": {
+      "value": "UM731 - UR984",
+      "unit": null,
+      "source": "eAIP ASECNA",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T10:15:25.528051+00:00",
+      "source_url": "https://aim.asecna.aero/html/eAIP/FR-_00ENR-4.4-01-fr-FR.html",
+      "parser_version": "1.0",
+      "raw_text": "UM731 - UR984"
+     }
+    }
+   }
+  }
+ ],
+ "featureTypes": [
+  {
+   "featureType": "aerodrome",
+   "count": 2
+  },
+  {
+   "featureType": "navaid",
+   "count": 1
+  },
+  {
+   "featureType": "route",
+   "count": 11
+  },
+  {
+   "featureType": "runway",
+   "count": 2
+  },
+  {
+   "featureType": "runwayDirection",
+   "count": 4
+  },
+  {
+   "featureType": "waypoint",
+   "count": 69
+  }
+ ],
+ "publications": [
+  {
+   "cycleId": "2026-10-01-current",
+   "effectiveDate": "2026-10-01",
+   "amendmentId": "eAIP valid from 2026-10-01",
+   "sourceKind": "LIVE",
+   "ingestedAt": "2026-10-27T10:15:25.578932+00:00",
+   "status": "promoted",
+   "stats": {
+    "total_documents": 8,
+    "parsed_features": 89,
+    "issue_count": 19,
+    "error_count": 0,
+    "warning_count": 19
+   },
+   "sourceUrl": "https://aim.asecna.aero/html/index-fr-FR.html",
+   "notes": null
+  }
+ ],
+ "issues": [
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/B726",
+   "section": "ENR 3.1",
+   "message": "Route B726 references 'NY' absent from national index",
+   "rawSnippet": "NY"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/L433",
+   "section": "ENR 3.1",
+   "message": "Route L433 references 'TYE' absent from national index",
+   "rawSnippet": "TYE"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/L433",
+   "section": "ENR 3.1",
+   "message": "Route L433 references 'MF' absent from national index",
+   "rawSnippet": "MF"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/L433",
+   "section": "ENR 3.1",
+   "message": "Route L433 references 'MPK' absent from national index",
+   "rawSnippet": "MPK"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/R983",
+   "section": "ENR 3.1",
+   "message": "Route R983 references 'OG' absent from national index",
+   "rawSnippet": "OG"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/R984",
+   "section": "ENR 3.1",
+   "message": "Route R984 references 'OG' absent from national index",
+   "rawSnippet": "OG"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/UB726",
+   "section": "ENR 3.2",
+   "message": "Route UB726 references 'NY' absent from national index",
+   "rawSnippet": "NY"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/UG855",
+   "section": "ENR 3.2",
+   "message": "Route UG855 references 'NY' absent from national index",
+   "rawSnippet": "NY"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/UG855",
+   "section": "ENR 3.2",
+   "message": "Route UG855 references 'AD' absent from national index",
+   "rawSnippet": "AD"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/UR983",
+   "section": "ENR 3.2",
+   "message": "Route UR983 references 'OG' absent from national index",
+   "rawSnippet": "OG"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/UR984",
+   "section": "ENR 3.2",
+   "message": "Route UR984 references 'OG' absent from national index",
+   "rawSnippet": "OG"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/UR984",
+   "section": "ENR 3.2",
+   "message": "Route UR984 references 'DLA' absent from national index",
+   "rawSnippet": "DLA"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/UR984",
+   "section": "ENR 3.2",
+   "message": "Route UR984 references 'NLY' absent from national index",
+   "rawSnippet": "NLY"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/UR984",
+   "section": "ENR 3.2",
+   "message": "Route UR984 references 'BT' absent from national index",
+   "rawSnippet": "BT"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/UR984",
+   "section": "ENR 3.2",
+   "message": "Route UR984 references 'MPK' absent from national index",
+   "rawSnippet": "MPK"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/UL433",
+   "section": "ENR 3.3",
+   "message": "Route UL433 references 'TYE' absent from national index",
+   "rawSnippet": "TYE"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/UL433",
+   "section": "ENR 3.3",
+   "message": "Route UL433 references 'MF' absent from national index",
+   "rawSnippet": "MF"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/UL433",
+   "section": "ENR 3.3",
+   "message": "Route UL433 references 'MPK' absent from national index",
+   "rawSnippet": "MPK"
+  },
+  {
+   "publicationId": "2026-10-01-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/UL433",
+   "section": "ENR 3.3",
+   "message": "Route UL433 references 'DO' absent from national index",
+   "rawSnippet": "DO"
+  }
+ ],
+ "meta": {
+  "state": "Togo",
+  "continent": "Africa",
+  "websites": [
+   {
+    "name": "AIP ASECNA",
+    "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+   }
+  ],
+  "contact_emails": [
+   "dnaai@asecna.org"
+  ]
+ }
+}

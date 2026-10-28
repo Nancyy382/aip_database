@@ -1,0 +1,5335 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.2266667,
+     36.1802778
+    ]
+   },
+   "properties": {
+    "naturalKey": "OSAP",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "4480e4ac57ad91259c5125b2bfbde6fba35cd9ad149c9a99b1d2d7890c81262c",
+    "fields": {
+     "airportName": {
+      "value": "Aleppo International Airport",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSAP AD 2.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.490587+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/60",
+      "parser_version": "1.0",
+      "raw_text": "Aleppo International Airport"
+     },
+     "arpCoordinates": {
+      "value": [
+       37.2266667,
+       36.1802778
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSAP AD 2.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.490592+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/60",
+      "parser_version": "1.0",
+      "raw_text": "361049N 0371336E"
+     },
+     "elevation": {
+      "value": 1276,
+      "unit": "FT",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSAP AD 2.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.490594+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/60",
+      "parser_version": "1.0",
+      "raw_text": "3 Elevation/Reference temperature 1276ft(389M) , 36°C"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.5133333,
+     33.4108333
+    ]
+   },
+   "properties": {
+    "naturalKey": "OSDI",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "068e19272dfa87b4456bacfa0cff1d70b3be66061eb7cbe8d9aa84109c096eae",
+    "fields": {
+     "airportName": {
+      "value": "Damascus International Airport",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSDI AD 2.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.481489+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/59",
+      "parser_version": "1.0",
+      "raw_text": "Damascus International Airport"
+     },
+     "arpCoordinates": {
+      "value": [
+       36.5133333,
+       33.4108333
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSDI AD 2.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.481493+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/59",
+      "parser_version": "1.0",
+      "raw_text": "332439N 0363048E"
+     },
+     "elevation": {
+      "value": 2020,
+      "unit": "FT",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSDI AD 2.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.481495+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/59",
+      "parser_version": "1.0",
+      "raw_text": "3 Elevation/Reference temperature 2020ft 35.7°C"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     41.2051999,
+     37.0472747
+    ]
+   },
+   "properties": {
+    "naturalKey": "OSKL",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "080476f80a53522a683c403005716bccb20c4c7ec752ff0b485f6cf19f742039",
+    "fields": {
+     "airportName": {
+      "value": "Kamishly Airport",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSKL AD 2.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.506040+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/63",
+      "parser_version": "1.0",
+      "raw_text": "Kamishly Airport"
+     },
+     "arpCoordinates": {
+      "value": [
+       41.2051999,
+       37.0472747
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSKL AD 2.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.506044+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/63",
+      "parser_version": "1.0",
+      "raw_text": "37°02'50.188917\"N 41°12'18.719665\"E"
+     },
+     "elevation": {
+      "value": 1430,
+      "unit": "FT",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSKL AD 2.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.506046+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/63",
+      "parser_version": "1.0",
+      "raw_text": "3 Elevation/Reference temperature 1430 ft (436 m) / 35.7°C"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.9478362,
+     35.4096273
+    ]
+   },
+   "properties": {
+    "naturalKey": "OSLK",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "bf6b7b2fefff14582e3bc432b3feb1299d7c9ce813b59795077557b064341e86",
+    "fields": {
+     "airportName": {
+      "value": "Lattakia International Airport",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSLK AD 2.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.496987+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/61",
+      "parser_version": "1.0",
+      "raw_text": "Lattakia International Airport"
+     },
+     "arpCoordinates": {
+      "value": [
+       35.9478362,
+       35.4096273
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSLK AD 2.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.496991+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/61",
+      "parser_version": "1.0",
+      "raw_text": "35°24'34.658343\"N 35°56 52.2103007\"E"
+     },
+     "elevation": {
+      "value": 157,
+      "unit": "FT",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSLK AD 2.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.496993+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/61",
+      "parser_version": "1.0",
+      "raw_text": "3 Elevation/Reference temperature 157ft (48m) 35.5°C"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.4281861,
+     33.3352861
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/ABD",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "cb55abaabfa935dfc94d40e5d498dc0189ffbd616c0a5accc124546b9158f202",
+    "fields": {
+     "designator": {
+      "value": "ABD",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461825+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "ABD"
+     },
+     "stationName": {
+      "value": "DAMASCUS",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461826+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "DAMASCUS"
+     },
+     "navaidType": {
+      "value": "NDB",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461827+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "NDB"
+     },
+     "frequency": {
+      "value": 264.0,
+      "unit": "KHZ",
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461828+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "264 kHz"
+     },
+     "frequencyUnit": {
+      "value": "KHZ",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461829+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "KHZ"
+     },
+     "frequencyRaw": {
+      "value": "264 kHz",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461830+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "264 kHz"
+     },
+     "coordinates": {
+      "value": [
+       36.4281861,
+       33.3352861
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461832+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "332007.03N 0362541.47E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.2244444,
+     36.1808333
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/ALE",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "4cae7c05c2fedeb0f70d8280055560502c0f07270ebf3e9e9848e3faed64064e",
+    "fields": {
+     "designator": {
+      "value": "ALE",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461690+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "ALE"
+     },
+     "stationName": {
+      "value": "ALEPPO",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461695+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "ALEPPO"
+     },
+     "navaidType": {
+      "value": "NDB",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461696+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "NDB"
+     },
+     "frequency": {
+      "value": 396.0,
+      "unit": "KHZ",
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461697+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "396 kHz"
+     },
+     "frequencyUnit": {
+      "value": "KHZ",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461698+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "KHZ"
+     },
+     "frequencyRaw": {
+      "value": "396 kHz",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461699+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "396 kHz"
+     },
+     "coordinates": {
+      "value": [
+       37.2244444,
+       36.1808333
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461702+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "361051N 0371328E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.2094444,
+     36.1791944
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/ALE/DVOR",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "3c16ba886ac37f3a5061a5acaba12df01601b58bd043259f78d453715857b0cc",
+    "fields": {
+     "designator": {
+      "value": "ALE",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461731+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "ALE"
+     },
+     "stationName": {
+      "value": "ALEPPO",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461733+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "ALEPPO"
+     },
+     "navaidType": {
+      "value": "DVOR/DME",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461734+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "DVOR/DME"
+     },
+     "frequency": {
+      "value": 114.5,
+      "unit": "MHZ",
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461735+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "114.5 MHz"
+     },
+     "frequencyUnit": {
+      "value": "MHZ",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461736+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "MHZ"
+     },
+     "frequencyRaw": {
+      "value": "114.5 MHz",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461737+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "114.5 MHz"
+     },
+     "coordinates": {
+      "value": [
+       37.2094444,
+       36.1791944
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461739+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "361045.10N 0371234.00E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.9566667,
+     35.2266667
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/BAN",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f9c126f5551e38f2ee420e3f763f152313517621974f466981f8e8f47f3b1d7c",
+    "fields": {
+     "designator": {
+      "value": "BAN",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461758+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "BAN"
+     },
+     "stationName": {
+      "value": "BANIAS",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461759+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "BANIAS"
+     },
+     "navaidType": {
+      "value": "NDB",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461760+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "NDB"
+     },
+     "frequency": {
+      "value": 304.0,
+      "unit": "KHZ",
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461761+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "304 kHz"
+     },
+     "frequencyUnit": {
+      "value": "KHZ",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461763+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "KHZ"
+     },
+     "frequencyRaw": {
+      "value": "304 kHz",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461764+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "304 kHz"
+     },
+     "coordinates": {
+      "value": [
+       35.9566667,
+       35.2266667
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461766+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "351336N 0355724E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.60172,
+     33.4875511
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/DAL",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "656b61769ed48825474e00199a5f3156e4d2fc480e4ce08fa9c95298555b5976",
+    "fields": {
+     "designator": {
+      "value": "DAL",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461783+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "DAL"
+     },
+     "stationName": {
+      "value": "Damascus Locator",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461784+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "Damascus Locator"
+     },
+     "navaidType": {
+      "value": "NDB",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461785+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "NDB"
+     },
+     "frequency": {
+      "value": 342.0,
+      "unit": "KHZ",
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461786+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "342 kHz"
+     },
+     "frequencyUnit": {
+      "value": "KHZ",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461787+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "KHZ"
+     },
+     "frequencyRaw": {
+      "value": "342 kHz",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461788+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "342 kHz"
+     },
+     "coordinates": {
+      "value": [
+       36.60172,
+       33.4875511
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461790+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "332915.183797N 0363606.191927E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.468625,
+     33.3648833
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/DAM",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "35b204b06a6c884056096e16f389902611ef901228c5f1cab9ce1db1373754be",
+    "fields": {
+     "designator": {
+      "value": "DAM",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461805+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "DAM"
+     },
+     "stationName": {
+      "value": "DAMASCUS",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461806+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "DAMASCUS"
+     },
+     "navaidType": {
+      "value": "DVOR/DME",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461807+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "DVOR/DME"
+     },
+     "frequency": {
+      "value": 116.0,
+      "unit": "MHZ",
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461808+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "116.0 MHz / CH107X"
+     },
+     "frequencyUnit": {
+      "value": "MHZ",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461809+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "MHZ"
+     },
+     "frequencyRaw": {
+      "value": "116.0 MHz / CH107X",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461810+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "116.0 MHz / CH107X"
+     },
+     "coordinates": {
+      "value": [
+       36.468625,
+       33.3648833
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461812+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "332153.58N 0362807.05E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     40.1537778,
+     35.2919417
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/DRZ",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "61cdca821e6b8400a5bef35e648d69a2e90f6cc4c5c32c230d7a9f9111f150ad",
+    "fields": {
+     "designator": {
+      "value": "DRZ",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461845+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "DRZ"
+     },
+     "stationName": {
+      "value": "DEIRZZOR",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461846+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "DEIRZZOR"
+     },
+     "navaidType": {
+      "value": "DVOR/DME",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461847+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "DVOR/DME"
+     },
+     "frequency": {
+      "value": 117.0,
+      "unit": "MHZ",
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461848+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "117.0 MHz / CH117X"
+     },
+     "frequencyUnit": {
+      "value": "MHZ",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461849+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "MHZ"
+     },
+     "frequencyRaw": {
+      "value": "117.0 MHz / CH117X",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461850+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "117.0 MHz / CH117X"
+     },
+     "coordinates": {
+      "value": [
+       40.1537778,
+       35.2919417
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461852+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "351730.99N 0400913.60E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     40.7666667,
+     36.4833333
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/HAS",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "4445aa4d201b8941f3af427060d69a324afe1874aa859d5ee06578318b073a96",
+    "fields": {
+     "designator": {
+      "value": "HAS",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461865+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "HAS"
+     },
+     "stationName": {
+      "value": "HASSAKEH",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461866+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "HASSAKEH"
+     },
+     "navaidType": {
+      "value": "NDB",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461867+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "NDB"
+     },
+     "frequency": {
+      "value": 363.0,
+      "unit": "KHZ",
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461868+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "363 KHZ"
+     },
+     "frequencyUnit": {
+      "value": "KHZ",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461868+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "KHZ"
+     },
+     "frequencyRaw": {
+      "value": "363 KHZ",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461869+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "363 KHZ"
+     },
+     "coordinates": {
+      "value": [
+       40.7666667,
+       36.4833333
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461871+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "362900N 0404600E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     41.2,
+     37.0166667
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/KML",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "a3e55fcf9e4fa3d31b9b76541be591d2b5ee8ef717c929c7d8ae65ea887e721a",
+    "fields": {
+     "designator": {
+      "value": "KML",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461885+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "KML"
+     },
+     "stationName": {
+      "value": "KAMISHLY",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461886+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "KAMISHLY"
+     },
+     "navaidType": {
+      "value": "DVOR/DME",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461887+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "DVOR/DME"
+     },
+     "frequency": {
+      "value": 115.1,
+      "unit": "MHZ",
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461888+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "115.1 MHz"
+     },
+     "frequencyUnit": {
+      "value": "MHZ",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461889+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "MHZ"
+     },
+     "frequencyRaw": {
+      "value": "115.1 MHz",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461890+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "115.1 MHz"
+     },
+     "coordinates": {
+      "value": [
+       41.2,
+       37.0166667
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461892+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "370100N 0411200E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.2642111,
+     34.2132833
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/KTN",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d1ebf99f89558ba3767314a906871984a727af1900a8a980d5bce4481d260d10",
+    "fields": {
+     "designator": {
+      "value": "KTN",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461906+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "KTN"
+     },
+     "stationName": {
+      "value": "KARIATAIN",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461907+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "KARIATAIN"
+     },
+     "navaidType": {
+      "value": "VOR/DME",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461908+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "VOR/DME"
+     },
+     "frequency": {
+      "value": 117.7,
+      "unit": "MHZ",
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461909+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "117.7 MHz"
+     },
+     "frequencyUnit": {
+      "value": "MHZ",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461910+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "MHZ"
+     },
+     "frequencyRaw": {
+      "value": "117.7 MHz",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461911+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "117.7 MHz"
+     },
+     "coordinates": {
+      "value": [
+       37.2642111,
+       34.2132833
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461913+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "341247.82N 0371551.16E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.9475,
+     35.4019444
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/LTK",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "3bf3a212423591f88ad2d9b286315ac4cb3e772e73b774d265908ae9c0355954",
+    "fields": {
+     "designator": {
+      "value": "LTK",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461926+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "LTK"
+     },
+     "stationName": {
+      "value": "LATTAKIA",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461927+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "LATTAKIA"
+     },
+     "navaidType": {
+      "value": "DVOR/DME",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461928+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "DVOR/DME"
+     },
+     "frequency": {
+      "value": 114.8,
+      "unit": "MHZ",
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461929+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "114.8 MHz / CH95X"
+     },
+     "frequencyUnit": {
+      "value": "MHZ",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461930+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "MHZ"
+     },
+     "frequencyRaw": {
+      "value": "114.8 MHz / CH95X",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461931+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "114.8 MHz / CH95X"
+     },
+     "coordinates": {
+      "value": [
+       35.9475,
+       35.4019444
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461933+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "352407N 0355651E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.6540639,
+     33.4823833
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/TAN",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "546adb4b802625b3f9da514eab2b1f3897ad770ff4721add07bf6e516e87df1f",
+    "fields": {
+     "designator": {
+      "value": "TAN",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461946+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "TAN"
+     },
+     "stationName": {
+      "value": "TANF",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461947+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "TANF"
+     },
+     "navaidType": {
+      "value": "VOR/DME",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461948+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "VOR/DME"
+     },
+     "frequency": {
+      "value": 114.0,
+      "unit": "MHZ",
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461949+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "114.0 MHz"
+     },
+     "frequencyUnit": {
+      "value": "MHZ",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461950+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "MHZ"
+     },
+     "frequencyRaw": {
+      "value": "114.0 MHz",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461951+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "114.0 MHz"
+     },
+     "coordinates": {
+      "value": [
+       38.6540639,
+       33.4823833
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.1",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.461953+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/28",
+      "parser_version": "1.0",
+      "raw_text": "332856.58N 0383914.63E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      37.9923333,
+      32.97
+     ],
+     [
+      38.3165,
+      33.2368333
+     ],
+     [
+      38.6540639,
+      33.4823833
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/A412",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b379e2c708a589d212b028aefb67c95c0e30abf861d3b62044b01557c9673927",
+    "fields": {
+     "designator": {
+      "value": "A412",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.471022+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "A412"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.471024+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/ZELAF",
+       "WPT/RAFIF",
+       "NAV/TAN"
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.471025+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "WPT/ZELAF -> WPT/RAFIF -> NAV/TAN"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      38.6607194,
+      33.3071333
+     ],
+     [
+      38.6540639,
+      33.4823833
+     ],
+     [
+      38.1188333,
+      34.5321667
+     ],
+     [
+      37.21,
+      36.1733333
+     ],
+     [
+      37.3623333,
+      36.659
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/B544",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "6b59558fd10fa53f8f5262d215d745db7c572c7ff4f678d598d5bc05e0ddb8c6",
+    "fields": {
+     "designator": {
+      "value": "B544",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.471049+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "B544"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.471051+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/NAMBO",
+       "NAV/TAN",
+       "WPT/TUDMU",
+       "NAV/ALE",
+       "WPT/TUSYR"
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.471052+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "WPT/NAMBO -> NAV/TAN -> WPT/TUDMU -> NAV/ALE -> WPT/TUSYR"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      36.468625,
+      33.3648833
+     ],
+     [
+      36.8041667,
+      33.4095
+     ],
+     [
+      37.709,
+      33.4653333
+     ],
+     [
+      38.1518333,
+      33.4766667
+     ],
+     [
+      38.6540639,
+      33.4823833
+     ],
+     [
+      39.03,
+      33.4653333
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/G202",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "78be5c82e8888834e3751bbd22074689e0be99e1e1feb7c9bdbd0519b9ea2d67",
+    "fields": {
+     "designator": {
+      "value": "G202",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.471079+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "G202"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.471080+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "NAV/DAM",
+       "WPT/SOFIA",
+       "WPT/ABBAS",
+       "WPT/SULAF",
+       "NAV/TAN",
+       "WPT/MODIK"
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.471082+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "NAV/DAM -> WPT/SOFIA -> WPT/ABBAS -> WPT/SULAF -> NAV/TAN -> WPT/MODIK"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      36.7148333,
+      34.9231667
+     ],
+     [
+      36.5243333,
+      34.6705
+     ],
+     [
+      36.583,
+      34.3325
+     ],
+     [
+      36.468625,
+      33.3648833
+     ],
+     [
+      36.5521667,
+      32.6738333
+     ],
+     [
+      36.6188333,
+      32.3466667
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/L513",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "9c5f85c30eca3a4f1f203889b91846baf032e7c3e1c00a78b262ceae17bd5893",
+    "fields": {
+     "designator": {
+      "value": "L513",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.471109+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "L513"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.471110+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/MURAK",
+       "WPT/BRAVO",
+       "WPT/LEBOR",
+       "NAV/DAM",
+       "WPT/SWIDA",
+       "WPT/BUSRA"
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.471112+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "WPT/MURAK -> WPT/BRAVO -> WPT/LEBOR -> NAV/DAM -> WPT/SWIDA -> WPT/BUSRA"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      36.0333333,
+      35.8833333
+     ],
+     [
+      36.3236667,
+      35.5335
+     ],
+     [
+      37.2642111,
+      34.2132833
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/L601",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "ac1da4e83f018d83e2306c65162ac4374aae1a18a2f3a6dd934c4dac335b74e4",
+    "fields": {
+     "designator": {
+      "value": "L601",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.471174+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "L601"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.471175+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/TUNLA",
+       "WPT/SALIM",
+       "NAV/KTN"
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.471176+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "WPT/TUNLA -> WPT/SALIM -> NAV/KTN"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      38.2808333,
+      33.2773333
+     ],
+     [
+      38.2046667,
+      33.4888333
+     ],
+     [
+      37.9131667,
+      33.8703333
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/L768",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "099740ecde03a7c03aff55a09ba8408c51e75322d50c91e0ff949656aa10d0a3",
+    "fields": {
+     "designator": {
+      "value": "L768",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.471193+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "L768"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.471194+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/RAFIF",
+       "WPT/SULAF",
+       "WPT/FIRAS"
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.471195+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "WPT/RAFIF -> WPT/SULAF -> WPT/FIRAS"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      38.5608333,
+      35.7996667
+     ],
+     [
+      36.631,
+      36.7796667
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/M861",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "3929e05844065f088e533f24383e336475588558171ec2357d9bf487ac91e8aa",
+    "fields": {
+     "designator": {
+      "value": "M861",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.471127+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "M861"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.471128+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/TABQA",
+       "WPT/NISAP"
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.471129+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "WPT/TABQA -> WPT/NISAP"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      38.6540639,
+      33.4823833
+     ],
+     [
+      37.8841667,
+      33.8823333
+     ],
+     [
+      37.2642111,
+      34.2132833
+     ],
+     [
+      36.583,
+      34.3325
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/R655",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "9de114b71e03478ee3a8d318784e02716017345e11e835f19589a7c1e45f224d",
+    "fields": {
+     "designator": {
+      "value": "R655",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470998+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "R655"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470999+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "NAV/TAN",
+       "WPT/FIRAS",
+       "NAV/KTN",
+       "WPT/LEBOR"
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.471001+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "NAV/TAN -> WPT/FIRAS -> NAV/KTN -> WPT/LEBOR"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.7166667,
+      35.1933333
+     ],
+     [
+      36.5243333,
+      34.6705
+     ],
+     [
+      37.2642111,
+      34.2132833
+     ],
+     [
+      37.6511667,
+      33.562
+     ],
+     [
+      37.709,
+      33.4653333
+     ],
+     [
+      37.9921667,
+      32.973
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/R785",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "4d01e1b45f6f5676fe3ddd0e72d556f476a45f524697abd8aa72b6e4ac202b13",
+    "fields": {
+     "designator": {
+      "value": "R785",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.471154+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "R785"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.471155+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/NIKAS",
+       "WPT/BRAVO",
+       "NAV/KTN",
+       "WPT/BASEM",
+       "WPT/ABBAS",
+       "WPT/ZELAF"
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.471156+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "WPT/NIKAS -> WPT/BRAVO -> NAV/KTN -> WPT/BASEM -> WPT/ABBAS -> WPT/ZELAF"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      36.6426667,
+      36.8471667
+     ],
+     [
+      37.225,
+      36.2291667
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UB402",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e47d4b69eab86b38131a2ace70c1554e51dc9c8e5159a06f36f3f793210d6d9f",
+    "fields": {
+     "designator": {
+      "value": "UB402",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.3",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.472321+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/24",
+      "parser_version": "1.0",
+      "raw_text": "UB402"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.3",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.472324+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/24",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/NISAP",
+       "NAV/ALE"
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.3",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.472327+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/24",
+      "parser_version": "1.0",
+      "raw_text": "WPT/NISAP -> WPT/ALEPPO"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.3",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.472328+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/24",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      37.1586667,
+      36.2218333
+     ],
+     [
+      36.5435,
+      35.6763333
+     ],
+     [
+      36.3236667,
+      35.5335
+     ],
+     [
+      35.9501667,
+      35.2456667
+     ],
+     [
+      41.143,
+      34.6955
+     ],
+     [
+      40.1537778,
+      35.2919417
+     ],
+     [
+      37.3623333,
+      36.659
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/W6",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "034a88093a15106f828975cae725e279955b478c5f0e31ac6b6841b75fc35da8",
+    "fields": {
+     "designator": {
+      "value": "W6",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.471224+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "W6"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.471225+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "NAV/ALE",
+       "WPT/LUBAM",
+       "WPT/SALIM",
+       "NAV/BAN",
+       "WPT/ELEXI",
+       "NAV/DRZ",
+       "WPT/TUSYR"
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.471226+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "NAV/ALE -> WPT/LUBAM -> WPT/SALIM -> NAV/BAN -> WPT/ELEXI -> NAV/DRZ -> WPT/TUSYR"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      37.2086111,
+      36.1836111
+     ],
+     [
+      37.2408333,
+      36.1805556
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "OSAP/RWY/09L-27R",
+    "parentKey": "OSAP",
+    "featureType": "runway",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d4bc68992ecddd326d2f515b1ceba55ef0269981811ea02d42c80f21d91e4e8d",
+    "fields": {
+     "pairDesignator": {
+      "value": "09L-27R",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSAP AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.490626+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/60",
+      "parser_version": "1.0",
+      "raw_text": "09L-27R"
+     },
+     "length": {
+      "value": 2910.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSAP AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.490620+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/60",
+      "parser_version": "1.0",
+      "raw_text": "2910 m × 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSAP AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.490622+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/60",
+      "parser_version": "1.0",
+      "raw_text": "2910 m × 45"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      37.2083611,
+      36.1821667
+     ],
+     [
+      37.2404167,
+      36.1791389
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "OSAP/RWY/09R-27L",
+    "parentKey": "OSAP",
+    "featureType": "runway",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "83d34e8d414a825c906eda0b78bf5d93c52ad6e7ad99df3ae5cdd94fd3ae5a80",
+    "fields": {
+     "pairDesignator": {
+      "value": "09R-27L",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSAP AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.490669+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/60",
+      "parser_version": "1.0",
+      "raw_text": "09R-27L"
+     },
+     "length": {
+      "value": 2910.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSAP AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.490665+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/60",
+      "parser_version": "1.0",
+      "raw_text": "2910m × 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSAP AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.490667+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/60",
+      "parser_version": "1.0",
+      "raw_text": "2910m × 45"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      36.5088469,
+      33.4185772
+     ],
+     [
+      36.5326553,
+      33.4362556
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "OSDI/RWY/05L-23R",
+    "parentKey": "OSDI",
+    "featureType": "runway",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "29a5e300570e726904181e03d157fd8c164912ada4209006a8164841acbe5eab",
+    "fields": {
+     "pairDesignator": {
+      "value": "05L-23R",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSDI AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.481580+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/59",
+      "parser_version": "1.0",
+      "raw_text": "05L-23R"
+     },
+     "length": {
+      "value": 3600.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSDI AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.481575+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/59",
+      "parser_version": "1.0",
+      "raw_text": "3600m × 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSDI AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.481577+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/59",
+      "parser_version": "1.0",
+      "raw_text": "3600m × 45"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      36.4960583,
+      33.3849997
+     ],
+     [
+      36.5246878,
+      33.4062625
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "OSDI/RWY/05R-23L",
+    "parentKey": "OSDI",
+    "featureType": "runway",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "5ef4be173ad68c62078509ee340109c43505c259ec01c966183443da6b578e6d",
+    "fields": {
+     "pairDesignator": {
+      "value": "05R-23L",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSDI AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.481532+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/59",
+      "parser_version": "1.0",
+      "raw_text": "05R-23L"
+     },
+     "length": {
+      "value": 3600.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSDI AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.481527+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/59",
+      "parser_version": "1.0",
+      "raw_text": "3600m × 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSDI AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.481529+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/59",
+      "parser_version": "1.0",
+      "raw_text": "3600m × 45"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      41.1850556,
+      37.0143436
+     ],
+     [
+      41.2038794,
+      37.0331733
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "OSKL/RWY/03-21",
+    "parentKey": "OSKL",
+    "featureType": "runway",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "93f5884a7ae7d55e7abc1270584d8d94cc8841f889a61b4459485d4e70b4ee05",
+    "fields": {
+     "pairDesignator": {
+      "value": "03-21",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSKL AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.506077+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/63",
+      "parser_version": "1.0",
+      "raw_text": "03-21"
+     },
+     "length": {
+      "value": 3600.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSKL AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.506072+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/63",
+      "parser_version": "1.0",
+      "raw_text": "3600 X 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSKL AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.506073+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/63",
+      "parser_version": "1.0",
+      "raw_text": "3600 X 45"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.9475306,
+      35.4138786
+     ],
+     [
+      35.9493546,
+      35.3886865
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "OSLK/RWY/17R-35L",
+    "parentKey": "OSLK",
+    "featureType": "runway",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "ed12394119158d9469c053a51d8cf1960da86b12093ad9261dcc8e91f435772c",
+    "fields": {
+     "pairDesignator": {
+      "value": "17R-35L",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSLK AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.497022+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/61",
+      "parser_version": "1.0",
+      "raw_text": "17R-35L"
+     },
+     "length": {
+      "value": 2800.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSLK AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.497017+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/61",
+      "parser_version": "1.0",
+      "raw_text": "2800m × 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSLK AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.497019+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/61",
+      "parser_version": "1.0",
+      "raw_text": "2800m × 45"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.2086111,
+     36.1836111
+    ]
+   },
+   "properties": {
+    "naturalKey": "OSAP/RWY/09L",
+    "parentKey": "OSAP/RWY/09L-27R",
+    "featureType": "runwayDirection",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "42bfe303d28d127494be0ffe30a71dd2d00bbd24be7bef165dfaa168c670cc65",
+    "fields": {
+     "designator": {
+      "value": "09L",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSAP AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.490636+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/60",
+      "parser_version": "1.0",
+      "raw_text": "09L"
+     },
+     "trueBearing": {
+      "value": 94.0,
+      "unit": "DEG",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSAP AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.490638+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/60",
+      "parser_version": "1.0",
+      "raw_text": "094"
+     },
+     "length": {
+      "value": 2910.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSAP AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.490620+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/60",
+      "parser_version": "1.0",
+      "raw_text": "2910 m × 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSAP AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.490622+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/60",
+      "parser_version": "1.0",
+      "raw_text": "2910 m × 45"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       37.2086111,
+       36.1836111
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSAP AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.490640+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/60",
+      "parser_version": "1.0",
+      "raw_text": "361101N 0371231E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.2083611,
+     36.1821667
+    ]
+   },
+   "properties": {
+    "naturalKey": "OSAP/RWY/09R",
+    "parentKey": "OSAP/RWY/09R-27L",
+    "featureType": "runwayDirection",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2bdc08cff74cf63229de56ba3870ed23b3382137609aedf1f8bead32ad96bac4",
+    "fields": {
+     "designator": {
+      "value": "09R",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSAP AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.490676+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/60",
+      "parser_version": "1.0",
+      "raw_text": "09R"
+     },
+     "trueBearing": {
+      "value": 94.0,
+      "unit": "DEG",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSAP AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.490678+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/60",
+      "parser_version": "1.0",
+      "raw_text": "094"
+     },
+     "length": {
+      "value": 2910.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSAP AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.490665+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/60",
+      "parser_version": "1.0",
+      "raw_text": "2910m × 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSAP AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.490667+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/60",
+      "parser_version": "1.0",
+      "raw_text": "2910m × 45"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       37.2083611,
+       36.1821667
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSAP AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.490680+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/60",
+      "parser_version": "1.0",
+      "raw_text": "361055.8N 0371230.1E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.2404167,
+     36.1791389
+    ]
+   },
+   "properties": {
+    "naturalKey": "OSAP/RWY/27L",
+    "parentKey": "OSAP/RWY/09R-27L",
+    "featureType": "runwayDirection",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2daed14942750c3cab442074bf07042947292748c4ed2b293be35637a7e28039",
+    "fields": {
+     "designator": {
+      "value": "27L",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSAP AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.490691+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/60",
+      "parser_version": "1.0",
+      "raw_text": "27L"
+     },
+     "trueBearing": {
+      "value": 274.0,
+      "unit": "DEG",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSAP AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.490692+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/60",
+      "parser_version": "1.0",
+      "raw_text": "274"
+     },
+     "length": {
+      "value": 2910.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSAP AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.490665+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/60",
+      "parser_version": "1.0",
+      "raw_text": "2910m × 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSAP AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.490667+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/60",
+      "parser_version": "1.0",
+      "raw_text": "2910m × 45"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       37.2404167,
+       36.1791389
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSAP AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.490694+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/60",
+      "parser_version": "1.0",
+      "raw_text": "361044.9N 0371425.5E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.2408333,
+     36.1805556
+    ]
+   },
+   "properties": {
+    "naturalKey": "OSAP/RWY/27R",
+    "parentKey": "OSAP/RWY/09L-27R",
+    "featureType": "runwayDirection",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e1013fa34eb859d962c765d27837f7582ffcd958f7f94bed23e1ac8da83daf87",
+    "fields": {
+     "designator": {
+      "value": "27R",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSAP AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.490649+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/60",
+      "parser_version": "1.0",
+      "raw_text": "27R"
+     },
+     "trueBearing": {
+      "value": 274.0,
+      "unit": "DEG",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSAP AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.490650+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/60",
+      "parser_version": "1.0",
+      "raw_text": "274"
+     },
+     "length": {
+      "value": 2910.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSAP AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.490620+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/60",
+      "parser_version": "1.0",
+      "raw_text": "2910 m × 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSAP AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.490622+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/60",
+      "parser_version": "1.0",
+      "raw_text": "2910 m × 45"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       37.2408333,
+       36.1805556
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSAP AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.490653+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/60",
+      "parser_version": "1.0",
+      "raw_text": "361050N 0371427E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.5088469,
+     33.4185772
+    ]
+   },
+   "properties": {
+    "naturalKey": "OSDI/RWY/05L",
+    "parentKey": "OSDI/RWY/05L-23R",
+    "featureType": "runwayDirection",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "a1b65ae351b0e23825aeba5ad2f58bc5483f4d180f53548851e1e3f3ea9fac48",
+    "fields": {
+     "designator": {
+      "value": "05L",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSDI AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.481587+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/59",
+      "parser_version": "1.0",
+      "raw_text": "05L"
+     },
+     "trueBearing": {
+      "value": 48.0,
+      "unit": "DEG",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSDI AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.481588+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/59",
+      "parser_version": "1.0",
+      "raw_text": "048°"
+     },
+     "length": {
+      "value": 3600.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSDI AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.481575+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/59",
+      "parser_version": "1.0",
+      "raw_text": "3600m × 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSDI AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.481577+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/59",
+      "parser_version": "1.0",
+      "raw_text": "3600m × 45"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       36.5088469,
+       33.4185772
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSDI AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.481591+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/59",
+      "parser_version": "1.0",
+      "raw_text": "332506.878N 0363031.849E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.4960583,
+     33.3849997
+    ]
+   },
+   "properties": {
+    "naturalKey": "OSDI/RWY/05R",
+    "parentKey": "OSDI/RWY/05R-23L",
+    "featureType": "runwayDirection",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "47c884aeab718720c4d4f829eea6d9d53d2a2b87f195227dfc209fcbaa09bbb0",
+    "fields": {
+     "designator": {
+      "value": "05R",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSDI AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.481543+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/59",
+      "parser_version": "1.0",
+      "raw_text": "05R"
+     },
+     "trueBearing": {
+      "value": 48.0,
+      "unit": "DEG",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSDI AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.481545+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/59",
+      "parser_version": "1.0",
+      "raw_text": "048°"
+     },
+     "length": {
+      "value": 3600.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSDI AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.481527+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/59",
+      "parser_version": "1.0",
+      "raw_text": "3600m × 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSDI AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.481529+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/59",
+      "parser_version": "1.0",
+      "raw_text": "3600m × 45"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       36.4960583,
+       33.3849997
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSDI AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.481548+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/59",
+      "parser_version": "1.0",
+      "raw_text": "332305.999N 0362945.810E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.5246878,
+     33.4062625
+    ]
+   },
+   "properties": {
+    "naturalKey": "OSDI/RWY/23L",
+    "parentKey": "OSDI/RWY/05R-23L",
+    "featureType": "runwayDirection",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "37df72f8747234705bc49a7de178e11f0130f4787d1481936a65a9d0dadfed4f",
+    "fields": {
+     "designator": {
+      "value": "23L",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSDI AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.481558+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/59",
+      "parser_version": "1.0",
+      "raw_text": "23L"
+     },
+     "trueBearing": {
+      "value": 228.0,
+      "unit": "DEG",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSDI AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.481559+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/59",
+      "parser_version": "1.0",
+      "raw_text": "228°"
+     },
+     "length": {
+      "value": 3600.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSDI AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.481527+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/59",
+      "parser_version": "1.0",
+      "raw_text": "3600m × 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSDI AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.481529+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/59",
+      "parser_version": "1.0",
+      "raw_text": "3600m × 45"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       36.5246878,
+       33.4062625
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSDI AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.481561+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/59",
+      "parser_version": "1.0",
+      "raw_text": "332422.545N 0363128.876E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.5326553,
+     33.4362556
+    ]
+   },
+   "properties": {
+    "naturalKey": "OSDI/RWY/23R",
+    "parentKey": "OSDI/RWY/05L-23R",
+    "featureType": "runwayDirection",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "cea38e380ff05bb2009cf10a1b75531016d216e1e18757f72ed1c46dbabe1523",
+    "fields": {
+     "designator": {
+      "value": "23R",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSDI AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.481598+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/59",
+      "parser_version": "1.0",
+      "raw_text": "23R"
+     },
+     "trueBearing": {
+      "value": 228.0,
+      "unit": "DEG",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSDI AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.481599+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/59",
+      "parser_version": "1.0",
+      "raw_text": "228°"
+     },
+     "length": {
+      "value": 3600.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSDI AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.481575+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/59",
+      "parser_version": "1.0",
+      "raw_text": "3600m × 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSDI AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.481577+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/59",
+      "parser_version": "1.0",
+      "raw_text": "3600m × 45"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       36.5326553,
+       33.4362556
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSDI AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.481602+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/59",
+      "parser_version": "1.0",
+      "raw_text": "332610.520N 0363157.559E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     41.1850556,
+     37.0143436
+    ]
+   },
+   "properties": {
+    "naturalKey": "OSKL/RWY/03",
+    "parentKey": "OSKL/RWY/03-21",
+    "featureType": "runwayDirection",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "bc3dfbad29f51b221c4e14c8253de4ca946d0ff9e92c023aaca207641fa77254",
+    "fields": {
+     "designator": {
+      "value": "03",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSKL AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.506087+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/63",
+      "parser_version": "1.0",
+      "raw_text": "03"
+     },
+     "trueBearing": {
+      "value": 30.0,
+      "unit": "DEG",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSKL AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.506088+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/63",
+      "parser_version": "1.0",
+      "raw_text": "030°"
+     },
+     "length": {
+      "value": 3600.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSKL AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.506072+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/63",
+      "parser_version": "1.0",
+      "raw_text": "3600 X 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSKL AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.506073+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/63",
+      "parser_version": "1.0",
+      "raw_text": "3600 X 45"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       41.1850556,
+       37.0143436
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSKL AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.506091+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/63",
+      "parser_version": "1.0",
+      "raw_text": "370051.637N 411106.200E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     41.2038794,
+     37.0331733
+    ]
+   },
+   "properties": {
+    "naturalKey": "OSKL/RWY/21",
+    "parentKey": "OSKL/RWY/03-21",
+    "featureType": "runwayDirection",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "3d88e4cf84827b1ee8033621b1a18bf41ce17f7ebf7b66daa57d3c5093072b3c",
+    "fields": {
+     "designator": {
+      "value": "21",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSKL AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.506099+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/63",
+      "parser_version": "1.0",
+      "raw_text": "21"
+     },
+     "trueBearing": {
+      "value": 210.0,
+      "unit": "DEG",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSKL AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.506101+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/63",
+      "parser_version": "1.0",
+      "raw_text": "210"
+     },
+     "length": {
+      "value": 3600.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSKL AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.506072+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/63",
+      "parser_version": "1.0",
+      "raw_text": "3600 X 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSKL AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.506073+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/63",
+      "parser_version": "1.0",
+      "raw_text": "3600 X 45"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       41.2038794,
+       37.0331733
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSKL AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.506104+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/63",
+      "parser_version": "1.0",
+      "raw_text": "370159.424N 411213.966E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.9475306,
+     35.4138786
+    ]
+   },
+   "properties": {
+    "naturalKey": "OSLK/RWY/17R",
+    "parentKey": "OSLK/RWY/17R-35L",
+    "featureType": "runwayDirection",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "cfa220e670c78b4925ead0a184b58118f7fd26f6f1a855827c5712175d95512c",
+    "fields": {
+     "designator": {
+      "value": "17R",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSLK AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.497032+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/61",
+      "parser_version": "1.0",
+      "raw_text": "17R"
+     },
+     "trueBearing": {
+      "value": 173.0,
+      "unit": "DEG",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSLK AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.497034+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/61",
+      "parser_version": "1.0",
+      "raw_text": "173°"
+     },
+     "length": {
+      "value": 2800.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSLK AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.497017+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/61",
+      "parser_version": "1.0",
+      "raw_text": "2800m × 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSLK AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.497019+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/61",
+      "parser_version": "1.0",
+      "raw_text": "2800m × 45"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       35.9475306,
+       35.4138786
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSLK AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.497036+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/61",
+      "parser_version": "1.0",
+      "raw_text": "352449.963074N 355651.110201E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.9493546,
+     35.3886865
+    ]
+   },
+   "properties": {
+    "naturalKey": "OSLK/RWY/35L",
+    "parentKey": "OSLK/RWY/17R-35L",
+    "featureType": "runwayDirection",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "5113fba1e6a6fa4020b9b59cad4302d8a41271bdf723a992ca0ed4160ce32675",
+    "fields": {
+     "designator": {
+      "value": "35L",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSLK AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.497045+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/61",
+      "parser_version": "1.0",
+      "raw_text": "35L"
+     },
+     "trueBearing": {
+      "value": 353.0,
+      "unit": "DEG",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSLK AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.497046+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/61",
+      "parser_version": "1.0",
+      "raw_text": "353°"
+     },
+     "length": {
+      "value": 2800.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSLK AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.497017+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/61",
+      "parser_version": "1.0",
+      "raw_text": "2800m × 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Syria (GACA)",
+      "section": "OSLK AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.497019+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/61",
+      "parser_version": "1.0",
+      "raw_text": "2800m × 45"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       35.9493546,
+       35.3886865
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "OSLK AD 2.12",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.497049+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/61",
+      "parser_version": "1.0",
+      "raw_text": "352319.271454N 355657.676547E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.725,
+     33.4333333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ABBAS",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "635785d1d630ceda6d5765e2a4477e70c0b5855df0aa1a0acfb3e3f41519012a",
+    "fields": {
+     "designator": {
+      "value": "ABBAS",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460124+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "ABBAS"
+     },
+     "coordinates": {
+      "value": [
+       37.725,
+       33.4333333
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460130+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "332600N 0374330E"
+     },
+     "atsRoutes": {
+      "value": "R785 — cross ATS ROUTE G202",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460132+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "R785 — cross ATS ROUTE G202"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.5,
+     33.6080556
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ADRA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "3316f23758fa9975647c4fb919255b324d01f390443d8c810200796a79ddfc62",
+    "fields": {
+     "designator": {
+      "value": "ADRA",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460157+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "ADRA"
+     },
+     "coordinates": {
+      "value": [
+       36.5,
+       33.6080556
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460159+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "333629N 0363000E"
+     },
+     "atsRoutes": {
+      "value": "L513 — ATS ROUTE L513",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460160+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "L513 — ATS ROUTE L513"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.6511667,
+     33.562
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/BASEM",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "1221e9b24ad1321cb309fff192c1d76b6043a60e167e59ffe0dd6dd28c80a8d5",
+    "fields": {
+     "designator": {
+      "value": "BASEM",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470972+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "BASEM"
+     },
+     "coordinates": {
+      "value": [
+       37.6511667,
+       33.562
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470973+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "333343.20N 0373904.20E"
+     },
+     "atsRoutes": {
+      "value": "R785",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470974+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "R785"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.646,
+     34.7063333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/BRAVO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "75ece57fca3b494e1cad94f4fd22bd010f38ae93cc205c3b06c5f6be28c8e484",
+    "fields": {
+     "designator": {
+      "value": "BRAVO",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460176+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "BRAVO"
+     },
+     "coordinates": {
+      "value": [
+       36.646,
+       34.7063333
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460177+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "344222.80N 0363845.60E"
+     },
+     "atsRoutes": {
+      "value": "R785— ATS ROUTE",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460178+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "R785— ATS ROUTE"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.6166667,
+     32.3333333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/BUSRA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "0728b5cb8f81bea8d1de4e238da3c884139e0e7942ead8c9f6493b8ab8dfb697",
+    "fields": {
+     "designator": {
+      "value": "BUSRA",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460190+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "BUSRA"
+     },
+     "coordinates": {
+      "value": [
+       36.6166667,
+       32.3333333
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460192+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "322000N 0363700E"
+     },
+     "atsRoutes": {
+      "value": "L513 — ATS ROUTE",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460193+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "L513 — ATS ROUTE"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     41.149,
+     34.7031667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ELEXI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c37fb5840ed124c81ac6b90a9dcfc037c2b420ca04a4bfe41af506e7f3465098",
+    "fields": {
+     "designator": {
+      "value": "ELEXI",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460204+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "ELEXI"
+     },
+     "coordinates": {
+      "value": [
+       41.149,
+       34.7031667
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460205+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "344211.40N 0410856.40E"
+     },
+     "atsRoutes": {
+      "value": "M861 — ATS ROUTE",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460206+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "M861 — ATS ROUTE"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.8841667,
+     33.8823333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/FIRAS",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "724743f7369cfc91b76e4155c3b2d3a811ec7fe5db28def57c833018055831e6",
+    "fields": {
+     "designator": {
+      "value": "FIRAS",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470866+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "FIRAS"
+     },
+     "coordinates": {
+      "value": [
+       37.8841667,
+       33.8823333
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470870+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "335256.40N 0375303.00E"
+     },
+     "atsRoutes": {
+      "value": "L768, R655",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470872+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "L768, R655"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.5833333,
+     34.2666667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LEBOR",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "6edbcae67e988fcb585657607b9ac7481b0c0bcd0602870c9cbccf7f6a68971c",
+    "fields": {
+     "designator": {
+      "value": "LEBOR",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460217+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "LEBOR"
+     },
+     "coordinates": {
+      "value": [
+       36.5833333,
+       34.2666667
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460218+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "341600N 0363500E"
+     },
+     "atsRoutes": {
+      "value": "L513 —ATS ROUTE",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460219+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "L513 —ATS ROUTE"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.5333333,
+     35.6666667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LUBAM",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "428857b3de3c73dd7431d33384cca0653c2da69519cf15d42ecd63a364e7b994",
+    "fields": {
+     "designator": {
+      "value": "LUBAM",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460228+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "LUBAM"
+     },
+     "coordinates": {
+      "value": [
+       35.5333333,
+       35.6666667
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460229+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "354000N 0353200E"
+     },
+     "atsRoutes": {
+      "value": "W6, ATS ROUTE",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460230+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "W6, ATS ROUTE"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     39.03,
+     33.4653333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/MODIK",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "caa660c1b9996b14fc9e9dbbb0ca5767b7eeedb4813e4909af39318e47b661a1",
+    "fields": {
+     "designator": {
+      "value": "MODIK",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470938+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "MODIK"
+     },
+     "coordinates": {
+      "value": [
+       39.03,
+       33.4653333
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470939+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "332755.20N 0390148.00E"
+     },
+     "atsRoutes": {
+      "value": "G202",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470940+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "G202"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.7148333,
+     34.9231667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/MURAK",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d754d46b5ff3bbc4b12e7a20aa64aac51087df0e98c2441f4e1741951f1d936b",
+    "fields": {
+     "designator": {
+      "value": "MURAK",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470946+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "MURAK"
+     },
+     "coordinates": {
+      "value": [
+       36.7148333,
+       34.9231667
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470948+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "345523.40N 0364253.40E"
+     },
+     "atsRoutes": {
+      "value": "L513",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470949+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "L513"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.6607194,
+     33.3071333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/NAMBO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "0130a49d86811bdd1b648b8bc076bd6807ceaa0e508978bbfb73a57e099b8f7a",
+    "fields": {
+     "designator": {
+      "value": "NAMBO",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470910+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "NAMBO"
+     },
+     "coordinates": {
+      "value": [
+       38.6607194,
+       33.3071333
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470912+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "331825.68N 0383938.59E"
+     },
+     "atsRoutes": {
+      "value": "B544",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470913+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "B544"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.7166667,
+     35.1933333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/NIKAS",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "ba7bce82852f06b80d07ae4e22d379ff2d95761ec21f01c44d25b8a892976a5e",
+    "fields": {
+     "designator": {
+      "value": "NIKAS",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460244+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "NIKAS"
+     },
+     "coordinates": {
+      "value": [
+       35.7166667,
+       35.1933333
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460245+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "351136N 0354300E"
+     },
+     "atsRoutes": {
+      "value": "R785",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460246+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "R785"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.6416667,
+     36.79
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/NISAP",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c111be00879c50be9dd2c1160436801eb1292c350ccb9dc9eb6b471a5216e395",
+    "fields": {
+     "designator": {
+      "value": "NISAP",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460256+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "NISAP"
+     },
+     "coordinates": {
+      "value": [
+       36.6416667,
+       36.79
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460257+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "364724N 0363830E"
+     },
+     "atsRoutes": {
+      "value": "M861 — ATS ROUTE",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460258+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "M861 — ATS ROUTE"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.3165,
+     33.2368333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/RAFIF",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d9c4a253eb5ff79fc8819fcf3f857f8fc873a51960edb0bb0b632f1063387504",
+    "fields": {
+     "designator": {
+      "value": "RAFIF",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470900+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "RAFIF"
+     },
+     "coordinates": {
+      "value": [
+       38.3165,
+       33.2368333
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470902+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "331412.60N 0381859.40E"
+     },
+     "atsRoutes": {
+      "value": "A412, L768",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470903+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "A412, L768"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.5333333,
+     33.0333333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/RDIMA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c4908f87a3ffe3e7df15c92c6ce3285e65ca94d65ce4af7f45253f7345417632",
+    "fields": {
+     "designator": {
+      "value": "RDIMA",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460268+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "RDIMA"
+     },
+     "coordinates": {
+      "value": [
+       36.5333333,
+       33.0333333
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460269+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "330200N 0363200E"
+     },
+     "atsRoutes": {
+      "value": "L513 STAR BRAVO — ATS ROUTE L513",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460270+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "L513 STAR BRAVO — ATS ROUTE L513"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.3236667,
+     35.5335
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/SALIM",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "161713f0c9c0bb0f6718dd1c3559405e449154f97f8a4b97fc07a97335ccdb85",
+    "fields": {
+     "designator": {
+      "value": "SALIM",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460281+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "SALIM"
+     },
+     "coordinates": {
+      "value": [
+       36.3236667,
+       35.5335
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460282+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "353200.60N 0361925.20E"
+     },
+     "atsRoutes": {
+      "value": "L601 — ATS ROUTE",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460283+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "L601 — ATS ROUTE"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.8283333,
+     33.385
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/SOFIA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "9fc9832525bee63aa2c1a834f86c4f31b7620ad5a280c0ecf69f19ec86dde585",
+    "fields": {
+     "designator": {
+      "value": "SOFIA",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460292+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "SOFIA"
+     },
+     "coordinates": {
+      "value": [
+       36.8283333,
+       33.385
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460293+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "332306N 0364942E"
+     },
+     "atsRoutes": {
+      "value": "OSDI — ALT 10000ft reference-ATS ROUTE G202",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460295+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "OSDI — ALT 10000ft reference-ATS ROUTE G202"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.3686111,
+     33.1358333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/SOKAN",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "7a73fadfc026914772d71da4d1b931390651f0c78bf957744531f3096ab8615a",
+    "fields": {
+     "designator": {
+      "value": "SOKAN",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460304+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "SOKAN"
+     },
+     "coordinates": {
+      "value": [
+       38.3686111,
+       33.1358333
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460305+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "330809N 0382207E"
+     },
+     "atsRoutes": {
+      "value": "L768 — ATS ROUTE",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460306+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "L768 — ATS ROUTE"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.1741667,
+     33.455
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/SULAF",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "1a9bc94ac6aa067fc8b31a841f710e99d9063a60d57b012a428d9703ec342470",
+    "fields": {
+     "designator": {
+      "value": "SULAF",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460315+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "SULAF"
+     },
+     "coordinates": {
+      "value": [
+       38.1741667,
+       33.455
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460316+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "332718N 0381027E"
+     },
+     "atsRoutes": {
+      "value": "G202/L768 —",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460317+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "G202/L768 —"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.5521667,
+     32.6738333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/SWIDA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "a967717849606a73fae0cad79a6edf55fbd491e1768713b92800a44ed5c76f12",
+    "fields": {
+     "designator": {
+      "value": "SWIDA",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470955+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "SWIDA"
+     },
+     "coordinates": {
+      "value": [
+       36.5521667,
+       32.6738333
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470956+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "324025.80N 0363307.80E"
+     },
+     "atsRoutes": {
+      "value": "L513",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470957+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "L513"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.5608333,
+     35.7996667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/TABQA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c9d7e7ac22d7766c3948fa00d0b9f92a4639b34cc74a658ecfcd78cd6588086d",
+    "fields": {
+     "designator": {
+      "value": "TABQA",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470964+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "TABQA"
+     },
+     "coordinates": {
+      "value": [
+       38.5608333,
+       35.7996667
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470965+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "354758.80N 0383339.00E"
+     },
+     "atsRoutes": {
+      "value": "M861",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470966+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "M861"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.1188333,
+     34.5321667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/TUDMU",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "63102c0959c6a7213139d0c84c3a1ff64d73cc540f771e4f2b2f63abd4f51fdc",
+    "fields": {
+     "designator": {
+      "value": "TUDMU",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470919+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "TUDMU"
+     },
+     "coordinates": {
+      "value": [
+       38.1188333,
+       34.5321667
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470920+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "343155.80N 0380707.80E"
+     },
+     "atsRoutes": {
+      "value": "B544",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470922+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "B544"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     40.8102778,
+     34.3563889
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/TUKAL",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "16cf466f9a6f3a640238f323c0651629cccd6bfe4985e1267d46ce29a0c5e5f0",
+    "fields": {
+     "designator": {
+      "value": "TUKAL",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460351+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "TUKAL"
+     },
+     "coordinates": {
+      "value": [
+       40.8102778,
+       34.3563889
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460352+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "342123N 0404837E"
+     },
+     "atsRoutes": {
+      "value": "M691, TUNLA to TUKAL. Activation with the new AIP. Not yet effective.",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460353+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "M691, TUNLA to TUKAL. Activation with the new AIP. Not yet effective."
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.0333333,
+     35.8833333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/TUNLA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "a99c37347dd4462f322006d5d59d42460cc48c1b87e5c06bfc4c0318fb65dc3f",
+    "fields": {
+     "designator": {
+      "value": "TUNLA",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460338+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "TUNLA"
+     },
+     "coordinates": {
+      "value": [
+       36.0333333,
+       35.8833333
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460339+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "355300N 0360200E"
+     },
+     "atsRoutes": {
+      "value": "L601 — ATS ROUTE",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 4.4",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.460340+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/31",
+      "parser_version": "1.0",
+      "raw_text": "L601 — ATS ROUTE"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.3623333,
+     36.659
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/TUSYR",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "99af9246f70ea5c1c3d4d4676d41c6a8121089a4a158ef6c55982fb4993d88c6",
+    "fields": {
+     "designator": {
+      "value": "TUSYR",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470929+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "TUSYR"
+     },
+     "coordinates": {
+      "value": [
+       37.3623333,
+       36.659
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470930+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "363932.40N 0372144.40E"
+     },
+     "atsRoutes": {
+      "value": "B544, W6",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470931+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "B544, W6"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.9923333,
+     32.97
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ZELAF",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "unknown-current",
+    "effectiveFrom": "unknown",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "009539bc6a97b2e56f7dfce2223fa4fcc8223959cb5c49f7609d577f47721a50",
+    "fields": {
+     "designator": {
+      "value": "ZELAF",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470888+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "ZELAF"
+     },
+     "coordinates": {
+      "value": [
+       37.9923333,
+       32.97
+      ],
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470890+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "325812.00N 0375932.40E"
+     },
+     "atsRoutes": {
+      "value": "A412, R785",
+      "unit": null,
+      "source": "eAIP Syria (GACA)",
+      "section": "ENR 3.2",
+      "effective_date": "unknown",
+      "retrieved_at": "2026-10-27T05:35:01.470891+00:00",
+      "source_url": "https://eaip.gaca.gov.sy/section/23",
+      "parser_version": "1.0",
+      "raw_text": "A412, R785"
+     }
+    }
+   }
+  }
+ ],
+ "featureTypes": [
+  {
+   "featureType": "aerodrome",
+   "count": 4
+  },
+  {
+   "featureType": "navaid",
+   "count": 12
+  },
+  {
+   "featureType": "route",
+   "count": 11
+  },
+  {
+   "featureType": "runway",
+   "count": 6
+  },
+  {
+   "featureType": "runwayDirection",
+   "count": 12
+  },
+  {
+   "featureType": "waypoint",
+   "count": 27
+  }
+ ],
+ "publications": [
+  {
+   "cycleId": "unknown-current",
+   "effectiveDate": "unknown",
+   "amendmentId": "unknown",
+   "sourceKind": "LIVE",
+   "ingestedAt": "2026-10-27T05:35:01.506372+00:00",
+   "status": "promoted",
+   "stats": {
+    "total_documents": 10,
+    "parsed_features": 72,
+    "issue_count": 1,
+    "error_count": 0,
+    "warning_count": 1
+   },
+   "sourceUrl": "https://eaip.gaca.gov.sy/",
+   "notes": null
+  }
+ ],
+ "issues": [
+  {
+   "publicationId": "unknown-current",
+   "severity": "warning",
+   "ruleId": "RULE_ARP_MISSING",
+   "featureKey": "OSDZ",
+   "section": "OSDZ AD 2.2",
+   "message": "ARP coordinates missing or invalid in the source",
+   "rawSnippet": ""
+  }
+ ],
+ "meta": {
+  "state": "Syria",
+  "continent": "Middle East",
+  "websites": [
+   {
+    "name": "eAIP Syria",
+    "url": "https://eaip.gaca.gov.sy/"
+   }
+  ],
+  "contact_emails": [
+   "info@scaa.sy",
+   "ais@gaca.gov.sy"
+  ]
+ }
+}

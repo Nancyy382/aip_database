@@ -1,0 +1,6189 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.1947222,
+     19.7327778
+    ]
+   },
+   "properties": {
+    "naturalKey": "MTCH",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "05b8488b3ab7aeda19a3745a8dc8e02c53b0a5a8e437e12b4524c5077a44e9bd",
+    "fields": {
+     "airportName": {
+      "value": "AÉROPORT INTERNATIONAL DU CAP-HAÏTIEN",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTCH AD 2.1",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.312029+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": ""
+     },
+     "arpCoordinates": {
+      "value": [
+       -72.1947222,
+       19.7327778
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTCH AD 2.2",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.312032+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "194358N 0721141W"
+     },
+     "elevation": {
+      "value": 10,
+      "unit": "FT",
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTCH AD 2.2",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.312034+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "3m (10 pieds)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.2925417,
+     18.58005
+    ]
+   },
+   "properties": {
+    "naturalKey": "MTPP",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "0ed1f5f216bec043d7a59fe369f693546e3bf58515efadcd16fa0d8397eb9632",
+    "fields": {
+     "airportName": {
+      "value": "AÉROPORT INTERNATIONAL TOUSSAINT LOUVERTURE",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTPP AD 2.1",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311899+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": ""
+     },
+     "arpCoordinates": {
+      "value": [
+       -72.2925417,
+       18.58005
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTPP AD 2.2",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311902+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "183448.18N 0721733.15W"
+     },
+     "elevation": {
+      "value": 122,
+      "unit": "FT",
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTPP AD 2.2",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311904+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "37m (122 pieds)"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.3042389,
+     18.5765333
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/PAP",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "4d52b5ebb2e2c176dad62cb97ac550132648bfaffbad6c11a42ffc55fe2e1944",
+    "fields": {
+     "designator": {
+      "value": "PAP",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.1",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.306866+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "PAP"
+     },
+     "stationName": {
+      "value": "PORT-AU-PRINCE",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.1",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.306878+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "PORT-AU-PRINCE"
+     },
+     "navaidType": {
+      "value": "VOR/DME",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.1",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.306880+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "VOR/DME"
+     },
+     "frequency": {
+      "value": 115.3,
+      "unit": "MHZ",
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.1",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.306882+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "115.300 MHZ"
+     },
+     "frequencyUnit": {
+      "value": "MHZ",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.1",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.306883+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "MHZ"
+     },
+     "frequencyRaw": {
+      "value": "115.300 MHZ",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.1",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.306884+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "115.300 MHZ"
+     },
+     "coordinates": {
+      "value": [
+       -72.3042389,
+       18.5765333
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.1",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.306887+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "183435.52N 0721815.26W"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.74,
+      19.6066667
+     ],
+     [
+      -71.9740611,
+      19.6445444
+     ],
+     [
+      -72.6353833,
+      19.7994222
+     ],
+     [
+      -72.9083333,
+      19.8602778
+     ],
+     [
+      -73.0829139,
+      19.9013639
+     ],
+     [
+      -73.1766722,
+      19.9216861
+     ],
+     [
+      -73.3716667,
+      19.9652778
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/L212",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "501560c939bbb8db1911ae09c911e26e64460f745df5c1cb9448d8bcf3a8152b",
+    "fields": {
+     "designator": {
+      "value": "L212",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311062+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "L212"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311068+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/ONPAD",
+       "WPT/SEPTO",
+       "WPT/ALRED",
+       "WPT/SINKA",
+       "WPT/EBLER",
+       "WPT/ILAGA",
+       "WPT/URLAM"
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311072+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/ONPAD -> WPT/SEPTO -> WPT/ALRED -> WPT/SINKA -> WPT/EBLER -> WPT/ILAGA -> WPT/URLAM"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311074+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.01,
+      19.7716667
+     ],
+     [
+      -72.1672361,
+      19.00365
+     ],
+     [
+      -72.4024028,
+      19.404575
+     ],
+     [
+      -72.6353833,
+      19.7994222
+     ],
+     [
+      -72.755,
+      20.0013611
+     ],
+     [
+      -73.0079667,
+      20.405
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/L304",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d9735de286c5166bc14ad0bafed0e4f5a758aab19c7a80ca44bb398f90d64eec",
+    "fields": {
+     "designator": {
+      "value": "L304",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311136+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "L304"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311139+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/ETBOD",
+       "WPT/KATLU",
+       "WPT/GOPUN",
+       "WPT/ALRED",
+       "WPT/AMATO",
+       "WPT/BODLO"
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311142+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/ETBOD -> WPT/KATLU -> WPT/GOPUN -> WPT/ALRED -> WPT/AMATO -> WPT/BODLO"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311143+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.6819444,
+      19.4286111
+     ],
+     [
+      -71.9740611,
+      19.6445444
+     ],
+     [
+      -72.6228944,
+      20.1204111
+     ],
+     [
+      -73.0079667,
+      20.405
+     ],
+     [
+      -74.1353528,
+      17.8496944
+     ],
+     [
+      -73.3291833,
+      17.8797083
+     ],
+     [
+      -72.80445,
+      17.8968639
+     ],
+     [
+      -72.5229528,
+      17.906475
+     ],
+     [
+      -71.9488139,
+      17.9248222
+     ],
+     [
+      -71.6478306,
+      17.9323
+     ],
+     [
+      -74.6617861,
+      18.2495611
+     ],
+     [
+      -73.9695111,
+      18.3530083
+     ],
+     [
+      -76.2764222,
+      18.4539361
+     ],
+     [
+      -72.9131083,
+      18.4929972
+     ],
+     [
+      -72.3027778,
+      18.5760889
+     ],
+     [
+      -71.8833333,
+      18.5166667
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/L337",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "feddeef81b306854e93760a48982d11d00a78b13d06447ac135986e7be98a890",
+    "fields": {
+     "designator": {
+      "value": "L337",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311252+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "L337"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311254+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/OSIDU",
+       "WPT/SEPTO",
+       "WPT/NOSOX",
+       "WPT/BODLO",
+       "WPT/NOSIS",
+       "WPT/OTAKA",
+       "WPT/BOMEP",
+       "WPT/APLED",
+       "WPT/DARKE",
+       "NAV/DCR",
+       "WPT/KEBET",
+       "WPT/OVAMA",
+       "WPT/GOTEP",
+       "WPT/AVALU",
+       "NAV/PAP",
+       "WPT/ETBOD"
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311257+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/OSIDU -> WPT/SEPTO -> WPT/NOSOX -> WPT/BODLO -> WPT/NOSIS -> WPT/OTAKA -> WPT/BOMEP -> WPT/APLED -> WPT/DARKE -> NAV/DCR -> WPT/KEBET -> WPT/OVAMA -> WPT/GOTEP -> WPT/AVALU -> NAV/PAP -> WPT/ETBOD"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311259+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -74.6617861,
+      18.2495611
+     ],
+     [
+      -74.0697944,
+      18.8
+     ],
+     [
+      -73.5166694,
+      19.3093778
+     ],
+     [
+      -73.1279139,
+      19.6593167
+     ],
+     [
+      -73.01,
+      19.7716667
+     ],
+     [
+      -72.9083333,
+      19.8602778
+     ],
+     [
+      -72.755,
+      20.0013611
+     ],
+     [
+      -72.6228944,
+      20.1204111
+     ],
+     [
+      -72.295,
+      20.4183333
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/M594",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "af53d13b206b0e9ec035ef7970a48ada9168273d8885908aed81bf69b5adb170",
+    "fields": {
+     "designator": {
+      "value": "M594",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311329+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "M594"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311331+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/KEBET",
+       "WPT/GABUN",
+       "WPT/LODMA",
+       "WPT/GOVEV",
+       "WPT/MEDON",
+       "WPT/SINKA",
+       "WPT/AMATO",
+       "WPT/NOXOX",
+       "WPT/ALBBE"
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311334+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/KEBET -> WPT/GABUN -> WPT/LODMA -> WPT/GOVEV -> WPT/MEDON -> WPT/SINKA -> WPT/AMATO -> WPT/NOXOX -> WPT/ALBBE"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311335+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.2588889,
+      17.1966667
+     ],
+     [
+      -72.7635722,
+      17.6705806
+     ],
+     [
+      -72.5229528,
+      17.906475
+     ],
+     [
+      -72.1467167,
+      18.2648528
+     ],
+     [
+      -72.0782167,
+      18.3307139
+     ],
+     [
+      -71.8833333,
+      18.5166667
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/M596",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "caceab0c54a3945666698ef3ef2cb6cb0525d8b251a78cc5a29c407dcd05b341",
+    "fields": {
+     "designator": {
+      "value": "M596",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311382+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "M596"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311383+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/MUPOV",
+       "WPT/ILOLO",
+       "WPT/APLED",
+       "WPT/FAVIT",
+       "WPT/KANIX",
+       "WPT/ETBOD"
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311386+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/MUPOV -> WPT/ILOLO -> WPT/APLED -> WPT/FAVIT -> WPT/KANIX -> WPT/ETBOD"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311387+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.2181722,
+      20.144275
+     ],
+     [
+      -73.1766722,
+      19.9216861
+     ],
+     [
+      -73.0656861,
+      19.3243028
+     ],
+     [
+      -72.9519694,
+      18.7059889
+     ],
+     [
+      -72.9131083,
+      18.4929972
+     ],
+     [
+      -72.80445,
+      17.8968639
+     ],
+     [
+      -72.7635722,
+      17.6705806
+     ],
+     [
+      -72.6666667,
+      17.0
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/Q301",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "538bca74e535823679da7b2a0a60b39f601797261cf7bf480b8b109b7c915640",
+    "fields": {
+     "designator": {
+      "value": "Q301",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311443+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "Q301"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311445+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/JOSES",
+       "WPT/ILAGA",
+       "WPT/ILOVI",
+       "WPT/LEVIS",
+       "WPT/AVALU",
+       "WPT/BOMEP",
+       "WPT/ILOLO",
+       "WPT/LENOM"
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311448+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/JOSES -> WPT/ILAGA -> WPT/ILOVI -> WPT/LEVIS -> WPT/AVALU -> WPT/BOMEP -> WPT/ILOLO -> WPT/LENOM"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311449+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.74,
+      19.6066667
+     ],
+     [
+      -71.9740611,
+      19.6445444
+     ],
+     [
+      -72.6353833,
+      19.7994222
+     ],
+     [
+      -72.9083333,
+      19.8602778
+     ],
+     [
+      -73.0829139,
+      19.9013639
+     ],
+     [
+      -73.1766722,
+      19.9216861
+     ],
+     [
+      -73.3716667,
+      19.9652778
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UL212",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "3b29860d2fd57b0764d00913a930b7c04fca493ec4b55c890b2ae69c7875920a",
+    "fields": {
+     "designator": {
+      "value": "UL212",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311502+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UL212"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311504+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/ONPAD",
+       "WPT/SEPTO",
+       "WPT/ALRED",
+       "WPT/SINKA",
+       "WPT/EBLER",
+       "WPT/ILAGA",
+       "WPT/URLAM"
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311507+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/ONPAD -> WPT/SEPTO -> WPT/ALRED -> WPT/SINKA -> WPT/EBLER -> WPT/ILAGA -> WPT/URLAM"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311508+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.01,
+      19.7716667
+     ],
+     [
+      -72.1672361,
+      19.00365
+     ],
+     [
+      -72.6353833,
+      19.7994222
+     ],
+     [
+      -72.755,
+      20.0013611
+     ],
+     [
+      -73.0079667,
+      20.405
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UL304",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "6372384bcfe2c7e607884f98b84c23121768c78461b205f227124637465c3ae7",
+    "fields": {
+     "designator": {
+      "value": "UL304",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311551+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UL304"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311553+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/ETBOD",
+       "WPT/KATLU",
+       "WPT/ALRED",
+       "WPT/AMATO",
+       "WPT/BODLO"
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311555+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/ETBOD -> WPT/KATLU -> WPT/ALRED -> WPT/AMATO -> WPT/BODLO"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311557+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.6819444,
+      19.4286111
+     ],
+     [
+      -71.9740611,
+      19.6445444
+     ],
+     [
+      -72.6228944,
+      20.1204111
+     ],
+     [
+      -73.0079667,
+      20.405
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UL337",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "dc8e6f3012073bbb5636145525c04c9e2d26941b4cccd6c9243875c0d3ebc05d",
+    "fields": {
+     "designator": {
+      "value": "UL337",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311590+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UL337"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311591+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/OSIDU",
+       "WPT/SEPTO",
+       "WPT/NOSOX",
+       "WPT/BODLO"
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311594+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/OSIDU -> WPT/SEPTO -> WPT/NOSOX -> WPT/BODLO"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311595+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -74.1353528,
+      17.8496944
+     ],
+     [
+      -73.3291833,
+      17.8797083
+     ],
+     [
+      -72.80445,
+      17.8968639
+     ],
+     [
+      -72.5229528,
+      17.906475
+     ],
+     [
+      -71.9488139,
+      17.9248222
+     ],
+     [
+      -71.6478306,
+      17.9323
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UL349",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "068709260fd377d982584ed5283c735bbea36b81ea70201176aff3f266d84c1c",
+    "fields": {
+     "designator": {
+      "value": "UL349",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311638+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UL349"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311639+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/NOSIS",
+       "WPT/OTOKA",
+       "WPT/BOMEP",
+       "WPT/APLED",
+       "WPT/DARKE",
+       "NAV/DCR"
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311642+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/NOSIS -> WPT/OTOKA -> WPT/BOMEP -> WPT/APLED -> WPT/DARKE -> NAV/DCR"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311643+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -74.6617861,
+      18.2495611
+     ],
+     [
+      -72.9131083,
+      18.4929972
+     ],
+     [
+      -72.3027778,
+      18.5760889
+     ],
+     [
+      -71.8833333,
+      18.5166667
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UL577",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "7241ff0604851c23cbc0b17738b4e1438ac856c97d80a5cbab628796878dbd16",
+    "fields": {
+     "designator": {
+      "value": "UL577",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311676+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UL577"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311678+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/KEBET",
+       "WPT/AVALU",
+       "NAV/PAP",
+       "WPT/ETBOD"
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311680+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/KEBET -> WPT/AVALU -> NAV/PAP -> WPT/ETBOD"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311682+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -74.6617861,
+      18.2495611
+     ],
+     [
+      -74.0697944,
+      18.8
+     ],
+     [
+      -73.5166694,
+      19.3093778
+     ],
+     [
+      -73.1279139,
+      19.6593167
+     ],
+     [
+      -73.01,
+      19.7716667
+     ],
+     [
+      -72.9083333,
+      19.8602778
+     ],
+     [
+      -72.755,
+      20.0013611
+     ],
+     [
+      -72.6228944,
+      20.1204111
+     ],
+     [
+      -72.295,
+      20.4183333
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UM594",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "30b3ffdaff1cff256ebd7c591716a0103a06027a2eb452e1afad17932062708c",
+    "fields": {
+     "designator": {
+      "value": "UM594",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311738+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UM594"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311740+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/KEBET",
+       "WPT/GABUN",
+       "WPT/LODMA",
+       "WPT/GOVEV",
+       "WPT/MEDON",
+       "WPT/SINKA",
+       "WPT/AMATO",
+       "WPT/NOXOX",
+       "WPT/ALBBE"
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311742+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/KEBET -> WPT/GABUN -> WPT/LODMA -> WPT/GOVEV -> WPT/MEDON -> WPT/SINKA -> WPT/AMATO -> WPT/NOXOX -> WPT/ALBBE"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311744+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.2588889,
+      17.1966667
+     ],
+     [
+      -72.7635722,
+      17.6705806
+     ],
+     [
+      -72.5229528,
+      17.906475
+     ],
+     [
+      -72.1467167,
+      18.2648528
+     ],
+     [
+      -71.8833333,
+      18.5166667
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UM596",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "39c5bf152feb06766b8356bfef26669d7203b0b954c797a6107e4444cd74353b",
+    "fields": {
+     "designator": {
+      "value": "UM596",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311783+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UM596"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311785+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/MUPOV",
+       "WPT/ILOLO",
+       "WPT/APLED",
+       "WPT/FAVIT",
+       "WPT/ETBOD"
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311787+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/MUPOV -> WPT/ILOLO -> WPT/APLED -> WPT/FAVIT -> WPT/ETBOD"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311789+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.2181722,
+      20.144275
+     ],
+     [
+      -73.1766722,
+      19.9216861
+     ],
+     [
+      -73.0656861,
+      19.3243028
+     ],
+     [
+      -72.9519694,
+      18.7059889
+     ],
+     [
+      -72.9131083,
+      18.4929972
+     ],
+     [
+      -72.80445,
+      17.8968639
+     ],
+     [
+      -72.7635722,
+      17.6705806
+     ],
+     [
+      -72.6666667,
+      17.0
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/UQ301",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2cd65735ab99a1ab62e21d5cfd16aea6d05684a48a7a15259b84da9b3ac2dda3",
+    "fields": {
+     "designator": {
+      "value": "UQ301",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311843+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UQ301"
+     },
+     "routeClass": {
+      "value": "ENR 3.3",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311845+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.3"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/JOSES",
+       "WPT/ILAGA",
+       "WPT/ILOVI",
+       "WPT/LEVIS",
+       "WPT/AVALU",
+       "WPT/BOMEP",
+       "WPT/ILOLO",
+       "WPT/LENOM"
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311847+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "WPT/JOSES -> WPT/ILAGA -> WPT/ILOVI -> WPT/LEVIS -> WPT/AVALU -> WPT/BOMEP -> WPT/ILOLO -> WPT/LENOM"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 3.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311849+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -72.2075111,
+      19.7180389
+     ],
+     [
+      -72.1855806,
+      19.7364611
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "MTCH/RWY/05-23",
+    "parentKey": "MTCH",
+    "featureType": "runway",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "1a4e419618ea5f91607d9210ee1cd16542dc85a37a731b3855930577783ffdc3",
+    "fields": {
+     "pairDesignator": {
+      "value": "05-23",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTCH AD 2.12",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.312062+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "05-23"
+     },
+     "length": {
+      "value": 2652.0,
+      "unit": "M",
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTCH AD 2.12",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.312055+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2652 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTCH AD 2.12",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.312057+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2652 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTCH AD 2.12",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.312059+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -72.3069222,
+      18.5793278
+     ],
+     [
+      -72.2781583,
+      18.580775
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "MTPP/RWY/10-28",
+    "parentKey": "MTPP",
+    "featureType": "runway",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "4fdff16627e573f1680c82333fe2bf66a5e07138cf9733601339e0d628b0710b",
+    "fields": {
+     "pairDesignator": {
+      "value": "10-28",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTPP AD 2.12",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311949+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "10-28"
+     },
+     "length": {
+      "value": 3060.0,
+      "unit": "M",
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTPP AD 2.12",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311942+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "3060 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTPP AD 2.12",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311944+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "3060 x 45"
+     },
+     "surface": {
+      "value": "CONC",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTPP AD 2.12",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311946+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "CONC"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.2075111,
+     19.7180389
+    ]
+   },
+   "properties": {
+    "naturalKey": "MTCH/RWY/05",
+    "parentKey": "MTCH/RWY/05-23",
+    "featureType": "runwayDirection",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "be9b95d06f4d3b29e61f8753f574bbe8dd401daf8940606d85b9c75f02cd065f",
+    "fields": {
+     "designator": {
+      "value": "05",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTCH AD 2.12",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.312074+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "05"
+     },
+     "trueBearing": {
+      "value": 39.0,
+      "unit": "DEG",
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTCH AD 2.12",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.312076+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": ""
+     },
+     "length": {
+      "value": 2652.0,
+      "unit": "M",
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTCH AD 2.12",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.312055+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2652 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTCH AD 2.12",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.312057+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2652 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTCH AD 2.12",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.312059+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       -72.2075111,
+       19.7180389
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTCH AD 2.12",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.312080+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "194304.94N 0721227.04W"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.1855806,
+     19.7364611
+    ]
+   },
+   "properties": {
+    "naturalKey": "MTCH/RWY/23",
+    "parentKey": "MTCH/RWY/05-23",
+    "featureType": "runwayDirection",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "3d62778c3d927c4ea8b0adfbf36950eb54e4e40a94abba3c748a6031207789c0",
+    "fields": {
+     "designator": {
+      "value": "23",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTCH AD 2.12",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.312091+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "23"
+     },
+     "trueBearing": {
+      "value": 219.0,
+      "unit": "DEG",
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTCH AD 2.12",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.312093+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": ""
+     },
+     "length": {
+      "value": 2652.0,
+      "unit": "M",
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTCH AD 2.12",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.312055+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2652 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTCH AD 2.12",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.312057+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "2652 x 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTCH AD 2.12",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.312059+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       -72.1855806,
+       19.7364611
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTCH AD 2.12",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.312097+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "194411.26N 0721108.09W"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.3069222,
+     18.5793278
+    ]
+   },
+   "properties": {
+    "naturalKey": "MTPP/RWY/10",
+    "parentKey": "MTPP/RWY/10-28",
+    "featureType": "runwayDirection",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "1f02eeff81fe29f813585bee5a20f8ed20483f88b2c53badc6aca317087dc99e",
+    "fields": {
+     "designator": {
+      "value": "10",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTPP AD 2.12",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311967+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "10"
+     },
+     "trueBearing": {
+      "value": 87.0,
+      "unit": "DEG",
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTPP AD 2.12",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311969+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": ""
+     },
+     "length": {
+      "value": 3060.0,
+      "unit": "M",
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTPP AD 2.12",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311942+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "3060 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTPP AD 2.12",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311944+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "3060 x 45"
+     },
+     "surface": {
+      "value": "CONC",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTPP AD 2.12",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311946+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "CONC"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       -72.3069222,
+       18.5793278
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTPP AD 2.12",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311973+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "183445.58N 0721824.92W"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.2781583,
+     18.580775
+    ]
+   },
+   "properties": {
+    "naturalKey": "MTPP/RWY/28",
+    "parentKey": "MTPP/RWY/10-28",
+    "featureType": "runwayDirection",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d7d1adb72abdb0542f22066f2877f47c413b19daddaec44423e0409828d1ba34",
+    "fields": {
+     "designator": {
+      "value": "28",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTPP AD 2.12",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311986+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "28"
+     },
+     "trueBearing": {
+      "value": 267.0,
+      "unit": "DEG",
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTPP AD 2.12",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311988+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": ""
+     },
+     "length": {
+      "value": 3060.0,
+      "unit": "M",
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTPP AD 2.12",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311942+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "3060 x 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTPP AD 2.12",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311944+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "3060 x 45"
+     },
+     "surface": {
+      "value": "CONC",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTPP AD 2.12",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311946+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "CONC"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       -72.2781583,
+       18.580775
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "MTPP AD 2.12",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.311992+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "183450.79N 0721641.37W"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.3549889,
+     18.5758333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/AGNUR",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e4ccb69eab77d5e7c3021b035cedc81324f9918551d7f0df410cfe77b35da6e1",
+    "fields": {
+     "designator": {
+      "value": "AGNUR",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307183+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "AGNUR"
+     },
+     "coordinates": {
+      "value": [
+       -72.3549889,
+       18.5758333
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307186+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "183433.00N 0722117.96W"
+     },
+     "atsRoutes": {
+      "value": "RNAV GNSS Departure RWY10",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307188+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RNAV GNSS Departure RWY10"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.295,
+     20.4183333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ALBBE",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e94c593379141a599454cb3766fdc5617fc95d1ed86fa4981532e4fd6b0f689f",
+    "fields": {
+     "designator": {
+      "value": "ALBBE",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307212+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ALBBE"
+     },
+     "coordinates": {
+      "value": [
+       -72.295,
+       20.4183333
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307214+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "202506.00N 0721742.00W"
+     },
+     "atsRoutes": {
+      "value": "UA/A636, H227, UM/M594",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307215+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UA/A636, H227, UM/M594"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.6353833,
+     19.7994222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ALRED",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "849f9b94b2268636de3fc15df8d01da3f3a522dbce7564a85578fb21253de2d5",
+    "fields": {
+     "designator": {
+      "value": "ALRED",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307248+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ALRED"
+     },
+     "coordinates": {
+      "value": [
+       -72.6353833,
+       19.7994222
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307250+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "194757.92N 0723807.38W"
+     },
+     "atsRoutes": {
+      "value": "UL/L212, UL/L304",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307251+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UL/L212, UL/L304"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.4525778,
+     18.134975
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ALUSI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "bcf2005d0ec1a0d788aa72a931578bd85abdb11139e869f711d5a6e97f8fa2c1",
+    "fields": {
+     "designator": {
+      "value": "ALUSI",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307262+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ALUSI"
+     },
+     "coordinates": {
+      "value": [
+       -72.4525778,
+       18.134975
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307264+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "180805.91N 0722709.28W"
+     },
+     "atsRoutes": {
+      "value": "G444, TMA Fixe",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307265+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "G444, TMA Fixe"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.755,
+     20.0013611
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/AMATO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "8eb94d3d08bebb68cdcc3b548765e1cff86b33ee42906a7771721cc1e46bb341",
+    "fields": {
+     "designator": {
+      "value": "AMATO",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307276+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "AMATO"
+     },
+     "coordinates": {
+      "value": [
+       -72.755,
+       20.0013611
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307278+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "200004.90N 0724518.00W"
+     },
+     "atsRoutes": {
+      "value": "UM/M594, UL/L304",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307279+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UM/M594, UL/L304"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.1392028,
+     19.796675
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/AMOKA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "156a3f8007f2ce2184a28a10fd5f352f6d7b85cf8718f56f4a5b8b58b7175c6a",
+    "fields": {
+     "designator": {
+      "value": "AMOKA",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307954+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "AMOKA"
+     },
+     "coordinates": {
+      "value": [
+       -72.1392028,
+       19.796675
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307955+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "194748.03N 0720821.13W"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.5229528,
+     17.906475
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/APLED",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b20c50170361affb455e937a2347f0fc3d02bc95a11732ee5cc945aa688a766e",
+    "fields": {
+     "designator": {
+      "value": "APLED",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307291+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "APLED"
+     },
+     "coordinates": {
+      "value": [
+       -72.5229528,
+       17.906475
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307292+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "175423.31N 0723122.63W"
+     },
+     "atsRoutes": {
+      "value": "To connect UL349 from MDCS and MKJK FIRs",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307293+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "To connect UL349 from MDCS and MKJK FIRs"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9248667,
+     18.9253806
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/AVABI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "8687da5188f15c740396cee6defd6918c4a54ae0f347edb841bceac55d940f3c",
+    "fields": {
+     "designator": {
+      "value": "AVABI",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307305+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "AVABI"
+     },
+     "coordinates": {
+      "value": [
+       -73.9248667,
+       18.9253806
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307306+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "185531.37N 0735529.52W"
+     },
+     "atsRoutes": {
+      "value": "UM/M594, UA/A890",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307307+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UM/M594, UA/A890"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.9131083,
+     18.4929972
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/AVALU",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f60ff69fc082bc21e9b2bad99d5e2d394584a1f1b15aee44e0662e28409c293b",
+    "fields": {
+     "designator": {
+      "value": "AVALU",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307320+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "AVALU"
+     },
+     "coordinates": {
+      "value": [
+       -72.9131083,
+       18.4929972
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307321+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "182934.79N 0725447.19W"
+     },
+     "atsRoutes": {
+      "value": "UL/L577, UQ/Q301",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307322+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UL/L577, UQ/Q301"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.6693306,
+     18.7769528
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/AVOLI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "9594cf8c2b88458426a9e2113645c61d8ba77ad53094be757ac78ff0c185a24c",
+    "fields": {
+     "designator": {
+      "value": "AVOLI",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307967+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "AVOLI"
+     },
+     "coordinates": {
+      "value": [
+       -72.6693306,
+       18.7769528
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307968+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "184637.03N 0724009.59W"
+     },
+     "atsRoutes": {
+      "value": "IAF RWY10",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307969+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "IAF RWY10"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.1277583,
+     18.7349806
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/BADEE",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "4e3e9aae627e3ee6be070c576458ea64b71a08591dcbf5e6d4085db78c00bea1",
+    "fields": {
+     "designator": {
+      "value": "BADEE",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307980+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "BADEE"
+     },
+     "coordinates": {
+      "value": [
+       -72.1277583,
+       18.7349806
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307981+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "184405.93N 0720739.93W"
+     },
+     "atsRoutes": {
+      "value": "RNAV Holding pattern RWY10",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307982+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RNAV Holding pattern RWY10"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.0079667,
+     20.405
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/BODLO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "1c81668bb565cbe125068a6061d9c03c7bd0ee55a9df3e0ee4739800d3a3081b",
+    "fields": {
+     "designator": {
+      "value": "BODLO",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307334+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "BODLO"
+     },
+     "coordinates": {
+      "value": [
+       -73.0079667,
+       20.405
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307335+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "202418.00N 0730028.68W"
+     },
+     "atsRoutes": {
+      "value": "UA/A756",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307336+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UA/A756"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.80445,
+     17.8968639
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/BOMEP",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "769ba5e0863d11c9107b7c4385e8627ba4df69ea5f8fd1ec9a0fceca554add5f",
+    "fields": {
+     "designator": {
+      "value": "BOMEP",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307348+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "BOMEP"
+     },
+     "coordinates": {
+      "value": [
+       -72.80445,
+       17.8968639
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307349+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "175348.71N 0724816.02W"
+     },
+     "atsRoutes": {
+      "value": "UL/L349, UQ/Q301",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307350+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UL/L349, UQ/Q301"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.7745444,
+     20.4170472
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/BOTES",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "939a6e52610d4a0b4f4276abcf09dc564dc2886a35a7fe970dd8a1221d3166fa",
+    "fields": {
+     "designator": {
+      "value": "BOTES",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307361+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "BOTES"
+     },
+     "coordinates": {
+      "value": [
+       -71.7745444,
+       20.4170472
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307362+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "202501.37N 0714628.36W"
+     },
+     "atsRoutes": {
+      "value": "UG/G444",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307363+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UG/G444"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.6112722,
+     18.6140306
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/CAPOI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "586df997d0ef7937d5cdb78babb93345425df8ca22e30b130de8e49c40d385f3",
+    "fields": {
+     "designator": {
+      "value": "CAPOI",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307994+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "CAPOI"
+     },
+     "coordinates": {
+      "value": [
+       -72.6112722,
+       18.6140306
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307995+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "183650.51N 0723640.58W"
+     },
+     "atsRoutes": {
+      "value": "RNAV Holding pattern RWY10",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307996+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RNAV Holding pattern RWY10"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.3380111,
+     19.3633056
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DALCY",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "7b92d49d42334c4ff5aadb9fe5553d1d0d56df9836fbeb420ffe63c12d249bb2",
+    "fields": {
+     "designator": {
+      "value": "DALCY",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.308008+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "DALCY"
+     },
+     "coordinates": {
+      "value": [
+       -72.3380111,
+       19.3633056
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.308009+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "192147.90N 0722016.84W"
+     },
+     "atsRoutes": {
+      "value": "RNAV Holding pattern RWY05",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.308010+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RNAV Holding pattern RWY05"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.2850556,
+     18.7295111
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DAPOT",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "704220d4ad44712d857295f82f1a47611608aa8aa52ed324da121f6325aac96a",
+    "fields": {
+     "designator": {
+      "value": "DAPOT",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.308022+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "DAPOT"
+     },
+     "coordinates": {
+      "value": [
+       -72.2850556,
+       18.7295111
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.308024+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "184346.24N 0721706.20W"
+     },
+     "atsRoutes": {
+      "value": "RNAV (GPS) RWY 28",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.308026+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RNAV (GPS) RWY 28"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.9488139,
+     17.9248222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DARKE",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f9bed3fe00feb879849ec5cd9f1cef68f5d051775ea50bf3527df12625c80306",
+    "fields": {
+     "designator": {
+      "value": "DARKE",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307374+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "DARKE"
+     },
+     "coordinates": {
+      "value": [
+       -71.9488139,
+       17.9248222
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307376+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "175529.36N 0715655.73W"
+     },
+     "atsRoutes": {
+      "value": "UA/A315, UL/L349",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307377+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UA/A315, UL/L349"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.7833333,
+     18.945
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DEPLO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "6623f8cb415d71327a6502ef78753ede4b28c41ca84c68a3db57fe0099bc8268",
+    "fields": {
+     "designator": {
+      "value": "DEPLO",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.308037+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "DEPLO"
+     },
+     "coordinates": {
+      "value": [
+       -72.7833333,
+       18.945
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.308039+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "185642.00N 0724700.00W"
+     },
+     "atsRoutes": {
+      "value": "RNAV DEPLO 1W",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.308040+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RNAV DEPLO 1W"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.4133333,
+     19.0333333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DEPSI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "373197aef5ab8e75be9cb064ddc255bffce7a603ae301c38744d6edd14c621eb",
+    "fields": {
+     "designator": {
+      "value": "DEPSI",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307388+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "DEPSI"
+     },
+     "coordinates": {
+      "value": [
+       -72.4133333,
+       19.0333333
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307390+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "190200.00N 0722448.00W"
+     },
+     "atsRoutes": {
+      "value": "UA/A890",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307391+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UA/A890"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.0829139,
+     19.9013639
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/EBLER",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "cce00fe14d477ea8bac3d1c5f3a2b30d8f9d4d761d122cfe496055237662f0ae",
+    "fields": {
+     "designator": {
+      "value": "EBLER",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307402+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "EBLER"
+     },
+     "coordinates": {
+      "value": [
+       -73.0829139,
+       19.9013639
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307403+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "195404.91N 0730458.49W"
+     },
+     "atsRoutes": {
+      "value": "UA/A315, UL/L212",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307404+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UA/A315, UL/L212"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.8833333,
+     18.5166667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ETBOD",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "cfab3ceb02b095f694326f652b37c9394101754a245e5e43cd5406e3c2679dc2",
+    "fields": {
+     "designator": {
+      "value": "ETBOD",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307416+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ETBOD"
+     },
+     "coordinates": {
+      "value": [
+       -71.8833333,
+       18.5166667
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307417+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "183100.00N 0715300.00W"
+     },
+     "atsRoutes": {
+      "value": "RNAV, UL/U577, UL304",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307418+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RNAV, UL/U577, UL304"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.1467167,
+     18.2648528
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/FAVIT",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "22302d6ebdfcb66e175516d0dc7d3bedc2068d41557c52665e18850c0c128cf3",
+    "fields": {
+     "designator": {
+      "value": "FAVIT",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307429+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "FAVIT"
+     },
+     "coordinates": {
+      "value": [
+       -72.1467167,
+       18.2648528
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307431+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "181553.47N 0720848.18W"
+     },
+     "atsRoutes": {
+      "value": "UM/M596, UA/A315",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307432+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UM/M596, UA/A315"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.4552528,
+     19.9268083
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/FOSET",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "0201b500d118112a78017013322224fb8f9d7b548cade64086fd28ac6b66c66e",
+    "fields": {
+     "designator": {
+      "value": "FOSET",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.308050+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "FOSET"
+     },
+     "coordinates": {
+      "value": [
+       -72.4552528,
+       19.9268083
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.308051+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "195536.51N 0722718.91W"
+     },
+     "atsRoutes": {
+      "value": "RNAV Arrivals RWY05",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.308052+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RNAV Arrivals RWY05"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0697944,
+     18.8
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/GABUN",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "47bfdaff60f6fded0f6a857621d85cb60eb841af1d2ca31aff863ec55660dce0",
+    "fields": {
+     "designator": {
+      "value": "GABUN",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307443+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "GABUN"
+     },
+     "coordinates": {
+      "value": [
+       -74.0697944,
+       18.8
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307444+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "184800.00N 0740411.26W"
+     },
+     "atsRoutes": {
+      "value": "UM594",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307445+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UM594"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.4024028,
+     19.404575
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/GOPUN",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "90ecadbbf0187653afa1f36b1763eb1cb1a28efd2f2e26079e1b73027ee4c1ab",
+    "fields": {
+     "designator": {
+      "value": "GOPUN",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307456+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "GOPUN"
+     },
+     "coordinates": {
+      "value": [
+       -72.4024028,
+       19.404575
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307457+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "192416.47N 0722408.65W"
+     },
+     "atsRoutes": {
+      "value": "L304, H226",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307458+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "L304, H226"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.2764222,
+     18.4539361
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/GOTEP",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "26300538ab2830bb8dbd23a368f32bdf6c2719baa20737cb8cb62f5021acb050",
+    "fields": {
+     "designator": {
+      "value": "GOTEP",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307470+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "GOTEP"
+     },
+     "coordinates": {
+      "value": [
+       -76.2764222,
+       18.4539361
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307471+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "182714.17N 0761635.12W"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.1279139,
+     19.6593167
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/GOVEV",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "fc1ea3b928545ab166acb1919d88554cc8024d83ed89e0e7f5b77cee7ab7f1a1",
+    "fields": {
+     "designator": {
+      "value": "GOVEV",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307485+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "GOVEV"
+     },
+     "coordinates": {
+      "value": [
+       -73.1279139,
+       19.6593167
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307486+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "193933.54N 0730740.49W"
+     },
+     "atsRoutes": {
+      "value": "UM/M594, UQ/Q301",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307487+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UM/M594, UQ/Q301"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.1766722,
+     19.9216861
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ILAGA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "6b5fa70336ade8cd536595d82683b004516832bb212a525fe3429250376d836a",
+    "fields": {
+     "designator": {
+      "value": "ILAGA",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307498+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ILAGA"
+     },
+     "coordinates": {
+      "value": [
+       -73.1766722,
+       19.9216861
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307500+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "195518.07N 0731036.02W"
+     },
+     "atsRoutes": {
+      "value": "UL/L212, UQ/Q301",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307501+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UL/L212, UQ/Q301"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.7635722,
+     17.6705806
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ILOLO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "92de71b081cfacb097561bea573c52de952c7531899b885250189079974c6c38",
+    "fields": {
+     "designator": {
+      "value": "ILOLO",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307512+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ILOLO"
+     },
+     "coordinates": {
+      "value": [
+       -72.7635722,
+       17.6705806
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307513+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "174014.09N 0724548.86W"
+     },
+     "atsRoutes": {
+      "value": "UM/M596, UQ/Q301",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307514+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UM/M596, UQ/Q301"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.0656861,
+     19.3243028
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ILOVI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b62a4daa3374057721d1dd857ede7a5db146afc525df346cb875cabb3a931d9d",
+    "fields": {
+     "designator": {
+      "value": "ILOVI",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307525+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ILOVI"
+     },
+     "coordinates": {
+      "value": [
+       -73.0656861,
+       19.3243028
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307526+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "191927.49N 0730356.47W"
+     },
+     "atsRoutes": {
+      "value": "UM/M596, UQ/Q301",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307527+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UM/M596, UQ/Q301"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.2181722,
+     20.144275
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/JOSES",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "79a4fd8afd42ccc6e6106ec8afb3625168892f88af3d90a3191a0bb868062df5",
+    "fields": {
+     "designator": {
+      "value": "JOSES",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307538+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "JOSES"
+     },
+     "coordinates": {
+      "value": [
+       -73.2181722,
+       20.144275
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307539+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "200839.39N 0731305.42W"
+     },
+     "atsRoutes": {
+      "value": "UQ/Q301, UA/A315",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307540+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UQ/Q301, UA/A315"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.0782167,
+     18.3307139
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/KANIX",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "5c09105a3de66a5d4d3d181213d5d1add08fdbbcc3d45fcc24c4a966358c5be1",
+    "fields": {
+     "designator": {
+      "value": "KANIX",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307551+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "KANIX"
+     },
+     "coordinates": {
+      "value": [
+       -72.0782167,
+       18.3307139
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307552+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "181950.57N 0720441.58W"
+     },
+     "atsRoutes": {
+      "value": "M596, A772",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307553+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "M596, A772"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.1672361,
+     19.00365
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/KATLU",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f6bbbad4f97a27f6dc1fbea666492324a94b5d1a64bd19747d1cf72ab8776325",
+    "fields": {
+     "designator": {
+      "value": "KATLU",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307564+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "KATLU"
+     },
+     "coordinates": {
+      "value": [
+       -72.1672361,
+       19.00365
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307565+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "190013.14N 0721002.05W"
+     },
+     "atsRoutes": {
+      "value": "UG/G444",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307567+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UG/G444"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.0752806,
+     19.870175
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/KATSA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "85980cd96a1fc23ee8be7fbabef8a98b888f9c930fb803963db8fae0f23e1bcc",
+    "fields": {
+     "designator": {
+      "value": "KATSA",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.308063+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "KATSA"
+     },
+     "coordinates": {
+      "value": [
+       -72.0752806,
+       19.870175
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.308064+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "195212.63N 0720431.01W"
+     },
+     "atsRoutes": {
+      "value": "VOR/DME RWY05 missed approach holding fix",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.308065+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "VOR/DME RWY05 missed approach holding fix"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.6617861,
+     18.2495611
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/KEBET",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "7529ebf06b495db20ec120cf66be66bd65bec4c7c2abd90ada306b12db58f7bf",
+    "fields": {
+     "designator": {
+      "value": "KEBET",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307582+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "KEBET"
+     },
+     "coordinates": {
+      "value": [
+       -74.6617861,
+       18.2495611
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307584+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "181458.42N 0743942.43W"
+     },
+     "atsRoutes": {
+      "value": "UM/M594, UL/L577",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307586+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UM/M594, UL/L577"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.9,
+     18.135
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/KENOK",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e35896344ff5f2fc5658dca72c89ef130939b30c08a2de1e2f78c967380448ae",
+    "fields": {
+     "designator": {
+      "value": "KENOK",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307597+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "KENOK"
+     },
+     "coordinates": {
+      "value": [
+       -71.9,
+       18.135
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307598+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "180806.00N 0715400.00W"
+     },
+     "atsRoutes": {
+      "value": "A772",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307599+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "A772"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.3903667,
+     19.9607361
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LACUL",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "41ca698c979a4d307593883862c557d7cf2e5c733c6af116c59fa4cf906e1ca6",
+    "fields": {
+     "designator": {
+      "value": "LACUL",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.308076+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LACUL"
+     },
+     "coordinates": {
+      "value": [
+       -72.3903667,
+       19.9607361
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.308077+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "195738.65N 0722325.32W"
+     },
+     "atsRoutes": {
+      "value": "RNAV Arrivals RWY05",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.308078+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RNAV Arrivals RWY05"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.67,
+     17.0
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LENOM",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2ec1b414a3005a61de25c26539251c61a19a54abd7dbdaf3941abaebf581e0d4",
+    "fields": {
+     "designator": {
+      "value": "LENOM",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307610+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LENOM"
+     },
+     "coordinates": {
+      "value": [
+       -72.67,
+       17.0
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307611+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "170000.000N 0724012.00W"
+     },
+     "atsRoutes": {
+      "value": "UG/G444",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307612+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UG/G444"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.2889667,
+     19.6241222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LEPAV",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b627c0912e917b1598edbc25d876d19ec461e8ee051480e908a9f556fbe97bca",
+    "fields": {
+     "designator": {
+      "value": "LEPAV",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.308089+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LEPAV"
+     },
+     "coordinates": {
+      "value": [
+       -72.2889667,
+       19.6241222
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.308090+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "193726.84N 0721720.28W"
+     },
+     "atsRoutes": {
+      "value": "HCN VOR/DME RWY05 FAF",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.308091+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "HCN VOR/DME RWY05 FAF"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.9519694,
+     18.7059889
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LEVIS",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "8bc2dcb004be62f4f32c295a462dda0e871b6d71f66f44109bff112bf37f72ab",
+    "fields": {
+     "designator": {
+      "value": "LEVIS",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307231+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LEVIS"
+     },
+     "coordinates": {
+      "value": [
+       -72.9519694,
+       18.7059889
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307233+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "184221.56N 0725707.09W"
+     },
+     "atsRoutes": {
+      "value": "TMA Fixe",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307234+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "TMA Fixe"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.5166694,
+     19.3093778
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LODMA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "54db32d3bd6823662480e2177929c841d37b3dbd4beac1e1ff476da5432e1e50",
+    "fields": {
+     "designator": {
+      "value": "LODMA",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307622+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "LODMA"
+     },
+     "coordinates": {
+      "value": [
+       -73.5166694,
+       19.3093778
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307624+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "191833.76N 0733100.01W"
+     },
+     "atsRoutes": {
+      "value": "UM594",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307625+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UM594"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.9122139,
+     18.4951611
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/MAROT",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "fd554c47d070fc0738d4f941c50b741b1d82a2a8ffffccc6b0c325a27c082823",
+    "fields": {
+     "designator": {
+      "value": "MAROT",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.308103+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "MAROT"
+     },
+     "coordinates": {
+      "value": [
+       -72.9122139,
+       18.4951611
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.308104+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "182942.58N 0725443.97W"
+     },
+     "atsRoutes": {
+      "value": "RNAV, L577",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.308105+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RNAV, L577"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.01,
+     19.7716667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/MEDON",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b4e4a331cebf4973616ec737a163a9a463ac86fb9b5431c134799fc0d3fb04f8",
+    "fields": {
+     "designator": {
+      "value": "MEDON",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307636+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "MEDON"
+     },
+     "coordinates": {
+      "value": [
+       -73.01,
+       19.7716667
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307637+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "194618.00N 0730036.00W"
+     },
+     "atsRoutes": {
+      "value": "UA/A315, UM594",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307639+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UA/A315, UM594"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.6003333,
+     18.6109722
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/MENTU",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2f56dded56a9e90d0d6ee48dbbdb7440629b511dfa17a86b937f4b503a5db26a",
+    "fields": {
+     "designator": {
+      "value": "MENTU",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.308115+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "MENTU"
+     },
+     "coordinates": {
+      "value": [
+       -72.6003333,
+       18.6109722
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.308116+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "183639.50N 0723601.20W"
+     },
+     "atsRoutes": {
+      "value": "PAP VOR/DME R-287 AT 17.0 DME",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.308117+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "PAP VOR/DME R-287 AT 17.0 DME"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.2588889,
+     17.1966667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/MUPOV",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "dda25671f589aa4280369dfcc4d3096efe61c5600bb8b7f5730823351d5f46e8",
+    "fields": {
+     "designator": {
+      "value": "MUPOV",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307656+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "MUPOV"
+     },
+     "coordinates": {
+      "value": [
+       -73.2588889,
+       17.1966667
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307657+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "171148.00N 0731532.00W"
+     },
+     "atsRoutes": {
+      "value": "UM596",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307658+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UM596"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.73,
+     18.8633333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/NABEN",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "fe7bba1b850020f1e0edc1038db8bbedec6a04e7f11b7df9af82261589eec79d",
+    "fields": {
+     "designator": {
+      "value": "NABEN",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307670+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "NABEN"
+     },
+     "coordinates": {
+      "value": [
+       -71.73,
+       18.8633333
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307671+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "185148.00N 0714348.00W"
+     },
+     "atsRoutes": {
+      "value": "TMA Fixe",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307672+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "TMA Fixe"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.1353528,
+     17.8496944
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/NOSIS",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "0df00dcad51f29443bec6c35426f7ee8b1fd498d79d70891b521012a10c1012f",
+    "fields": {
+     "designator": {
+      "value": "NOSIS",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307683+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "NOSIS"
+     },
+     "coordinates": {
+      "value": [
+       -74.1353528,
+       17.8496944
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307685+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "175058.90N 0740807.27W"
+     },
+     "atsRoutes": {
+      "value": "UL/L349",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307686+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UL/L349"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.6228944,
+     20.1204111
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/NOSOX",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d4dab55d4006e0fc8b8944f40311183821ff4253396dbbc527574632d002bdb9",
+    "fields": {
+     "designator": {
+      "value": "NOSOX",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307697+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "NOSOX"
+     },
+     "coordinates": {
+      "value": [
+       -72.6228944,
+       20.1204111
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307698+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "200713.48N 0723722.42W"
+     },
+     "atsRoutes": {
+      "value": "UA/A756, UM594",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307698+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UA/A756, UM594"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.81835,
+     20.2481111
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ONGAN",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "eef6bad4790277789a1f9aacf8ecfb2034411a31661fe2640a2be6dee6b325f8",
+    "fields": {
+     "designator": {
+      "value": "ONGAN",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307710+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ONGAN"
+     },
+     "coordinates": {
+      "value": [
+       -71.81835,
+       20.2481111
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307711+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "201453.20N 0714906.06W"
+     },
+     "atsRoutes": {
+      "value": "G444/UG444",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307712+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "G444/UG444"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.74,
+     19.6066667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ONPAD",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "765893cb257db155cf219e9c822e016d5fd96b79a9a9bc8b80e05d4e875c40d9",
+    "fields": {
+     "designator": {
+      "value": "ONPAD",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307724+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "ONPAD"
+     },
+     "coordinates": {
+      "value": [
+       -71.74,
+       19.6066667
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307725+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "193624.00N 0714424.00W"
+     },
+     "atsRoutes": {
+      "value": "UL/L212",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307726+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UL/L212"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.6819444,
+     19.4286111
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/OSIDU",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "632a08d13d737166452bf9e32004e30c0cf5de7eca855ea193cbeca94153ee6e",
+    "fields": {
+     "designator": {
+      "value": "OSIDU",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307737+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "OSIDU"
+     },
+     "coordinates": {
+      "value": [
+       -71.6819444,
+       19.4286111
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307739+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "192543.00N 0714055.00W"
+     },
+     "atsRoutes": {
+      "value": "UL/L337",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307740+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UL/L337"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.3291833,
+     17.8797083
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/OTOKA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c62519876695aa91a4733a4ad2ec01055fe0934878cbed35dc97fa75918248da",
+    "fields": {
+     "designator": {
+      "value": "OTOKA",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307751+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "OTOKA"
+     },
+     "coordinates": {
+      "value": [
+       -73.3291833,
+       17.8797083
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307752+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "175246.95N 0731945.06W"
+     },
+     "atsRoutes": {
+      "value": "To connect UL349 from MDCS and MKJK FIRs",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307753+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "To connect UL349 from MDCS and MKJK FIRs"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9695111,
+     18.3530083
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/OVAMA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "0871b779d42052874ae4a4376aeac226e2011e43d60bda0c1f1f32c6b20da864",
+    "fields": {
+     "designator": {
+      "value": "OVAMA",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307765+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "OVAMA"
+     },
+     "coordinates": {
+      "value": [
+       -73.9695111,
+       18.3530083
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307766+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "182110.83N 0735810.24W"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.4998639,
+     19.5650694
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/PBORO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "bfd60d4751ce208ece59bc64e2cddbba5d6c5068f8e093d8b6da3c311f0a5829",
+    "fields": {
+     "designator": {
+      "value": "PBORO",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307780+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "PBORO"
+     },
+     "coordinates": {
+      "value": [
+       -72.4998639,
+       19.5650694
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307781+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "193354.25N 0722959.51W"
+     },
+     "atsRoutes": {
+      "value": "RNAV/holding pattern RWY05",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307782+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RNAV/holding pattern RWY05"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.7155556,
+     17.5533333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/PIGBI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "089818de3e4844798f4aa4da16192540119caa62d96892a552bd1470496b4097",
+    "fields": {
+     "designator": {
+      "value": "PIGBI",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307795+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "PIGBI"
+     },
+     "coordinates": {
+      "value": [
+       -71.7155556,
+       17.5533333
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307796+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "173312.00N 0714256.00W"
+     },
+     "atsRoutes": {
+      "value": "UA/A315",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307797+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UA/A315"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.0379833,
+     19.9130417
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/PODPE",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "4b5f888762bdbc8993b7a817c3d9be138ca2f878456a109cba8030816a69c143",
+    "fields": {
+     "designator": {
+      "value": "PODPE",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307809+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "PODPE"
+     },
+     "coordinates": {
+      "value": [
+       -72.0379833,
+       19.9130417
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307810+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "195446.95N 0720216.74W"
+     },
+     "atsRoutes": {
+      "value": "Holding pattern RWY23",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307811+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "Holding pattern RWY23"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.6916667,
+     20.195
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/RETAK",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "1bd5f58a09e82a59e8dc5b1e434616fe18d3d1de49f48bf81ccf3a876f2626ea",
+    "fields": {
+     "designator": {
+      "value": "RETAK",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307822+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RETAK"
+     },
+     "coordinates": {
+      "value": [
+       -71.6916667,
+       20.195
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307823+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "201142.00N 0714130.00W"
+     },
+     "atsRoutes": {
+      "value": "UA/A636",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307824+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UA/A636"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.6016667,
+     19.09
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/SAVAR",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "5d02fd206f8439ced0f3a0c7c33df20b28af3af12738986868e37742544a5bc3",
+    "fields": {
+     "designator": {
+      "value": "SAVAR",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307834+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "SAVAR"
+     },
+     "coordinates": {
+      "value": [
+       -72.6016667,
+       19.09
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307835+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "190524.00N 0723606.00W"
+     },
+     "atsRoutes": {
+      "value": "A315, H226",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307836+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "A315, H226"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.2316667,
+     19.1583333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/SEDET",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "eb8e8525721adc96caaabc39e77ee154f97575ad05ac5e20c75462a504dd75dc",
+    "fields": {
+     "designator": {
+      "value": "SEDET",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307846+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "SEDET"
+     },
+     "coordinates": {
+      "value": [
+       -72.2316667,
+       19.1583333
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307848+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "190930.00N 0721354.00W"
+     },
+     "atsRoutes": {
+      "value": "TMA Fixe",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307849+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "TMA Fixe"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.9740611,
+     19.6445444
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/SEPTO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "7130c7f7df8e2410b67c33568647a7ec665f55f0dba94ec21f50f0d650850d3c",
+    "fields": {
+     "designator": {
+      "value": "SEPTO",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307860+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "SEPTO"
+     },
+     "coordinates": {
+      "value": [
+       -71.9740611,
+       19.6445444
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307861+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "193840.36N 0715826.62W"
+     },
+     "atsRoutes": {
+      "value": "G444/UG444",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307862+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "G444/UG444"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.5974556,
+     18.4807
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/SERTA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c7f2f85ea19edeacff2814f47023b62aa0ca59de4d8c38722bae68e019eb24f7",
+    "fields": {
+     "designator": {
+      "value": "SERTA",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307873+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "SERTA"
+     },
+     "coordinates": {
+      "value": [
+       -72.5974556,
+       18.4807
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307874+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "182850.52N 0723550.84W"
+     },
+     "atsRoutes": {
+      "value": "RNAV departures RWY10",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307875+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RNAV departures RWY10"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.9083333,
+     19.8602778
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/SINKA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "87109214acf6ed481d262add06a7bca4ef64733ecb8741cb3f4ce2abe93c0390",
+    "fields": {
+     "designator": {
+      "value": "SINKA",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307886+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "SINKA"
+     },
+     "coordinates": {
+      "value": [
+       -72.9083333,
+       19.8602778
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307887+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "195137.00N 0725430.00W"
+     },
+     "atsRoutes": {
+      "value": "UL/L212",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307888+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UL/L212"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.0833333,
+     18.135
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/TOVOL",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "cc008f39c177589417e895cae92be7bf4be2d2c143192d91d03afc3edb618ee9",
+    "fields": {
+     "designator": {
+      "value": "TOVOL",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307898+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "TOVOL"
+     },
+     "coordinates": {
+      "value": [
+       -72.0833333,
+       18.135
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307899+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "180806.00N 0720500.00W"
+     },
+     "atsRoutes": {
+      "value": "UA/A315",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307901+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UA/A315"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.8666667,
+     20.2683333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/TUMAR",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b90d6b9c16cfaae78cbeae18a00fe94ac06bee7e0afa5cafc0812908d7687c1e",
+    "fields": {
+     "designator": {
+      "value": "TUMAR",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307911+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "TUMAR"
+     },
+     "coordinates": {
+      "value": [
+       -71.8666667,
+       20.2683333
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307912+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "201606.00N 0715200.00W"
+     },
+     "atsRoutes": {
+      "value": "UA/A636",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307913+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UA/A636"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.3716667,
+     19.9652778
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/URLAM",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "4746b38da6cbddebc4f34258b8a4dc76e251ac20daab9ce46d883a9fc35269e9",
+    "fields": {
+     "designator": {
+      "value": "URLAM",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307924+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "URLAM"
+     },
+     "coordinates": {
+      "value": [
+       -73.3716667,
+       19.9652778
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307925+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "195755.00N 0732218.00W"
+     },
+     "atsRoutes": {
+      "value": "UL212",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307926+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "UL212"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.0899278,
+     18.554575
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/URSOS",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2023-11-30-current",
+    "effectiveFrom": "2023-11-30",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "a00c0f17b0308b224085e2743c15d060ac65f7bd58125c7912943fa8e8fbdf51",
+    "fields": {
+     "designator": {
+      "value": "URSOS",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307936+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "URSOS"
+     },
+     "coordinates": {
+      "value": [
+       -72.0899278,
+       18.554575
+      ],
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307937+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "183316.47N 0720523.74W"
+     },
+     "atsRoutes": {
+      "value": "RNAV, departures RWY 10",
+      "unit": null,
+      "source": "IAIP République d'Haïti (OFNAC)",
+      "section": "ENR 4.3",
+      "effective_date": "2023-11-30",
+      "retrieved_at": "2026-10-27T12:05:05.307938+00:00",
+      "source_url": "https://ofnac.gouv.ht/fichierPDF/AIP-HAITI-AMDT0120-version-Francaise.pdf",
+      "parser_version": "1.0",
+      "raw_text": "RNAV, departures RWY 10"
+     }
+    }
+   }
+  }
+ ],
+ "featureTypes": [
+  {
+   "featureType": "aerodrome",
+   "count": 2
+  },
+  {
+   "featureType": "navaid",
+   "count": 1
+  },
+  {
+   "featureType": "route",
+   "count": 14
+  },
+  {
+   "featureType": "runway",
+   "count": 2
+  },
+  {
+   "featureType": "runwayDirection",
+   "count": 4
+  },
+  {
+   "featureType": "waypoint",
+   "count": 67
+  }
+ ],
+ "publications": [
+  {
+   "cycleId": "2023-11-30-current",
+   "effectiveDate": "2023-11-30",
+   "amendmentId": "AIRAC AIP AMDT 01-23",
+   "sourceKind": "LIVE",
+   "ingestedAt": "2026-10-27T12:05:05.312659+00:00",
+   "status": "promoted",
+   "stats": {
+    "total_documents": 1,
+    "parsed_features": 90,
+    "issue_count": 5,
+    "error_count": 0,
+    "warning_count": 5
+   },
+   "sourceUrl": "https://ofnac.gouv.ht/IAIP.php?lang=fr",
+   "notes": null
+  }
+ ],
+ "issues": [
+  {
+   "publicationId": "2023-11-30-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/L337",
+   "section": "ENR 3.3",
+   "message": "Route L337 references 'OTAKA' absent from national index",
+   "rawSnippet": "OTAKA"
+  },
+  {
+   "publicationId": "2023-11-30-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/L337",
+   "section": "ENR 3.3",
+   "message": "Route L337 references 'DCR' absent from national index",
+   "rawSnippet": "DCR"
+  },
+  {
+   "publicationId": "2023-11-30-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/M594",
+   "section": "ENR 3.3",
+   "message": "Route M594 references 'NOXOX' absent from national index",
+   "rawSnippet": "NOXOX"
+  },
+  {
+   "publicationId": "2023-11-30-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/UL349",
+   "section": "ENR 3.3",
+   "message": "Route UL349 references 'DCR' absent from national index",
+   "rawSnippet": "DCR"
+  },
+  {
+   "publicationId": "2023-11-30-current",
+   "severity": "warning",
+   "ruleId": "RULE_UNRESOLVED_WAYPOINT",
+   "featureKey": "RTE/UM594",
+   "section": "ENR 3.3",
+   "message": "Route UM594 references 'NOXOX' absent from national index",
+   "rawSnippet": "NOXOX"
+  }
+ ],
+ "meta": {
+  "state": "Haiti",
+  "continent": "North & Central America",
+  "websites": [
+   {
+    "name": "IAIP Haiti",
+    "url": "https://ofnac.gouv.ht/index.php/iaip/"
+   }
+  ],
+  "contact_emails": [
+   "division.ais@ofnac.gouv.ht"
+  ]
+ }
+}

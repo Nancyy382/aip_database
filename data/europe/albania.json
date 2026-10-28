@@ -1,0 +1,4197 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.4158333,
+     42.0355556
+    ]
+   },
+   "properties": {
+    "naturalKey": "LAKU",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2b8e7b4fc2dcfbcc0487fbb9fb07b801ea0391289121e3cf93b567da75b7b5d3",
+    "fields": {
+     "airportName": {
+      "value": "KUKES Aerodrome",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LAKU AD 2.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:52.335750+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "KUKES Aerodrome"
+     },
+     "arpCoordinates": {
+      "value": [
+       20.4158333,
+       42.0355556
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LAKU AD 2.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:52.335759+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "420208N 0202457E"
+     },
+     "elevation": {
+      "value": 1160,
+      "unit": "FT",
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LAKU AD 2.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:52.335761+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3 Aerodrome elevation and reference temperature 1160 ft/28° C"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.7205556,
+     41.4147222
+    ]
+   },
+   "properties": {
+    "naturalKey": "LATI",
+    "parentKey": null,
+    "featureType": "aerodrome",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "6e8b7fe28caada3d4198a1017150ef10a87ebc45333bb3bb5e7600ca3883b059",
+    "fields": {
+     "airportName": {
+      "value": "TIRANA Aerodrome",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LATI AD 2.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:53.868071+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "TIRANA Aerodrome"
+     },
+     "arpCoordinates": {
+      "value": [
+       19.7205556,
+       41.4147222
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LATI AD 2.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:53.868080+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "412453N 0194314E"
+     },
+     "elevation": {
+      "value": 125,
+      "unit": "FT",
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LATI AD 2.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:53.868082+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3 Aerodrome elevation and reference temperature 125 ft/34° C"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.7183333,
+     41.4161111
+    ]
+   },
+   "properties": {
+    "naturalKey": "NAV/TRN",
+    "parentKey": null,
+    "featureType": "navaid",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e861f7f2494c9ff1b26eb0d7f3b9be6bc087847d99cd56fef7e810792ced1d70",
+    "fields": {
+     "designator": {
+      "value": "TRN",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:46.914808+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "TRN"
+     },
+     "stationName": {
+      "value": "TIRANA",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:46.914818+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "TIRANA"
+     },
+     "navaidType": {
+      "value": "DVOR/DME",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:46.914821+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "DVOR/DME"
+     },
+     "frequency": {
+      "value": 117.7,
+      "unit": "MHZ",
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:46.914827+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "117.7 MHZ"
+     },
+     "frequencyUnit": {
+      "value": "MHZ",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:46.914828+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "MHZ"
+     },
+     "frequencyRaw": {
+      "value": "117.7 MHZ",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:46.914829+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "117.7 MHZ"
+     },
+     "coordinates": {
+      "value": [
+       19.7183333,
+       41.4161111
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.1",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:46.914832+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.1-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "412458N 0194306E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      19.8563889,
+      40.5511111
+     ],
+     [
+      19.1,
+      41.4583333
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/L187",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "64b0d83aa413e3cd255b7b988722f5ef2c22abc5435cc85c847ba732113e271f",
+    "fields": {
+     "designator": {
+      "value": "L187",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884076+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L187"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884085+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/TIRCA",
+       "WPT/RODON"
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884088+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/TIRCA -> WPT/RODON"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884089+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      20.5947222,
+      40.0725
+     ],
+     [
+      20.3047222,
+      40.5238889
+     ],
+     [
+      20.0811111,
+      40.8641667
+     ],
+     [
+      19.9475,
+      41.0680556
+     ],
+     [
+      19.7183333,
+      41.4161111
+     ],
+     [
+      19.4530556,
+      41.9797222
+     ],
+     [
+      19.335,
+      42.2283333
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/L604",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "1ff7e4c4630eeea6fe3ea16bff1647e6b7f4e9585ca5924cd00b3be0e2cac26b",
+    "fields": {
+     "designator": {
+      "value": "L604",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884181+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L604"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884183+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/DIMIS",
+       "WPT/ADDER",
+       "WPT/ELBAK",
+       "WPT/UNDER",
+       "NAV/TRN",
+       "WPT/INLOT",
+       "WPT/RETRA"
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884185+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/DIMIS -> WPT/ADDER -> WPT/ELBAK -> WPT/UNDER -> NAV/TRN -> WPT/INLOT -> WPT/RETRA"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884187+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      19.7183333,
+      41.4161111
+     ],
+     [
+      19.3138889,
+      41.7752778
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/L607",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "ec4cb1821c86b53ab8dc2eeb00562ce96d4ab02f06ab961578b2981edae676eb",
+    "fields": {
+     "designator": {
+      "value": "L607",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884208+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L607"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884209+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "NAV/TRN",
+       "WPT/PETAK"
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884211+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "NAV/TRN -> WPT/PETAK"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884212+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      20.4727778,
+      40.0672222
+     ],
+     [
+      20.0127778,
+      40.5416667
+     ],
+     [
+      19.1,
+      41.4583333
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/L611",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "8bf0855cf9d054b3bd180ddc1bf1bbd5b0784a9c7fb52b4cc7d214617fb9675e",
+    "fields": {
+     "designator": {
+      "value": "L611",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884232+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L611"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884233+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/TUMBO",
+       "WPT/OVVER",
+       "WPT/RODON"
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884235+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/TUMBO -> WPT/OVVER -> WPT/RODON"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884236+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      20.12,
+      39.6658333
+     ],
+     [
+      20.0127778,
+      40.5416667
+     ],
+     [
+      19.7183333,
+      41.4161111
+     ],
+     [
+      19.7883333,
+      41.9836111
+     ],
+     [
+      19.8505556,
+      42.4791667
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/M127",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "e51d14ea8e74ec85d70a41a02be1b76e341c82128e80ee1f214f9f7a4e3bd604",
+    "fields": {
+     "designator": {
+      "value": "M127",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884279+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M127"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884280+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/NIKRO",
+       "WPT/OVVER",
+       "NAV/TRN",
+       "WPT/RINAV",
+       "WPT/ALELU"
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884281+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/NIKRO -> WPT/OVVER -> NAV/TRN -> WPT/RINAV -> WPT/ALELU"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884282+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      19.0,
+      40.5983333
+     ],
+     [
+      19.3036111,
+      40.9455556
+     ],
+     [
+      19.7183333,
+      41.4161111
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/M26",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "8b4d69bc266933aec335b0e96d7baf863d4ef037b9ffb348205edf6708a68b96",
+    "fields": {
+     "designator": {
+      "value": "M26",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884253+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M26"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884254+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/GOKEL",
+       "WPT/DITAN",
+       "NAV/TRN"
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884255+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/GOKEL -> WPT/DITAN -> NAV/TRN"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884256+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      19.0,
+      40.5983333
+     ],
+     [
+      19.5291667,
+      40.57
+     ],
+     [
+      19.8563889,
+      40.5511111
+     ],
+     [
+      20.0127778,
+      40.5416667
+     ],
+     [
+      20.3047222,
+      40.5238889
+     ],
+     [
+      20.9558333,
+      40.4808333
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/M603",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "4003d4245fd6d7e878a8311ed9ac2d6b0c37da24885d597550804522d381ec85",
+    "fields": {
+     "designator": {
+      "value": "M603",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884312+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M603"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884313+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/GOKEL",
+       "WPT/LIMJA",
+       "WPT/TIRCA",
+       "WPT/OVVER",
+       "WPT/ADDER",
+       "WPT/PINDO"
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884314+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/GOKEL -> WPT/LIMJA -> WPT/TIRCA -> WPT/OVVER -> WPT/ADDER -> WPT/PINDO"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884315+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      20.4947222,
+      41.3327778
+     ],
+     [
+      19.7183333,
+      41.4161111
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/N141",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d1c22b928039e91c15a0d33ec813d2e03aaf49fb50370a9566a93a78cb83b4b4",
+    "fields": {
+     "designator": {
+      "value": "N141",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884330+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "N141"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884331+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/DOBAR",
+       "NAV/TRN"
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884332+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/DOBAR -> NAV/TRN"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884333+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      19.8444444,
+      39.9
+     ],
+     [
+      19.5291667,
+      40.57
+     ],
+     [
+      19.1,
+      41.4583333
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/N732",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f73f93dc755f52f81e8f6a17324548ed808f32e9248d5ffa3ae16a4ec685e751",
+    "fields": {
+     "designator": {
+      "value": "N732",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884352+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "N732"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884353+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/PITAS",
+       "WPT/LIMJA",
+       "WPT/RODON"
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884354+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/PITAS -> WPT/LIMJA -> WPT/RODON"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884355+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      18.9516667,
+      40.8916667
+     ],
+     [
+      19.1925,
+      41.0577778
+     ],
+     [
+      19.7183333,
+      41.4161111
+     ],
+     [
+      20.1741667,
+      41.5597222
+     ],
+     [
+      20.53,
+      41.67
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/P92",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "db300a9400f0abb7f42314cddf4ad13b45d3c9411a2cd12affab7b2d8767fc13",
+    "fields": {
+     "designator": {
+      "value": "P92",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884377+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "P92"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884378+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/PAPIZ",
+       "WPT/DIRES",
+       "NAV/TRN",
+       "WPT/ODRAS",
+       "WPT/MAVAR"
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884380+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/PAPIZ -> WPT/DIRES -> NAV/TRN -> WPT/ODRAS -> WPT/MAVAR"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884381+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      19.1925,
+      41.0577778
+     ],
+     [
+      18.9088889,
+      41.1933333
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/T2",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c33e20a2bcbda7f6fdcdeaa7bb1b46b92c1b3e82f6f7f2a26d9861b5ed009966",
+    "fields": {
+     "designator": {
+      "value": "T2",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884396+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "T2"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884397+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/DIRES",
+       "WPT/EBELA"
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884398+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/DIRES -> WPT/EBELA"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884399+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      20.1741667,
+      41.5597222
+     ],
+     [
+      20.4947222,
+      41.3327778
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/T216",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "28c17bdf0d0ae6a43eb2a9b97c0ea5efcbbecc801f481f7f7ea6f022dff97e87",
+    "fields": {
+     "designator": {
+      "value": "T216",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884448+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "T216"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884450+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/ODRAS",
+       "WPT/DOBAR"
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884451+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/ODRAS -> WPT/DOBAR"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884452+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      19.1925,
+      41.0577778
+     ],
+     [
+      18.87,
+      41.1233333
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/T334",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "7ae592503ac3018649ed54168292be596924f22363308158f7fbb19c3ddd9f6f",
+    "fields": {
+     "designator": {
+      "value": "T334",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884465+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "T334"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884466+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/DIRES",
+       "WPT/NANKA"
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884468+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/DIRES -> WPT/NANKA"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884469+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      20.9558333,
+      40.4808333
+     ],
+     [
+      20.5380556,
+      40.6655556
+     ],
+     [
+      20.0811111,
+      40.8641667
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/T6",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "67243e332f988258ee2ccbe9f7b0dd210e8b8a3ec835d035af6cb56916ff54c4",
+    "fields": {
+     "designator": {
+      "value": "T6",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884415+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "T6"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884416+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/PINDO",
+       "WPT/NURSO",
+       "WPT/ELBAK"
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884417+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/PINDO -> WPT/NURSO -> WPT/ELBAK"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884418+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      19.4530556,
+      41.9797222
+     ],
+     [
+      19.6038889,
+      42.5341667
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/T8",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "212c98e008526a7db238fe01a4f1fa894cc2feb41739f9c953b8d01e1a8e1d85",
+    "fields": {
+     "designator": {
+      "value": "T8",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884432+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "T8"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884433+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/INLOT",
+       "WPT/AKIKA"
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884434+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/INLOT -> WPT/AKIKA"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884435+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      20.12,
+      39.6658333
+     ],
+     [
+      19.8563889,
+      40.5511111
+     ],
+     [
+      19.335,
+      42.2283333
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/Y132",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c6ce78e2f3f77acbe2f6fe5361af3fad3d6a93f2d3bbdba59e851e572ce28bb5",
+    "fields": {
+     "designator": {
+      "value": "Y132",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884485+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "Y132"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884487+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/NIKRO",
+       "WPT/TIRCA",
+       "WPT/RETRA"
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884488+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/NIKRO -> WPT/TIRCA -> WPT/RETRA"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884489+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      20.53,
+      41.67
+     ],
+     [
+      19.335,
+      42.2283333
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "RTE/Y400",
+    "parentKey": null,
+    "featureType": "route",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f34add247d501b470da84b271a3cf773eba1dbac83358e4f3f06bc6b6d45d7e8",
+    "fields": {
+     "designator": {
+      "value": "Y400",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884503+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "Y400"
+     },
+     "routeClass": {
+      "value": "ENR 3.2",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884504+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENR 3.2"
+     },
+     "waypointSequence": {
+      "value": [
+       "WPT/MAVAR",
+       "WPT/RETRA"
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884505+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "WPT/MAVAR -> WPT/RETRA"
+     },
+     "navigationSpecification": {
+      "value": "RNAV",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 3.2",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:49.884506+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-3.2-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RNAV"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      20.4123194,
+      42.0244889
+     ],
+     [
+      20.4182889,
+      42.0437778
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "LAKU/RWY/01-19",
+    "parentKey": "LAKU",
+    "featureType": "runway",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "172f47d40d001326dbab5ad9467f5d4bd1dcc5f1e620e56134abc69cd590a831",
+    "fields": {
+     "pairDesignator": {
+      "value": "01-19",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LAKU AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:52.335854+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "01-19"
+     },
+     "length": {
+      "value": 2198.0,
+      "unit": "M",
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LAKU AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:52.335848+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "2198 X 30"
+     },
+     "width": {
+      "value": 30.0,
+      "unit": "M",
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LAKU AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:52.335850+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "2198 X 30"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LAKU AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:52.335851+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      19.7189306,
+      41.4270306
+     ],
+     [
+      19.7222,
+      41.4024278
+     ]
+    ]
+   },
+   "properties": {
+    "naturalKey": "LATI/RWY/17-35",
+    "parentKey": "LATI",
+    "featureType": "runway",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "1c0dfd14a492a777f49acd0d78c0c984f12e663e4f9e7d61c7f98d5646018121",
+    "fields": {
+     "pairDesignator": {
+      "value": "17-35",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LATI AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:53.868144+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "17-35"
+     },
+     "length": {
+      "value": 3000.0,
+      "unit": "M",
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LATI AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:53.868139+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3000 X 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LATI AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:53.868141+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3000 X 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LATI AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:53.868142+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.4123194,
+     42.0244889
+    ]
+   },
+   "properties": {
+    "naturalKey": "LAKU/RWY/01",
+    "parentKey": "LAKU/RWY/01-19",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "c95e78417cf81d60fea79b85e5f7445f2be503cdd5521bd50fd7a5bf9165f44b",
+    "fields": {
+     "designator": {
+      "value": "01",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LAKU AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:52.335867+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "01"
+     },
+     "trueBearing": {
+      "value": 12.99,
+      "unit": "DEG",
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LAKU AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:52.335868+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "012.99º"
+     },
+     "length": {
+      "value": 2198.0,
+      "unit": "M",
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LAKU AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:52.335848+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "2198 X 30"
+     },
+     "width": {
+      "value": 30.0,
+      "unit": "M",
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LAKU AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:52.335850+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "2198 X 30"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LAKU AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:52.335851+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       20.4123194,
+       42.0244889
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LAKU AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:52.335871+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "420128.16N 0202444.35E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.4182889,
+     42.0437778
+    ]
+   },
+   "properties": {
+    "naturalKey": "LAKU/RWY/19",
+    "parentKey": "LAKU/RWY/01-19",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "1692392965db356e7a0d82d768da3972996287d158d529bd65f5462486e0570c",
+    "fields": {
+     "designator": {
+      "value": "19",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LAKU AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:52.335882+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "19"
+     },
+     "trueBearing": {
+      "value": 192.99,
+      "unit": "DEG",
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LAKU AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:52.335883+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "192.99º"
+     },
+     "length": {
+      "value": 2198.0,
+      "unit": "M",
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LAKU AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:52.335848+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "2198 X 30"
+     },
+     "width": {
+      "value": 30.0,
+      "unit": "M",
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LAKU AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:52.335850+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "2198 X 30"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LAKU AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:52.335851+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       20.4182889,
+       42.0437778
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LAKU AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:52.335888+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LAKU-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "420237.60N 0202505.84E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.7189306,
+     41.4270306
+    ]
+   },
+   "properties": {
+    "naturalKey": "LATI/RWY/17",
+    "parentKey": "LATI/RWY/17-35",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "3f693cc7aca3aeec38c8b707aec81bf130de2bff17792f95cbe7e52d931ea9ce",
+    "fields": {
+     "designator": {
+      "value": "17",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LATI AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:53.868156+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "17"
+     },
+     "trueBearing": {
+      "value": 174.28,
+      "unit": "DEG",
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LATI AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:53.868158+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "174.28"
+     },
+     "length": {
+      "value": 3000.0,
+      "unit": "M",
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LATI AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:53.868139+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3000 X 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LATI AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:53.868141+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3000 X 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LATI AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:53.868142+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       19.7189306,
+       41.4270306
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LATI AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:53.868160+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "412537.31N 0194308.15E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.7222,
+     41.4024278
+    ]
+   },
+   "properties": {
+    "naturalKey": "LATI/RWY/35",
+    "parentKey": "LATI/RWY/17-35",
+    "featureType": "runwayDirection",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "52cd7dbd216f7a989e3d6ff1d66e0af2235c01496b57b376820762e50f193f13",
+    "fields": {
+     "designator": {
+      "value": "35",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LATI AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:53.868170+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "35"
+     },
+     "trueBearing": {
+      "value": 354.29,
+      "unit": "DEG",
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LATI AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:53.868171+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "354.29"
+     },
+     "length": {
+      "value": 3000.0,
+      "unit": "M",
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LATI AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:53.868139+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3000 X 45"
+     },
+     "width": {
+      "value": 45.0,
+      "unit": "M",
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LATI AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:53.868141+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "3000 X 45"
+     },
+     "surface": {
+      "value": "ASPH",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LATI AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:53.868142+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ASPH"
+     },
+     "thresholdCoordinates": {
+      "value": [
+       19.7222,
+       41.4024278
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "LATI AD 2.12",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:53.868174+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-AD-2.LATI-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "412408.74N 0194319.92E"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.3047222,
+     40.5238889
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ADDER",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "3a15f46c4fe9855d1d49d60e38b8907300f56c84efa6a75a7661485f9ce4859d",
+    "fields": {
+     "designator": {
+      "value": "ADDER",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546246+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ADDER"
+     },
+     "coordinates": {
+      "value": [
+       20.3047222,
+       40.5238889
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546259+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "403126N 0201817E"
+     },
+     "atsRoutes": {
+      "value": "L604 , M603",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546262+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L604 , M603"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.6038889,
+     42.5341667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/AKIKA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "0e31bea2e48e59cea21824c18ce6e90720908ae850d861c57b6877ac49a3033c",
+    "fields": {
+     "designator": {
+      "value": "AKIKA",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546325+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "AKIKA"
+     },
+     "coordinates": {
+      "value": [
+       19.6038889,
+       42.5341667
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546328+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "423203N 0193614E"
+     },
+     "atsRoutes": {
+      "value": "T8",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546330+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "T8"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.8505556,
+     42.4791667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ALELU",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2f044a920140584aae12c4029a8c5ed240e223663138adc93e0f583c176a479e",
+    "fields": {
+     "designator": {
+      "value": "ALELU",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546355+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ALELU"
+     },
+     "coordinates": {
+      "value": [
+       19.8505556,
+       42.4791667
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546357+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "422845N 0195102E"
+     },
+     "atsRoutes": {
+      "value": "M127",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546359+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M127"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.4975,
+     42.1302778
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ARBER",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "9efcda5494a90c9fabde2db56c97293a11fe57fdfb3acd1de177d76aa145383f",
+    "fields": {
+     "designator": {
+      "value": "ARBER",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546379+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ARBER"
+     },
+     "coordinates": {
+      "value": [
+       20.4975,
+       42.1302778
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546381+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "420749N 0202951E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546383+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.4572222,
+     41.5233333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/BONZI",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "3f6535c24faa442e3a3c6f4503bb95f1f3e37e13ec1f9abb5aba9d5e61ebfc31",
+    "fields": {
+     "designator": {
+      "value": "BONZI",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546403+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "BONZI"
+     },
+     "coordinates": {
+      "value": [
+       20.4572222,
+       41.5233333
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546405+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "413124N 0202726E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546407+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.5947222,
+     40.0725
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DIMIS",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f2a3549184a0c7b95040799c509cc2a1fcb24cced277fac270a7b99d19e2cc7f",
+    "fields": {
+     "designator": {
+      "value": "DIMIS",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546426+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "DIMIS"
+     },
+     "coordinates": {
+      "value": [
+       20.5947222,
+       40.0725
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546428+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "400421N 0203541E"
+     },
+     "atsRoutes": {
+      "value": "L604",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546429+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L604"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.1925,
+     41.0577778
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DIRES",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f11fcedc433f93cfc162f49fc6fefd22857864ef805104e1d6815eb2dc6bbbf6",
+    "fields": {
+     "designator": {
+      "value": "DIRES",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546446+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "DIRES"
+     },
+     "coordinates": {
+      "value": [
+       19.1925,
+       41.0577778
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546448+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "410328N 0191133E"
+     },
+     "atsRoutes": {
+      "value": "P92 , T2 , T334",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546449+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "P92 , T2 , T334"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.3036111,
+     40.9455556
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DITAN",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "5b019f8da23f8a211eefc4ed63365c286a07e586be8293e403a2c74db929ad10",
+    "fields": {
+     "designator": {
+      "value": "DITAN",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546465+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "DITAN"
+     },
+     "coordinates": {
+      "value": [
+       19.3036111,
+       40.9455556
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546467+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "405644N 0191813E"
+     },
+     "atsRoutes": {
+      "value": "M26",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546469+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M26"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.4947222,
+     41.3327778
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/DOBAR",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "2d418c9f5950f79562f2710b410635594376bf31323a176b8d6cbcedde169ccb",
+    "fields": {
+     "designator": {
+      "value": "DOBAR",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546485+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "DOBAR"
+     },
+     "coordinates": {
+      "value": [
+       20.4947222,
+       41.3327778
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546487+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "411958N 0202941E"
+     },
+     "atsRoutes": {
+      "value": "N141 , T216",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546494+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "N141 , T216"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.9088889,
+     41.1933333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/EBELA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "b4ca5e9e6ca31d138fa37c3e6e428bc7eea44a3e5c38532ab1fa0222faace375",
+    "fields": {
+     "designator": {
+      "value": "EBELA",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546510+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "EBELA"
+     },
+     "coordinates": {
+      "value": [
+       18.9088889,
+       41.1933333
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546512+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "411136N 0185432E"
+     },
+     "atsRoutes": {
+      "value": "T2",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546514+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "T2"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.0811111,
+     40.8641667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ELBAK",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "4f3fc187f7618b4bc8db55478fe55650191b2526e9e70c2bbbd09aa050f31e50",
+    "fields": {
+     "designator": {
+      "value": "ELBAK",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546531+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ELBAK"
+     },
+     "coordinates": {
+      "value": [
+       20.0811111,
+       40.8641667
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546533+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "405151N 0200452E"
+     },
+     "atsRoutes": {
+      "value": "L604 , T6",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546534+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L604 , T6"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.5344444,
+     41.7686111
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ENFAR",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "aae4296d519a3b5da7b2b5dc347304e45e6d9864eca3ea18b1df89b8347a9730",
+    "fields": {
+     "designator": {
+      "value": "ENFAR",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546552+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ENFAR"
+     },
+     "coordinates": {
+      "value": [
+       20.5344444,
+       41.7686111
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546554+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "414607N 0203204E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546556+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.0,
+     40.5983333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/GOKEL",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "8fbceba4cf9a247b85aeba76a84c7409c4982d6267b7125e6059ac456c4feb2e",
+    "fields": {
+     "designator": {
+      "value": "GOKEL",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546887+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "GOKEL"
+     },
+     "coordinates": {
+      "value": [
+       19.0,
+       40.5983333
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546890+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "403554N 0190000E"
+     },
+     "atsRoutes": {
+      "value": "M26 , M603",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546892+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M26 , M603"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.4530556,
+     41.9797222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/INLOT",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "4bf14c4a13507a5cbba9da6979371a9646fecfcb98e152bb81a72e54592585b5",
+    "fields": {
+     "designator": {
+      "value": "INLOT",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546912+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "INLOT"
+     },
+     "coordinates": {
+      "value": [
+       19.4530556,
+       41.9797222
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546914+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "415847N 0192711E"
+     },
+     "atsRoutes": {
+      "value": "L604 , T8",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546916+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L604 , T8"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.1813889,
+     42.3522222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/KUKAD",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "17e45785e19c73d1f45464206eaf2050b71e007a87ed8bfa0d96b49136aed4cd",
+    "fields": {
+     "designator": {
+      "value": "KUKAD",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546937+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "KUKAD"
+     },
+     "coordinates": {
+      "value": [
+       20.1813889,
+       42.3522222
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546939+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "422108N 0201053E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546940+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.5291667,
+     40.57
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/LIMJA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "fadce9e0e1fe8be02e494306580c4d3a9b60796bbfa6ce8a08751133d057eaf1",
+    "fields": {
+     "designator": {
+      "value": "LIMJA",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546956+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "LIMJA"
+     },
+     "coordinates": {
+      "value": [
+       19.5291667,
+       40.57
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546958+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "403412N 0193145E"
+     },
+     "atsRoutes": {
+      "value": "M603 , N732",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546960+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M603 , N732"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.53,
+     41.67
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/MAVAR",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "204718b01905a9bc2a0d902044ca47255860afccff06889330fe511c5588215d",
+    "fields": {
+     "designator": {
+      "value": "MAVAR",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546980+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "MAVAR"
+     },
+     "coordinates": {
+      "value": [
+       20.53,
+       41.67
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546981+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "414012N 0203148E"
+     },
+     "atsRoutes": {
+      "value": "P92 , Y400",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546983+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "P92 , Y400"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.87,
+     41.1233333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/NANKA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "f447e8e890a352689573e1c6919947ff72f58389501c6626711ca51c5a62aa55",
+    "fields": {
+     "designator": {
+      "value": "NANKA",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546998+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "NANKA"
+     },
+     "coordinates": {
+      "value": [
+       18.87,
+       41.1233333
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.546999+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "410724N 0185212E"
+     },
+     "atsRoutes": {
+      "value": "T334",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547001+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "T334"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.12,
+     39.6658333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/NIKRO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "8cde633130d38336d11d7c3363e22158893f5bf839d57af59449ace675e7017b",
+    "fields": {
+     "designator": {
+      "value": "NIKRO",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547015+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "NIKRO"
+     },
+     "coordinates": {
+      "value": [
+       20.12,
+       39.6658333
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547017+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "393957N 0200712E"
+     },
+     "atsRoutes": {
+      "value": "M127 , Y132",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547019+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M127 , Y132"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.5380556,
+     40.6655556
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/NURSO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "96633307553b1b2de9db6f39eee8472e7c8e7d93c20b6a20596b4a54c9e957cd",
+    "fields": {
+     "designator": {
+      "value": "NURSO",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547034+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "NURSO"
+     },
+     "coordinates": {
+      "value": [
+       20.5380556,
+       40.6655556
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547035+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "403956N 0203217E"
+     },
+     "atsRoutes": {
+      "value": "T6",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547037+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "T6"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.1741667,
+     41.5597222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ODRAS",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "922835602e17d88bfd61f432ceef9e63bac161fee9bf3d321b7f69f59a65d1fe",
+    "fields": {
+     "designator": {
+      "value": "ODRAS",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547053+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ODRAS"
+     },
+     "coordinates": {
+      "value": [
+       20.1741667,
+       41.5597222
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547054+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "413335N 0201027E"
+     },
+     "atsRoutes": {
+      "value": "P92 , T216",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547056+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "P92 , T216"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.5886111,
+     41.1433333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/ORRIH",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "eda3a50c2b51365444221687056d809f2af53feb08a71d579c42272ee4cb1b2f",
+    "fields": {
+     "designator": {
+      "value": "ORRIH",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547074+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "ORRIH"
+     },
+     "coordinates": {
+      "value": [
+       20.5886111,
+       41.1433333
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547076+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "410836N 0203519E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547078+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.0127778,
+     40.5416667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/OVVER",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "d62dfe8c8b8109ff0cb51a1f9b400d4e6b5c5d72b01b7f6f6a298ce27e707593",
+    "fields": {
+     "designator": {
+      "value": "OVVER",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547096+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "OVVER"
+     },
+     "coordinates": {
+      "value": [
+       20.0127778,
+       40.5416667
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547098+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "403230N 0200046E"
+     },
+     "atsRoutes": {
+      "value": "L611 , M127 , M603",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547100+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L611 , M127 , M603"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.9516667,
+     40.8916667
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/PAPIZ",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "5692ab9de5d16755a1c80878cfc254267afb8f10cd5edd9383e49261f9f0a5c8",
+    "fields": {
+     "designator": {
+      "value": "PAPIZ",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547114+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "PAPIZ"
+     },
+     "coordinates": {
+      "value": [
+       18.9516667,
+       40.8916667
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547116+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "405330N 0185706E"
+     },
+     "atsRoutes": {
+      "value": "P92",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547117+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "P92"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.3138889,
+     41.7752778
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/PETAK",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "dd7dfa7dab2babe57be3a5c2790a9ab02ff054fc037a849b735f7d9bf68fbbe3",
+    "fields": {
+     "designator": {
+      "value": "PETAK",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547135+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "PETAK"
+     },
+     "coordinates": {
+      "value": [
+       19.3138889,
+       41.7752778
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547137+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "414631N 0191850E"
+     },
+     "atsRoutes": {
+      "value": "L607",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547138+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L607"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.9558333,
+     40.4808333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/PINDO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "870f13599357133c134a1adb81cbb4d2dd746606beb58caba5e871f8cee31043",
+    "fields": {
+     "designator": {
+      "value": "PINDO",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547153+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "PINDO"
+     },
+     "coordinates": {
+      "value": [
+       20.9558333,
+       40.4808333
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547155+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "402851N 0205721E"
+     },
+     "atsRoutes": {
+      "value": "M603 , T6",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547158+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M603 , T6"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.8444444,
+     39.9
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/PITAS",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "fe2a2f4d25e46749fc1b96d7e65046a520fdae6f0515f8f588cd285aaeed1ed4",
+    "fields": {
+     "designator": {
+      "value": "PITAS",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547173+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "PITAS"
+     },
+     "coordinates": {
+      "value": [
+       19.8444444,
+       39.9
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547175+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "395400N 0195040E"
+     },
+     "atsRoutes": {
+      "value": "N732",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547177+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "N732"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.335,
+     42.2283333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/RETRA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "a0bc5854771c37a6365ab1f05980b580505fdedb6f529ca11013b36f42e405f1",
+    "fields": {
+     "designator": {
+      "value": "RETRA",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547191+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RETRA"
+     },
+     "coordinates": {
+      "value": [
+       19.335,
+       42.2283333
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547193+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "421342N 0192006E"
+     },
+     "atsRoutes": {
+      "value": "L604 , Y132 , Y400",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547195+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L604 , Y132 , Y400"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.7883333,
+     41.9836111
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/RINAV",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "a96fa6212202b3f0c679bd91a5a9992f7503509ab25ed30920efecb1e14209cd",
+    "fields": {
+     "designator": {
+      "value": "RINAV",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547210+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RINAV"
+     },
+     "coordinates": {
+      "value": [
+       19.7883333,
+       41.9836111
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547212+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "415901N 0194718E"
+     },
+     "atsRoutes": {
+      "value": "M127",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547214+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "M127"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.1,
+     41.4583333
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/RODON",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "7444447e6682723d45aa156c83e33314241f4873284a724b91e4c21b8d918577",
+    "fields": {
+     "designator": {
+      "value": "RODON",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547231+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "RODON"
+     },
+     "coordinates": {
+      "value": [
+       19.1,
+       41.4583333
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547233+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "412730N 0190600E"
+     },
+     "atsRoutes": {
+      "value": "L187 , L611 , N732",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547235+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L187 , L611 , N732"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.8563889,
+     40.5511111
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/TIRCA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "8d4f52820b9cbddb007c3bb329b96bbfbaf61a6a62d924f635019408560fcfe8",
+    "fields": {
+     "designator": {
+      "value": "TIRCA",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547252+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "TIRCA"
+     },
+     "coordinates": {
+      "value": [
+       19.8563889,
+       40.5511111
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547254+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "403304N 0195123E"
+     },
+     "atsRoutes": {
+      "value": "L187 , M603 , Y132",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547257+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L187 , M603 , Y132"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.4727778,
+     40.0672222
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/TUMBO",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "a14e550cff1117ccbb1c9ad055043cef671c1fe79b2ccc93fd81cf8077fe6f22",
+    "fields": {
+     "designator": {
+      "value": "TUMBO",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547273+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "TUMBO"
+     },
+     "coordinates": {
+      "value": [
+       20.4727778,
+       40.0672222
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547275+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "400402N 0202822E"
+     },
+     "atsRoutes": {
+      "value": "L611",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547277+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L611"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.9475,
+     41.0680556
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/UNDER",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "9d360afec55864f8900e8febbb9825eff6bdb9c1f3cdbdcb318525c16f7057a3",
+    "fields": {
+     "designator": {
+      "value": "UNDER",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547292+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "UNDER"
+     },
+     "coordinates": {
+      "value": [
+       19.9475,
+       41.0680556
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547294+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "410405N 0195651E"
+     },
+     "atsRoutes": {
+      "value": "L604",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547296+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "L604"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.3913889,
+     39.9819444
+    ]
+   },
+   "properties": {
+    "naturalKey": "WPT/VJOSA",
+    "parentKey": null,
+    "featureType": "waypoint",
+    "publicationId": "2026-10-01-current",
+    "effectiveFrom": "2026-10-01",
+    "effectiveTo": null,
+    "sourceClass": "AIP",
+    "temporality": "permanent",
+    "contentHash": "47708fffeb94a7cfca07652e3658f16daed9fa25bb4064ebf87cdab0b7655215",
+    "fields": {
+     "designator": {
+      "value": "VJOSA",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547313+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "VJOSA"
+     },
+     "coordinates": {
+      "value": [
+       20.3913889,
+       39.9819444
+      ],
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547315+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": "395855N 0202329E"
+     },
+     "atsRoutes": {
+      "value": "",
+      "unit": null,
+      "source": "eAIP Albania (Albcontrol)",
+      "section": "ENR 4.4",
+      "effective_date": "2026-10-01",
+      "retrieved_at": "2026-10-27T07:36:45.547317+00:00",
+      "source_url": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/eAIP/LA-ENR-4.4-en-GB.html",
+      "parser_version": "1.0",
+      "raw_text": ""
+     }
+    }
+   }
+  }
+ ],
+ "featureTypes": [
+  {
+   "featureType": "aerodrome",
+   "count": 2
+  },
+  {
+   "featureType": "navaid",
+   "count": 1
+  },
+  {
+   "featureType": "route",
+   "count": 17
+  },
+  {
+   "featureType": "runway",
+   "count": 2
+  },
+  {
+   "featureType": "runwayDirection",
+   "count": 4
+  },
+  {
+   "featureType": "waypoint",
+   "count": 34
+  }
+ ],
+ "publications": [
+  {
+   "cycleId": "2026-10-01-current",
+   "effectiveDate": "2026-10-01",
+   "amendmentId": "AIRAC 2026-10-01",
+   "sourceKind": "LIVE",
+   "ingestedAt": "2026-10-27T07:36:53.868373+00:00",
+   "status": "promoted",
+   "stats": {
+    "total_documents": 8,
+    "parsed_features": 60,
+    "issue_count": 0,
+    "error_count": 0,
+    "warning_count": 0
+   },
+   "sourceUrl": "https://www.albcontrol.al/al/aip/01-OCT-2026-A/2026-10-01-AIRAC/html/",
+   "notes": null
+  }
+ ],
+ "issues": [],
+ "meta": {
+  "state": "Albania",
+  "continent": "Europe",
+  "websites": [
+   {
+    "name": "AIP Albania",
+    "url": "https://www.albcontrol.al/aip/"
+   }
+  ],
+  "contact_emails": [
+   "ais@albcontrol.al"
+  ]
+ }
+}

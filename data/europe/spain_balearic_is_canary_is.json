@@ -1,0 +1,24 @@
+{
+  "source": "https://www.eurocontrol.int/articles/ais-online",
+  "scraped_at": "2026-10-27T12:14:13+00:00",
+  "continent": "Europe",
+  "state": "Spain (Balearic Is. - Canary Is.)",
+  "markers": [
+    "**"
+  ],
+  "websites": [
+    {
+      "name": "AIP Spain",
+      "url": "https://aip.enaire.es/aip/"
+    },
+    {
+      "name": "AIP visualisation",
+      "url": "https://insignia.enaire.es/"
+    }
+  ],
+  "contact_emails": [
+    "ais@enaire.es"
+  ],
+  "has_website": true,
+  "regional_contacts": []
+}

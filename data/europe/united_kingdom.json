@@ -1,0 +1,30 @@
+{
+  "source": "https://www.eurocontrol.int/articles/ais-online",
+  "scraped_at": "2026-10-27T12:14:13+00:00",
+  "continent": "Europe",
+  "state": "United Kingdom",
+  "markers": [
+    "**"
+  ],
+  "websites": [
+    {
+      "name": "AIS United Kingdom",
+      "url": "https://www.nats.aero/do-it-online/ais/"
+    },
+    {
+      "name": "UK Military AIP",
+      "url": "https://www.aidu.mod.uk/aip/"
+    },
+    {
+      "name": "Gibraltar AIP",
+      "url": "https://www.gibraltar.gov.gi/civil-aviation/gibraltar-aeronautical-information-publication"
+    }
+  ],
+  "contact_emails": [
+    "ais.supervisor@nats.co.uk",
+    "info@gcaa.gi",
+    "UKStratCom-DI-NCGI-AIDU-UKMilAIS@mod.gov.uk"
+  ],
+  "has_website": true,
+  "regional_contacts": []
+}
